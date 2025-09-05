@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 287
+# 规则统计: 288
 
 no_resolve: true
 domain_set:
@@ -186,6 +186,7 @@ domain_suffix_set:
   - localhost.sec.qq.com
   - longmenshuju.com
   - lsbj365.com
+  - lyihub.com
   - lyilife.com
   - meishiffx.online
   - members.3322.org

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 287
+# 规则统计: 288
 
 DOMAIN,alt1-mtalk.google.com
 DOMAIN,alt2-mtalk.google.com
@@ -183,6 +183,7 @@ DOMAIN-SUFFIX,localhost.ptlogin2.qq.com
 DOMAIN-SUFFIX,localhost.sec.qq.com
 DOMAIN-SUFFIX,longmenshuju.com
 DOMAIN-SUFFIX,lsbj365.com
+DOMAIN-SUFFIX,lyihub.com
 DOMAIN-SUFFIX,lyilife.com
 DOMAIN-SUFFIX,meishiffx.online
 DOMAIN-SUFFIX,members.3322.org

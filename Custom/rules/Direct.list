@@ -1,0 +1,17 @@
+# NAME: Custom_Direct
+# AUTHOR: jovinleung
+# REPO: https://github.com/jovinleung/Rules
+# 强制直连域名列表，来自个人收集
+
+# QQ网页端快捷登陆
+DOMAIN-SUFFIX,localhost.ptlogin2.qq.com
+DOMAIN-SUFFIX,localhost.sec.qq.com
+
+DOMAIN-SUFFIX,wushuangai.com
+DOMAIN-SUFFIX,lcdn-locator.apple.com
+DOMAIN-SUFFIX,lcdn-registration.apple.com
+DOMAIN-SUFFIX,aihubmix.com
+DOMAIN-SUFFIX,www.ojrq.net
+DOMAIN-SUFFIX,knit.bid
+DOMAIN-SUFFIX,ddxq.mobi
+DOMAIN-SUFFIX,tastientech.com

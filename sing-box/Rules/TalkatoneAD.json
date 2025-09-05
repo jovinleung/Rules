@@ -1,0 +1,40 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "adclick.g.doubleclick.net",
+        "adrta.com",
+        "ads.inmobi.com",
+        "adsappier.com",
+        "amazon-adsystem.com",
+        "appier.net",
+        "appiersig.com",
+        "bidder.criteo.com",
+        "c.amazon-adsystem.com",
+        "cdn2.inner-active.mobi",
+        "cr.adsappier.com",
+        "criteo.com",
+        "d.tktn.be",
+        "googleads.g.doubleclick-cn.net",
+        "googleads.g.doubleclick.net",
+        "googleads4.g.doubleclick.net",
+        "gum.criteo.com",
+        "ow.pubmatic.com",
+        "pubmatic.com",
+        "sdk-dnt.ad.smaato.net",
+        "sdk-events.inner-active.mobi",
+        "smaato.net",
+        "tappx.com",
+        "telemetry.sdk.inmobi.cn",
+        "tr-us.adsmoloco.com",
+        "wv.inner-active.mobi"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "googleads"
+      ]
+    }
+  ]
+}

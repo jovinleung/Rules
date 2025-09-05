@@ -1,0 +1,40 @@
+# Talkatone
+# 原始规则：https://github.com/mottzz87/crules/blob/main/rule/talkatone.list
+# 添加 no-resolve 参数
+# 登录提示服务器错误或提示使用VPN或网络封锁均说明节点不干净,自行更换节点即可
+
+
+# 必须走代理的域名规则 
+DOMAIN-SUFFIX,tktn.at
+DOMAIN-SUFFIX,tktn.be
+DOMAIN-SUFFIX,vm.talkatone.com
+
+# 贴图服务
+DOMAIN-SUFFIX,tenor.com
+
+# 可直连的域名规则
+DOMAIN-SUFFIX,agkn.com
+DOMAIN-SUFFIX,cohere.com
+DOMAIN-SUFFIX,crashlytics.com
+DOMAIN-SUFFIX,inmobi.com
+DOMAIN-SUFFIX,inner-active.mobi
+DOMAIN-SUFFIX,kochava.com
+DOMAIN-SUFFIX,mobilefuse.com
+DOMAIN-SUFFIX,talkatone.com
+
+IP-CIDR,50.117.27.0/24,no-resolve
+IP-CIDR,63.251.124.0/24,no-resolve
+IP-CIDR,69.46.75.0/24,no-resolve
+IP-CIDR,205.164.56.0/24,no-resolve
+IP-CIDR,216.172.154.0/24,no-resolve
+
+# 电话相关 IP 段
+#IP-CIDR,104.244.53.0/24,no-resolve
+#IP-CIDR,131.153.7.0/24,no-resolve
+#IP-CIDR,198.24.161.0/24,no-resolve
+
+# 短信相关 IP 段
+#IP-CIDR,131.153.5.0/24,no-resolve
+#IP-CIDR,198.24.160.0/24,no-resolve
+#IP-CIDR,198.24.163.0/24,no-resolve
+#IP-CIDR,198.24.183.0/24,no-resolve

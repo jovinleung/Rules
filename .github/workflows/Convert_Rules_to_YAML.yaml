@@ -1,0 +1,102 @@
+name: Convert Rules to YAML
+
+on:
+  push:
+    paths:
+      - 'mihomo/Rules/*.list'
+  workflow_dispatch:
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@main
+
+      - name: Configure Git Identity
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Convert LIST Files to YAML
+        env:
+          RULES_DIR: mihomo/Rules
+        run: |
+          generate_and_commit() {
+            local file="$1"
+            local content="$2"
+            local source_file="$3"
+
+            local total
+            total=$(echo "$content" | grep -c '^  - ' || true)
+
+            {
+              echo "# Generated from ${source_file}"
+              echo "# REPO: https://github.com/${{ github.repository }}"
+              echo "# SOURCE: https://github.com/${{ github.repository }}/blob/${{ github.ref_name }}/${source_file}"
+              echo "# TOTAL: ${total}"
+              echo ""
+              echo "payload:"
+              echo "$content"
+            } > "$file"
+
+            if [[ -n $(git status --porcelain "$file") ]]; then
+              git add "$file"
+              git commit -m "Generate $(basename "$file") from $(basename "$source_file")"
+            else
+              echo "No changes in ${file}, skip commit."
+            fi
+          }
+
+          for list_file in "${RULES_DIR}"/*.list; do
+            base_name=$(basename "$list_file" .list)
+
+            domain_yaml="${RULES_DIR}/${base_name}_Domain.yaml"
+            ip_yaml="${RULES_DIR}/${base_name}_IP.yaml"
+            classical_yaml="${RULES_DIR}/${base_name}_Classical.yaml"
+            classical_ip_yaml="${RULES_DIR}/${base_name}_Classical_IP.yaml"
+
+            domain_rules=$(grep -E '^(DOMAIN-|DOMAIN-SUFFIX|DOMAIN-KEYWORD)' "$list_file" \
+              | sed -E "s/^DOMAIN-SUFFIX,(.+)/  - '+.\1'/" \
+              | sed -E "s/^DOMAIN-KEYWORD,(.+)/  - '*\1*'/" \
+              | sed -E "s/^DOMAIN,(.+)/  - '\1'/")
+
+            ip_rules=$(grep -E '^(IP-|IP-CIDR|IP-CIDR6)' "$list_file" \
+              | sed -E "s/^IP-CIDR6,([^,]+).*/  - '\1'/" \
+              | sed -E "s/^IP-CIDR,([^,]+).*/  - '\1'/" \
+              | sed -E "s/^IP,([^,]+).*/  - '\1'/")
+
+            classical_rules=$(grep -E '^(DOMAIN-|DOMAIN-SUFFIX|DOMAIN-KEYWORD)' "$list_file" \
+              | sed -E "s/^(.*)/  - \1/")
+            classical_rules+=$'\n'
+            classical_rules+=$(grep -E '^(IP-|IP-CIDR|IP-CIDR6)' "$list_file" \
+              | sed -E "s/^IP-CIDR6,([^,]+).*/  - IP-CIDR6,\1,no-resolve/" \
+              | sed -E "s/^IP-CIDR,([^,]+).*/  - IP-CIDR,\1,no-resolve/" \
+              | sed -E "s/^IP,([^,]+).*/  - IP-CIDR,\1,no-resolve/")
+
+            classical_ip_rules=$(grep -E '^(IP-|IP-CIDR|IP-CIDR6)' "$list_file" \
+              | sed -E "s/^IP-CIDR6,([^,]+).*/  - IP-CIDR6,\1,no-resolve/" \
+              | sed -E "s/^IP-CIDR,([^,]+).*/  - IP-CIDR,\1,no-resolve/" \
+              | sed -E "s/^IP,([^,]+).*/  - IP-CIDR,\1,no-resolve/")
+
+            generate_and_commit "$domain_yaml" "$domain_rules" "$list_file"
+            generate_and_commit "$ip_yaml" "$ip_rules" "$list_file"
+            generate_and_commit "$classical_yaml" "$classical_rules" "$list_file"
+            generate_and_commit "$classical_ip_yaml" "$classical_ip_rules" "$list_file"
+          done
+
+      - name: Push Changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if [[ -n $(git log origin/main..HEAD) ]]; then
+            git push origin HEAD:main
+          else
+            echo "No new commits to push."
+          fi
+
+      - uses: Mattraks/delete-workflow-runs@main
+        with:
+          retain_days: 0
+          keep_minimum_runs: 1

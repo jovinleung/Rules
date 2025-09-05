@@ -1,0 +1,30 @@
+# 规则名称: TalkatoneAD
+# 规则统计: 27
+
+HOST-SUFFIX,adclick.g.doubleclick.net,TalkatoneAD
+HOST-SUFFIX,adrta.com,TalkatoneAD
+HOST-SUFFIX,ads.inmobi.com,TalkatoneAD
+HOST-SUFFIX,adsappier.com,TalkatoneAD
+HOST-SUFFIX,amazon-adsystem.com,TalkatoneAD
+HOST-SUFFIX,appier.net,TalkatoneAD
+HOST-SUFFIX,appiersig.com,TalkatoneAD
+HOST-SUFFIX,bidder.criteo.com,TalkatoneAD
+HOST-SUFFIX,c.amazon-adsystem.com,TalkatoneAD
+HOST-SUFFIX,cdn2.inner-active.mobi,TalkatoneAD
+HOST-SUFFIX,cr.adsappier.com,TalkatoneAD
+HOST-SUFFIX,criteo.com,TalkatoneAD
+HOST-SUFFIX,d.tktn.be,TalkatoneAD
+HOST-SUFFIX,googleads.g.doubleclick-cn.net,TalkatoneAD
+HOST-SUFFIX,googleads.g.doubleclick.net,TalkatoneAD
+HOST-SUFFIX,googleads4.g.doubleclick.net,TalkatoneAD
+HOST-SUFFIX,gum.criteo.com,TalkatoneAD
+HOST-SUFFIX,ow.pubmatic.com,TalkatoneAD
+HOST-SUFFIX,pubmatic.com,TalkatoneAD
+HOST-SUFFIX,sdk-dnt.ad.smaato.net,TalkatoneAD
+HOST-SUFFIX,sdk-events.inner-active.mobi,TalkatoneAD
+HOST-SUFFIX,smaato.net,TalkatoneAD
+HOST-SUFFIX,tappx.com,TalkatoneAD
+HOST-SUFFIX,telemetry.sdk.inmobi.cn,TalkatoneAD
+HOST-SUFFIX,tr-us.adsmoloco.com,TalkatoneAD
+HOST-SUFFIX,wv.inner-active.mobi,TalkatoneAD
+HOST-KEYWORD,googleads,TalkatoneAD

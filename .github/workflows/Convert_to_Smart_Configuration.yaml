@@ -1,0 +1,88 @@
+name: Convert to Smart Configuration
+
+on:
+  push:
+    paths:
+      - Custom/config/Clash.ini
+      - Custom/config/Clash_Lite.ini
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@main
+
+      - name: Generate Smart INI Configurations
+        run: |
+          echo "Starting INI file processing..."
+
+          FILES_TO_PROCESS=(
+            "Custom/config/Clash.ini:Custom/config/Clash_Smart.ini"
+            "Custom/config/Clash_Lite.ini:Custom/config/Clash_Smart_Lite.ini"
+          )
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          commit_flag=0
+
+          for pair in "${FILES_TO_PROCESS[@]}"; do
+            input_file="${pair%%:*}"
+            output_file="${pair##*:}"
+
+            if [[ -f "$input_file" ]]; then
+              echo "Processing $input_file to generate $output_file"
+
+              # Step 1: Copy input file
+              cp "$input_file" "$output_file.tmp"
+
+              # Step 2: Insert Smart template comment
+              awk '{print} /^;节点地区分组/ {print ";Smart 内核专用模板"}' "$output_file.tmp" > "$output_file.tmp2"
+
+              # Step 3: Replace url-test with smart
+              sed 's/url-test/smart/g' "$output_file.tmp2" > "$output_file.tmp3"
+
+              # Step 4: Update smart parameters
+              sed 's/`300,,50$/`300`uselightgbm=true`collectdata=false`strategy=sticky-sessions`policy-priority=""/g' "$output_file.tmp3" > "$output_file.tmp4"
+
+              # Step 5: Replace node and region references
+              sed 's/节点`/智能`/g; s/地区`/智能`/g' "$output_file.tmp4" > "$output_file.tmp5"
+
+              # Step 6: Replace automatic selection with smart automatic
+              sed 's/自动选择/自动智能/g' "$output_file.tmp5" > "$output_file"
+
+              # Clean up temporary files
+              rm "$output_file.tmp" "$output_file.tmp2" "$output_file.tmp3" "$output_file.tmp4" "$output_file.tmp5"
+
+              echo "Generated $output_file"
+
+              git add "$output_file"
+
+              if ! git diff --cached --quiet; then
+                echo "Changes detected in $output_file, committing..."
+                git commit -m "Generate $(basename "$output_file") from $(basename "$input_file")"
+                commit_flag=1
+              else
+                echo "No changes in $output_file, skipping commit."
+                git reset "$output_file"
+              fi
+
+            else
+              echo "Warning: $input_file not found, skipping."
+            fi
+          done
+
+          if [[ "$commit_flag" -eq 1 ]]; then
+            echo "Pushing changes..."
+            git push
+          else
+            echo "No changes to push."
+          fi
+
+      - uses: Mattraks/delete-workflow-runs@main
+        with:
+          retain_days: 0
+          keep_minimum_runs: 1

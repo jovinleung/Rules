@@ -1,0 +1,15 @@
+# NAME: AppGeoIP
+# AUTHOR: jovinleung
+# REPO: https://github.com/jovinleung/Rules
+# 修改 IP 位置，来自个人收集
+
+# 抖音
+DOMAIN-SUFFIX,amemv.com
+DOMAIN-SUFFIX,douyinvod.com
+
+# 快手
+DOMAIN-SUFFIX,gifshow.com
+DOMAIN-SUFFIX,apissl.ksapisrv.com
+
+# 小红书
+DOMAIN-SUFFIX,edith.xiaohongshu.com

@@ -1,0 +1,8 @@
+# 规则名称: AppGeoIP
+# 规则统计: 5
+
+HOST-SUFFIX,amemv.com,AppGeoIP
+HOST-SUFFIX,apissl.ksapisrv.com,AppGeoIP
+HOST-SUFFIX,douyinvod.com,AppGeoIP
+HOST-SUFFIX,edith.xiaohongshu.com,AppGeoIP
+HOST-SUFFIX,gifshow.com,AppGeoIP

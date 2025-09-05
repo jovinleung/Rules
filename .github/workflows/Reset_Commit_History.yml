@@ -1,0 +1,27 @@
+name: Reset Commit History
+
+on:
+  workflow_dispatch:
+
+jobs:
+  reset:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@main
+        with:
+          ref: main
+      - name: Configure Git and Reset History
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout --orphan temp-branch
+          git branch -D main
+          git checkout --orphan main
+          git add .
+          git commit -m "Initial commit"
+          git push -f -u origin main
+
+      - uses: Mattraks/delete-workflow-runs@main
+        with:
+          retain_days: 0
+          keep_minimum_runs: 0

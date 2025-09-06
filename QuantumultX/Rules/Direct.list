@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 287
+# 规则统计: 288
 
 HOST,alt1-mtalk.google.com,Direct
 HOST,alt2-mtalk.google.com,Direct
@@ -139,6 +139,7 @@ HOST-SUFFIX,gsnhcg.com,Direct
 HOST-SUFFIX,gsstic.com,Direct
 HOST-SUFFIX,gxnnjidingkeji.top,Direct
 HOST-SUFFIX,gzybao.com,Direct
+HOST-SUFFIX,halvie.com,Direct
 HOST-SUFFIX,hbcof.com,Direct
 HOST-SUFFIX,hbctic.com,Direct
 HOST-SUFFIX,hexiny.com,Direct

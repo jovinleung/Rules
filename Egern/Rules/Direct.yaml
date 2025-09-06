@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 288
+# 规则统计: 289
 
 no_resolve: true
 domain_set:
@@ -142,6 +142,7 @@ domain_suffix_set:
   - gsstic.com
   - gxnnjidingkeji.top
   - gzybao.com
+  - halvie.com
   - hbcof.com
   - hbctic.com
   - hexiny.com

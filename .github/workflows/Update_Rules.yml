@@ -145,7 +145,6 @@ jobs:
                 # Apple Services
                 "APNs.list https://git.repcz.link/kelee.one/Tool/Loon/Lsr/ApplePushNotificationService.lsr"
                 "Apple.list https://raw.githubusercontent.com/NobyDa/Script/master/Surge/Apple.list"
-                "AppleProxyService.list https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Surge/Custom/AppleProxyService.list"
                 "AppleMusic.list https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppleMusic/AppleMusic.list"
                 "AppStore.list https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppStore/AppStore.list"
                 "AppleID.list https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppleID/AppleID.list"
@@ -176,7 +175,6 @@ jobs:
                 "AppleMedia.list https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppleMedia/AppleMedia.list"
                 "Bahamut.list https://github.com/ACL4SSR/ACL4SSR/raw/master/Clash/Ruleset/Bahamut.list"
                 "ProxyMedia.list https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyMedia.list"
-                "BiliBiliIntl.list https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BiliBiliIntl/BiliBiliIntl.list"
                 # PayPal
                 "PayPal.list https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PayPal/PayPal.list"
                 # Cloudflare
@@ -185,6 +183,7 @@ jobs:
                 "Steam.list https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Steam/Steam.list"
                 "Epic.list https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Epic/Epic.list"
                 "Game.list https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Game/Game.list"
+                "Xbox.list https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Xbox/Xbox.list"
                 # Download CDNs
                 "DownloadCDN_Global.list https://git.repcz.link/kelee.one/Tool/Loon/Lsr/InternationalDownloadCDN.lsr"
                 "DownloadCDN_CN.list https://git.repcz.link/kelee.one/Tool/Loon/Lsr/ChinaDownloadCDN.lsr"
@@ -349,6 +348,7 @@ jobs:
             sed -i '1i\no_resolve: true' "$file"
             fi
             sed -i -E 's/^(URL-REGEX,)([^,]+)$/\1"\2"/' "$file"
+            sed -i -E 's/^(DOMAIN-WILDCARD,)([^,]+)$/\1"\2"/' "$file"            
             sed -i -E 's/^(DOMAIN|DOMAIN-SUFFIX|DOMAIN-KEYWORD|DOMAIN-WILDCARD|DEST-PORT|IP-CIDR|IP-CIDR6|IP-ASN|URL-REGEX|GEOIP),/  - /g' "$file"
             sed -i 's/,no-resolve//g' "$file"
             file_names=$(basename "$file" .yaml)

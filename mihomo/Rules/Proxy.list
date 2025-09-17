@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1225
+# 规则统计: 1230
 
 DOMAIN,ccmdl.adobe.com
 DOMAIN,community.oneplus.com
@@ -70,6 +70,7 @@ DOMAIN-SUFFIX,ampproject.org
 DOMAIN-SUFFIX,android.com
 DOMAIN-SUFFIX,androidify.com
 DOMAIN-SUFFIX,androidpolice.com
+DOMAIN-SUFFIX,anilist.co
 DOMAIN-SUFFIX,animes.garden
 DOMAIN-SUFFIX,annas-archive.org
 DOMAIN-SUFFIX,ant.design
@@ -113,6 +114,7 @@ DOMAIN-SUFFIX,avgle.com
 DOMAIN-SUFFIX,avtoday.io
 DOMAIN-SUFFIX,aweber.com
 DOMAIN-SUFFIX,aws
+DOMAIN-SUFFIX,aws.dev
 DOMAIN-SUFFIX,axios.com
 DOMAIN-SUFFIX,azure-mobile.net
 DOMAIN-SUFFIX,azurecontainer.io
@@ -397,6 +399,7 @@ DOMAIN-SUFFIX,gcld-line.com
 DOMAIN-SUFFIX,gcr.io
 DOMAIN-SUFFIX,gd
 DOMAIN-SUFFIX,geekbench.com
+DOMAIN-SUFFIX,gelbooru.com
 DOMAIN-SUFFIX,genius.com
 DOMAIN-SUFFIX,getchu.com
 DOMAIN-SUFFIX,getmdl.io
@@ -895,6 +898,7 @@ DOMAIN-SUFFIX,rfc-editor.org
 DOMAIN-SUFFIX,rferl.org
 DOMAIN-SUFFIX,rip
 DOMAIN-SUFFIX,ripe.net
+DOMAIN-SUFFIX,roboflow.com
 DOMAIN-SUFFIX,rocketgirls.space
 DOMAIN-SUFFIX,rottentomatoes.com
 DOMAIN-SUFFIX,rs
@@ -1214,6 +1218,7 @@ DOMAIN-SUFFIX,zbporn.com
 DOMAIN-SUFFIX,zeabur.com
 DOMAIN-SUFFIX,zello.com
 DOMAIN-SUFFIX,zendesk.com
+DOMAIN-SUFFIX,zerochan.net
 DOMAIN-SUFFIX,zndsk.com
 DOMAIN-KEYWORD,blogspot
 DOMAIN-KEYWORD,browserleaks

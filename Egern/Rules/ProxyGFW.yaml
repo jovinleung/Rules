@@ -1,5 +1,5 @@
 # 规则名称: ProxyGFW
-# 规则统计: 7510
+# 规则统计: 7514
 
 no_resolve: true
 domain_set:
@@ -372,6 +372,7 @@ domain_suffix_set:
   - angelfire.com
   - angola.org
   - angularjs.org
+  - anilist.co
   - animecrazy.net
   - animes.garden
   - animeshippuuden.com
@@ -544,6 +545,7 @@ domain_suffix_set:
   - avyahoo.com
   - aweber.com
   - aws
+  - aws.dev
   - axios.com
   - axureformac.com
   - azerbaycan.tv
@@ -5287,6 +5289,7 @@ domain_suffix_set:
   - rmjdw.com
   - rmjdw132.info
   - roadshow.hk
+  - roboflow.com
   - roboforex.com
   - robustnessiskey.com
   - rocket-inc.net
@@ -7331,6 +7334,7 @@ domain_suffix_set:
   - zengjinyan.org
   - zenmate.com
   - zenmate.com.ru
+  - zerochan.net
   - zerohedge.com
   - zeronet.io
   - zeutch.com

@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1225
+# 规则统计: 1230
 
 no_resolve: true
 domain_set:
@@ -73,6 +73,7 @@ domain_suffix_set:
   - android.com
   - androidify.com
   - androidpolice.com
+  - anilist.co
   - animes.garden
   - annas-archive.org
   - ant.design
@@ -116,6 +117,7 @@ domain_suffix_set:
   - avtoday.io
   - aweber.com
   - aws
+  - aws.dev
   - axios.com
   - azure-mobile.net
   - azurecontainer.io
@@ -400,6 +402,7 @@ domain_suffix_set:
   - gcr.io
   - gd
   - geekbench.com
+  - gelbooru.com
   - genius.com
   - getchu.com
   - getmdl.io
@@ -898,6 +901,7 @@ domain_suffix_set:
   - rferl.org
   - rip
   - ripe.net
+  - roboflow.com
   - rocketgirls.space
   - rottentomatoes.com
   - rs
@@ -1217,6 +1221,7 @@ domain_suffix_set:
   - zeabur.com
   - zello.com
   - zendesk.com
+  - zerochan.net
   - zndsk.com
 domain_keyword_set:
   - blogspot

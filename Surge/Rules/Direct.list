@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 289
+# 规则统计: 305
 
 DOMAIN,alt1-mtalk.google.com
 DOMAIN,alt2-mtalk.google.com
@@ -60,6 +60,7 @@ DOMAIN-SUFFIX,belimked.com
 DOMAIN-SUFFIX,bgm.tv
 DOMAIN-SUFFIX,blog.google
 DOMAIN-SUFFIX,bsbsb.top
+DOMAIN-SUFFIX,canghaiip.com
 DOMAIN-SUFFIX,centbrowser.net
 DOMAIN-SUFFIX,cg3da.com
 DOMAIN-SUFFIX,chaxunjiao.com
@@ -94,6 +95,7 @@ DOMAIN-SUFFIX,dushe1.app
 DOMAIN-SUFFIX,englibrary.com
 DOMAIN-SUFFIX,epg.aptv.app
 DOMAIN-SUFFIX,epg.v1.mk
+DOMAIN-SUFFIX,feihengip.com
 DOMAIN-SUFFIX,feizhiyi.com
 DOMAIN-SUFFIX,ffhome.com
 DOMAIN-SUFFIX,fileball.app
@@ -107,7 +109,9 @@ DOMAIN-SUFFIX,fsytss.com
 DOMAIN-SUFFIX,fzwqq.com
 DOMAIN-SUFFIX,gaishitongshu.com
 DOMAIN-SUFFIX,game.maj-soul.com
+DOMAIN-SUFFIX,gaojiua.com
 DOMAIN-SUFFIX,gdcucc.v1.mk
+DOMAIN-SUFFIX,geektool.top
 DOMAIN-SUFFIX,ggbond.org
 DOMAIN-SUFFIX,gh-proxy.com
 DOMAIN-SUFFIX,gh.con.sh
@@ -186,6 +190,10 @@ DOMAIN-SUFFIX,longmenshuju.com
 DOMAIN-SUFFIX,lsbj365.com
 DOMAIN-SUFFIX,lyihub.com
 DOMAIN-SUFFIX,lyilife.com
+DOMAIN-SUFFIX,m-team.cc
+DOMAIN-SUFFIX,m-team.io
+DOMAIN-SUFFIX,manfuz.co
+DOMAIN-SUFFIX,mc-user.com
 DOMAIN-SUFFIX,meishiffx.online
 DOMAIN-SUFFIX,members.3322.org
 DOMAIN-SUFFIX,micu.hk
@@ -202,6 +210,7 @@ DOMAIN-SUFFIX,neihang.net
 DOMAIN-SUFFIX,netzz.net
 DOMAIN-SUFFIX,nn.ci
 DOMAIN-SUFFIX,nxog.top
+DOMAIN-SUFFIX,oceando.cloud
 DOMAIN-SUFFIX,ok321.top
 DOMAIN-SUFFIX,onebuygz.com
 DOMAIN-SUFFIX,ottai.com
@@ -217,6 +226,7 @@ DOMAIN-SUFFIX,plusus2.younoyes.com
 DOMAIN-SUFFIX,plusus3.younoyes.com
 DOMAIN-SUFFIX,pool.ntp.org
 DOMAIN-SUFFIX,powershellgallery.com
+DOMAIN-SUFFIX,privateapi.xyz
 DOMAIN-SUFFIX,qianuni.com
 DOMAIN-SUFFIX,qiaoxuesi.com
 DOMAIN-SUFFIX,qinglue.com
@@ -229,6 +239,7 @@ DOMAIN-SUFFIX,scbaijia.com
 DOMAIN-SUFFIX,seaflysoft.com
 DOMAIN-SUFFIX,seedpace.com
 DOMAIN-SUFFIX,sgtv.ii00.cc
+DOMAIN-SUFFIX,shuqiandiqiu.com
 DOMAIN-SUFFIX,sixloy428.top
 DOMAIN-SUFFIX,sksight.com
 DOMAIN-SUFFIX,snfox.com
@@ -241,6 +252,7 @@ DOMAIN-SUFFIX,sxlljm.com
 DOMAIN-SUFFIX,tailgdd.com
 DOMAIN-SUFFIX,tangguobaohe.com
 DOMAIN-SUFFIX,tastientech.com
+DOMAIN-SUFFIX,tclai.top
 DOMAIN-SUFFIX,tcp.pub
 DOMAIN-SUFFIX,tcy365.net
 DOMAIN-SUFFIX,test-ipv6.com
@@ -261,10 +273,12 @@ DOMAIN-SUFFIX,warmheart.top
 DOMAIN-SUFFIX,webs.vc
 DOMAIN-SUFFIX,wenyi188.com
 DOMAIN-SUFFIX,wewillpro.com
+DOMAIN-SUFFIX,wjx.top
 DOMAIN-SUFFIX,wlcdn88.com
 DOMAIN-SUFFIX,wushuangai.com
 DOMAIN-SUFFIX,www.ojrq.net
 DOMAIN-SUFFIX,wwwh.eu.org
+DOMAIN-SUFFIX,x86pi.com
 DOMAIN-SUFFIX,xbgjw.com
 DOMAIN-SUFFIX,xdqtech.com
 DOMAIN-SUFFIX,xdtool.com
@@ -278,11 +292,13 @@ DOMAIN-SUFFIX,yongyu.xyz
 DOMAIN-SUFFIX,yooc.me
 DOMAIN-SUFFIX,yunzuoye.net
 DOMAIN-SUFFIX,z6e.com
+DOMAIN-SUFFIX,zctnet.top
 DOMAIN-SUFFIX,zeekrline.com
 DOMAIN-SUFFIX,zhongancloud.com
 DOMAIN-SUFFIX,znnu.com
 DOMAIN-SUFFIX,znztv.com
 DOMAIN-SUFFIX,zuobiao.press
+DOMAIN-KEYWORD,m-team
 DOMAIN-KEYWORD,quickconnect
 DOMAIN-KEYWORD,synology
 IP-CIDR,108.174.48.100/32,no-resolve

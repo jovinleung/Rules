@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 305
+# 规则统计: 307
 
 no_resolve: true
 domain_set:
@@ -53,6 +53,7 @@ domain_suffix_set:
   - aihubmix.com
   - aistudio-app.com
   - akamaihd.net
+  - aloys233.top
   - anycubic.com
   - api.myip.com
   - armvm.com
@@ -233,6 +234,7 @@ domain_suffix_set:
   - qianuni.com
   - qiaoxuesi.com
   - qinglue.com
+  - redenmc.com
   - registry.dockermirror.com
   - rewards.bing.com
   - rsfcxq.com

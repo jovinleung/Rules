@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 307
+# 规则统计: 308
 
 no_resolve: true
 domain_set:
@@ -166,6 +166,7 @@ domain_suffix_set:
   - ifish7.com
   - igpsport.com
   - immortalwrt.org
+  - iotrix.net
   - ip159.com
   - ip6.seeip.org
   - ipapi.co

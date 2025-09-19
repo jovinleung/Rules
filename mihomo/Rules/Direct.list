@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 308
+# 规则统计: 309
 
 DOMAIN,alt1-mtalk.google.com
 DOMAIN,alt2-mtalk.google.com
@@ -162,6 +162,7 @@ DOMAIN-SUFFIX,idsduf.com
 DOMAIN-SUFFIX,ifconfig.co
 DOMAIN-SUFFIX,ifish7.com
 DOMAIN-SUFFIX,igpsport.com
+DOMAIN-SUFFIX,imacos.top
 DOMAIN-SUFFIX,immortalwrt.org
 DOMAIN-SUFFIX,iotrix.net
 DOMAIN-SUFFIX,ip159.com

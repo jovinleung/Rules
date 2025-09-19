@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 308
+# 规则统计: 309
 
 no_resolve: true
 domain_set:
@@ -165,6 +165,7 @@ domain_suffix_set:
   - ifconfig.co
   - ifish7.com
   - igpsport.com
+  - imacos.top
   - immortalwrt.org
   - iotrix.net
   - ip159.com

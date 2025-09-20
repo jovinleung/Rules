@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 308
+# 规则统计: 312
 
 HOST,alt1-mtalk.google.com,Direct
 HOST,alt2-mtalk.google.com,Direct
@@ -60,6 +60,7 @@ HOST-SUFFIX,bdcb.cc,Direct
 HOST-SUFFIX,belimked.com,Direct
 HOST-SUFFIX,bgm.tv,Direct
 HOST-SUFFIX,blog.google,Direct
+HOST-SUFFIX,bochk.com,Direct
 HOST-SUFFIX,bsbsb.top,Direct
 HOST-SUFFIX,canghaiip.com,Direct
 HOST-SUFFIX,centbrowser.net,Direct
@@ -149,6 +150,7 @@ HOST-SUFFIX,hbcof.com,Direct
 HOST-SUFFIX,hbctic.com,Direct
 HOST-SUFFIX,hexiny.com,Direct
 HOST-SUFFIX,hf-mirror.com,Direct
+HOST-SUFFIX,hsbc.com.hk,Direct
 HOST-SUFFIX,hstbroker.com,Direct
 HOST-SUFFIX,hszq6.com,Direct
 HOST-SUFFIX,hub.crdz.gq,Direct
@@ -186,6 +188,7 @@ HOST-SUFFIX,kyarucloud.moe,Direct
 HOST-SUFFIX,lanyun.net,Direct
 HOST-SUFFIX,lcdn-locator.apple.com,Direct
 HOST-SUFFIX,lcdn-registration.apple.com,Direct
+HOST-SUFFIX,leelen.com,Direct
 HOST-SUFFIX,letaoedu.com,Direct
 HOST-SUFFIX,localhost.ptlogin2.qq.com,Direct
 HOST-SUFFIX,localhost.sec.qq.com,Direct
@@ -295,6 +298,7 @@ HOST-SUFFIX,yiso.fun,Direct
 HOST-SUFFIX,yongyu.xyz,Direct
 HOST-SUFFIX,yooc.me,Direct
 HOST-SUFFIX,yunzuoye.net,Direct
+HOST-SUFFIX,yzcsoft.com,Direct
 HOST-SUFFIX,z6e.com,Direct
 HOST-SUFFIX,zctnet.top,Direct
 HOST-SUFFIX,zeekrline.com,Direct

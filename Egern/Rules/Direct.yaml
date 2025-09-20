@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 309
+# 规则统计: 313
 
 no_resolve: true
 domain_set:
@@ -63,6 +63,7 @@ domain_suffix_set:
   - belimked.com
   - bgm.tv
   - blog.google
+  - bochk.com
   - bsbsb.top
   - canghaiip.com
   - centbrowser.net
@@ -152,6 +153,7 @@ domain_suffix_set:
   - hbctic.com
   - hexiny.com
   - hf-mirror.com
+  - hsbc.com.hk
   - hstbroker.com
   - hszq6.com
   - hub.crdz.gq
@@ -189,6 +191,7 @@ domain_suffix_set:
   - lanyun.net
   - lcdn-locator.apple.com
   - lcdn-registration.apple.com
+  - leelen.com
   - letaoedu.com
   - localhost.ptlogin2.qq.com
   - localhost.sec.qq.com
@@ -298,6 +301,7 @@ domain_suffix_set:
   - yongyu.xyz
   - yooc.me
   - yunzuoye.net
+  - yzcsoft.com
   - z6e.com
   - zctnet.top
   - zeekrline.com

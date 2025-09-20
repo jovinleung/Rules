@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 313
+# 规则统计: 315
 
 no_resolve: true
 domain_set:
@@ -104,6 +104,7 @@ domain_suffix_set:
   - feizhiyi.com
   - ffhome.com
   - fileball.app
+  - fjpit.com
   - flingtrainer.com
   - fofuai.com
   - fowep.com
@@ -272,6 +273,7 @@ domain_suffix_set:
   - tuxing.art
   - u-carloan.com
   - ugdocker.link
+  - ulife.group
   - vbkhk.com
   - vbkr.com
   - vbkrhk.com

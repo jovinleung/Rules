@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 312
+# 规则统计: 314
 
 HOST,alt1-mtalk.google.com,Direct
 HOST,alt2-mtalk.google.com,Direct
@@ -101,6 +101,7 @@ HOST-SUFFIX,feihengip.com,Direct
 HOST-SUFFIX,feizhiyi.com,Direct
 HOST-SUFFIX,ffhome.com,Direct
 HOST-SUFFIX,fileball.app,Direct
+HOST-SUFFIX,fjpit.com,Direct
 HOST-SUFFIX,flingtrainer.com,Direct
 HOST-SUFFIX,fofuai.com,Direct
 HOST-SUFFIX,fowep.com,Direct
@@ -269,6 +270,7 @@ HOST-SUFFIX,tumukaoyan.com,Direct
 HOST-SUFFIX,tuxing.art,Direct
 HOST-SUFFIX,u-carloan.com,Direct
 HOST-SUFFIX,ugdocker.link,Direct
+HOST-SUFFIX,ulife.group,Direct
 HOST-SUFFIX,vbkhk.com,Direct
 HOST-SUFFIX,vbkr.com,Direct
 HOST-SUFFIX,vbkrhk.com,Direct

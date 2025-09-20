@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 315
+# 规则统计: 317
 
 no_resolve: true
 domain_set:
@@ -237,6 +237,7 @@ domain_suffix_set:
   - pool.ntp.org
   - powershellgallery.com
   - privateapi.xyz
+  - qiankunshopping.com
   - qianuni.com
   - qiaoxuesi.com
   - qinglue.com
@@ -265,6 +266,7 @@ domain_suffix_set:
   - tastientech.com
   - tclai.top
   - tcp.pub
+  - tcp5.com
   - tcy365.net
   - test-ipv6.com
   - thinkerride.com

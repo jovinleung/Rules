@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1231
+# 规则统计: 1232
 
 no_resolve: true
 domain_set:
@@ -875,6 +875,7 @@ domain_suffix_set:
   - rawgit.com
   - re
   - readme.com
+  - readmoo.com
   - readthedocs.io
   - realgfporn.com
   - recaptcha.net

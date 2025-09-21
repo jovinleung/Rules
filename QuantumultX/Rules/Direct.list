@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 317
+# 规则统计: 318
 
 HOST,alt1-mtalk.google.com,Direct
 HOST,alt2-mtalk.google.com,Direct
@@ -216,6 +216,7 @@ HOST-SUFFIX,myshopex.com,Direct
 HOST-SUFFIX,naixi.com,Direct
 HOST-SUFFIX,neihang.net,Direct
 HOST-SUFFIX,netzz.net,Direct
+HOST-SUFFIX,nhk.or.jp,Direct
 HOST-SUFFIX,nn.ci,Direct
 HOST-SUFFIX,nxog.top,Direct
 HOST-SUFFIX,oceando.cloud,Direct

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 318
+# 规则统计: 319
 
 DOMAIN,alt1-mtalk.google.com
 DOMAIN,alt2-mtalk.google.com
@@ -216,6 +216,7 @@ DOMAIN-SUFFIX,myshopex.com
 DOMAIN-SUFFIX,naixi.com
 DOMAIN-SUFFIX,neihang.net
 DOMAIN-SUFFIX,netzz.net
+DOMAIN-SUFFIX,nhk.or.jp
 DOMAIN-SUFFIX,nn.ci
 DOMAIN-SUFFIX,nxog.top
 DOMAIN-SUFFIX,oceando.cloud

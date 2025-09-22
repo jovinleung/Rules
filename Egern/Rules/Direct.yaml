@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 319
+# 规则统计: 322
 
 no_resolve: true
 domain_set:
@@ -49,6 +49,7 @@ domain_suffix_set:
   - 985hezi.com
   - 998tool.com
   - adobe.com
+  - afeica.com
   - afuns.me
   - aihubmix.com
   - aistudio-app.com
@@ -239,6 +240,8 @@ domain_suffix_set:
   - pool.ntp.org
   - powershellgallery.com
   - privateapi.xyz
+  - ptl.gs
+  - ptlgs.org
   - qiankunshopping.com
   - qianuni.com
   - qiaoxuesi.com

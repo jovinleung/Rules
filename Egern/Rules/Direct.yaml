@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 322
+# 规则统计: 323
 
 no_resolve: true
 domain_set:
@@ -98,6 +98,7 @@ domain_suffix_set:
   - dothantech.com
   - douqq.com
   - dushe1.app
+  - einfo-tech.com
   - englibrary.com
   - epg.aptv.app
   - epg.v1.mk

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 323
+# 规则统计: 324
 
 no_resolve: true
 domain_set:
@@ -263,6 +263,7 @@ domain_suffix_set:
   - snfox.com
   - snltty.com
   - sptv.ii00.cc
+  - ssjj2.com
   - starlink.uno
   - subhd.tv
   - suyur.com

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 322
+# 规则统计: 323
 
 HOST,alt1-mtalk.google.com,Direct
 HOST,alt2-mtalk.google.com,Direct
@@ -260,6 +260,7 @@ HOST-SUFFIX,sksight.com,Direct
 HOST-SUFFIX,snfox.com,Direct
 HOST-SUFFIX,snltty.com,Direct
 HOST-SUFFIX,sptv.ii00.cc,Direct
+HOST-SUFFIX,ssjj2.com,Direct
 HOST-SUFFIX,starlink.uno,Direct
 HOST-SUFFIX,subhd.tv,Direct
 HOST-SUFFIX,suyur.com,Direct

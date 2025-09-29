@@ -1,5 +1,5 @@
 # 规则名称: ProxyGFW
-# 规则统计: 7515
+# 规则统计: 7516
 
 no_resolve: true
 domain_set:
@@ -2798,6 +2798,7 @@ domain_suffix_set:
   - gov.ir
   - gov.taipei
   - gov.tw
+  - gqhongkong.com
   - gr8domain.biz
   - gr8name.biz
   - gradconnection.com

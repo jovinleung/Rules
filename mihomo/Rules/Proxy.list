@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1232
+# 规则统计: 1234
 
 DOMAIN,ccmdl.adobe.com
 DOMAIN,community.oneplus.com
@@ -91,6 +91,7 @@ DOMAIN-SUFFIX,apricot.red
 DOMAIN-SUFFIX,aptoide.com
 DOMAIN-SUFFIX,arc.net
 DOMAIN-SUFFIX,archive-it.org
+DOMAIN-SUFFIX,archive.li
 DOMAIN-SUFFIX,archive.org
 DOMAIN-SUFFIX,archive.today
 DOMAIN-SUFFIX,archiveofourown.org
@@ -450,6 +451,7 @@ DOMAIN-SUFFIX,googl.com
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,gooogle.com
 DOMAIN-SUFFIX,gov
+DOMAIN-SUFFIX,gqhongkong.com
 DOMAIN-SUFFIX,grammarly.com
 DOMAIN-SUFFIX,grammarly.io
 DOMAIN-SUFFIX,gravatar.com

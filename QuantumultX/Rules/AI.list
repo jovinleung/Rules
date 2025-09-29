@@ -1,5 +1,5 @@
 # 规则名称: AI
-# 规则统计: 51
+# 规则统计: 52
 
 HOST,ai.google.dev,AI
 HOST,alkalicore-pa.clients6.google.com,AI
@@ -25,6 +25,7 @@ HOST-SUFFIX,dify.ai,AI
 HOST-SUFFIX,events.statsigapi.net,AI
 HOST-SUFFIX,featuregates.org,AI
 HOST-SUFFIX,geller-pa.googleapis.com,AI
+HOST-SUFFIX,gemini.google,AI
 HOST-SUFFIX,gemini.google.com,AI
 HOST-SUFFIX,generativeai.google,AI
 HOST-SUFFIX,generativelanguage.googleapis.com,AI

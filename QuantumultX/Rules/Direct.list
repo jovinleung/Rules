@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 323
+# 规则统计: 324
 
 HOST,alt1-mtalk.google.com,Direct
 HOST,alt2-mtalk.google.com,Direct
@@ -75,6 +75,7 @@ HOST-SUFFIX,chii.in,Direct
 HOST-SUFFIX,chujingapp.com,Direct
 HOST-SUFFIX,clivia.fun,Direct
 HOST-SUFFIX,cn-music.mefun.vip,Direct
+HOST-SUFFIX,cnb.space,Direct
 HOST-SUFFIX,cnspeedtest.cn,Direct
 HOST-SUFFIX,codeloop.top,Direct
 HOST-SUFFIX,congmiqq.com,Direct

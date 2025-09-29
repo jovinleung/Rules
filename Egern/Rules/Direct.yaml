@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 324
+# 规则统计: 325
 
 no_resolve: true
 domain_set:
@@ -78,6 +78,7 @@ domain_suffix_set:
   - chujingapp.com
   - clivia.fun
   - cn-music.mefun.vip
+  - cnb.space
   - cnspeedtest.cn
   - codeloop.top
   - congmiqq.com

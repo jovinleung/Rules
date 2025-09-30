@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 325
+# 规则统计: 326
 
 no_resolve: true
 domain_set:
@@ -266,6 +266,7 @@ domain_suffix_set:
   - sptv.ii00.cc
   - ssjj2.com
   - starlink.uno
+  - stkfanli.com
   - subhd.tv
   - suyur.com
   - sxlljm.com

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 326
+# 规则统计: 328
 
 no_resolve: true
 domain_set:
@@ -42,6 +42,7 @@ domain_suffix_set:
   - 52jiawei.com
   - 52met.com
   - 52muban.com
+  - 55555.ink
   - 657192.com
   - 737698.xyz
   - 7sef.com
@@ -140,6 +141,7 @@ domain_suffix_set:
   - github.store
   - giveup.top
   - gjtool.com
+  - gmoj.net
   - gmya.net
   - goka.top
   - goodnotesapp.com.cn

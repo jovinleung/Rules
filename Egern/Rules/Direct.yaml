@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 332
+# 规则统计: 333
 
 no_resolve: true
 domain_set:
@@ -216,6 +216,7 @@ domain_suffix_set:
   - micu.hk
   - mifeng.plus
   - mobai.sbs
+  - modelscope.net
   - msftconnecttest.com
   - msftncsi.com
   - mslmc.net

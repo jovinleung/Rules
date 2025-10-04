@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 332
+# 规则统计: 333
 
 DOMAIN,alt1-mtalk.google.com
 DOMAIN,alt2-mtalk.google.com
@@ -213,6 +213,7 @@ DOMAIN-SUFFIX,members.3322.org
 DOMAIN-SUFFIX,micu.hk
 DOMAIN-SUFFIX,mifeng.plus
 DOMAIN-SUFFIX,mobai.sbs
+DOMAIN-SUFFIX,modelscope.net
 DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,msftncsi.com
 DOMAIN-SUFFIX,mslmc.net

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 334
+# 规则统计: 335
 
 no_resolve: true
 domain_set:
@@ -317,6 +317,7 @@ domain_suffix_set:
   - xn--4kq62z5rby2qupq9ub.top
   - xopenbeta.com
   - xzsckj.com
+  - ydayc.com
   - yiso.fun
   - yongyu.xyz
   - yooc.me

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 338
+# 规则统计: 341
 
 DOMAIN,alt1-mtalk.google.com
 DOMAIN,alt2-mtalk.google.com
@@ -92,6 +92,7 @@ DOMAIN-SUFFIX,ddzn.tech
 DOMAIN-SUFFIX,dell.com
 DOMAIN-SUFFIX,dhub.kubesre.xyz
 DOMAIN-SUFFIX,dingdingzn.com
+DOMAIN-SUFFIX,diyiedu.com
 DOMAIN-SUFFIX,docker.1panel.live
 DOMAIN-SUFFIX,docker.kejilion.pro
 DOMAIN-SUFFIX,docker.unsee.tech
@@ -106,6 +107,7 @@ DOMAIN-SUFFIX,epg.aptv.app
 DOMAIN-SUFFIX,epg.v1.mk
 DOMAIN-SUFFIX,feihengip.com
 DOMAIN-SUFFIX,feizhiyi.com
+DOMAIN-SUFFIX,fengsutb.com
 DOMAIN-SUFFIX,ffhome.com
 DOMAIN-SUFFIX,fileball.app
 DOMAIN-SUFFIX,fjpit.com
@@ -233,6 +235,7 @@ DOMAIN-SUFFIX,oceando.cloud
 DOMAIN-SUFFIX,ok321.top
 DOMAIN-SUFFIX,onebuygz.com
 DOMAIN-SUFFIX,ottai.com
+DOMAIN-SUFFIX,ourschool.cc
 DOMAIN-SUFFIX,paperang.com
 DOMAIN-SUFFIX,pianyuan.org
 DOMAIN-SUFFIX,plusde1.younoyes.com

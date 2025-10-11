@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 338
+# 规则统计: 341
 
 no_resolve: true
 domain_set:
@@ -95,6 +95,7 @@ domain_suffix_set:
   - dell.com
   - dhub.kubesre.xyz
   - dingdingzn.com
+  - diyiedu.com
   - docker.1panel.live
   - docker.kejilion.pro
   - docker.unsee.tech
@@ -109,6 +110,7 @@ domain_suffix_set:
   - epg.v1.mk
   - feihengip.com
   - feizhiyi.com
+  - fengsutb.com
   - ffhome.com
   - fileball.app
   - fjpit.com
@@ -236,6 +238,7 @@ domain_suffix_set:
   - ok321.top
   - onebuygz.com
   - ottai.com
+  - ourschool.cc
   - paperang.com
   - pianyuan.org
   - plusde1.younoyes.com

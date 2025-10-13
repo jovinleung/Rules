@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 341
+# 规则统计: 342
 
 no_resolve: true
 domain_set:
@@ -322,6 +322,7 @@ domain_suffix_set:
   - xixih.cc
   - xn--4kq62z5rby2qupq9ub.top
   - xopenbeta.com
+  - xxrsm.com
   - xzsckj.com
   - ydayc.com
   - yiso.fun

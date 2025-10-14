@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 341
+# 规则统计: 342
 
 HOST,alt1-mtalk.google.com,Direct
 HOST,alt2-mtalk.google.com,Direct
@@ -332,6 +332,7 @@ HOST-SUFFIX,zctnet.top,Direct
 HOST-SUFFIX,zeekrline.com,Direct
 HOST-SUFFIX,zhixingyunke.com,Direct
 HOST-SUFFIX,zhongancloud.com,Direct
+HOST-SUFFIX,zjxhedu.com,Direct
 HOST-SUFFIX,znnu.com,Direct
 HOST-SUFFIX,znztv.com,Direct
 HOST-SUFFIX,zuobiao.press,Direct

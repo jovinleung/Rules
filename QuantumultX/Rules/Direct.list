@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 342
+# 规则统计: 343
 
 HOST,alt1-mtalk.google.com,Direct
 HOST,alt2-mtalk.google.com,Direct
@@ -203,6 +203,7 @@ HOST-SUFFIX,lcdn-locator.apple.com,Direct
 HOST-SUFFIX,lcdn-registration.apple.com,Direct
 HOST-SUFFIX,leelen.com,Direct
 HOST-SUFFIX,letaoedu.com,Direct
+HOST-SUFFIX,liunn.com,Direct
 HOST-SUFFIX,localhost.ptlogin2.qq.com,Direct
 HOST-SUFFIX,localhost.sec.qq.com,Direct
 HOST-SUFFIX,longmenshuju.com,Direct

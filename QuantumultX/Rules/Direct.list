@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 345
+# 规则统计: 347
 
 HOST,alt1-mtalk.google.com,Direct
 HOST,alt2-mtalk.google.com,Direct
@@ -264,12 +264,14 @@ HOST-SUFFIX,redenmc.com,Direct
 HOST-SUFFIX,registry.dockermirror.com,Direct
 HOST-SUFFIX,rewards.bing.com,Direct
 HOST-SUFFIX,rsfcxq.com,Direct
+HOST-SUFFIX,saduck.top,Direct
 HOST-SUFFIX,sanligu.top,Direct
 HOST-SUFFIX,sapphiretech.com,Direct
 HOST-SUFFIX,scbaijia.com,Direct
 HOST-SUFFIX,seaflysoft.com,Direct
 HOST-SUFFIX,seedpace.com,Direct
 HOST-SUFFIX,sgtv.ii00.cc,Direct
+HOST-SUFFIX,shineacc.com,Direct
 HOST-SUFFIX,shuqiandiqiu.com,Direct
 HOST-SUFFIX,sixloy428.top,Direct
 HOST-SUFFIX,sksight.com,Direct

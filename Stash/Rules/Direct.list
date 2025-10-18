@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 348
+# 规则统计: 350
 
 DOMAIN,alt1-mtalk.google.com
 DOMAIN,alt2-mtalk.google.com
@@ -122,6 +122,7 @@ DOMAIN-SUFFIX,fzvcolco.com
 DOMAIN-SUFFIX,fzwqq.com
 DOMAIN-SUFFIX,gaishitongshu.com
 DOMAIN-SUFFIX,game.maj-soul.com
+DOMAIN-SUFFIX,gangtise.com
 DOMAIN-SUFFIX,gaojiua.com
 DOMAIN-SUFFIX,gdcucc.v1.mk
 DOMAIN-SUFFIX,geektool.top
@@ -294,6 +295,7 @@ DOMAIN-SUFFIX,tcy365.net
 DOMAIN-SUFFIX,test-ipv6.com
 DOMAIN-SUFFIX,thinkerride.com
 DOMAIN-SUFFIX,tool56.com
+DOMAIN-SUFFIX,tozi-cn.top
 DOMAIN-SUFFIX,tumukaoyan.com
 DOMAIN-SUFFIX,tuxing.art
 DOMAIN-SUFFIX,u-carloan.com

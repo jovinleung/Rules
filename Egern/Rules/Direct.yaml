@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 350
+# 规则统计: 351
 
 no_resolve: true
 domain_set:
@@ -154,6 +154,7 @@ domain_suffix_set:
   - goodnotesapp.com.cn
   - googletraveladservices.com
   - googoc.com
+  - gootho.com
   - gseen.com
   - gsgltz.com
   - gsjkjt.com

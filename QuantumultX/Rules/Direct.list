@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 349
+# 规则统计: 350
 
 HOST,alt1-mtalk.google.com,Direct
 HOST,alt2-mtalk.google.com,Direct
@@ -151,6 +151,7 @@ HOST-SUFFIX,goka.top,Direct
 HOST-SUFFIX,goodnotesapp.com.cn,Direct
 HOST-SUFFIX,googletraveladservices.com,Direct
 HOST-SUFFIX,googoc.com,Direct
+HOST-SUFFIX,gootho.com,Direct
 HOST-SUFFIX,gseen.com,Direct
 HOST-SUFFIX,gsgltz.com,Direct
 HOST-SUFFIX,gsjkjt.com,Direct

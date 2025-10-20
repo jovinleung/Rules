@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 351
+# 规则统计: 353
 
 no_resolve: true
 domain_set:
@@ -47,6 +47,7 @@ domain_suffix_set:
   - 6v520.net
   - 737698.xyz
   - 7sef.com
+  - 86656.net
   - 900cha.com
   - 985hezi.com
   - 998tool.com
@@ -121,6 +122,7 @@ domain_suffix_set:
   - frp-ski.com
   - fssbcc.top
   - fsytss.com
+  - ft07.com
   - fzvcolco.com
   - fzwqq.com
   - gaishitongshu.com

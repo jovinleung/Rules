@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1237
+# 规则统计: 1238
 
 HOST,ccmdl.adobe.com,Proxy
 HOST,community.oneplus.com,Proxy
@@ -118,6 +118,7 @@ HOST-SUFFIX,avtoday.io,Proxy
 HOST-SUFFIX,aweber.com,Proxy
 HOST-SUFFIX,aws,Proxy
 HOST-SUFFIX,aws.dev,Proxy
+HOST-SUFFIX,awscloud.com,Proxy
 HOST-SUFFIX,axios.com,Proxy
 HOST-SUFFIX,azure-mobile.net,Proxy
 HOST-SUFFIX,azurecontainer.io,Proxy

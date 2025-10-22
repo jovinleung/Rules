@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1237
+# 规则统计: 1238
 
 no_resolve: true
 domain_set:
@@ -1040,6 +1040,7 @@ domain_suffix_set:
   - theguardian.com
   - theinitium.com
   - themoviedb.org
+  - thenewstack.io
   - thepiratebay.org
   - theregister.com
   - thesaurus.com

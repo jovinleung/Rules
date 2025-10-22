@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 354
+# 规则统计: 355
 
 no_resolve: true
 domain_set:
@@ -180,6 +180,7 @@ domain_suffix_set:
   - hub.xdark.top
   - huikao8.com
   - hwbim.com
+  - hzlawyer.net
   - icvcs.com
   - idsduf.com
   - ifconfig.co

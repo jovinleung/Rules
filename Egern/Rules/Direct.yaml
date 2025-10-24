@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 356
+# 规则统计: 359
 
 no_resolve: true
 domain_set:
@@ -37,6 +37,7 @@ domain_suffix_set:
   - 115cdn.de
   - 1996999.xyz
   - 204cloud.com
+  - 4399zmxy.com
   - 51wanxue.com
   - 51zmt.top
   - 52jiawei.com
@@ -72,6 +73,7 @@ domain_suffix_set:
   - boyuemobile.com
   - bsbsb.top
   - canghaiip.com
+  - cdn.ist
   - centbrowser.net
   - cg3da.com
   - chaxunjiao.com
@@ -184,6 +186,7 @@ domain_suffix_set:
   - icvcs.com
   - idsduf.com
   - ifconfig.co
+  - ifengmap.com
   - ifish7.com
   - igpsport.com
   - imacos.top

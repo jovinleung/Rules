@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 356
+# 规则统计: 359
 
 DOMAIN,alt1-mtalk.google.com
 DOMAIN,alt2-mtalk.google.com
@@ -34,6 +34,7 @@ DOMAIN-SUFFIX,112114.xyz
 DOMAIN-SUFFIX,115cdn.de
 DOMAIN-SUFFIX,1996999.xyz
 DOMAIN-SUFFIX,204cloud.com
+DOMAIN-SUFFIX,4399zmxy.com
 DOMAIN-SUFFIX,51wanxue.com
 DOMAIN-SUFFIX,51zmt.top
 DOMAIN-SUFFIX,52jiawei.com
@@ -69,6 +70,7 @@ DOMAIN-SUFFIX,bochk.com
 DOMAIN-SUFFIX,boyuemobile.com
 DOMAIN-SUFFIX,bsbsb.top
 DOMAIN-SUFFIX,canghaiip.com
+DOMAIN-SUFFIX,cdn.ist
 DOMAIN-SUFFIX,centbrowser.net
 DOMAIN-SUFFIX,cg3da.com
 DOMAIN-SUFFIX,chaxunjiao.com
@@ -181,6 +183,7 @@ DOMAIN-SUFFIX,hzlawyer.net
 DOMAIN-SUFFIX,icvcs.com
 DOMAIN-SUFFIX,idsduf.com
 DOMAIN-SUFFIX,ifconfig.co
+DOMAIN-SUFFIX,ifengmap.com
 DOMAIN-SUFFIX,ifish7.com
 DOMAIN-SUFFIX,igpsport.com
 DOMAIN-SUFFIX,imacos.top

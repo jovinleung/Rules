@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 358
+# 规则统计: 361
 
 HOST,alt1-mtalk.google.com,Direct
 HOST,alt2-mtalk.google.com,Direct
@@ -108,6 +108,7 @@ HOST-SUFFIX,einfo-tech.com,Direct
 HOST-SUFFIX,englibrary.com,Direct
 HOST-SUFFIX,epg.aptv.app,Direct
 HOST-SUFFIX,epg.v1.mk,Direct
+HOST-SUFFIX,everdrawing.com,Direct
 HOST-SUFFIX,feihengip.com,Direct
 HOST-SUFFIX,feizhiyi.com,Direct
 HOST-SUFFIX,fengsutb.com,Direct
@@ -179,6 +180,8 @@ HOST-SUFFIX,hub.rat.dev,Direct
 HOST-SUFFIX,hub.xdark.top,Direct
 HOST-SUFFIX,huikao8.com,Direct
 HOST-SUFFIX,hwbim.com,Direct
+HOST-SUFFIX,hwjianmo.com,Direct
+HOST-SUFFIX,hwzuku.com,Direct
 HOST-SUFFIX,hzlawyer.net,Direct
 HOST-SUFFIX,icvcs.com,Direct
 HOST-SUFFIX,idsduf.com,Direct

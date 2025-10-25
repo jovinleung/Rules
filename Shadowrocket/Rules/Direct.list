@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 362
+# 规则统计: 363
 
 DOMAIN,alt1-mtalk.google.com
 DOMAIN,alt2-mtalk.google.com
@@ -152,6 +152,7 @@ DOMAIN-SUFFIX,giveup.top
 DOMAIN-SUFFIX,gjtool.com
 DOMAIN-SUFFIX,gmoj.net
 DOMAIN-SUFFIX,gmya.net
+DOMAIN-SUFFIX,goalmapapp.com
 DOMAIN-SUFFIX,goka.top
 DOMAIN-SUFFIX,goodnotesapp.com.cn
 DOMAIN-SUFFIX,googletraveladservices.com

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 362
+# 规则统计: 363
 
 no_resolve: true
 domain_set:
@@ -155,6 +155,7 @@ domain_suffix_set:
   - gjtool.com
   - gmoj.net
   - gmya.net
+  - goalmapapp.com
   - goka.top
   - goodnotesapp.com.cn
   - googletraveladservices.com

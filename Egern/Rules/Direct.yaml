@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 364
+# 规则统计: 365
 
 no_resolve: true
 domain_set:
@@ -257,6 +257,7 @@ domain_suffix_set:
   - ourschool.cc
   - paperang.com
   - pianyuan.org
+  - pixcheese.com
   - plusde1.younoyes.com
   - plushk1.younoyes.com
   - plushk2.younoyes.com

@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1239
+# 规则统计: 1241
 
 HOST,ccmdl.adobe.com,Proxy
 HOST,community.oneplus.com,Proxy
@@ -210,6 +210,7 @@ HOST-SUFFIX,clips4sale.com,Proxy
 HOST-SUFFIX,cloudapp.net,Proxy
 HOST-SUFFIX,cloudflare-dns.com,Proxy
 HOST-SUFFIX,cloudflare.com,Proxy
+HOST-SUFFIX,cloudflare.dev,Proxy
 HOST-SUFFIX,cloudflareaccess.com,Proxy
 HOST-SUFFIX,cloudflareresolve.com,Proxy
 HOST-SUFFIX,cloudflarestatus.com,Proxy
@@ -478,6 +479,7 @@ HOST-SUFFIX,gvt7.com,Proxy
 HOST-SUFFIX,gvt9.com,Proxy
 HOST-SUFFIX,gwtproject.org,Proxy
 HOST-SUFFIX,hackmd.io,Proxy
+HOST-SUFFIX,hanime1.com,Proxy
 HOST-SUFFIX,hanime1.me,Proxy
 HOST-SUFFIX,hanimeone.me,Proxy
 HOST-SUFFIX,hanmail.net,Proxy

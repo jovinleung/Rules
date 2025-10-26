@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1238
+# 规则统计: 1240
 
 no_resolve: true
 domain_set:
@@ -213,6 +213,7 @@ domain_suffix_set:
   - cloudapp.net
   - cloudflare-dns.com
   - cloudflare.com
+  - cloudflare.dev
   - cloudflareaccess.com
   - cloudflareresolve.com
   - cloudflarestatus.com
@@ -481,6 +482,7 @@ domain_suffix_set:
   - gvt9.com
   - gwtproject.org
   - hackmd.io
+  - hanime1.com
   - hanime1.me
   - hanimeone.me
   - hanmail.net

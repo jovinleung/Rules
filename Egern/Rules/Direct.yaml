@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 363
+# 规则统计: 364
 
 no_resolve: true
 domain_set:
@@ -174,6 +174,7 @@ domain_suffix_set:
   - hbctic.com
   - hexiny.com
   - hf-mirror.com
+  - hijin.vip
   - hnxzctec.com
   - hsbc.com.hk
   - hstbroker.com

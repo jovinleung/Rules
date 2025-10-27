@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 365
+# 规则统计: 366
 
 no_resolve: true
 domain_set:
@@ -81,6 +81,7 @@ domain_suffix_set:
   - checkip.dyndns.org
   - checkipv6.dyndns.org
   - chenyuxia.com
+  - cheshire.top
   - chii.in
   - chujingapp.com
   - clivia.fun

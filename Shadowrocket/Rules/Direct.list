@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 365
+# 规则统计: 366
 
 DOMAIN,alt1-mtalk.google.com
 DOMAIN,alt2-mtalk.google.com
@@ -78,6 +78,7 @@ DOMAIN-SUFFIX,chaz.fun
 DOMAIN-SUFFIX,checkip.dyndns.org
 DOMAIN-SUFFIX,checkipv6.dyndns.org
 DOMAIN-SUFFIX,chenyuxia.com
+DOMAIN-SUFFIX,cheshire.top
 DOMAIN-SUFFIX,chii.in
 DOMAIN-SUFFIX,chujingapp.com
 DOMAIN-SUFFIX,clivia.fun

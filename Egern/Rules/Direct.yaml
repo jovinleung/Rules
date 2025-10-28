@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 366
+# 规则统计: 367
 
 no_resolve: true
 domain_set:
@@ -141,6 +141,7 @@ domain_suffix_set:
   - gh.ddlc.top
   - gh.llkk.cc
   - ghfast.top
+  - ghoxz.com
   - ghp.ci
   - ghproxy.cc
   - ghproxy.cfd

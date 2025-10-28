@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 365
+# 规则统计: 366
 
 HOST,alt1-mtalk.google.com,Direct
 HOST,alt2-mtalk.google.com,Direct
@@ -138,6 +138,7 @@ HOST-SUFFIX,gh.con.sh,Direct
 HOST-SUFFIX,gh.ddlc.top,Direct
 HOST-SUFFIX,gh.llkk.cc,Direct
 HOST-SUFFIX,ghfast.top,Direct
+HOST-SUFFIX,ghoxz.com,Direct
 HOST-SUFFIX,ghp.ci,Direct
 HOST-SUFFIX,ghproxy.cc,Direct
 HOST-SUFFIX,ghproxy.cfd,Direct

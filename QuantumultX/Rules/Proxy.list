@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1241
+# 规则统计: 1242
 
 HOST,ccmdl.adobe.com,Proxy
 HOST,community.oneplus.com,Proxy
@@ -98,6 +98,7 @@ HOST-SUFFIX,archive.org,Proxy
 HOST-SUFFIX,archive.today,Proxy
 HOST-SUFFIX,archiveofourown.org,Proxy
 HOST-SUFFIX,arduino.cc,Proxy
+HOST-SUFFIX,armorgames.com,Proxy
 HOST-SUFFIX,artstation.com,Proxy
 HOST-SUFFIX,ashemaletube.com,Proxy
 HOST-SUFFIX,ask.com,Proxy

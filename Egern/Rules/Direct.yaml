@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 369
+# 规则统计: 370
 
 no_resolve: true
 domain_set:
@@ -68,6 +68,7 @@ domain_suffix_set:
   - bdcb.cc
   - belimked.com
   - bgm.tv
+  - biandangroup.com
   - blog.google
   - bochk.com
   - boyuemobile.com

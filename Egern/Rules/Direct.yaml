@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 371
+# 规则统计: 373
 
 no_resolve: true
 domain_set:
@@ -63,6 +63,7 @@ domain_suffix_set:
   - anycubic.com
   - api.myip.com
   - armvm.com
+  - atticus.vip
   - baiyishequ.com
   - bangumi.tv
   - bdcb.cc
@@ -206,6 +207,7 @@ domain_suffix_set:
   - ipinfo.io
   - ipshu.com
   - istoreos.com
+  - jfjt.cc
   - jsdelivr.net
   - julebu.co
   - jxjktzjt.com

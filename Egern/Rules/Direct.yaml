@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 373
+# 规则统计: 374
 
 no_resolve: true
 domain_set:
@@ -109,6 +109,7 @@ domain_suffix_set:
   - dockerpull.pw
   - dothantech.com
   - douqq.com
+  - dskj-ops.com
   - dushe1.app
   - einfo-tech.com
   - englibrary.com

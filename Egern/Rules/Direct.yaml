@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 374
+# 规则统计: 376
 
 no_resolve: true
 domain_set:
@@ -209,6 +209,7 @@ domain_suffix_set:
   - ipshu.com
   - istoreos.com
   - jfjt.cc
+  - jiqw.com
   - jsdelivr.net
   - julebu.co
   - jxjktzjt.com
@@ -348,6 +349,7 @@ domain_suffix_set:
   - xdtool.com
   - xiankabao.com
   - xiaochuanyun.com
+  - xiberia.net
   - xinghaiwaimai.com
   - xixih.cc
   - xn--4kq62z5rby2qupq9ub.top

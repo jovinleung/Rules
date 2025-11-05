@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 376
+# 规则统计: 377
 
 no_resolve: true
 domain_set:
@@ -214,6 +214,7 @@ domain_suffix_set:
   - julebu.co
   - jxjktzjt.com
   - jxpp.com
+  - kaijiejinrong.com
   - kaspersky-labs.com
   - kaspersky.com
   - keyoo.com

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 377
+# 规则统计: 379
 
 no_resolve: true
 domain_set:
@@ -70,6 +70,7 @@ domain_suffix_set:
   - belimked.com
   - bgm.tv
   - biandangroup.com
+  - bing.com
   - blog.google
   - bochk.com
   - boyuemobile.com
@@ -83,6 +84,7 @@ domain_suffix_set:
   - checkip.dyndns.org
   - checkipv6.dyndns.org
   - chenyuxia.com
+  - cheriexsky.love
   - cheshire.top
   - chii.in
   - chujingapp.com

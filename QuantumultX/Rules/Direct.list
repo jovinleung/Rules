@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 376
+# 规则统计: 378
 
 HOST,alt1-mtalk.google.com,Direct
 HOST,alt2-mtalk.google.com,Direct
@@ -67,6 +67,7 @@ HOST-SUFFIX,bdcb.cc,Direct
 HOST-SUFFIX,belimked.com,Direct
 HOST-SUFFIX,bgm.tv,Direct
 HOST-SUFFIX,biandangroup.com,Direct
+HOST-SUFFIX,bing.com,Direct
 HOST-SUFFIX,blog.google,Direct
 HOST-SUFFIX,bochk.com,Direct
 HOST-SUFFIX,boyuemobile.com,Direct
@@ -80,6 +81,7 @@ HOST-SUFFIX,chaz.fun,Direct
 HOST-SUFFIX,checkip.dyndns.org,Direct
 HOST-SUFFIX,checkipv6.dyndns.org,Direct
 HOST-SUFFIX,chenyuxia.com,Direct
+HOST-SUFFIX,cheriexsky.love,Direct
 HOST-SUFFIX,cheshire.top,Direct
 HOST-SUFFIX,chii.in,Direct
 HOST-SUFFIX,chujingapp.com,Direct

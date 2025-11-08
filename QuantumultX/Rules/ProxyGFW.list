@@ -1,5 +1,5 @@
 # 规则名称: ProxyGFW
-# 规则统计: 7524
+# 规则统计: 7530
 
 HOST,ccmdl.adobe.com,ProxyGFW
 HOST,cloud.oracle.com,ProxyGFW
@@ -90,6 +90,7 @@ HOST-SUFFIX,24.com,ProxyGFW
 HOST-SUFFIX,24hrs.ca,ProxyGFW
 HOST-SUFFIX,24smile.org,ProxyGFW
 HOST-SUFFIX,25u.com,ProxyGFW
+HOST-SUFFIX,2ch.sc,ProxyGFW
 HOST-SUFFIX,2du5.com,ProxyGFW
 HOST-SUFFIX,2lipstube.com,ProxyGFW
 HOST-SUFFIX,2mdn.net,ProxyGFW
@@ -526,6 +527,7 @@ HOST-SUFFIX,av-e-body.com,ProxyGFW
 HOST-SUFFIX,av.com,ProxyGFW
 HOST-SUFFIX,av.movie,ProxyGFW
 HOST-SUFFIX,av01.tv,ProxyGFW
+HOST-SUFFIX,av28.com,ProxyGFW
 HOST-SUFFIX,avaaz.org,ProxyGFW
 HOST-SUFFIX,avbody.tv,ProxyGFW
 HOST-SUFFIX,avcity.tv,ProxyGFW
@@ -952,6 +954,7 @@ HOST-SUFFIX,camsoda.com,ProxyGFW
 HOST-SUFFIX,canadameet.com,ProxyGFW
 HOST-SUFFIX,canalporno.com,ProxyGFW
 HOST-SUFFIX,canarymail.io,ProxyGFW
+HOST-SUFFIX,cangku.moe,ProxyGFW
 HOST-SUFFIX,cantonese.asia,ProxyGFW
 HOST-SUFFIX,canyu.org,ProxyGFW
 HOST-SUFFIX,cao.im,ProxyGFW
@@ -3422,6 +3425,7 @@ HOST-SUFFIX,it,ProxyGFW
 HOST-SUFFIX,itaboo.info,ProxyGFW
 HOST-SUFFIX,italiatibet.org,ProxyGFW
 HOST-SUFFIX,itasoftware.com,ProxyGFW
+HOST-SUFFIX,itch.io,ProxyGFW
 HOST-SUFFIX,itemdb.com,ProxyGFW
 HOST-SUFFIX,itemfix.com,ProxyGFW
 HOST-SUFFIX,ithome.com.tw,ProxyGFW
@@ -4945,6 +4949,7 @@ HOST-SUFFIX,poloniex.com,ProxyGFW
 HOST-SUFFIX,polymarket.com,ProxyGFW
 HOST-SUFFIX,polymer-project.org,ProxyGFW
 HOST-SUFFIX,polymerhk.com,ProxyGFW
+HOST-SUFFIX,pomf.cat,ProxyGFW
 HOST-SUFFIX,poolbinance.com,ProxyGFW
 HOST-SUFFIX,poolin.com,ProxyGFW
 HOST-SUFFIX,popai.pro,ProxyGFW
@@ -7332,6 +7337,7 @@ HOST-SUFFIX,zapto.org,ProxyGFW
 HOST-SUFFIX,zattoo.com,ProxyGFW
 HOST-SUFFIX,zb.com,ProxyGFW
 HOST-SUFFIX,zbporn.com,ProxyGFW
+HOST-SUFFIX,zdnet.com,ProxyGFW
 HOST-SUFFIX,zdnet.com.tw,ProxyGFW
 HOST-SUFFIX,zeabur.com,ProxyGFW
 HOST-SUFFIX,zello.com,ProxyGFW

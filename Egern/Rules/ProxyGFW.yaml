@@ -1,5 +1,5 @@
 # 规则名称: ProxyGFW
-# 规则统计: 7523
+# 规则统计: 7529
 
 no_resolve: true
 domain_set:
@@ -93,6 +93,7 @@ domain_suffix_set:
   - 24hrs.ca
   - 24smile.org
   - 25u.com
+  - 2ch.sc
   - 2du5.com
   - 2lipstube.com
   - 2mdn.net
@@ -529,6 +530,7 @@ domain_suffix_set:
   - av.com
   - av.movie
   - av01.tv
+  - av28.com
   - avaaz.org
   - avbody.tv
   - avcity.tv
@@ -955,6 +957,7 @@ domain_suffix_set:
   - canadameet.com
   - canalporno.com
   - canarymail.io
+  - cangku.moe
   - cantonese.asia
   - canyu.org
   - cao.im
@@ -3425,6 +3428,7 @@ domain_suffix_set:
   - itaboo.info
   - italiatibet.org
   - itasoftware.com
+  - itch.io
   - itemdb.com
   - itemfix.com
   - ithome.com.tw
@@ -4948,6 +4952,7 @@ domain_suffix_set:
   - polymarket.com
   - polymer-project.org
   - polymerhk.com
+  - pomf.cat
   - poolbinance.com
   - poolin.com
   - popai.pro
@@ -7335,6 +7340,7 @@ domain_suffix_set:
   - zattoo.com
   - zb.com
   - zbporn.com
+  - zdnet.com
   - zdnet.com.tw
   - zeabur.com
   - zello.com

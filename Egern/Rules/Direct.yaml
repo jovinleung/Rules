@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 379
+# 规则统计: 380
 
 no_resolve: true
 domain_set:
@@ -37,6 +37,7 @@ domain_suffix_set:
   - 115cdn.de
   - 1996999.xyz
   - 204cloud.com
+  - 3dwhere.com
   - 4399zmxy.com
   - 51wanxue.com
   - 51zmt.top

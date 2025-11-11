@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1257
+# 规则统计: 1258
 
 DOMAIN,ccmdl.adobe.com
 DOMAIN,community.oneplus.com
@@ -1177,6 +1177,7 @@ DOMAIN-SUFFIX,wiki2.org
 DOMAIN-SUFFIX,wikibooks.org
 DOMAIN-SUFFIX,wikidata.org
 DOMAIN-SUFFIX,wikidot.com
+DOMAIN-SUFFIX,wikifunctions.org
 DOMAIN-SUFFIX,wikihow.com
 DOMAIN-SUFFIX,wikileaks.org
 DOMAIN-SUFFIX,wikimedia.org

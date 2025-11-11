@@ -1,5 +1,5 @@
 # 规则名称: ProxyGFW
-# 规则统计: 7530
+# 规则统计: 7531
 
 no_resolve: true
 domain_set:
@@ -6979,6 +6979,7 @@ domain_suffix_set:
   - wikibooks.org
   - wikidata.org
   - wikidot.com
+  - wikifunctions.org
   - wikihow.com
   - wikileaks-forum.com
   - wikileaks.ch

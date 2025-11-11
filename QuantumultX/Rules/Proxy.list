@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1258
+# 规则统计: 1259
 
 HOST,ccmdl.adobe.com,Proxy
 HOST,community.oneplus.com,Proxy
@@ -1177,6 +1177,7 @@ HOST-SUFFIX,wiki2.org,Proxy
 HOST-SUFFIX,wikibooks.org,Proxy
 HOST-SUFFIX,wikidata.org,Proxy
 HOST-SUFFIX,wikidot.com,Proxy
+HOST-SUFFIX,wikifunctions.org,Proxy
 HOST-SUFFIX,wikihow.com,Proxy
 HOST-SUFFIX,wikileaks.org,Proxy
 HOST-SUFFIX,wikimedia.org,Proxy

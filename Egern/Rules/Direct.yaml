@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 381
+# 规则统计: 382
 
 no_resolve: true
 domain_set:
@@ -283,6 +283,7 @@ domain_suffix_set:
   - privateapi.xyz
   - ptl.gs
   - ptlgs.org
+  - pwithe.com
   - qiankunshopping.com
   - qianuni.com
   - qianxuecloud.com

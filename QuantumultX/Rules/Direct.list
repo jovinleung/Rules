@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 380
+# 规则统计: 381
 
 HOST,alt1-mtalk.google.com,Direct
 HOST,alt2-mtalk.google.com,Direct
@@ -280,6 +280,7 @@ HOST-SUFFIX,powershellgallery.com,Direct
 HOST-SUFFIX,privateapi.xyz,Direct
 HOST-SUFFIX,ptl.gs,Direct
 HOST-SUFFIX,ptlgs.org,Direct
+HOST-SUFFIX,pwithe.com,Direct
 HOST-SUFFIX,qiankunshopping.com,Direct
 HOST-SUFFIX,qianuni.com,Direct
 HOST-SUFFIX,qianxuecloud.com,Direct

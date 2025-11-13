@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 383
+# 规则统计: 382
 
 no_resolve: true
 domain_set:
@@ -71,7 +71,6 @@ domain_suffix_set:
   - belimked.com
   - bgm.tv
   - biandangroup.com
-  - bing.com
   - blog.google
   - bochk.com
   - boyuemobile.com

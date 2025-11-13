@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 382
+# 规则统计: 383
 
 no_resolve: true
 domain_set:
@@ -56,6 +56,7 @@ domain_suffix_set:
   - adobe.com
   - afeica.com
   - afuns.me
+  - aichangbaishan.com
   - aihubmix.com
   - aistudio-app.com
   - akamaihd.net

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 383
+# 规则统计: 385
 
 no_resolve: true
 domain_set:
@@ -88,6 +88,7 @@ domain_suffix_set:
   - cheriexsky.love
   - cheshire.top
   - chii.in
+  - chinatle.com
   - chujingapp.com
   - clivia.fun
   - cn-music.mefun.vip
@@ -265,6 +266,7 @@ domain_suffix_set:
   - oceando.cloud
   - ok321.top
   - onebuygz.com
+  - opentrust.net
   - ottai.com
   - ourschool.cc
   - paperang.com

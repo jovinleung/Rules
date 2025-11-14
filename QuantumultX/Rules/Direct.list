@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 382
+# 规则统计: 384
 
 HOST,alt1-mtalk.google.com,Direct
 HOST,alt2-mtalk.google.com,Direct
@@ -85,6 +85,7 @@ HOST-SUFFIX,chenyuxia.com,Direct
 HOST-SUFFIX,cheriexsky.love,Direct
 HOST-SUFFIX,cheshire.top,Direct
 HOST-SUFFIX,chii.in,Direct
+HOST-SUFFIX,chinatle.com,Direct
 HOST-SUFFIX,chujingapp.com,Direct
 HOST-SUFFIX,clivia.fun,Direct
 HOST-SUFFIX,cn-music.mefun.vip,Direct
@@ -262,6 +263,7 @@ HOST-SUFFIX,nxog.top,Direct
 HOST-SUFFIX,oceando.cloud,Direct
 HOST-SUFFIX,ok321.top,Direct
 HOST-SUFFIX,onebuygz.com,Direct
+HOST-SUFFIX,opentrust.net,Direct
 HOST-SUFFIX,ottai.com,Direct
 HOST-SUFFIX,ourschool.cc,Direct
 HOST-SUFFIX,paperang.com,Direct

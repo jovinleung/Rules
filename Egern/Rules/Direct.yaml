@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 385
+# 规则统计: 386
 
 no_resolve: true
 domain_set:
@@ -301,6 +301,7 @@ domain_suffix_set:
   - sanligu.top
   - sapphiretech.com
   - scbaijia.com
+  - sct.ftqq.com
   - seaflysoft.com
   - seedpace.com
   - sgtv.ii00.cc

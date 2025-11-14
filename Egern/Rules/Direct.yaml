@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 386
+# 规则统计: 388
 
 no_resolve: true
 domain_set:
@@ -72,6 +72,7 @@ domain_suffix_set:
   - belimked.com
   - bgm.tv
   - biandangroup.com
+  - biaoda.me
   - blog.google
   - bochk.com
   - boyuemobile.com
@@ -261,6 +262,7 @@ domain_suffix_set:
   - neihang.net
   - netzz.net
   - nhk.or.jp
+  - nicezhuanye.com
   - nn.ci
   - nxog.top
   - oceando.cloud

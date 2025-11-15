@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 390
+# 规则统计: 391
 
 no_resolve: true
 domain_set:
@@ -385,6 +385,7 @@ domain_suffix_set:
   - zjxhedu.com
   - znnu.com
   - znztv.com
+  - ztytech.com
   - zuobiao.press
 domain_keyword_set:
   - m-team

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 388
+# 规则统计: 390
 
 DOMAIN,alt1-mtalk.google.com
 DOMAIN,alt2-mtalk.google.com
@@ -97,6 +97,7 @@ DOMAIN-SUFFIX,coffee-iot.com
 DOMAIN-SUFFIX,congmiqq.com
 DOMAIN-SUFFIX,coros.com
 DOMAIN-SUFFIX,crtyhr.com
+DOMAIN-SUFFIX,day.app
 DOMAIN-SUFFIX,dcgstd.com
 DOMAIN-SUFFIX,ddsrem.com
 DOMAIN-SUFFIX,ddxq.mobi
@@ -367,6 +368,7 @@ DOMAIN-SUFFIX,xxrsm.com
 DOMAIN-SUFFIX,xzsckj.com
 DOMAIN-SUFFIX,ydayc.com
 DOMAIN-SUFFIX,yiso.fun
+DOMAIN-SUFFIX,yixc.com
 DOMAIN-SUFFIX,yongyu.xyz
 DOMAIN-SUFFIX,yooc.me
 DOMAIN-SUFFIX,yunzuoye.net

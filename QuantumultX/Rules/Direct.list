@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 387
+# 规则统计: 389
 
 HOST,alt1-mtalk.google.com,Direct
 HOST,alt2-mtalk.google.com,Direct
@@ -97,6 +97,7 @@ HOST-SUFFIX,coffee-iot.com,Direct
 HOST-SUFFIX,congmiqq.com,Direct
 HOST-SUFFIX,coros.com,Direct
 HOST-SUFFIX,crtyhr.com,Direct
+HOST-SUFFIX,day.app,Direct
 HOST-SUFFIX,dcgstd.com,Direct
 HOST-SUFFIX,ddsrem.com,Direct
 HOST-SUFFIX,ddxq.mobi,Direct
@@ -367,6 +368,7 @@ HOST-SUFFIX,xxrsm.com,Direct
 HOST-SUFFIX,xzsckj.com,Direct
 HOST-SUFFIX,ydayc.com,Direct
 HOST-SUFFIX,yiso.fun,Direct
+HOST-SUFFIX,yixc.com,Direct
 HOST-SUFFIX,yongyu.xyz,Direct
 HOST-SUFFIX,yooc.me,Direct
 HOST-SUFFIX,yunzuoye.net,Direct

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 388
+# 规则统计: 390
 
 no_resolve: true
 domain_set:
@@ -100,6 +100,7 @@ domain_suffix_set:
   - congmiqq.com
   - coros.com
   - crtyhr.com
+  - day.app
   - dcgstd.com
   - ddsrem.com
   - ddxq.mobi
@@ -370,6 +371,7 @@ domain_suffix_set:
   - xzsckj.com
   - ydayc.com
   - yiso.fun
+  - yixc.com
   - yongyu.xyz
   - yooc.me
   - yunzuoye.net

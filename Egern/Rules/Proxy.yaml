@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1273
+# 规则统计: 1276
 
 no_resolve: true
 domain_set:
@@ -28,6 +28,7 @@ domain_suffix_set:
   - 24.com
   - 2ch.sc
   - 360ssh.com
+  - 3dporndude.com
   - 3movs.com
   - 4cdn.org
   - 4chan.org
@@ -502,6 +503,7 @@ domain_suffix_set:
   - hentaifox.com
   - hentaipaw.com
   - hentaiplay.net
+  - hentaiporns.net
   - hentaistream.com
   - heroku.com
   - herokuapp.com
@@ -738,6 +740,7 @@ domain_suffix_set:
   - myanimeshelf.com
   - mydnsleaktest.com
   - myfreecams.com
+  - myfutanari.com
   - myipstack.com
   - mypikpak.com
   - myspace.com

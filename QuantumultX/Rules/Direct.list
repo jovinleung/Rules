@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 390
+# 规则统计: 392
 
 HOST,alt1-mtalk.google.com,Direct
 HOST,alt2-mtalk.google.com,Direct
@@ -34,6 +34,7 @@ HOST-SUFFIX,112114.xyz,Direct
 HOST-SUFFIX,115cdn.de,Direct
 HOST-SUFFIX,1996999.xyz,Direct
 HOST-SUFFIX,204cloud.com,Direct
+HOST-SUFFIX,3d-apollo.com,Direct
 HOST-SUFFIX,3dwhere.com,Direct
 HOST-SUFFIX,4399zmxy.com,Direct
 HOST-SUFFIX,51wanxue.com,Direct
@@ -331,6 +332,7 @@ HOST-SUFFIX,test-ipv6.com,Direct
 HOST-SUFFIX,thinkerride.com,Direct
 HOST-SUFFIX,tool56.com,Direct
 HOST-SUFFIX,tozi-cn.top,Direct
+HOST-SUFFIX,tulipsport.com,Direct
 HOST-SUFFIX,tumukaoyan.com,Direct
 HOST-SUFFIX,tuxing.art,Direct
 HOST-SUFFIX,u-carloan.com,Direct

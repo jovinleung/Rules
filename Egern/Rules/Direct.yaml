@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 391
+# 规则统计: 393
 
 no_resolve: true
 domain_set:
@@ -37,6 +37,7 @@ domain_suffix_set:
   - 115cdn.de
   - 1996999.xyz
   - 204cloud.com
+  - 3d-apollo.com
   - 3dwhere.com
   - 4399zmxy.com
   - 51wanxue.com
@@ -334,6 +335,7 @@ domain_suffix_set:
   - thinkerride.com
   - tool56.com
   - tozi-cn.top
+  - tulipsport.com
   - tumukaoyan.com
   - tuxing.art
   - u-carloan.com

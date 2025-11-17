@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 392
+# 规则统计: 393
 
 HOST,alt1-mtalk.google.com,Direct
 HOST,alt2-mtalk.google.com,Direct
@@ -116,6 +116,7 @@ HOST-SUFFIX,dothantech.com,Direct
 HOST-SUFFIX,douqq.com,Direct
 HOST-SUFFIX,dskj-ops.com,Direct
 HOST-SUFFIX,dushe1.app,Direct
+HOST-SUFFIX,easytier.top,Direct
 HOST-SUFFIX,einfo-tech.com,Direct
 HOST-SUFFIX,englibrary.com,Direct
 HOST-SUFFIX,epg.aptv.app,Direct

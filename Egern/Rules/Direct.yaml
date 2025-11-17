@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 393
+# 规则统计: 394
 
 no_resolve: true
 domain_set:
@@ -119,6 +119,7 @@ domain_suffix_set:
   - douqq.com
   - dskj-ops.com
   - dushe1.app
+  - easytier.top
   - einfo-tech.com
   - englibrary.com
   - epg.aptv.app

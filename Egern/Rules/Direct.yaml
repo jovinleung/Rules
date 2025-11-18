@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 394
+# 规则统计: 397
 
 no_resolve: true
 domain_set:
@@ -139,6 +139,7 @@ domain_suffix_set:
   - fssbcc.top
   - fsytss.com
   - ft07.com
+  - fuziche.com
   - fzvcolco.com
   - fzwqq.com
   - gaishitongshu.com
@@ -183,9 +184,11 @@ domain_suffix_set:
   - gxnnjidingkeji.top
   - gzybao.com
   - halvie.com
+  - ham.xin
   - haoxueche.com
   - hbcof.com
   - hbctic.com
+  - hdbz.net
   - hexiny.com
   - hf-mirror.com
   - hijin.vip

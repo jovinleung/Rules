@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 397
+# 规则统计: 399
 
 no_resolve: true
 domain_set:
@@ -63,6 +63,7 @@ domain_suffix_set:
   - akamaihd.net
   - akamaized.net
   - aloys233.top
+  - antping.com
   - anycubic.com
   - api.myip.com
   - armvm.com
@@ -375,6 +376,7 @@ domain_suffix_set:
   - xxir.com
   - xxrsm.com
   - xzsckj.com
+  - xzzhtc.com
   - ydayc.com
   - yiso.fun
   - yixc.com

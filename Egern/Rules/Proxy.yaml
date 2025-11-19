@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1276
+# 规则统计: 1309
 
 no_resolve: true
 domain_set:
@@ -118,6 +118,7 @@ domain_suffix_set:
   - auth0.com
   - autodesk.com
   - autodraw.com
+  - av-wiki.net
   - av28.com
   - avg.com
   - avgle.com
@@ -143,7 +144,9 @@ domain_suffix_set:
   - beacondb.net
   - behance.net
   - bestbuy.com
+  - bet
   - bet365.com
+  - bg
   - bgp.he.net
   - bgp.tools
   - bibox.com
@@ -314,6 +317,7 @@ domain_suffix_set:
   - dnsleaktest.com
   - dnsleaktest.org
   - docker.com
+  - dockerstatus.com
   - doujins.com
   - downdetector.com
   - downdetectorapi.com
@@ -330,6 +334,7 @@ domain_suffix_set:
   - dynu.net
   - e-hentai.org
   - e621.net
+  - ec
   - economist.com
   - edgeapp.net
   - edgecastcdn.net
@@ -372,12 +377,14 @@ domain_suffix_set:
   - feedburner.com
   - feeder.co
   - feedly.com
+  - ff.im
   - fide.com
   - figma.com
   - findagrave.com
   - firebase.com
   - firebaseio.com
   - firefox.com
+  - fish.audio
   - fixupx.com
   - fixvx.com
   - flickr.com
@@ -395,6 +402,9 @@ domain_suffix_set:
   - fourhoi.com,P
   - foxnews.com
   - fr
+  - framer.com
+  - freebeacon.com
+  - freecodecamp.org
   - freedownloadmanager.org
   - freemacsoft.net
   - freepik.com
@@ -521,6 +531,7 @@ domain_suffix_set:
   - hsex.men
   - hsforms.com
   - hsforms.net
+  - html5rocks.com
   - hubspotlinksstarter.com
   - hubspotstarter.net
   - huffpost.com
@@ -539,11 +550,13 @@ domain_suffix_set:
   - iconfinder.com
   - id
   - idrive.com
+  - ie
   - ietf.org
   - ifixit.com
   - ifttt.com
   - iheart.com
   - iina.io
+  - il
   - iloveimg.com
   - imagefap.com
   - imagekit.io
@@ -571,6 +584,7 @@ domain_suffix_set:
   - ipinfo.io
   - ipleak.net
   - iporntv.net
+  - ir
   - is
   - issuu.com
   - istatmenus.app
@@ -598,6 +612,7 @@ domain_suffix_set:
   - javtsunami.com
   - javwind.com
   - javynow.com
+  - jiji.com
   - jirachecklist.com
   - jkforum.net
   - jotform.com
@@ -626,6 +641,7 @@ domain_suffix_set:
   - kobo.com
   - komoot.com
   - komoot.net
+  - konachan.com
   - kr
   - kraken.com
   - kucoin.com
@@ -671,17 +687,20 @@ domain_suffix_set:
   - macpaw.com
   - macupdate.com
   - madewithcode.com
+  - mailchimp.com
   - majsoul.union-game.com
   - makerworld.com
   - malwarebytes.com
   - mangafox.me
   - manhuabika.com
+  - manhuagui.com
   - mapbox.com
   - maptiler.com
   - mastodon.online
   - material.io
   - matrix.org
   - matters.town
+  - maxjav.com
   - mayoclinic.org
   - md
   - medallia.com
@@ -696,6 +715,8 @@ domain_suffix_set:
   - metacubex.one
   - metamask.io
   - mexc.com
+  - mg
+  - micro.blog
   - microsoft-falcon.io
   - microsoftapp.net
   - mikanani.me
@@ -790,6 +811,7 @@ domain_suffix_set:
   - nsfwr34.com
   - nsloon.app
   - nssurge.com
+  - ny1.com
   - nyaa.land
   - nyaa.si
   - nypost.com
@@ -816,6 +838,7 @@ domain_suffix_set:
   - onepluscommunityserver.com
   - opencollective.com
   - openfreemap.org
+  - openlibrary.org
   - opensea.io
   - openstreetmap.org
   - opentable.com
@@ -832,6 +855,7 @@ domain_suffix_set:
   - party
   - pastebin.com
   - patreon.com
+  - pawoo.net
   - pe
   - peeringdb.com
   - perfect-privacy.com
@@ -851,6 +875,7 @@ domain_suffix_set:
   - pixelscan.net
   - pixiv.net
   - pixiv.org
+  - pk
   - pl
   - platformio.org
   - playboy.com
@@ -868,6 +893,7 @@ domain_suffix_set:
   - pornhost.com
   - pornhub.com
   - pornhub.org
+  - pornmate.com
   - pornmd.com
   - pornoxo.com
   - pornpics.com
@@ -935,8 +961,11 @@ domain_suffix_set:
   - rferl.org
   - rip
   - ripe.net
+  - riseup.net
+  - ro
   - roboflow.com
   - rocketgirls.space
+  - rocks
   - rottentomatoes.com
   - rs
   - rtings.com
@@ -1071,6 +1100,7 @@ domain_suffix_set:
   - themoviedb.org
   - thenewstack.io
   - thepiratebay.org
+  - theporndude.com
   - theregister.com
   - thesaurus.com
   - thetvdb.com
@@ -1127,6 +1157,7 @@ domain_suffix_set:
   - ui.com
   - uk
   - umblr.com
+  - underhentai.net
   - unsplash.com
   - upcitemdb.com
   - updownradar.com
@@ -1231,6 +1262,7 @@ domain_suffix_set:
   - x-art.com
   - x.com
   - x.company
+  - xbooru.com
   - xchina.co
   - xdaforums.com
   - xfinity.com
@@ -1245,6 +1277,7 @@ domain_suffix_set:
   - xnxx.com
   - xpressunblock.com
   - xquartz.org
+  - xvideo-jp.com
   - xvideos-cdn.com
   - xvideos.com
   - xxx

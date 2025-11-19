@@ -1,5 +1,5 @@
 # 规则名称: ProxyGFW
-# 规则统计: 7543
+# 规则统计: 7565
 
 no_resolve: true
 domain_set:
@@ -528,6 +528,7 @@ domain_suffix_set:
   - autodesk.com
   - autodraw.com
   - av-e-body.com
+  - av-wiki.net
   - av.com
   - av.movie
   - av01.tv
@@ -668,6 +669,7 @@ domain_suffix_set:
   - bestvpnserver.com
   - bestvpnservice.com
   - bestvpnusa.com
+  - bet
   - bet365.com
   - betaclouds.net
   - betfair.com
@@ -679,6 +681,7 @@ domain_suffix_set:
   - beyondfirewall.com
   - bfnn.org
   - bfsh.hk
+  - bg
   - bgme.me
   - bgp.he.net
   - bgp.tools
@@ -1621,6 +1624,7 @@ domain_suffix_set:
   - doc.new
   - docker.com
   - docker.io
+  - dockerstatus.com
   - docs.cfw.lbyczf.com
   - docs.new
   - doctorvoice.org
@@ -1763,6 +1767,7 @@ domain_suffix_set:
   - ebookbrowse.com
   - ebookee.com
   - ebtcbank.com
+  - ec
   - ecfa.org.tw
   - echainhost.com
   - echofon.com
@@ -2162,6 +2167,7 @@ domain_suffix_set:
   - fqok.org
   - fqrouter.com
   - fr
+  - framer.com
   - frank2019.me
   - franklc.com
   - freakshare.com
@@ -2183,6 +2189,7 @@ domain_suffix_set:
   - freechina.news
   - freechinaforum.org
   - freechinaweibo.com
+  - freecodecamp.org
   - freeddns.com
   - freeddns.org
   - freedl.org
@@ -3252,6 +3259,7 @@ domain_suffix_set:
   - idrive.com
   - idsam.com
   - idv.tw
+  - ie
   - ieasy5.com
   - ied2k.net
   - ienergy1.com
@@ -3279,6 +3287,7 @@ domain_suffix_set:
   - iina.io
   - ikstar.com
   - ikwb.com
+  - il
   - ilbe.com
   - ilhamtohtiinstitute.org
   - illawarramercury.com.au
@@ -3391,6 +3400,7 @@ domain_suffix_set:
   - iptv.com.tw
   - iptvbin.com
   - ipvanish.com
+  - ir
   - irangov.ir
   - iredmail.org
   - irib.ir
@@ -3959,6 +3969,7 @@ domain_suffix_set:
   - mangafox.me
   - mangmang.run
   - manhuabika.com
+  - manhuagui.com
   - maniash.com
   - manicur4ik.ru
   - mansion.com
@@ -3999,6 +4010,7 @@ domain_suffix_set:
   - maturejp.com
   - maven.org
   - maxing.jp
+  - maxjav.com
   - mayimayi.com
   - mayoclinic.org
   - mcadforums.com
@@ -4073,11 +4085,13 @@ domain_suffix_set:
   - meyou.jp
   - meyul.com
   - mfxmedia.com
+  - mg
   - mgoon.com
   - mgstage.com
   - mh4u.org
   - mhradio.org
   - michaelmarketl.com
+  - micro.blog
   - microsoft-falcon.io
   - microsoft.com
   - microsoftapp.net
@@ -4581,6 +4595,7 @@ domain_suffix_set:
   - nvtongzhisheng.org
   - nwtca.org
   - ny.stgloballink.com
+  - ny1.com
   - nyaa.eu
   - nyaa.land
   - nyaa.si
@@ -4698,6 +4713,7 @@ domain_suffix_set:
   - openfreemap.org
   - openid.net
   - openleaks.org
+  - openlibrary.org
   - opensea.io
   - openstreetmap.org
   - opentable.com
@@ -4916,6 +4932,7 @@ domain_suffix_set:
   - pixivsketch.net
   - pixnet.in
   - pixnet.net
+  - pk
   - pk.com
   - pki.goog
   - pkqjiasu.com
@@ -5309,6 +5326,7 @@ domain_suffix_set:
   - rmbl.ws
   - rmjdw.com
   - rmjdw132.info
+  - ro
   - roadshow.hk
   - roboflow.com
   - roboforex.com
@@ -5318,6 +5336,7 @@ domain_suffix_set:
   - rocketbbs.com
   - rocketcdn.me
   - rocketgirls.space
+  - rocks
   - rocksdb.org
   - rojo.com
   - rolfoundation.org
@@ -6590,6 +6609,7 @@ domain_suffix_set:
   - uncyclomedia.org
   - uncyclopedia.hk
   - uncyclopedia.tw
+  - underhentai.net
   - underlords.com
   - underwoodammo.com
   - unholyknight.com
@@ -7127,6 +7147,7 @@ domain_suffix_set:
   - xanga.com
   - xbabe.com
   - xbookcn.com
+  - xbooru.com
   - xbtce.com
   - xcafe.in
   - xchina.co
@@ -7209,6 +7230,7 @@ domain_suffix_set:
   - xuite.net
   - xuzhiyong.net
   - xvbelink.com
+  - xvideo-jp.com
   - xvideo.cc
   - xvideos-cdn.com
   - xvideos.com

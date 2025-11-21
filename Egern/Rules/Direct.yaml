@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 399
+# 规则统计: 401
 
 no_resolve: true
 domain_set:
@@ -221,6 +221,7 @@ domain_suffix_set:
   - ipinfo.io
   - ipshu.com
   - istoreos.com
+  - itptg.com
   - jfjt.cc
   - jiqw.com
   - jsdelivr.net
@@ -238,6 +239,7 @@ domain_suffix_set:
   - kuaicha888.com
   - kyarucloud.moe
   - lanyun.net
+  - laogongju.com
   - lcdn-locator.apple.com
   - lcdn-registration.apple.com
   - leelen.com

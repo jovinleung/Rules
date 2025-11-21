@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 399
+# 规则统计: 401
 
 DOMAIN,alt1-mtalk.google.com
 DOMAIN,alt2-mtalk.google.com
@@ -218,6 +218,7 @@ DOMAIN-SUFFIX,ipapi.co
 DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,ipshu.com
 DOMAIN-SUFFIX,istoreos.com
+DOMAIN-SUFFIX,itptg.com
 DOMAIN-SUFFIX,jfjt.cc
 DOMAIN-SUFFIX,jiqw.com
 DOMAIN-SUFFIX,jsdelivr.net
@@ -235,6 +236,7 @@ DOMAIN-SUFFIX,knit.bid
 DOMAIN-SUFFIX,kuaicha888.com
 DOMAIN-SUFFIX,kyarucloud.moe
 DOMAIN-SUFFIX,lanyun.net
+DOMAIN-SUFFIX,laogongju.com
 DOMAIN-SUFFIX,lcdn-locator.apple.com
 DOMAIN-SUFFIX,lcdn-registration.apple.com
 DOMAIN-SUFFIX,leelen.com

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 400
+# 规则统计: 401
 
 HOST,alt1-mtalk.google.com,Direct
 HOST,alt2-mtalk.google.com,Direct
@@ -342,6 +342,7 @@ HOST-SUFFIX,tozi-cn.top,Direct
 HOST-SUFFIX,tulipsport.com,Direct
 HOST-SUFFIX,tumukaoyan.com,Direct
 HOST-SUFFIX,tuxing.art,Direct
+HOST-SUFFIX,twinkstar.com,Direct
 HOST-SUFFIX,u-carloan.com,Direct
 HOST-SUFFIX,ugdocker.link,Direct
 HOST-SUFFIX,ulife.group,Direct

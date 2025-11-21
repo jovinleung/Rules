@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 401
+# 规则统计: 402
 
 no_resolve: true
 domain_set:
@@ -345,6 +345,7 @@ domain_suffix_set:
   - tulipsport.com
   - tumukaoyan.com
   - tuxing.art
+  - twinkstar.com
   - u-carloan.com
   - ugdocker.link
   - ulife.group

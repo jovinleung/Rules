@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 401
+# 规则统计: 403
 
 HOST,alt1-mtalk.google.com,Direct
 HOST,alt2-mtalk.google.com,Direct
@@ -203,6 +203,7 @@ HOST-SUFFIX,hwbim.com,Direct
 HOST-SUFFIX,hwjianmo.com,Direct
 HOST-SUFFIX,hwzuku.com,Direct
 HOST-SUFFIX,hzlawyer.net,Direct
+HOST-SUFFIX,hzqsn.com,Direct
 HOST-SUFFIX,icvcs.com,Direct
 HOST-SUFFIX,idsduf.com,Direct
 HOST-SUFFIX,ifconfig.co,Direct
@@ -300,6 +301,7 @@ HOST-SUFFIX,qianxuecloud.com,Direct
 HOST-SUFFIX,qianxueyunke.com,Direct
 HOST-SUFFIX,qiaoxuesi.com,Direct
 HOST-SUFFIX,qinglue.com,Direct
+HOST-SUFFIX,qmeng.top,Direct
 HOST-SUFFIX,redenmc.com,Direct
 HOST-SUFFIX,registry.dockermirror.com,Direct
 HOST-SUFFIX,rewards.bing.com,Direct

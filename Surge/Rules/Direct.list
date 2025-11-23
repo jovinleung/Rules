@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 402
+# 规则统计: 404
 
 DOMAIN,alt1-mtalk.google.com
 DOMAIN,alt2-mtalk.google.com
@@ -203,6 +203,7 @@ DOMAIN-SUFFIX,hwbim.com
 DOMAIN-SUFFIX,hwjianmo.com
 DOMAIN-SUFFIX,hwzuku.com
 DOMAIN-SUFFIX,hzlawyer.net
+DOMAIN-SUFFIX,hzqsn.com
 DOMAIN-SUFFIX,icvcs.com
 DOMAIN-SUFFIX,idsduf.com
 DOMAIN-SUFFIX,ifconfig.co
@@ -300,6 +301,7 @@ DOMAIN-SUFFIX,qianxuecloud.com
 DOMAIN-SUFFIX,qianxueyunke.com
 DOMAIN-SUFFIX,qiaoxuesi.com
 DOMAIN-SUFFIX,qinglue.com
+DOMAIN-SUFFIX,qmeng.top
 DOMAIN-SUFFIX,redenmc.com
 DOMAIN-SUFFIX,registry.dockermirror.com
 DOMAIN-SUFFIX,rewards.bing.com

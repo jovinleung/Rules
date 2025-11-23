@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 402
+# 规则统计: 404
 
 no_resolve: true
 domain_set:
@@ -206,6 +206,7 @@ domain_suffix_set:
   - hwjianmo.com
   - hwzuku.com
   - hzlawyer.net
+  - hzqsn.com
   - icvcs.com
   - idsduf.com
   - ifconfig.co
@@ -303,6 +304,7 @@ domain_suffix_set:
   - qianxueyunke.com
   - qiaoxuesi.com
   - qinglue.com
+  - qmeng.top
   - redenmc.com
   - registry.dockermirror.com
   - rewards.bing.com

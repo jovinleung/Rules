@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 404
+# 规则统计: 405
 
 no_resolve: true
 domain_set:
@@ -224,6 +224,7 @@ domain_suffix_set:
   - istoreos.com
   - itptg.com
   - jfjt.cc
+  - jh96095.com
   - jiqw.com
   - jsdelivr.net
   - julebu.co

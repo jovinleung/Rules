@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 404
+# 规则统计: 405
 
 DOMAIN,alt1-mtalk.google.com
 DOMAIN,alt2-mtalk.google.com
@@ -221,6 +221,7 @@ DOMAIN-SUFFIX,ipshu.com
 DOMAIN-SUFFIX,istoreos.com
 DOMAIN-SUFFIX,itptg.com
 DOMAIN-SUFFIX,jfjt.cc
+DOMAIN-SUFFIX,jh96095.com
 DOMAIN-SUFFIX,jiqw.com
 DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,julebu.co

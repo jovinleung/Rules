@@ -1,5 +1,5 @@
 # 规则名称: AI
-# 规则统计: 57
+# 规则统计: 58
 
 domain_set:
   - ai.google.dev
@@ -23,6 +23,7 @@ domain_suffix_set:
   - chat.com
   - chatgpt.com
   - claude.ai
+  - claude.com
   - client-api.arkoselabs.com
   - clipdrop.co
   - cloudcode-pa.googleapis.com

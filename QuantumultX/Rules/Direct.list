@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 404
+# 规则统计: 403
 
 HOST,alt1-mtalk.google.com,Direct
 HOST,alt2-mtalk.google.com,Direct
@@ -216,7 +216,6 @@ HOST-SUFFIX,iotrix.net,Direct
 HOST-SUFFIX,ip159.com,Direct
 HOST-SUFFIX,ip6.seeip.org,Direct
 HOST-SUFFIX,ipapi.co,Direct
-HOST-SUFFIX,ipinfo.io,Direct
 HOST-SUFFIX,ipshu.com,Direct
 HOST-SUFFIX,istoreos.com,Direct
 HOST-SUFFIX,itptg.com,Direct

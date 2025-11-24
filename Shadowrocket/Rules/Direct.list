@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 405
+# 规则统计: 404
 
 DOMAIN,alt1-mtalk.google.com
 DOMAIN,alt2-mtalk.google.com
@@ -216,7 +216,6 @@ DOMAIN-SUFFIX,iotrix.net
 DOMAIN-SUFFIX,ip159.com
 DOMAIN-SUFFIX,ip6.seeip.org
 DOMAIN-SUFFIX,ipapi.co
-DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,ipshu.com
 DOMAIN-SUFFIX,istoreos.com
 DOMAIN-SUFFIX,itptg.com

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 404
+# 规则统计: 405
 
 DOMAIN,alt1-mtalk.google.com
 DOMAIN,alt2-mtalk.google.com
@@ -395,6 +395,7 @@ DOMAIN-SUFFIX,zhongancloud.com
 DOMAIN-SUFFIX,zjxhedu.com
 DOMAIN-SUFFIX,znnu.com
 DOMAIN-SUFFIX,znztv.com
+DOMAIN-SUFFIX,zsytit.com
 DOMAIN-SUFFIX,ztytech.com
 DOMAIN-SUFFIX,zuobiao.press
 DOMAIN-KEYWORD,m-team

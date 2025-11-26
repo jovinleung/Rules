@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 404
+# 规则统计: 405
 
 no_resolve: true
 domain_set:
@@ -398,6 +398,7 @@ domain_suffix_set:
   - zjxhedu.com
   - znnu.com
   - znztv.com
+  - zsytit.com
   - ztytech.com
   - zuobiao.press
 domain_keyword_set:

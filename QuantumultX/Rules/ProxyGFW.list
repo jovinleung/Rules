@@ -1,5 +1,5 @@
 # 规则名称: ProxyGFW
-# 规则统计: 7566
+# 规则统计: 7567
 
 HOST,ccmdl.adobe.com,ProxyGFW
 HOST,cloud.oracle.com,ProxyGFW
@@ -1899,6 +1899,7 @@ HOST-SUFFIX,euronews.com,ProxyGFW
 HOST-SUFFIX,europa.eu,ProxyGFW
 HOST-SUFFIX,evchk.wikia.org,ProxyGFW
 HOST-SUFFIX,everipedia.org,ProxyGFW
+HOST-SUFFIX,everymac.com,ProxyGFW
 HOST-SUFFIX,evozi.com,ProxyGFW
 HOST-SUFFIX,evschool.net,ProxyGFW
 HOST-SUFFIX,exblog.jp,ProxyGFW

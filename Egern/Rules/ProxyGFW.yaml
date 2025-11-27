@@ -1,5 +1,5 @@
 # 规则名称: ProxyGFW
-# 规则统计: 7565
+# 规则统计: 7566
 
 no_resolve: true
 domain_set:
@@ -1902,6 +1902,7 @@ domain_suffix_set:
   - europa.eu
   - evchk.wikia.org
   - everipedia.org
+  - everymac.com
   - evozi.com
   - evschool.net
   - exblog.jp

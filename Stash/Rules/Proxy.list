@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1309
+# 规则统计: 1310
 
 DOMAIN,ccmdl.adobe.com
 DOMAIN,community.oneplus.com
@@ -352,6 +352,7 @@ DOMAIN-SUFFIX,etsy.com
 DOMAIN-SUFFIX,eu
 DOMAIN-SUFFIX,eu.org
 DOMAIN-SUFFIX,euronews.com
+DOMAIN-SUFFIX,everymac.com
 DOMAIN-SUFFIX,exhentai.org
 DOMAIN-SUFFIX,explainthis.io
 DOMAIN-SUFFIX,expressvpn.com

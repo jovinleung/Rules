@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1310
+# 规则统计: 1311
 
 HOST,ccmdl.adobe.com,Proxy
 HOST,community.oneplus.com,Proxy
@@ -352,6 +352,7 @@ HOST-SUFFIX,etsy.com,Proxy
 HOST-SUFFIX,eu,Proxy
 HOST-SUFFIX,eu.org,Proxy
 HOST-SUFFIX,euronews.com,Proxy
+HOST-SUFFIX,everymac.com,Proxy
 HOST-SUFFIX,exhentai.org,Proxy
 HOST-SUFFIX,explainthis.io,Proxy
 HOST-SUFFIX,expressvpn.com,Proxy

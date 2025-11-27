@@ -1,5 +1,5 @@
 # 规则名称: ProxyGFW
-# 规则统计: 7565
+# 规则统计: 7566
 
 DOMAIN,ccmdl.adobe.com
 DOMAIN,cloud.oracle.com
@@ -1899,6 +1899,7 @@ DOMAIN-SUFFIX,euronews.com
 DOMAIN-SUFFIX,europa.eu
 DOMAIN-SUFFIX,evchk.wikia.org
 DOMAIN-SUFFIX,everipedia.org
+DOMAIN-SUFFIX,everymac.com
 DOMAIN-SUFFIX,evozi.com
 DOMAIN-SUFFIX,evschool.net
 DOMAIN-SUFFIX,exblog.jp

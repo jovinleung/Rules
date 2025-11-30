@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 407
+# 规则统计: 408
 
 DOMAIN,alt1-mtalk.google.com
 DOMAIN,alt2-mtalk.google.com
@@ -115,6 +115,7 @@ DOMAIN-SUFFIX,dockerpull.org
 DOMAIN-SUFFIX,dockerpull.pw
 DOMAIN-SUFFIX,dothantech.com
 DOMAIN-SUFFIX,douqq.com
+DOMAIN-SUFFIX,drvceo.com
 DOMAIN-SUFFIX,dskj-ops.com
 DOMAIN-SUFFIX,dushe1.app
 DOMAIN-SUFFIX,easytier.top

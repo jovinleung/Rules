@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 406
+# 规则统计: 407
 
 HOST,alt1-mtalk.google.com,Direct
 HOST,alt2-mtalk.google.com,Direct
@@ -115,6 +115,7 @@ HOST-SUFFIX,dockerpull.org,Direct
 HOST-SUFFIX,dockerpull.pw,Direct
 HOST-SUFFIX,dothantech.com,Direct
 HOST-SUFFIX,douqq.com,Direct
+HOST-SUFFIX,drvceo.com,Direct
 HOST-SUFFIX,dskj-ops.com,Direct
 HOST-SUFFIX,dushe1.app,Direct
 HOST-SUFFIX,easytier.top,Direct

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 406
+# 规则统计: 407
 
 DOMAIN,alt1-mtalk.google.com
 DOMAIN,alt2-mtalk.google.com
@@ -386,6 +386,7 @@ DOMAIN-SUFFIX,yixc.com
 DOMAIN-SUFFIX,yongyu.xyz
 DOMAIN-SUFFIX,yooc.me
 DOMAIN-SUFFIX,yunzuoye.net
+DOMAIN-SUFFIX,yyshub.top
 DOMAIN-SUFFIX,yzcsoft.com
 DOMAIN-SUFFIX,z6e.com
 DOMAIN-SUFFIX,zctnet.top

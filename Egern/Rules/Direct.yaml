@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 409
+# 规则统计: 410
 
 no_resolve: true
 domain_set:
@@ -352,6 +352,7 @@ domain_suffix_set:
   - tuxing.art
   - twinkstar.com
   - u-carloan.com
+  - uascent-iot.com
   - ugdocker.link
   - ulife.group
   - vbkhk.com

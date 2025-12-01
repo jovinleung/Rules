@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 407
+# 规则统计: 408
 
 HOST,alt1-mtalk.google.com,Direct
 HOST,alt2-mtalk.google.com,Direct
@@ -222,6 +222,7 @@ HOST-SUFFIX,istoreos.com,Direct
 HOST-SUFFIX,itptg.com,Direct
 HOST-SUFFIX,jfjt.cc,Direct
 HOST-SUFFIX,jh96095.com,Direct
+HOST-SUFFIX,jingheiot.com,Direct
 HOST-SUFFIX,jiqw.com,Direct
 HOST-SUFFIX,jsdelivr.net,Direct
 HOST-SUFFIX,julebu.co,Direct

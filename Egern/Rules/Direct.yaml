@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 408
+# 规则统计: 409
 
 no_resolve: true
 domain_set:
@@ -225,6 +225,7 @@ domain_suffix_set:
   - itptg.com
   - jfjt.cc
   - jh96095.com
+  - jingheiot.com
   - jiqw.com
   - jsdelivr.net
   - julebu.co

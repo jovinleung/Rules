@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 412
+# 规则统计: 413
 
 no_resolve: true
 domain_set:
@@ -382,6 +382,7 @@ domain_suffix_set:
   - xiberia.net
   - xinghaiwaimai.com
   - xixih.cc
+  - xkkapk.com
   - xn--4kq62z5rby2qupq9ub.top
   - xopenbeta.com
   - xxir.com

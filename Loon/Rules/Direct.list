@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 413
+# 规则统计: 414
 
 DOMAIN,alt1-mtalk.google.com
 DOMAIN,alt2-mtalk.google.com
@@ -367,6 +367,7 @@ DOMAIN-SUFFIX,wenyi188.com
 DOMAIN-SUFFIX,wewillpro.com
 DOMAIN-SUFFIX,wjx.top
 DOMAIN-SUFFIX,wlcdn88.com
+DOMAIN-SUFFIX,wpurl.cc
 DOMAIN-SUFFIX,wushuangai.com
 DOMAIN-SUFFIX,www.ojrq.net
 DOMAIN-SUFFIX,wwwh.eu.org

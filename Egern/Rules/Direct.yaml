@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 414
+# 规则统计: 415
 
 no_resolve: true
 domain_set:
@@ -402,6 +402,7 @@ domain_suffix_set:
   - zctnet.top
   - zeekrline.com
   - zhi10.com
+  - zhituwujie.com
   - zhixingyunke.com
   - zhongancloud.com
   - zjxhedu.com

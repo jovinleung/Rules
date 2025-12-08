@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 414
+# 规则统计: 415
 
 DOMAIN,alt1-mtalk.google.com
 DOMAIN,alt2-mtalk.google.com
@@ -399,6 +399,7 @@ DOMAIN-SUFFIX,z6e.com
 DOMAIN-SUFFIX,zctnet.top
 DOMAIN-SUFFIX,zeekrline.com
 DOMAIN-SUFFIX,zhi10.com
+DOMAIN-SUFFIX,zhituwujie.com
 DOMAIN-SUFFIX,zhixingyunke.com
 DOMAIN-SUFFIX,zhongancloud.com
 DOMAIN-SUFFIX,zjxhedu.com

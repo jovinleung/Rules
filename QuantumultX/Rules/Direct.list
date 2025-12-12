@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 414
+# 规则统计: 415
 
 HOST,alt1-mtalk.google.com,Direct
 HOST,alt2-mtalk.google.com,Direct
@@ -343,6 +343,7 @@ HOST-SUFFIX,tcp5.com,Direct
 HOST-SUFFIX,tcy365.net,Direct
 HOST-SUFFIX,test-ipv6.com,Direct
 HOST-SUFFIX,thinkerride.com,Direct
+HOST-SUFFIX,thmnet.com,Direct
 HOST-SUFFIX,tool56.com,Direct
 HOST-SUFFIX,topwd.top,Direct
 HOST-SUFFIX,tozi-cn.top,Direct

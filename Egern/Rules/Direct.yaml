@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 415
+# 规则统计: 416
 
 no_resolve: true
 domain_set:
@@ -346,6 +346,7 @@ domain_suffix_set:
   - tcy365.net
   - test-ipv6.com
   - thinkerride.com
+  - thmnet.com
   - tool56.com
   - topwd.top
   - tozi-cn.top

@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1311
+# 规则统计: 1312
 
 HOST,ccmdl.adobe.com,Proxy
 HOST,community.oneplus.com,Proxy
@@ -730,6 +730,7 @@ HOST-SUFFIX,miniclip.com,Proxy
 HOST-SUFFIX,missav.ai,Proxy
 HOST-SUFFIX,missav.com,Proxy
 HOST-SUFFIX,missav.ws,Proxy
+HOST-SUFFIX,missav123.com,Proxy
 HOST-SUFFIX,misskey.io,Proxy
 HOST-SUFFIX,mixcloud.com,Proxy
 HOST-SUFFIX,mixer.com,Proxy

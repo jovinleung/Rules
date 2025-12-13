@@ -1,5 +1,5 @@
 # 规则名称: ProxyGFW
-# 规则统计: 7637
+# 规则统计: 7638
 
 no_resolve: true
 domain_set:
@@ -4192,6 +4192,7 @@ domain_suffix_set:
   - missav.ai
   - missav.com
   - missav.ws
+  - missav123.com
   - misskey.io
   - mist.vip
   - mit.edu

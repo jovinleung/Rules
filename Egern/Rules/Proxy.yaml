@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1310
+# 规则统计: 1311
 
 no_resolve: true
 domain_set:
@@ -733,6 +733,7 @@ domain_suffix_set:
   - missav.ai
   - missav.com
   - missav.ws
+  - missav123.com
   - misskey.io
   - mixcloud.com
   - mixer.com

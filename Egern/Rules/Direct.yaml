@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 416
+# 规则统计: 417
 
 no_resolve: true
 domain_set:
@@ -263,6 +263,7 @@ domain_suffix_set:
   - members.3322.org
   - micu.hk
   - mifeng.plus
+  - mifon.com
   - mobai.sbs
   - modelscope.net
   - msftconnecttest.com

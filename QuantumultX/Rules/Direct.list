@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 416
+# 规则统计: 417
 
 HOST,alt1-mtalk.google.com,Direct
 HOST,alt2-mtalk.google.com,Direct
@@ -363,6 +363,7 @@ HOST-SUFFIX,vclbroker.com,Direct
 HOST-SUFFIX,vclbrokers.com,Direct
 HOST-SUFFIX,vcltrade.com,Direct
 HOST-SUFFIX,vgogbuy.com,Direct
+HOST-SUFFIX,vv1865.com,Direct
 HOST-SUFFIX,warmheart.top,Direct
 HOST-SUFFIX,webs.vc,Direct
 HOST-SUFFIX,wenyi188.com,Direct

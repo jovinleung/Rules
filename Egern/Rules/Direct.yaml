@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 417
+# 规则统计: 418
 
 no_resolve: true
 domain_set:
@@ -366,6 +366,7 @@ domain_suffix_set:
   - vclbrokers.com
   - vcltrade.com
   - vgogbuy.com
+  - vv1865.com
   - warmheart.top
   - webs.vc
   - wenyi188.com

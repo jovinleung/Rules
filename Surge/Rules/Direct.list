@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 417
+# 规则统计: 418
 
 DOMAIN,alt1-mtalk.google.com
 DOMAIN,alt2-mtalk.google.com
@@ -363,6 +363,7 @@ DOMAIN-SUFFIX,vclbroker.com
 DOMAIN-SUFFIX,vclbrokers.com
 DOMAIN-SUFFIX,vcltrade.com
 DOMAIN-SUFFIX,vgogbuy.com
+DOMAIN-SUFFIX,vv1865.com
 DOMAIN-SUFFIX,warmheart.top
 DOMAIN-SUFFIX,webs.vc
 DOMAIN-SUFFIX,wenyi188.com

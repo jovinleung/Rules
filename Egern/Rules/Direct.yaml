@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 418
+# 规则统计: 420
 
 no_resolve: true
 domain_set:
@@ -249,6 +249,7 @@ domain_suffix_set:
   - leelen.com
   - letaoedu.com
   - liunn.com
+  - liveperson.net
   - localhost.ptlogin2.qq.com
   - localhost.sec.qq.com
   - longmenshuju.com
@@ -368,6 +369,7 @@ domain_suffix_set:
   - vgogbuy.com
   - vv1865.com
   - warmheart.top
+  - we-stats.com
   - webs.vc
   - wenyi188.com
   - wewillpro.com

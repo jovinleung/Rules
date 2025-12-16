@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 421
+# 规则统计: 423
 
 no_resolve: true
 domain_set:
@@ -126,6 +126,7 @@ domain_suffix_set:
   - easytier.top
   - einfo-tech.com
   - englibrary.com
+  - epark.cc
   - epg.aptv.app
   - epg.v1.mk
   - everdrawing.com
@@ -326,6 +327,7 @@ domain_suffix_set:
   - seedpace.com
   - sgtv.ii00.cc
   - shineacc.com
+  - shuinfo.com
   - shunjing.xin
   - shuqiandiqiu.com
   - shyxhy.com

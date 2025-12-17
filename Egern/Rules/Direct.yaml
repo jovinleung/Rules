@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 423
+# 规则统计: 424
 
 no_resolve: true
 domain_set:
@@ -81,6 +81,7 @@ domain_suffix_set:
   - bochk.com
   - boyuemobile.com
   - bsbsb.top
+  - bunny.net
   - canghaiip.com
   - cdn.ist
   - centbrowser.net

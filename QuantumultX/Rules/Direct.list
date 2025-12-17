@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 422
+# 规则统计: 423
 
 HOST,alt1-mtalk.google.com,Direct
 HOST,alt2-mtalk.google.com,Direct
@@ -78,6 +78,7 @@ HOST-SUFFIX,blog.google,Direct
 HOST-SUFFIX,bochk.com,Direct
 HOST-SUFFIX,boyuemobile.com,Direct
 HOST-SUFFIX,bsbsb.top,Direct
+HOST-SUFFIX,bunny.net,Direct
 HOST-SUFFIX,canghaiip.com,Direct
 HOST-SUFFIX,cdn.ist,Direct
 HOST-SUFFIX,centbrowser.net,Direct

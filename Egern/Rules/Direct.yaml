@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 424
+# 规则统计: 425
 
 no_resolve: true
 domain_set:
@@ -376,6 +376,7 @@ domain_suffix_set:
   - we-stats.com
   - webs.vc
   - wenyi188.com
+  - weshape3d.com
   - wewillpro.com
   - wjx.top
   - wlcdn88.com

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 425
+# 规则统计: 429
 
 HOST,alt1-mtalk.google.com,Direct
 HOST,alt2-mtalk.google.com,Direct
@@ -121,6 +121,7 @@ HOST-SUFFIX,douqq.com,Direct
 HOST-SUFFIX,drvceo.com,Direct
 HOST-SUFFIX,dskj-ops.com,Direct
 HOST-SUFFIX,dushe1.app,Direct
+HOST-SUFFIX,eagsen.com,Direct
 HOST-SUFFIX,easytier.top,Direct
 HOST-SUFFIX,einfo-tech.com,Direct
 HOST-SUFFIX,englibrary.com,Direct
@@ -226,6 +227,7 @@ HOST-SUFFIX,istoreos.com,Direct
 HOST-SUFFIX,itptg.com,Direct
 HOST-SUFFIX,jfjt.cc,Direct
 HOST-SUFFIX,jh96095.com,Direct
+HOST-SUFFIX,jiliuwang.net,Direct
 HOST-SUFFIX,jingheiot.com,Direct
 HOST-SUFFIX,jiqw.com,Direct
 HOST-SUFFIX,jsdelivr.net,Direct
@@ -235,6 +237,7 @@ HOST-SUFFIX,jxpp.com,Direct
 HOST-SUFFIX,kaijiejinrong.com,Direct
 HOST-SUFFIX,kaspersky-labs.com,Direct
 HOST-SUFFIX,kaspersky.com,Direct
+HOST-SUFFIX,kejiweixun.com,Direct
 HOST-SUFFIX,keyoo.com,Direct
 HOST-SUFFIX,kgithub.com,Direct
 HOST-SUFFIX,kit327.com,Direct
@@ -388,6 +391,7 @@ HOST-SUFFIX,xdtool.com,Direct
 HOST-SUFFIX,xiankabao.com,Direct
 HOST-SUFFIX,xiaochuanyun.com,Direct
 HOST-SUFFIX,xiberia.net,Direct
+HOST-SUFFIX,ximogo.com,Direct
 HOST-SUFFIX,xinghaiwaimai.com,Direct
 HOST-SUFFIX,xixih.cc,Direct
 HOST-SUFFIX,xkkapk.com,Direct

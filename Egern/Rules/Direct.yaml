@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 426
+# 规则统计: 430
 
 no_resolve: true
 domain_set:
@@ -124,6 +124,7 @@ domain_suffix_set:
   - drvceo.com
   - dskj-ops.com
   - dushe1.app
+  - eagsen.com
   - easytier.top
   - einfo-tech.com
   - englibrary.com
@@ -229,6 +230,7 @@ domain_suffix_set:
   - itptg.com
   - jfjt.cc
   - jh96095.com
+  - jiliuwang.net
   - jingheiot.com
   - jiqw.com
   - jsdelivr.net
@@ -238,6 +240,7 @@ domain_suffix_set:
   - kaijiejinrong.com
   - kaspersky-labs.com
   - kaspersky.com
+  - kejiweixun.com
   - keyoo.com
   - kgithub.com
   - kit327.com
@@ -391,6 +394,7 @@ domain_suffix_set:
   - xiankabao.com
   - xiaochuanyun.com
   - xiberia.net
+  - ximogo.com
   - xinghaiwaimai.com
   - xixih.cc
   - xkkapk.com

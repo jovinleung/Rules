@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 430
+# 规则统计: 432
 
 HOST,alt1-mtalk.google.com,Direct
 HOST,alt2-mtalk.google.com,Direct
@@ -38,6 +38,7 @@ HOST-SUFFIX,3d-apollo.com,Direct
 HOST-SUFFIX,3dwhere.com,Direct
 HOST-SUFFIX,3gxk.net,Direct
 HOST-SUFFIX,4399zmxy.com,Direct
+HOST-SUFFIX,51tbox.com,Direct
 HOST-SUFFIX,51wanxue.com,Direct
 HOST-SUFFIX,51zmt.top,Direct
 HOST-SUFFIX,52jiawei.com,Direct
@@ -271,6 +272,7 @@ HOST-SUFFIX,mifeng.plus,Direct
 HOST-SUFFIX,mifon.com,Direct
 HOST-SUFFIX,mobai.sbs,Direct
 HOST-SUFFIX,modelscope.net,Direct
+HOST-SUFFIX,morefuntengyun.com,Direct
 HOST-SUFFIX,msftconnecttest.com,Direct
 HOST-SUFFIX,msftncsi.com,Direct
 HOST-SUFFIX,mslmc.net,Direct

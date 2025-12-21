@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 430
+# 规则统计: 431
 
 no_resolve: true
 domain_set:
@@ -228,6 +228,7 @@ domain_suffix_set:
   - ipshu.com
   - istoreos.com
   - itptg.com
+  - jduoduo.com
   - jfjt.cc
   - jh96095.com
   - jiliuwang.net

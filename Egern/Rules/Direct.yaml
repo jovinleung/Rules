@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 433
+# 规则统计: 435
 
 no_resolve: true
 domain_set:
@@ -112,6 +112,7 @@ domain_suffix_set:
   - ddxq.mobi
   - ddzn.tech
   - dell.com
+  - dfhog.com
   - dhub.kubesre.xyz
   - dingdingzn.com
   - diyiedu.com
@@ -199,6 +200,7 @@ domain_suffix_set:
   - hdbz.net
   - hexiny.com
   - hf-mirror.com
+  - hhtvc.com
   - hijin.vip
   - hnxzctec.com
   - hsbc.com.hk

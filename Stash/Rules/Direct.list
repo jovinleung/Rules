@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 433
+# 规则统计: 435
 
 DOMAIN,alt1-mtalk.google.com
 DOMAIN,alt2-mtalk.google.com
@@ -109,6 +109,7 @@ DOMAIN-SUFFIX,ddsrem.com
 DOMAIN-SUFFIX,ddxq.mobi
 DOMAIN-SUFFIX,ddzn.tech
 DOMAIN-SUFFIX,dell.com
+DOMAIN-SUFFIX,dfhog.com
 DOMAIN-SUFFIX,dhub.kubesre.xyz
 DOMAIN-SUFFIX,dingdingzn.com
 DOMAIN-SUFFIX,diyiedu.com
@@ -196,6 +197,7 @@ DOMAIN-SUFFIX,hbctic.com
 DOMAIN-SUFFIX,hdbz.net
 DOMAIN-SUFFIX,hexiny.com
 DOMAIN-SUFFIX,hf-mirror.com
+DOMAIN-SUFFIX,hhtvc.com
 DOMAIN-SUFFIX,hijin.vip
 DOMAIN-SUFFIX,hnxzctec.com
 DOMAIN-SUFFIX,hsbc.com.hk

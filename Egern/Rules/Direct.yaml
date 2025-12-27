@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 435
+# 规则统计: 437
 
 no_resolve: true
 domain_set:
@@ -68,6 +68,7 @@ domain_suffix_set:
   - aloys233.top
   - antping.com
   - anycubic.com
+  - anyrouter.top
   - api.myip.com
   - armvm.com
   - atticus.vip
@@ -361,6 +362,7 @@ domain_suffix_set:
   - test-ipv6.com
   - thinkerride.com
   - thmnet.com
+  - timbrd.com
   - tool56.com
   - topwd.top
   - tozi-cn.top

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 437
+# 规则统计: 439
 
 no_resolve: true
 domain_set:
@@ -57,10 +57,12 @@ domain_suffix_set:
   - 985hezi.com
   - 998tool.com
   - aaawz.cc
+  - acggit.com
   - adobe.com
   - afeica.com
   - afuns.me
   - aichangbaishan.com
+  - aigodlike.com
   - aihubmix.com
   - aistudio-app.com
   - akamaihd.net

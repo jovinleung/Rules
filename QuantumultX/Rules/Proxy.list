@@ -1,14 +1,11 @@
 # 规则名称: Proxy
-# 规则统计: 1314
+# 规则统计: 1311
 
 HOST,ccmdl.adobe.com,Proxy
 HOST,community.oneplus.com,Proxy
 HOST,ees.elsevier.com,Proxy
 HOST,help.ubnt.com,Proxy
 HOST,news.ycombinator.com,Proxy
-HOST,sglong.wechat.com,Proxy
-HOST,sgminorshort.wechat.com,Proxy
-HOST,sgshort.wechat.com,Proxy
 HOST,store.ui.com.cn,Proxy
 HOST,wego.here.com,Proxy
 HOST-SUFFIX,1024.day,Proxy

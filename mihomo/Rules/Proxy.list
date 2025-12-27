@@ -1,14 +1,11 @@
 # 规则名称: Proxy
-# 规则统计: 1313
+# 规则统计: 1310
 
 DOMAIN,ccmdl.adobe.com
 DOMAIN,community.oneplus.com
 DOMAIN,ees.elsevier.com
 DOMAIN,help.ubnt.com
 DOMAIN,news.ycombinator.com
-DOMAIN,sglong.wechat.com
-DOMAIN,sgminorshort.wechat.com
-DOMAIN,sgshort.wechat.com
 DOMAIN,store.ui.com.cn
 DOMAIN,wego.here.com
 DOMAIN-SUFFIX,1024.day

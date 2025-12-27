@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1313
+# 规则统计: 1310
 
 no_resolve: true
 domain_set:
@@ -8,9 +8,6 @@ domain_set:
   - ees.elsevier.com
   - help.ubnt.com
   - news.ycombinator.com
-  - sglong.wechat.com
-  - sgminorshort.wechat.com
-  - sgshort.wechat.com
   - store.ui.com.cn
   - wego.here.com
 domain_suffix_set:

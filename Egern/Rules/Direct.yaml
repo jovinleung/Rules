@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 439
+# 规则统计: 440
 
 no_resolve: true
 domain_set:
@@ -72,6 +72,7 @@ domain_suffix_set:
   - anycubic.com
   - anyrouter.top
   - api.myip.com
+  - aqtwwx.net
   - armvm.com
   - atticus.vip
   - baiyishequ.com

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 440
+# 规则统计: 441
 
 no_resolve: true
 domain_set:
@@ -56,6 +56,7 @@ domain_suffix_set:
   - 900cha.com
   - 985hezi.com
   - 998tool.com
+  - a0d.top
   - aaawz.cc
   - acggit.com
   - adobe.com

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 441
+# 规则统计: 442
 
 no_resolve: true
 domain_set:
@@ -302,6 +302,7 @@ domain_suffix_set:
   - opentrust.net
   - ottai.com
   - ourschool.cc
+  - p01.epsonconnect.com
   - paperang.com
   - pianyuan.org
   - pixcheese.com

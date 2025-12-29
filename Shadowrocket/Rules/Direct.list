@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 441
+# 规则统计: 442
 
 DOMAIN,alt1-mtalk.google.com
 DOMAIN,alt2-mtalk.google.com
@@ -299,6 +299,7 @@ DOMAIN-SUFFIX,onebuygz.com
 DOMAIN-SUFFIX,opentrust.net
 DOMAIN-SUFFIX,ottai.com
 DOMAIN-SUFFIX,ourschool.cc
+DOMAIN-SUFFIX,p01.epsonconnect.com
 DOMAIN-SUFFIX,paperang.com
 DOMAIN-SUFFIX,pianyuan.org
 DOMAIN-SUFFIX,pixcheese.com

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 442
+# 规则统计: 443
 
 no_resolve: true
 domain_set:
@@ -160,6 +160,7 @@ domain_suffix_set:
   - game.maj-soul.com
   - gangtise.com
   - gaojiua.com
+  - gaze.run
   - gdcucc.v1.mk
   - geektool.top
   - ggbond.org

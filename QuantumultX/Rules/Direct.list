@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 441
+# 规则统计: 442
 
 HOST,alt1-mtalk.google.com,Direct
 HOST,alt2-mtalk.google.com,Direct
@@ -157,6 +157,7 @@ HOST-SUFFIX,gaishitongshu.com,Direct
 HOST-SUFFIX,game.maj-soul.com,Direct
 HOST-SUFFIX,gangtise.com,Direct
 HOST-SUFFIX,gaojiua.com,Direct
+HOST-SUFFIX,gaze.run,Direct
 HOST-SUFFIX,gdcucc.v1.mk,Direct
 HOST-SUFFIX,geektool.top,Direct
 HOST-SUFFIX,ggbond.org,Direct

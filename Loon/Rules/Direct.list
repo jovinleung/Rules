@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 442
+# 规则统计: 443
 
 DOMAIN,alt1-mtalk.google.com
 DOMAIN,alt2-mtalk.google.com
@@ -157,6 +157,7 @@ DOMAIN-SUFFIX,gaishitongshu.com
 DOMAIN-SUFFIX,game.maj-soul.com
 DOMAIN-SUFFIX,gangtise.com
 DOMAIN-SUFFIX,gaojiua.com
+DOMAIN-SUFFIX,gaze.run
 DOMAIN-SUFFIX,gdcucc.v1.mk
 DOMAIN-SUFFIX,geektool.top
 DOMAIN-SUFFIX,ggbond.org

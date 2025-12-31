@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 443
+# 规则统计: 444
 
 no_resolve: true
 domain_set:
@@ -409,6 +409,7 @@ domain_suffix_set:
   - xiberia.net
   - ximogo.com
   - xinghaiwaimai.com
+  - xiwang.com
   - xixih.cc
   - xkkapk.com
   - xn--4kq62z5rby2qupq9ub.top

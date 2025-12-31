@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1311
+# 规则统计: 1322
 
 HOST,ccmdl.adobe.com,Proxy
 HOST,community.oneplus.com,Proxy
@@ -198,6 +198,7 @@ HOST-SUFFIX,cdnst.net,Proxy
 HOST-SUFFIX,cdpn.io,Proxy
 HOST-SUFFIX,certbot.eff.org,Proxy
 HOST-SUFFIX,certificate-transparency.org,Proxy
+HOST-SUFFIX,cf-ipfs.com,Proxy
 HOST-SUFFIX,cfr.org,Proxy
 HOST-SUFFIX,ch,Proxy
 HOST-SUFFIX,change.org,Proxy
@@ -216,11 +217,16 @@ HOST-SUFFIX,clientservices.googleapis.com,Proxy
 HOST-SUFFIX,clips4sale.com,Proxy
 HOST-SUFFIX,cloudapp.net,Proxy
 HOST-SUFFIX,cloudflare-dns.com,Proxy
+HOST-SUFFIX,cloudflare-ipfs.com,Proxy
 HOST-SUFFIX,cloudflare.com,Proxy
 HOST-SUFFIX,cloudflare.dev,Proxy
 HOST-SUFFIX,cloudflareaccess.com,Proxy
+HOST-SUFFIX,cloudflareapps.com,Proxy
+HOST-SUFFIX,cloudflarepreview.com,Proxy
 HOST-SUFFIX,cloudflareresolve.com,Proxy
 HOST-SUFFIX,cloudflarestatus.com,Proxy
+HOST-SUFFIX,cloudflarestorage.com,Proxy
+HOST-SUFFIX,cloudflaretunnel.com,Proxy
 HOST-SUFFIX,cloudfront.net,Proxy
 HOST-SUFFIX,cloudfunctions.net,Proxy
 HOST-SUFFIX,cloudinary.com,Proxy
@@ -472,6 +478,7 @@ HOST-SUFFIX,googleapis.cn,Proxy
 HOST-SUFFIX,gooogle.com,Proxy
 HOST-SUFFIX,gov,Proxy
 HOST-SUFFIX,gqhongkong.com,Proxy
+HOST-SUFFIX,grafana.com,Proxy
 HOST-SUFFIX,grammarly.com,Proxy
 HOST-SUFFIX,grammarly.io,Proxy
 HOST-SUFFIX,gravatar.com,Proxy
@@ -846,6 +853,7 @@ HOST-SUFFIX,overdrive.com,Proxy
 HOST-SUFFIX,ovpnleaktest.com,Proxy
 HOST-SUFFIX,packagephobia.com,Proxy
 HOST-SUFFIX,page.link,Proxy
+HOST-SUFFIX,pages.dev,Proxy
 HOST-SUFFIX,pagesix.com,Proxy
 HOST-SUFFIX,pagespy.org,Proxy
 HOST-SUFFIX,party,Proxy
@@ -1059,6 +1067,7 @@ HOST-SUFFIX,strava.com,Proxy
 HOST-SUFFIX,streamable.com,Proxy
 HOST-SUFFIX,stripchat.com,Proxy
 HOST-SUFFIX,strongleakstest.com,Proxy
+HOST-SUFFIX,studio,Proxy
 HOST-SUFFIX,stun.playstation.net,Proxy
 HOST-SUFFIX,su,Proxy
 HOST-SUFFIX,substack.com,Proxy
@@ -1133,6 +1142,7 @@ HOST-SUFFIX,tronscan.org,Proxy
 HOST-SUFFIX,trustpilot.com,Proxy
 HOST-SUFFIX,trustpilot.net,Proxy
 HOST-SUFFIX,truthsocial.com,Proxy
+HOST-SUFFIX,trycloudflare.com,Proxy
 HOST-SUFFIX,tt,Proxy
 HOST-SUFFIX,tube8.com,Proxy
 HOST-SUFFIX,tumblr.com,Proxy
@@ -1182,6 +1192,7 @@ HOST-SUFFIX,vesselfinder.net,Proxy
 HOST-SUFFIX,viber.com,Proxy
 HOST-SUFFIX,vice.com,Proxy
 HOST-SUFFIX,victoriassecret.com,Proxy
+HOST-SUFFIX,videodelivery.net,Proxy
 HOST-SUFFIX,vikacg.com,Proxy
 HOST-SUFFIX,vimeo.com,Proxy
 HOST-SUFFIX,vine.co,Proxy

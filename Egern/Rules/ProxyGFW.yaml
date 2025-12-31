@@ -1,5 +1,5 @@
 # 规则名称: ProxyGFW
-# 规则统计: 7637
+# 规则统计: 7646
 
 no_resolve: true
 domain_set:
@@ -1064,6 +1064,7 @@ domain_suffix_set:
   - certbot.eff.org
   - certificate-transparency.org
   - cex.io
+  - cf-ipfs.com
   - cfhks.org.hk
   - cfos.de
   - cfr.org
@@ -1253,8 +1254,12 @@ domain_suffix_set:
   - cloudflare.com
   - cloudflare.dev
   - cloudflareaccess.com
+  - cloudflareapps.com
+  - cloudflarepreview.com
   - cloudflareresolve.com
   - cloudflarestatus.com
+  - cloudflarestorage.com
+  - cloudflaretunnel.com
   - cloudfront.net
   - cloudfunctions.net
   - cloudinary.com
@@ -2843,6 +2848,7 @@ domain_suffix_set:
   - gr8domain.biz
   - gr8name.biz
   - gradconnection.com
+  - grafana.com
   - grammaly.com
   - grammarly.com
   - grammarly.io
@@ -5942,6 +5948,7 @@ domain_suffix_set:
   - strongwindpress.com
   - student.tw
   - studentsforafreetibet.org
+  - studio
   - stumbleupon.com
   - stun.playstation.net
   - stupidvideos.com
@@ -6446,6 +6453,7 @@ domain_suffix_set:
   - truthontour.org
   - truthsocial.com
   - truveo.com
+  - trycloudflare.com
   - tryheart.jp
   - tsctv.net
   - tsemtulku.com
@@ -6819,6 +6827,7 @@ domain_suffix_set:
   - vid.me
   - vidble.com
   - videobam.com
+  - videodelivery.net
   - videodetective.com
   - videomega.tv
   - videomo.com

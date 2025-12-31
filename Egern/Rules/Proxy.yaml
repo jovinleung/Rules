@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1310
+# 规则统计: 1321
 
 no_resolve: true
 domain_set:
@@ -201,6 +201,7 @@ domain_suffix_set:
   - cdpn.io
   - certbot.eff.org
   - certificate-transparency.org
+  - cf-ipfs.com
   - cfr.org
   - ch
   - change.org
@@ -219,11 +220,16 @@ domain_suffix_set:
   - clips4sale.com
   - cloudapp.net
   - cloudflare-dns.com
+  - cloudflare-ipfs.com
   - cloudflare.com
   - cloudflare.dev
   - cloudflareaccess.com
+  - cloudflareapps.com
+  - cloudflarepreview.com
   - cloudflareresolve.com
   - cloudflarestatus.com
+  - cloudflarestorage.com
+  - cloudflaretunnel.com
   - cloudfront.net
   - cloudfunctions.net
   - cloudinary.com
@@ -475,6 +481,7 @@ domain_suffix_set:
   - gooogle.com
   - gov
   - gqhongkong.com
+  - grafana.com
   - grammarly.com
   - grammarly.io
   - gravatar.com
@@ -849,6 +856,7 @@ domain_suffix_set:
   - ovpnleaktest.com
   - packagephobia.com
   - page.link
+  - pages.dev
   - pagesix.com
   - pagespy.org
   - party
@@ -1062,6 +1070,7 @@ domain_suffix_set:
   - streamable.com
   - stripchat.com
   - strongleakstest.com
+  - studio
   - stun.playstation.net
   - su
   - substack.com
@@ -1136,6 +1145,7 @@ domain_suffix_set:
   - trustpilot.com
   - trustpilot.net
   - truthsocial.com
+  - trycloudflare.com
   - tt
   - tube8.com
   - tumblr.com
@@ -1185,6 +1195,7 @@ domain_suffix_set:
   - viber.com
   - vice.com
   - victoriassecret.com
+  - videodelivery.net
   - vikacg.com
   - vimeo.com
   - vine.co

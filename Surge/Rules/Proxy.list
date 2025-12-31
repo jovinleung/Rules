@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1311
+# 规则统计: 1322
 
 DOMAIN,ccmdl.adobe.com
 DOMAIN,community.oneplus.com
@@ -198,6 +198,7 @@ DOMAIN-SUFFIX,cdnst.net
 DOMAIN-SUFFIX,cdpn.io
 DOMAIN-SUFFIX,certbot.eff.org
 DOMAIN-SUFFIX,certificate-transparency.org
+DOMAIN-SUFFIX,cf-ipfs.com
 DOMAIN-SUFFIX,cfr.org
 DOMAIN-SUFFIX,ch
 DOMAIN-SUFFIX,change.org
@@ -216,11 +217,16 @@ DOMAIN-SUFFIX,clientservices.googleapis.com
 DOMAIN-SUFFIX,clips4sale.com
 DOMAIN-SUFFIX,cloudapp.net
 DOMAIN-SUFFIX,cloudflare-dns.com
+DOMAIN-SUFFIX,cloudflare-ipfs.com
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cloudflare.dev
 DOMAIN-SUFFIX,cloudflareaccess.com
+DOMAIN-SUFFIX,cloudflareapps.com
+DOMAIN-SUFFIX,cloudflarepreview.com
 DOMAIN-SUFFIX,cloudflareresolve.com
 DOMAIN-SUFFIX,cloudflarestatus.com
+DOMAIN-SUFFIX,cloudflarestorage.com
+DOMAIN-SUFFIX,cloudflaretunnel.com
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,cloudfunctions.net
 DOMAIN-SUFFIX,cloudinary.com
@@ -472,6 +478,7 @@ DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,gooogle.com
 DOMAIN-SUFFIX,gov
 DOMAIN-SUFFIX,gqhongkong.com
+DOMAIN-SUFFIX,grafana.com
 DOMAIN-SUFFIX,grammarly.com
 DOMAIN-SUFFIX,grammarly.io
 DOMAIN-SUFFIX,gravatar.com
@@ -846,6 +853,7 @@ DOMAIN-SUFFIX,overdrive.com
 DOMAIN-SUFFIX,ovpnleaktest.com
 DOMAIN-SUFFIX,packagephobia.com
 DOMAIN-SUFFIX,page.link
+DOMAIN-SUFFIX,pages.dev
 DOMAIN-SUFFIX,pagesix.com
 DOMAIN-SUFFIX,pagespy.org
 DOMAIN-SUFFIX,party
@@ -1059,6 +1067,7 @@ DOMAIN-SUFFIX,strava.com
 DOMAIN-SUFFIX,streamable.com
 DOMAIN-SUFFIX,stripchat.com
 DOMAIN-SUFFIX,strongleakstest.com
+DOMAIN-SUFFIX,studio
 DOMAIN-SUFFIX,stun.playstation.net
 DOMAIN-SUFFIX,su
 DOMAIN-SUFFIX,substack.com
@@ -1133,6 +1142,7 @@ DOMAIN-SUFFIX,tronscan.org
 DOMAIN-SUFFIX,trustpilot.com
 DOMAIN-SUFFIX,trustpilot.net
 DOMAIN-SUFFIX,truthsocial.com
+DOMAIN-SUFFIX,trycloudflare.com
 DOMAIN-SUFFIX,tt
 DOMAIN-SUFFIX,tube8.com
 DOMAIN-SUFFIX,tumblr.com
@@ -1182,6 +1192,7 @@ DOMAIN-SUFFIX,vesselfinder.net
 DOMAIN-SUFFIX,viber.com
 DOMAIN-SUFFIX,vice.com
 DOMAIN-SUFFIX,victoriassecret.com
+DOMAIN-SUFFIX,videodelivery.net
 DOMAIN-SUFFIX,vikacg.com
 DOMAIN-SUFFIX,vimeo.com
 DOMAIN-SUFFIX,vine.co

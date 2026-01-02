@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 447
+# 规则统计: 450
 
 HOST,alt1-mtalk.google.com,Direct
 HOST,alt2-mtalk.google.com,Direct
@@ -74,6 +74,7 @@ HOST-SUFFIX,api.myip.com,Direct
 HOST-SUFFIX,aqtwwx.net,Direct
 HOST-SUFFIX,armvm.com,Direct
 HOST-SUFFIX,atticus.vip,Direct
+HOST-SUFFIX,awstme.top,Direct
 HOST-SUFFIX,baiyishequ.com,Direct
 HOST-SUFFIX,bangumi.tv,Direct
 HOST-SUFFIX,bdcb.cc,Direct
@@ -131,6 +132,7 @@ HOST-SUFFIX,dskj-ops.com,Direct
 HOST-SUFFIX,dushe1.app,Direct
 HOST-SUFFIX,eagsen.com,Direct
 HOST-SUFFIX,easytier.top,Direct
+HOST-SUFFIX,easytomessage.com,Direct
 HOST-SUFFIX,einfo-tech.com,Direct
 HOST-SUFFIX,englibrary.com,Direct
 HOST-SUFFIX,epark.cc,Direct
@@ -242,6 +244,7 @@ HOST-SUFFIX,jh96095.com,Direct
 HOST-SUFFIX,jiliuwang.net,Direct
 HOST-SUFFIX,jingheiot.com,Direct
 HOST-SUFFIX,jiqw.com,Direct
+HOST-SUFFIX,jsdelivr.com,Direct
 HOST-SUFFIX,jsdelivr.net,Direct
 HOST-SUFFIX,julebu.co,Direct
 HOST-SUFFIX,jxjktzjt.com,Direct

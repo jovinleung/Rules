@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 448
+# 规则统计: 451
 
 no_resolve: true
 domain_set:
@@ -77,6 +77,7 @@ domain_suffix_set:
   - aqtwwx.net
   - armvm.com
   - atticus.vip
+  - awstme.top
   - baiyishequ.com
   - bangumi.tv
   - bdcb.cc
@@ -134,6 +135,7 @@ domain_suffix_set:
   - dushe1.app
   - eagsen.com
   - easytier.top
+  - easytomessage.com
   - einfo-tech.com
   - englibrary.com
   - epark.cc
@@ -245,6 +247,7 @@ domain_suffix_set:
   - jiliuwang.net
   - jingheiot.com
   - jiqw.com
+  - jsdelivr.com
   - jsdelivr.net
   - julebu.co
   - jxjktzjt.com

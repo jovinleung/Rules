@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 446
+# 规则统计: 448
 
 no_resolve: true
 domain_set:
@@ -63,6 +63,7 @@ domain_suffix_set:
   - afeica.com
   - afuns.me
   - aichangbaishan.com
+  - aidien.fun
   - aigodlike.com
   - aihubmix.com
   - aistudio-app.com
@@ -343,6 +344,7 @@ domain_suffix_set:
   - seaflysoft.com
   - seedpace.com
   - sgtv.ii00.cc
+  - shanghai-parking.com
   - shineacc.com
   - shuinfo.com
   - shunjing.xin

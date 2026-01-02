@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 445
+# 规则统计: 447
 
 HOST,alt1-mtalk.google.com,Direct
 HOST,alt2-mtalk.google.com,Direct
@@ -60,6 +60,7 @@ HOST-SUFFIX,adobe.com,Direct
 HOST-SUFFIX,afeica.com,Direct
 HOST-SUFFIX,afuns.me,Direct
 HOST-SUFFIX,aichangbaishan.com,Direct
+HOST-SUFFIX,aidien.fun,Direct
 HOST-SUFFIX,aigodlike.com,Direct
 HOST-SUFFIX,aihubmix.com,Direct
 HOST-SUFFIX,aistudio-app.com,Direct
@@ -340,6 +341,7 @@ HOST-SUFFIX,sct.ftqq.com,Direct
 HOST-SUFFIX,seaflysoft.com,Direct
 HOST-SUFFIX,seedpace.com,Direct
 HOST-SUFFIX,sgtv.ii00.cc,Direct
+HOST-SUFFIX,shanghai-parking.com,Direct
 HOST-SUFFIX,shineacc.com,Direct
 HOST-SUFFIX,shuinfo.com,Direct
 HOST-SUFFIX,shunjing.xin,Direct

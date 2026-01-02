@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 445
+# 规则统计: 446
 
 no_resolve: true
 domain_set:
@@ -358,6 +358,7 @@ domain_suffix_set:
   - stkfanli.com
   - subhd.tv
   - suyur.com
+  - svyun.com
   - sxlljm.com
   - tailgdd.com
   - tangguobaohe.com

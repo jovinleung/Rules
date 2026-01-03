@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 452
+# 规则统计: 453
 
 no_resolve: true
 domain_set:
@@ -108,6 +108,7 @@ domain_suffix_set:
   - cn-music.mefun.vip
   - cnb.space
   - cnspeedtest.cn
+  - cocav.com
   - codeloop.top
   - coffee-iot.com
   - congmiqq.com

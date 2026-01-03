@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 452
+# 规则统计: 453
 
 DOMAIN,alt1-mtalk.google.com
 DOMAIN,alt2-mtalk.google.com
@@ -105,6 +105,7 @@ DOMAIN-SUFFIX,clivia.fun
 DOMAIN-SUFFIX,cn-music.mefun.vip
 DOMAIN-SUFFIX,cnb.space
 DOMAIN-SUFFIX,cnspeedtest.cn
+DOMAIN-SUFFIX,cocav.com
 DOMAIN-SUFFIX,codeloop.top
 DOMAIN-SUFFIX,coffee-iot.com
 DOMAIN-SUFFIX,congmiqq.com

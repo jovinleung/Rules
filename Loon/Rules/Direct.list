@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 453
+# 规则统计: 454
 
 DOMAIN,alt1-mtalk.google.com
 DOMAIN,alt2-mtalk.google.com
@@ -412,6 +412,7 @@ DOMAIN-SUFFIX,xdqtech.com
 DOMAIN-SUFFIX,xdtool.com
 DOMAIN-SUFFIX,xiankabao.com
 DOMAIN-SUFFIX,xiaochuanyun.com
+DOMAIN-SUFFIX,xiaoxia.vip
 DOMAIN-SUFFIX,xiberia.net
 DOMAIN-SUFFIX,ximogo.com
 DOMAIN-SUFFIX,xinghaiwaimai.com

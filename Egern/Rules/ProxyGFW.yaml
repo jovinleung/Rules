@@ -1,5 +1,5 @@
 # 规则名称: ProxyGFW
-# 规则统计: 7646
+# 规则统计: 7648
 
 no_resolve: true
 domain_set:
@@ -3158,6 +3158,7 @@ domain_suffix_set:
   - hoxx.com
   - hoy.tv
   - hoyolab.com
+  - hoyoverse.com
   - hpjav.com
   - hqcdp.org
   - hqjapanesesex.com
@@ -6790,6 +6791,7 @@ domain_suffix_set:
   - van698.com
   - vanemu.cn
   - vanilla-jp.com
+  - vanityfair.com
   - vanpeople.com
   - vansky.com
   - vaticannews.va

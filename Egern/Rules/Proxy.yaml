@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1321
+# 规则统计: 1323
 
 no_resolve: true
 domain_set:
@@ -532,6 +532,7 @@ domain_suffix_set:
   - hongxingdl.com
   - hostloc.com
   - hoyolab.com
+  - hoyoverse.com
   - hqporner.com
   - hsex.men
   - hsforms.com
@@ -1185,6 +1186,7 @@ domain_suffix_set:
   - v2ray.com
   - v2ray.com,Select
   - va
+  - vanityfair.com
   - vercel.app
   - vercel.com
   - vercel.live

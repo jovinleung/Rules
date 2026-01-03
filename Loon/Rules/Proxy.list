@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1322
+# 规则统计: 1324
 
 DOMAIN,ccmdl.adobe.com
 DOMAIN,community.oneplus.com
@@ -529,6 +529,7 @@ DOMAIN-SUFFIX,homedepot.com
 DOMAIN-SUFFIX,hongxingdl.com
 DOMAIN-SUFFIX,hostloc.com
 DOMAIN-SUFFIX,hoyolab.com
+DOMAIN-SUFFIX,hoyoverse.com
 DOMAIN-SUFFIX,hqporner.com
 DOMAIN-SUFFIX,hsex.men
 DOMAIN-SUFFIX,hsforms.com
@@ -1182,6 +1183,7 @@ DOMAIN-SUFFIX,v2fly.org,Select
 DOMAIN-SUFFIX,v2ray.com
 DOMAIN-SUFFIX,v2ray.com,Select
 DOMAIN-SUFFIX,va
+DOMAIN-SUFFIX,vanityfair.com
 DOMAIN-SUFFIX,vercel.app
 DOMAIN-SUFFIX,vercel.com
 DOMAIN-SUFFIX,vercel.live

@@ -1,5 +1,5 @@
 # 规则名称: ProxyGFW
-# 规则统计: 7647
+# 规则统计: 7649
 
 HOST,ccmdl.adobe.com,ProxyGFW
 HOST,cloud.oracle.com,ProxyGFW
@@ -3155,6 +3155,7 @@ HOST-SUFFIX,howtoforge.com,ProxyGFW
 HOST-SUFFIX,hoxx.com,ProxyGFW
 HOST-SUFFIX,hoy.tv,ProxyGFW
 HOST-SUFFIX,hoyolab.com,ProxyGFW
+HOST-SUFFIX,hoyoverse.com,ProxyGFW
 HOST-SUFFIX,hpjav.com,ProxyGFW
 HOST-SUFFIX,hqcdp.org,ProxyGFW
 HOST-SUFFIX,hqjapanesesex.com,ProxyGFW
@@ -6787,6 +6788,7 @@ HOST-SUFFIX,van001.com,ProxyGFW
 HOST-SUFFIX,van698.com,ProxyGFW
 HOST-SUFFIX,vanemu.cn,ProxyGFW
 HOST-SUFFIX,vanilla-jp.com,ProxyGFW
+HOST-SUFFIX,vanityfair.com,ProxyGFW
 HOST-SUFFIX,vanpeople.com,ProxyGFW
 HOST-SUFFIX,vansky.com,ProxyGFW
 HOST-SUFFIX,vaticannews.va,ProxyGFW

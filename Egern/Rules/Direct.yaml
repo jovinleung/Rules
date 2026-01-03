@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 451
+# 规则统计: 452
 
 no_resolve: true
 domain_set:
@@ -113,6 +113,7 @@ domain_suffix_set:
   - congmiqq.com
   - coros.com
   - crtyhr.com
+  - d4ctech.com
   - day.app
   - dcgstd.com
   - ddsrem.com

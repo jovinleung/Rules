@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 456
+# 规则统计: 458
 
 HOST,alt1-mtalk.google.com,Direct
 HOST,alt2-mtalk.google.com,Direct
@@ -91,6 +91,7 @@ HOST-SUFFIX,canghaiip.com,Direct
 HOST-SUFFIX,cdn.ist,Direct
 HOST-SUFFIX,centbrowser.net,Direct
 HOST-SUFFIX,cg3da.com,Direct
+HOST-SUFFIX,cgicop.com,Direct
 HOST-SUFFIX,chaxunjiao.com,Direct
 HOST-SUFFIX,chaz.fun,Direct
 HOST-SUFFIX,checkip.dyndns.org,Direct
@@ -343,6 +344,7 @@ HOST-SUFFIX,saduck.top,Direct
 HOST-SUFFIX,sanligu.top,Direct
 HOST-SUFFIX,sapphiretech.com,Direct
 HOST-SUFFIX,scbaijia.com,Direct
+HOST-SUFFIX,scnyw.com,Direct
 HOST-SUFFIX,sct.ftqq.com,Direct
 HOST-SUFFIX,seaflysoft.com,Direct
 HOST-SUFFIX,seedpace.com,Direct

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 457
+# 规则统计: 459
 
 no_resolve: true
 domain_set:
@@ -94,6 +94,7 @@ domain_suffix_set:
   - cdn.ist
   - centbrowser.net
   - cg3da.com
+  - cgicop.com
   - chaxunjiao.com
   - chaz.fun
   - checkip.dyndns.org
@@ -346,6 +347,7 @@ domain_suffix_set:
   - sanligu.top
   - sapphiretech.com
   - scbaijia.com
+  - scnyw.com
   - sct.ftqq.com
   - seaflysoft.com
   - seedpace.com

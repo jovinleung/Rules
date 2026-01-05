@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 454
+# 规则统计: 457
 
 DOMAIN,alt1-mtalk.google.com
 DOMAIN,alt2-mtalk.google.com
@@ -102,6 +102,7 @@ DOMAIN-SUFFIX,chii.in
 DOMAIN-SUFFIX,chinatle.com
 DOMAIN-SUFFIX,chujingapp.com
 DOMAIN-SUFFIX,clivia.fun
+DOMAIN-SUFFIX,cmbc.run
 DOMAIN-SUFFIX,cn-music.mefun.vip
 DOMAIN-SUFFIX,cnb.space
 DOMAIN-SUFFIX,cnspeedtest.cn
@@ -378,6 +379,7 @@ DOMAIN-SUFFIX,timbrd.com
 DOMAIN-SUFFIX,tool56.com
 DOMAIN-SUFFIX,topwd.top
 DOMAIN-SUFFIX,tozi-cn.top
+DOMAIN-SUFFIX,ts3.ink
 DOMAIN-SUFFIX,tulipsport.com
 DOMAIN-SUFFIX,tumukaoyan.com
 DOMAIN-SUFFIX,tuxing.art
@@ -420,6 +422,7 @@ DOMAIN-SUFFIX,xiwang.com
 DOMAIN-SUFFIX,xixih.cc
 DOMAIN-SUFFIX,xkkapk.com
 DOMAIN-SUFFIX,xn--4kq62z5rby2qupq9ub.top
+DOMAIN-SUFFIX,xn--cesw6hd3s99f.com
 DOMAIN-SUFFIX,xopenbeta.com
 DOMAIN-SUFFIX,xxir.com
 DOMAIN-SUFFIX,xxrsm.com

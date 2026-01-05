@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 453
+# 规则统计: 456
 
 HOST,alt1-mtalk.google.com,Direct
 HOST,alt2-mtalk.google.com,Direct
@@ -102,6 +102,7 @@ HOST-SUFFIX,chii.in,Direct
 HOST-SUFFIX,chinatle.com,Direct
 HOST-SUFFIX,chujingapp.com,Direct
 HOST-SUFFIX,clivia.fun,Direct
+HOST-SUFFIX,cmbc.run,Direct
 HOST-SUFFIX,cn-music.mefun.vip,Direct
 HOST-SUFFIX,cnb.space,Direct
 HOST-SUFFIX,cnspeedtest.cn,Direct
@@ -378,6 +379,7 @@ HOST-SUFFIX,timbrd.com,Direct
 HOST-SUFFIX,tool56.com,Direct
 HOST-SUFFIX,topwd.top,Direct
 HOST-SUFFIX,tozi-cn.top,Direct
+HOST-SUFFIX,ts3.ink,Direct
 HOST-SUFFIX,tulipsport.com,Direct
 HOST-SUFFIX,tumukaoyan.com,Direct
 HOST-SUFFIX,tuxing.art,Direct
@@ -420,6 +422,7 @@ HOST-SUFFIX,xiwang.com,Direct
 HOST-SUFFIX,xixih.cc,Direct
 HOST-SUFFIX,xkkapk.com,Direct
 HOST-SUFFIX,xn--4kq62z5rby2qupq9ub.top,Direct
+HOST-SUFFIX,xn--cesw6hd3s99f.com,Direct
 HOST-SUFFIX,xopenbeta.com,Direct
 HOST-SUFFIX,xxir.com,Direct
 HOST-SUFFIX,xxrsm.com,Direct

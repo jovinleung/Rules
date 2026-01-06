@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 460
+# 规则统计: 462
 
 HOST,alt1-mtalk.google.com,Direct
 HOST,alt2-mtalk.google.com,Direct
@@ -258,6 +258,7 @@ HOST-SUFFIX,jxpp.com,Direct
 HOST-SUFFIX,kaijiejinrong.com,Direct
 HOST-SUFFIX,kaspersky-labs.com,Direct
 HOST-SUFFIX,kaspersky.com,Direct
+HOST-SUFFIX,kcbd.top,Direct
 HOST-SUFFIX,kejiweixun.com,Direct
 HOST-SUFFIX,keyoo.com,Direct
 HOST-SUFFIX,kgithub.com,Direct
@@ -377,6 +378,7 @@ HOST-SUFFIX,tcp.pub,Direct
 HOST-SUFFIX,tcp5.com,Direct
 HOST-SUFFIX,tcy365.net,Direct
 HOST-SUFFIX,test-ipv6.com,Direct
+HOST-SUFFIX,theluyuan.com,Direct
 HOST-SUFFIX,thinkerride.com,Direct
 HOST-SUFFIX,thmnet.com,Direct
 HOST-SUFFIX,timbrd.com,Direct

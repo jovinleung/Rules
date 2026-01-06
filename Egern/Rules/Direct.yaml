@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 461
+# 规则统计: 463
 
 no_resolve: true
 domain_set:
@@ -261,6 +261,7 @@ domain_suffix_set:
   - kaijiejinrong.com
   - kaspersky-labs.com
   - kaspersky.com
+  - kcbd.top
   - kejiweixun.com
   - keyoo.com
   - kgithub.com
@@ -380,6 +381,7 @@ domain_suffix_set:
   - tcp5.com
   - tcy365.net
   - test-ipv6.com
+  - theluyuan.com
   - thinkerride.com
   - thmnet.com
   - timbrd.com

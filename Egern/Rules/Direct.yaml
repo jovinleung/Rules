@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 459
+# 规则统计: 461
 
 no_resolve: true
 domain_set:
@@ -199,6 +199,8 @@ domain_suffix_set:
   - googletraveladservices.com
   - googoc.com
   - gootho.com
+  - gpetrip.com
+  - gpgwx.com
   - gseen.com
   - gsgltz.com
   - gsjkjt.com

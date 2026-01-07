@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 464
+# 规则统计: 466
 
 no_resolve: true
 domain_set:
@@ -318,6 +318,7 @@ domain_suffix_set:
   - ourschool.cc
   - p01.epsonconnect.com
   - paperang.com
+  - passnat.com
   - pianyuan.org
   - pixcheese.com
   - plusde1.younoyes.com
@@ -455,6 +456,7 @@ domain_suffix_set:
   - zhixingyunke.com
   - zhongancloud.com
   - zjxhedu.com
+  - zmis.me
   - znnu.com
   - znztv.com
   - zsytit.com

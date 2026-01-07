@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 463
+# 规则统计: 465
 
 HOST,alt1-mtalk.google.com,Direct
 HOST,alt2-mtalk.google.com,Direct
@@ -315,6 +315,7 @@ HOST-SUFFIX,ottai.com,Direct
 HOST-SUFFIX,ourschool.cc,Direct
 HOST-SUFFIX,p01.epsonconnect.com,Direct
 HOST-SUFFIX,paperang.com,Direct
+HOST-SUFFIX,passnat.com,Direct
 HOST-SUFFIX,pianyuan.org,Direct
 HOST-SUFFIX,pixcheese.com,Direct
 HOST-SUFFIX,plusde1.younoyes.com,Direct
@@ -452,6 +453,7 @@ HOST-SUFFIX,zhituwujie.com,Direct
 HOST-SUFFIX,zhixingyunke.com,Direct
 HOST-SUFFIX,zhongancloud.com,Direct
 HOST-SUFFIX,zjxhedu.com,Direct
+HOST-SUFFIX,zmis.me,Direct
 HOST-SUFFIX,znnu.com,Direct
 HOST-SUFFIX,znztv.com,Direct
 HOST-SUFFIX,zsytit.com,Direct

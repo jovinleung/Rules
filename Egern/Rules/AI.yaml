@@ -1,5 +1,5 @@
 # 规则名称: AI
-# 规则统计: 61
+# 规则统计: 62
 
 domain_set:
   - ai.google.dev
@@ -35,6 +35,7 @@ domain_suffix_set:
   - dify.ai
   - events.statsigapi.net
   - featuregates.org
+  - g.ai
   - geller-pa.googleapis.com
   - gemini.google
   - gemini.google.com

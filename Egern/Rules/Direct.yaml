@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 466
+# 规则统计: 470
 
 no_resolve: true
 domain_set:
@@ -294,6 +294,7 @@ domain_suffix_set:
   - micu.hk
   - mifeng.plus
   - mifon.com
+  - mixly.org
   - mobai.sbs
   - modelscope.net
   - morefuntengyun.com
@@ -382,11 +383,14 @@ domain_suffix_set:
   - tcp.pub
   - tcp5.com
   - tcy365.net
+  - terra-master.com
   - test-ipv6.com
   - theluyuan.com
   - thinkerride.com
   - thmnet.com
   - timbrd.com
+  - tnas.link
+  - tnas.online
   - tool56.com
   - topwd.top
   - tozi-cn.top

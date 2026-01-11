@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 465
+# 规则统计: 469
 
 HOST,alt1-mtalk.google.com,Direct
 HOST,alt2-mtalk.google.com,Direct
@@ -291,6 +291,7 @@ HOST-SUFFIX,members.3322.org,Direct
 HOST-SUFFIX,micu.hk,Direct
 HOST-SUFFIX,mifeng.plus,Direct
 HOST-SUFFIX,mifon.com,Direct
+HOST-SUFFIX,mixly.org,Direct
 HOST-SUFFIX,mobai.sbs,Direct
 HOST-SUFFIX,modelscope.net,Direct
 HOST-SUFFIX,morefuntengyun.com,Direct
@@ -379,11 +380,14 @@ HOST-SUFFIX,tclai.top,Direct
 HOST-SUFFIX,tcp.pub,Direct
 HOST-SUFFIX,tcp5.com,Direct
 HOST-SUFFIX,tcy365.net,Direct
+HOST-SUFFIX,terra-master.com,Direct
 HOST-SUFFIX,test-ipv6.com,Direct
 HOST-SUFFIX,theluyuan.com,Direct
 HOST-SUFFIX,thinkerride.com,Direct
 HOST-SUFFIX,thmnet.com,Direct
 HOST-SUFFIX,timbrd.com,Direct
+HOST-SUFFIX,tnas.link,Direct
+HOST-SUFFIX,tnas.online,Direct
 HOST-SUFFIX,tool56.com,Direct
 HOST-SUFFIX,topwd.top,Direct
 HOST-SUFFIX,tozi-cn.top,Direct

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 469
+# 规则统计: 470
 
 HOST,alt1-mtalk.google.com,Direct
 HOST,alt2-mtalk.google.com,Direct
@@ -351,6 +351,7 @@ HOST-SUFFIX,sanligu.top,Direct
 HOST-SUFFIX,sapphiretech.com,Direct
 HOST-SUFFIX,scbaijia.com,Direct
 HOST-SUFFIX,scnyw.com,Direct
+HOST-SUFFIX,scratch5.com,Direct
 HOST-SUFFIX,sct.ftqq.com,Direct
 HOST-SUFFIX,seaflysoft.com,Direct
 HOST-SUFFIX,seedpace.com,Direct

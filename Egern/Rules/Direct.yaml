@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 470
+# 规则统计: 471
 
 no_resolve: true
 domain_set:
@@ -354,6 +354,7 @@ domain_suffix_set:
   - sapphiretech.com
   - scbaijia.com
   - scnyw.com
+  - scratch5.com
   - sct.ftqq.com
   - seaflysoft.com
   - seedpace.com

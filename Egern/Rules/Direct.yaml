@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 471
+# 规则统计: 472
 
 no_resolve: true
 domain_set:
@@ -440,6 +440,7 @@ domain_suffix_set:
   - xn--4kq62z5rby2qupq9ub.top
   - xn--cesw6hd3s99f.com
   - xopenbeta.com
+  - xuanyuancode.com
   - xxir.com
   - xxrsm.com
   - xzsckj.com

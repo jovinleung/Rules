@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 472
+# 规则统计: 473
 
 no_resolve: true
 domain_set:
@@ -425,6 +425,7 @@ domain_suffix_set:
   - www.ojrq.net
   - wwwh.eu.org
   - x86pi.com
+  - xbcloudprint.com
   - xbgjw.com
   - xdqtech.com
   - xdtool.com

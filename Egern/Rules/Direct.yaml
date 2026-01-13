@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 473
+# 规则统计: 475
 
 no_resolve: true
 domain_set:
@@ -430,11 +430,13 @@ domain_suffix_set:
   - xdqtech.com
   - xdtool.com
   - xiankabao.com
+  - xiaobeiyangji.com
   - xiaochuanyun.com
   - xiaoxia.vip
   - xiberia.net
   - ximogo.com
   - xinghaiwaimai.com
+  - xingyaozhilian.com
   - xiwang.com
   - xixih.cc
   - xkkapk.com

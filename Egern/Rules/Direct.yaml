@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 475
+# 规则统计: 476
 
 no_resolve: true
 domain_set:
@@ -277,6 +277,7 @@ domain_suffix_set:
   - lcdn-registration.apple.com
   - leelen.com
   - letaoedu.com
+  - lg3000.top
   - liunn.com
   - liveperson.net
   - localhost.ptlogin2.qq.com

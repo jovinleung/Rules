@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 476
+# 规则统计: 478
 
 no_resolve: true
 domain_set:
@@ -128,6 +128,7 @@ domain_suffix_set:
   - dhub.kubesre.xyz
   - dingdingzn.com
   - diyiedu.com
+  - dnshe.com
   - docker.1panel.live
   - docker.kejilion.pro
   - docker.unsee.tech
@@ -344,6 +345,7 @@ domain_suffix_set:
   - qiaoxuesi.com
   - qinglue.com
   - qmeng.top
+  - rayws.top
   - redenmc.com
   - registry.dockermirror.com
   - rewards.bing.com

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 475
+# 规则统计: 477
 
 HOST,alt1-mtalk.google.com,Direct
 HOST,alt2-mtalk.google.com,Direct
@@ -125,6 +125,7 @@ HOST-SUFFIX,dfhog.com,Direct
 HOST-SUFFIX,dhub.kubesre.xyz,Direct
 HOST-SUFFIX,dingdingzn.com,Direct
 HOST-SUFFIX,diyiedu.com,Direct
+HOST-SUFFIX,dnshe.com,Direct
 HOST-SUFFIX,docker.1panel.live,Direct
 HOST-SUFFIX,docker.kejilion.pro,Direct
 HOST-SUFFIX,docker.unsee.tech,Direct
@@ -341,6 +342,7 @@ HOST-SUFFIX,qianxueyunke.com,Direct
 HOST-SUFFIX,qiaoxuesi.com,Direct
 HOST-SUFFIX,qinglue.com,Direct
 HOST-SUFFIX,qmeng.top,Direct
+HOST-SUFFIX,rayws.top,Direct
 HOST-SUFFIX,redenmc.com,Direct
 HOST-SUFFIX,registry.dockermirror.com,Direct
 HOST-SUFFIX,rewards.bing.com,Direct

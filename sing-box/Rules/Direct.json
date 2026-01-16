@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain": [
+        "SRC-PORT",
         "alt1-mtalk.google.com",
         "alt2-mtalk.google.com",
         "alt3-mtalk.google.com",
@@ -384,6 +385,7 @@
         "svyun.com",
         "sxlljm.com",
         "tailgdd.com",
+        "tailscale.com",
         "tangguobaohe.com",
         "tastientech.com",
         "tclai.top",

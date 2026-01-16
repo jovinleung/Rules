@@ -1,6 +1,7 @@
 # 规则名称: Direct
-# 规则统计: 477
+# 规则统计: 479
 
+HOST,SRC-PORT,41641,Direct
 HOST,alt1-mtalk.google.com,Direct
 HOST,alt2-mtalk.google.com,Direct
 HOST,alt3-mtalk.google.com,Direct
@@ -378,6 +379,7 @@ HOST-SUFFIX,suyur.com,Direct
 HOST-SUFFIX,svyun.com,Direct
 HOST-SUFFIX,sxlljm.com,Direct
 HOST-SUFFIX,tailgdd.com,Direct
+HOST-SUFFIX,tailscale.com,Direct
 HOST-SUFFIX,tangguobaohe.com,Direct
 HOST-SUFFIX,tastientech.com,Direct
 HOST-SUFFIX,tclai.top,Direct

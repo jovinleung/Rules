@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 484
+# 规则统计: 488
 
 no_resolve: true
 domain_set:
@@ -76,6 +76,7 @@ domain_suffix_set:
   - anycubic.com
   - anyrouter.top
   - api.myip.com
+  - apm-log-upload-os.hoyoverse.com
   - aqtwwx.net
   - armvm.com
   - atticus.vip
@@ -299,6 +300,7 @@ domain_suffix_set:
   - micu.hk
   - mifeng.plus
   - mifon.com
+  - minor-api-os.hoyoverse.com
   - mixly.org
   - mobai.sbs
   - modelscope.net
@@ -363,6 +365,7 @@ domain_suffix_set:
   - scnyw.com
   - scratch5.com
   - sct.ftqq.com
+  - sdk-log-upload-os.hoyoverse.com
   - seaflysoft.com
   - seedpace.com
   - sgtv.ii00.cc
@@ -480,6 +483,7 @@ domain_suffix_set:
   - zsytit.com
   - ztytech.com
   - zuobiao.press
+  - zzz-log-upload-os.hoyoverse.com
 domain_keyword_set:
   - m-team
   - quickconnect

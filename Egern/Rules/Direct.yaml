@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 483
+# 规则统计: 484
 
 no_resolve: true
 domain_set:
@@ -295,6 +295,7 @@ domain_suffix_set:
   - mc-user.com
   - meishiffx.online
   - members.3322.org
+  - meoof-pet.com
   - micu.hk
   - mifeng.plus
   - mifon.com

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 483
+# 规则统计: 484
 
 DOMAIN,SRC-PORT,41641
 DOMAIN,alt1-mtalk.google.com
@@ -292,6 +292,7 @@ DOMAIN-SUFFIX,manfuz.co
 DOMAIN-SUFFIX,mc-user.com
 DOMAIN-SUFFIX,meishiffx.online
 DOMAIN-SUFFIX,members.3322.org
+DOMAIN-SUFFIX,meoof-pet.com
 DOMAIN-SUFFIX,micu.hk
 DOMAIN-SUFFIX,mifeng.plus
 DOMAIN-SUFFIX,mifon.com

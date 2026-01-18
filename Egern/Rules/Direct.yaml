@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 480
+# 规则统计: 482
 
 no_resolve: true
 domain_set:
@@ -319,6 +319,7 @@ domain_suffix_set:
   - onebuygz.com
   - opentrust.net
   - ottai.com
+  - ottiptv.cc
   - ourschool.cc
   - p01.epsonconnect.com
   - paperang.com
@@ -429,6 +430,7 @@ domain_suffix_set:
   - wushuangai.com
   - www.ojrq.net
   - wwwh.eu.org
+  - wxdw.top
   - x86pi.com
   - xbcloudprint.com
   - xbgjw.com

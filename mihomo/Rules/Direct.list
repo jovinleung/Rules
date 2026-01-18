@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 480
+# 规则统计: 482
 
 DOMAIN,SRC-PORT,41641
 DOMAIN,alt1-mtalk.google.com
@@ -316,6 +316,7 @@ DOMAIN-SUFFIX,ok321.top
 DOMAIN-SUFFIX,onebuygz.com
 DOMAIN-SUFFIX,opentrust.net
 DOMAIN-SUFFIX,ottai.com
+DOMAIN-SUFFIX,ottiptv.cc
 DOMAIN-SUFFIX,ourschool.cc
 DOMAIN-SUFFIX,p01.epsonconnect.com
 DOMAIN-SUFFIX,paperang.com
@@ -426,6 +427,7 @@ DOMAIN-SUFFIX,wpurl.cc
 DOMAIN-SUFFIX,wushuangai.com
 DOMAIN-SUFFIX,www.ojrq.net
 DOMAIN-SUFFIX,wwwh.eu.org
+DOMAIN-SUFFIX,wxdw.top
 DOMAIN-SUFFIX,x86pi.com
 DOMAIN-SUFFIX,xbcloudprint.com
 DOMAIN-SUFFIX,xbgjw.com

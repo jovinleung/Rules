@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 479
+# 规则统计: 481
 
 HOST,SRC-PORT,41641,Direct
 HOST,alt1-mtalk.google.com,Direct
@@ -316,6 +316,7 @@ HOST-SUFFIX,ok321.top,Direct
 HOST-SUFFIX,onebuygz.com,Direct
 HOST-SUFFIX,opentrust.net,Direct
 HOST-SUFFIX,ottai.com,Direct
+HOST-SUFFIX,ottiptv.cc,Direct
 HOST-SUFFIX,ourschool.cc,Direct
 HOST-SUFFIX,p01.epsonconnect.com,Direct
 HOST-SUFFIX,paperang.com,Direct
@@ -426,6 +427,7 @@ HOST-SUFFIX,wpurl.cc,Direct
 HOST-SUFFIX,wushuangai.com,Direct
 HOST-SUFFIX,www.ojrq.net,Direct
 HOST-SUFFIX,wwwh.eu.org,Direct
+HOST-SUFFIX,wxdw.top,Direct
 HOST-SUFFIX,x86pi.com,Direct
 HOST-SUFFIX,xbcloudprint.com,Direct
 HOST-SUFFIX,xbgjw.com,Direct

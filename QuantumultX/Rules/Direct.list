@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 487
+# 规则统计: 489
 
 HOST,SRC-PORT,41641,Direct
 HOST,alt1-mtalk.google.com,Direct
@@ -91,6 +91,7 @@ HOST-SUFFIX,boyuemobile.com,Direct
 HOST-SUFFIX,bsbsb.top,Direct
 HOST-SUFFIX,bunny.net,Direct
 HOST-SUFFIX,canghaiip.com,Direct
+HOST-SUFFIX,cc.cd,Direct
 HOST-SUFFIX,cdn.ist,Direct
 HOST-SUFFIX,centbrowser.net,Direct
 HOST-SUFFIX,cg3da.com,Direct
@@ -412,6 +413,7 @@ HOST-SUFFIX,u-carloan.com,Direct
 HOST-SUFFIX,uascent-iot.com,Direct
 HOST-SUFFIX,ugdocker.link,Direct
 HOST-SUFFIX,ulife.group,Direct
+HOST-SUFFIX,us.ci,Direct
 HOST-SUFFIX,vbkhk.com,Direct
 HOST-SUFFIX,vbkr.com,Direct
 HOST-SUFFIX,vbkrhk.com,Direct

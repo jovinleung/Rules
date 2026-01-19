@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 488
+# 规则统计: 490
 
 DOMAIN,SRC-PORT,41641
 DOMAIN,alt1-mtalk.google.com
@@ -91,6 +91,7 @@ DOMAIN-SUFFIX,boyuemobile.com
 DOMAIN-SUFFIX,bsbsb.top
 DOMAIN-SUFFIX,bunny.net
 DOMAIN-SUFFIX,canghaiip.com
+DOMAIN-SUFFIX,cc.cd
 DOMAIN-SUFFIX,cdn.ist
 DOMAIN-SUFFIX,centbrowser.net
 DOMAIN-SUFFIX,cg3da.com
@@ -412,6 +413,7 @@ DOMAIN-SUFFIX,u-carloan.com
 DOMAIN-SUFFIX,uascent-iot.com
 DOMAIN-SUFFIX,ugdocker.link
 DOMAIN-SUFFIX,ulife.group
+DOMAIN-SUFFIX,us.ci
 DOMAIN-SUFFIX,vbkhk.com
 DOMAIN-SUFFIX,vbkr.com
 DOMAIN-SUFFIX,vbkrhk.com

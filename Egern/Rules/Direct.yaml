@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 488
+# 规则统计: 490
 
 no_resolve: true
 domain_set:
@@ -94,6 +94,7 @@ domain_suffix_set:
   - bsbsb.top
   - bunny.net
   - canghaiip.com
+  - cc.cd
   - cdn.ist
   - centbrowser.net
   - cg3da.com
@@ -415,6 +416,7 @@ domain_suffix_set:
   - uascent-iot.com
   - ugdocker.link
   - ulife.group
+  - us.ci
   - vbkhk.com
   - vbkr.com
   - vbkrhk.com

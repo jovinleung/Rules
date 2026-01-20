@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 489
+# 规则统计: 490
 
 HOST,SRC-PORT,41641,Direct
 HOST,alt1-mtalk.google.com,Direct
@@ -366,6 +366,7 @@ HOST-SUFFIX,sct.ftqq.com,Direct
 HOST-SUFFIX,sdk-log-upload-os.hoyoverse.com,Direct
 HOST-SUFFIX,seaflysoft.com,Direct
 HOST-SUFFIX,seedpace.com,Direct
+HOST-SUFFIX,server2.cn2gias.uk,Direct
 HOST-SUFFIX,sgtv.ii00.cc,Direct
 HOST-SUFFIX,shanghai-parking.com,Direct
 HOST-SUFFIX,shineacc.com,Direct

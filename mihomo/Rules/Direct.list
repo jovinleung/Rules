@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 490
+# 规则统计: 491
 
 DOMAIN,SRC-PORT,41641
 DOMAIN,alt1-mtalk.google.com
@@ -366,6 +366,7 @@ DOMAIN-SUFFIX,sct.ftqq.com
 DOMAIN-SUFFIX,sdk-log-upload-os.hoyoverse.com
 DOMAIN-SUFFIX,seaflysoft.com
 DOMAIN-SUFFIX,seedpace.com
+DOMAIN-SUFFIX,server2.cn2gias.uk
 DOMAIN-SUFFIX,sgtv.ii00.cc
 DOMAIN-SUFFIX,shanghai-parking.com
 DOMAIN-SUFFIX,shineacc.com

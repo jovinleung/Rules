@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 492
+# 规则统计: 519
 
 no_resolve: true
 domain_set:
@@ -64,6 +64,7 @@ domain_suffix_set:
   - adobe.com
   - afeica.com
   - afuns.me
+  - aibeike.com
   - aichangbaishan.com
   - aidien.fun
   - aigodlike.com
@@ -82,13 +83,17 @@ domain_suffix_set:
   - armvm.com
   - atticus.vip
   - awstme.top
+  - axuex.top
   - baiyishequ.com
+  - banban.work
   - bangumi.tv
   - bdcb.cc
   - belimked.com
   - bgm.tv
   - biandangroup.com
   - biaoda.me
+  - bingshandashu.com
+  - bjtzeduyun.com
   - blog.google
   - bochk.com
   - boyuemobile.com
@@ -123,6 +128,8 @@ domain_suffix_set:
   - crtyhr.com
   - cyouzai.com
   - d4ctech.com
+  - dadateach.com
+  - dahai96.com
   - day.app
   - dcgstd.com
   - ddsrem.com
@@ -149,6 +156,7 @@ domain_suffix_set:
   - easytomessage.com
   - einfo-tech.com
   - englibrary.com
+  - enyugame.net
   - epark.cc
   - epg.aptv.app
   - epg.v1.mk
@@ -167,6 +175,7 @@ domain_suffix_set:
   - fssbcc.top
   - fsytss.com
   - ft07.com
+  - functorz.com
   - fuziche.com
   - fzvcolco.com
   - fzwqq.com
@@ -225,6 +234,7 @@ domain_suffix_set:
   - hf-mirror.com
   - hhtvc.com
   - hijin.vip
+  - hiwms.com
   - hnxzctec.com
   - hsbc.com.hk
   - hstbroker.com
@@ -245,6 +255,7 @@ domain_suffix_set:
   - ifengmap.com
   - ifish7.com
   - igpsport.com
+  - ilucky.net
   - imacos.top
   - immortalwrt.org
   - iotrix.net
@@ -257,6 +268,7 @@ domain_suffix_set:
   - jduoduo.com
   - jfjt.cc
   - jh96095.com
+  - jiaoyanyun.com
   - jiliuwang.net
   - jingheiot.com
   - jiqw.com
@@ -266,6 +278,7 @@ domain_suffix_set:
   - jxjktzjt.com
   - jxpp.com
   - kaijiejinrong.com
+  - kancaibao.com
   - kaspersky-labs.com
   - kaspersky.com
   - kcbd.top
@@ -290,19 +303,23 @@ domain_suffix_set:
   - localhost.sec.qq.com
   - longmenshuju.com
   - lsbj365.com
+  - lucky.gd
   - lyihub.com
   - lyilife.com
   - m-team.cc
   - m-team.io
+  - machtalk.net
   - manfuz.co
   - mc-user.com
   - meishiffx.online
+  - meiyitou.top
   - members.3322.org
   - meoof-pet.com
   - micu.hk
   - mifeng.plus
   - mifon.com
   - minor-api-os.hoyoverse.com
+  - misea.top
   - mixly.org
   - mobai.sbs
   - modelscope.net
@@ -319,6 +336,7 @@ domain_suffix_set:
   - nhk.or.jp
   - nicezhuanye.com
   - nn.ci
+  - nodcloud.com
   - nxog.top
   - oceando.cloud
   - ok321.top
@@ -353,6 +371,7 @@ domain_suffix_set:
   - qiaoxuesi.com
   - qinglue.com
   - qmeng.top
+  - qweatherapi.com
   - rayws.top
   - redenmc.com
   - registry.dockermirror.com
@@ -395,6 +414,7 @@ domain_suffix_set:
   - tangguobaohe.com
   - tastientech.com
   - tclai.top
+  - tcp.mk
   - tcp.pub
   - tcp5.com
   - tcy365.net
@@ -404,6 +424,7 @@ domain_suffix_set:
   - thinkerride.com
   - thmnet.com
   - timbrd.com
+  - tixue.net
   - tnas.link
   - tnas.online
   - tool56.com
@@ -435,6 +456,7 @@ domain_suffix_set:
   - wewillpro.com
   - wjx.top
   - wlcdn88.com
+  - wologic.net
   - wpurl.cc
   - wushuangai.com
   - www.ojrq.net
@@ -445,6 +467,7 @@ domain_suffix_set:
   - xbgjw.com
   - xdqtech.com
   - xdtool.com
+  - xesabc.com
   - xiankabao.com
   - xiaobeiyangji.com
   - xiaochuanyun.com
@@ -460,12 +483,14 @@ domain_suffix_set:
   - xn--cesw6hd3s99f.com
   - xopenbeta.com
   - xuanyuancode.com
+  - xuepaipai.com
   - xxir.com
   - xxrsm.com
   - xzsckj.com
   - xzzhtc.com
   - ycjintou.com
   - ydayc.com
+  - yicaiykt.com
   - yiso.fun
   - yixc.com
   - yongyu.xyz
@@ -474,12 +499,14 @@ domain_suffix_set:
   - yyshub.top
   - yzcsoft.com
   - z6e.com
+  - zcloud.world
   - zctnet.top
   - zeekrline.com
   - zhi10.com
   - zhituwujie.com
   - zhixingyunke.com
   - zhongancloud.com
+  - zhu.today
   - zjxhedu.com
   - zmis.me
   - znnu.com

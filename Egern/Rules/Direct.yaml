@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 491
+# 规则统计: 492
 
 no_resolve: true
 domain_set:
@@ -78,6 +78,7 @@ domain_suffix_set:
   - api.myip.com
   - apm-log-upload-os.hoyoverse.com
   - aqtwwx.net
+  - argotunnel.com
   - armvm.com
   - atticus.vip
   - awstme.top

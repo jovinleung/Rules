@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 490
+# 规则统计: 491
 
 HOST,SRC-PORT,41641,Direct
 HOST,alt1-mtalk.google.com,Direct
@@ -75,6 +75,7 @@ HOST-SUFFIX,anyrouter.top,Direct
 HOST-SUFFIX,api.myip.com,Direct
 HOST-SUFFIX,apm-log-upload-os.hoyoverse.com,Direct
 HOST-SUFFIX,aqtwwx.net,Direct
+HOST-SUFFIX,argotunnel.com,Direct
 HOST-SUFFIX,armvm.com,Direct
 HOST-SUFFIX,atticus.vip,Direct
 HOST-SUFFIX,awstme.top,Direct

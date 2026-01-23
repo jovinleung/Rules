@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 519
+# 规则统计: 520
 
 no_resolve: true
 domain_set:
@@ -511,6 +511,7 @@ domain_suffix_set:
   - zmis.me
   - znnu.com
   - znztv.com
+  - zqin758.xyz
   - zsytit.com
   - ztytech.com
   - zuobiao.press

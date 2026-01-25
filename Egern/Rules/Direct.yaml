@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 520
+# 规则统计: 521
 
 no_resolve: true
 domain_set:
@@ -227,6 +227,7 @@ domain_suffix_set:
   - halvie.com
   - ham.xin
   - haoxueche.com
+  - harbourmooc.com
   - hbcof.com
   - hbctic.com
   - hdbz.net

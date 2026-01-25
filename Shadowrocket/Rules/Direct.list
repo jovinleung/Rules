@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 520
+# 规则统计: 521
 
 DOMAIN,SRC-PORT,41641
 DOMAIN,alt1-mtalk.google.com
@@ -224,6 +224,7 @@ DOMAIN-SUFFIX,gzybao.com
 DOMAIN-SUFFIX,halvie.com
 DOMAIN-SUFFIX,ham.xin
 DOMAIN-SUFFIX,haoxueche.com
+DOMAIN-SUFFIX,harbourmooc.com
 DOMAIN-SUFFIX,hbcof.com
 DOMAIN-SUFFIX,hbctic.com
 DOMAIN-SUFFIX,hdbz.net

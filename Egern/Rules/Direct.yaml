@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 522
+# 规则统计: 524
 
 no_resolve: true
 domain_set:
@@ -312,6 +312,8 @@ domain_suffix_set:
   - machtalk.net
   - manfuz.co
   - mc-user.com
+  - mchuiji.com
+  - mcxyzt.cc
   - meishiffx.online
   - meiyitou.top
   - members.3322.org

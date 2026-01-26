@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 521
+# 规则统计: 523
 
 HOST,SRC-PORT,41641,Direct
 HOST,alt1-mtalk.google.com,Direct
@@ -309,6 +309,8 @@ HOST-SUFFIX,m-team.io,Direct
 HOST-SUFFIX,machtalk.net,Direct
 HOST-SUFFIX,manfuz.co,Direct
 HOST-SUFFIX,mc-user.com,Direct
+HOST-SUFFIX,mchuiji.com,Direct
+HOST-SUFFIX,mcxyzt.cc,Direct
 HOST-SUFFIX,meishiffx.online,Direct
 HOST-SUFFIX,meiyitou.top,Direct
 HOST-SUFFIX,members.3322.org,Direct

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 523
+# 规则统计: 524
 
 HOST,SRC-PORT,41641,Direct
 HOST,alt1-mtalk.google.com,Direct
@@ -332,6 +332,7 @@ HOST-SUFFIX,mykuaidi.com,Direct
 HOST-SUFFIX,myshopex.com,Direct
 HOST-SUFFIX,naixi.com,Direct
 HOST-SUFFIX,nanshe-tech.com,Direct
+HOST-SUFFIX,natchecker.com,Direct
 HOST-SUFFIX,neihang.net,Direct
 HOST-SUFFIX,netzz.net,Direct
 HOST-SUFFIX,nhk.or.jp,Direct

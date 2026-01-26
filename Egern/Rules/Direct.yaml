@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 524
+# 规则统计: 525
 
 no_resolve: true
 domain_set:
@@ -335,6 +335,7 @@ domain_suffix_set:
   - myshopex.com
   - naixi.com
   - nanshe-tech.com
+  - natchecker.com
   - neihang.net
   - netzz.net
   - nhk.or.jp

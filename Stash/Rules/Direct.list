@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 524
+# 规则统计: 525
 
 DOMAIN,SRC-PORT,41641
 DOMAIN,alt1-mtalk.google.com
@@ -332,6 +332,7 @@ DOMAIN-SUFFIX,mykuaidi.com
 DOMAIN-SUFFIX,myshopex.com
 DOMAIN-SUFFIX,naixi.com
 DOMAIN-SUFFIX,nanshe-tech.com
+DOMAIN-SUFFIX,natchecker.com
 DOMAIN-SUFFIX,neihang.net
 DOMAIN-SUFFIX,netzz.net
 DOMAIN-SUFFIX,nhk.or.jp

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 525
+# 规则统计: 528
 
 no_resolve: true
 domain_set:
@@ -131,6 +131,7 @@ domain_suffix_set:
   - dadateach.com
   - dahai96.com
   - day.app
+  - dayilive.com
   - dcgstd.com
   - ddsrem.com
   - ddxq.mobi
@@ -270,6 +271,7 @@ domain_suffix_set:
   - jfjt.cc
   - jh96095.com
   - jiaoyanyun.com
+  - jieyoutsg.com
   - jiliuwang.net
   - jingheiot.com
   - jiqw.com
@@ -314,6 +316,7 @@ domain_suffix_set:
   - mc-user.com
   - mchuiji.com
   - mcxyzt.cc
+  - medtechshare.com
   - meishiffx.online
   - meiyitou.top
   - members.3322.org

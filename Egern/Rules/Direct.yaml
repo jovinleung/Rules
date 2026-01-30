@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 528
+# 规则统计: 531
 
 no_resolve: true
 domain_set:
@@ -233,6 +233,7 @@ domain_suffix_set:
   - hbctic.com
   - hdbz.net
   - hexiny.com
+  - hezuvip.com
   - hf-mirror.com
   - hhtvc.com
   - hijin.vip
@@ -366,6 +367,7 @@ domain_suffix_set:
   - plusus1.younoyes.com
   - plusus2.younoyes.com
   - plusus3.younoyes.com
+  - ponyemu.com
   - pool.ntp.org
   - powershellgallery.com
   - privateapi.xyz
@@ -484,6 +486,7 @@ domain_suffix_set:
   - ximogo.com
   - xinghaiwaimai.com
   - xingyaozhilian.com
+  - xiqueer.com
   - xiwang.com
   - xixih.cc
   - xkkapk.com

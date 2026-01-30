@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 527
+# 规则统计: 530
 
 HOST,SRC-PORT,41641,Direct
 HOST,alt1-mtalk.google.com,Direct
@@ -230,6 +230,7 @@ HOST-SUFFIX,hbcof.com,Direct
 HOST-SUFFIX,hbctic.com,Direct
 HOST-SUFFIX,hdbz.net,Direct
 HOST-SUFFIX,hexiny.com,Direct
+HOST-SUFFIX,hezuvip.com,Direct
 HOST-SUFFIX,hf-mirror.com,Direct
 HOST-SUFFIX,hhtvc.com,Direct
 HOST-SUFFIX,hijin.vip,Direct
@@ -363,6 +364,7 @@ HOST-SUFFIX,plusjp1.younoyes.com,Direct
 HOST-SUFFIX,plusus1.younoyes.com,Direct
 HOST-SUFFIX,plusus2.younoyes.com,Direct
 HOST-SUFFIX,plusus3.younoyes.com,Direct
+HOST-SUFFIX,ponyemu.com,Direct
 HOST-SUFFIX,pool.ntp.org,Direct
 HOST-SUFFIX,powershellgallery.com,Direct
 HOST-SUFFIX,privateapi.xyz,Direct
@@ -481,6 +483,7 @@ HOST-SUFFIX,xiberia.net,Direct
 HOST-SUFFIX,ximogo.com,Direct
 HOST-SUFFIX,xinghaiwaimai.com,Direct
 HOST-SUFFIX,xingyaozhilian.com,Direct
+HOST-SUFFIX,xiqueer.com,Direct
 HOST-SUFFIX,xiwang.com,Direct
 HOST-SUFFIX,xixih.cc,Direct
 HOST-SUFFIX,xkkapk.com,Direct

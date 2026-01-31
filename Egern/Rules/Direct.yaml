@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 532
+# 规则统计: 535
 
 no_resolve: true
 domain_set:
@@ -72,6 +72,8 @@ domain_suffix_set:
   - aistudio-app.com
   - akamaihd.net
   - akamaized.net
+  - alonginwind.eu.org
+  - alonginwind.top
   - aloys233.top
   - antping.com
   - anycubic.com
@@ -404,6 +406,7 @@ domain_suffix_set:
   - sgtv.ii00.cc
   - shanghai-parking.com
   - shineacc.com
+  - shuangqingtech.com
   - shuinfo.com
   - shunjing.xin
   - shuqiandiqiu.com

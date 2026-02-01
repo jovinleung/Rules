@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 539
+# 规则统计: 542
 
 DOMAIN,SRC-PORT,41641
 DOMAIN,alt1-mtalk.google.com
@@ -30,11 +30,13 @@ DOMAIN,sycm.mmstat.com
 DOMAIN,update.googleapis.com
 DOMAIN,vd.l.qq.com
 DOMAIN,vi.l.qq.com
+DOMAIN-SUFFIX,0044696.com
 DOMAIN-SUFFIX,03241119.xyz
 DOMAIN-SUFFIX,112114.xyz
 DOMAIN-SUFFIX,115cdn.de
 DOMAIN-SUFFIX,1996999.xyz
 DOMAIN-SUFFIX,204cloud.com
+DOMAIN-SUFFIX,365ting.com
 DOMAIN-SUFFIX,3d-apollo.com
 DOMAIN-SUFFIX,3dwhere.com
 DOMAIN-SUFFIX,3gxk.net
@@ -66,6 +68,7 @@ DOMAIN-SUFFIX,aichangbaishan.com
 DOMAIN-SUFFIX,aidien.fun
 DOMAIN-SUFFIX,aigodlike.com
 DOMAIN-SUFFIX,aihubmix.com
+DOMAIN-SUFFIX,aisnogames.com
 DOMAIN-SUFFIX,aistudio-app.com
 DOMAIN-SUFFIX,akamaihd.net
 DOMAIN-SUFFIX,akamaized.net

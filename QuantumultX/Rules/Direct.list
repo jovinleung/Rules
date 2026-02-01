@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 538
+# 规则统计: 541
 
 HOST,SRC-PORT,41641,Direct
 HOST,alt1-mtalk.google.com,Direct
@@ -30,11 +30,13 @@ HOST,sycm.mmstat.com,Direct
 HOST,update.googleapis.com,Direct
 HOST,vd.l.qq.com,Direct
 HOST,vi.l.qq.com,Direct
+HOST-SUFFIX,0044696.com,Direct
 HOST-SUFFIX,03241119.xyz,Direct
 HOST-SUFFIX,112114.xyz,Direct
 HOST-SUFFIX,115cdn.de,Direct
 HOST-SUFFIX,1996999.xyz,Direct
 HOST-SUFFIX,204cloud.com,Direct
+HOST-SUFFIX,365ting.com,Direct
 HOST-SUFFIX,3d-apollo.com,Direct
 HOST-SUFFIX,3dwhere.com,Direct
 HOST-SUFFIX,3gxk.net,Direct
@@ -66,6 +68,7 @@ HOST-SUFFIX,aichangbaishan.com,Direct
 HOST-SUFFIX,aidien.fun,Direct
 HOST-SUFFIX,aigodlike.com,Direct
 HOST-SUFFIX,aihubmix.com,Direct
+HOST-SUFFIX,aisnogames.com,Direct
 HOST-SUFFIX,aistudio-app.com,Direct
 HOST-SUFFIX,akamaihd.net,Direct
 HOST-SUFFIX,akamaized.net,Direct

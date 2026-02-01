@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 535
+# 规则统计: 539
 
 no_resolve: true
 domain_set:
@@ -229,6 +229,7 @@ domain_suffix_set:
   - gzybao.com
   - halvie.com
   - ham.xin
+  - hangnakeji.com
   - haoxueche.com
   - harbourmooc.com
   - hbcof.com
@@ -244,6 +245,7 @@ domain_suffix_set:
   - hsbc.com.hk
   - hstbroker.com
   - hszq6.com
+  - htkgsx.com
   - hub.crdz.gq
   - hub.gitmirror.com
   - hub.rat.dev
@@ -263,6 +265,7 @@ domain_suffix_set:
   - ilucky.net
   - imacos.top
   - immortalwrt.org
+  - iosgujian.com
   - iotrix.net
   - ip159.com
   - ip6.seeip.org
@@ -362,6 +365,7 @@ domain_suffix_set:
   - passnat.com
   - pianyuan.org
   - pixcheese.com
+  - pkghund.com
   - plusde1.younoyes.com
   - plushk1.younoyes.com
   - plushk2.younoyes.com

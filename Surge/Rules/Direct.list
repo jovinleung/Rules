@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 535
+# 规则统计: 539
 
 DOMAIN,SRC-PORT,41641
 DOMAIN,alt1-mtalk.google.com
@@ -226,6 +226,7 @@ DOMAIN-SUFFIX,gxnnjidingkeji.top
 DOMAIN-SUFFIX,gzybao.com
 DOMAIN-SUFFIX,halvie.com
 DOMAIN-SUFFIX,ham.xin
+DOMAIN-SUFFIX,hangnakeji.com
 DOMAIN-SUFFIX,haoxueche.com
 DOMAIN-SUFFIX,harbourmooc.com
 DOMAIN-SUFFIX,hbcof.com
@@ -241,6 +242,7 @@ DOMAIN-SUFFIX,hnxzctec.com
 DOMAIN-SUFFIX,hsbc.com.hk
 DOMAIN-SUFFIX,hstbroker.com
 DOMAIN-SUFFIX,hszq6.com
+DOMAIN-SUFFIX,htkgsx.com
 DOMAIN-SUFFIX,hub.crdz.gq
 DOMAIN-SUFFIX,hub.gitmirror.com
 DOMAIN-SUFFIX,hub.rat.dev
@@ -260,6 +262,7 @@ DOMAIN-SUFFIX,igpsport.com
 DOMAIN-SUFFIX,ilucky.net
 DOMAIN-SUFFIX,imacos.top
 DOMAIN-SUFFIX,immortalwrt.org
+DOMAIN-SUFFIX,iosgujian.com
 DOMAIN-SUFFIX,iotrix.net
 DOMAIN-SUFFIX,ip159.com
 DOMAIN-SUFFIX,ip6.seeip.org
@@ -359,6 +362,7 @@ DOMAIN-SUFFIX,paperang.com
 DOMAIN-SUFFIX,passnat.com
 DOMAIN-SUFFIX,pianyuan.org
 DOMAIN-SUFFIX,pixcheese.com
+DOMAIN-SUFFIX,pkghund.com
 DOMAIN-SUFFIX,plusde1.younoyes.com
 DOMAIN-SUFFIX,plushk1.younoyes.com
 DOMAIN-SUFFIX,plushk2.younoyes.com

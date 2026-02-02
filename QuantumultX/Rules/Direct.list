@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 541
+# 规则统计: 543
 
 HOST,SRC-PORT,41641,Direct
 HOST,alt1-mtalk.google.com,Direct
@@ -66,6 +66,7 @@ HOST-SUFFIX,afuns.me,Direct
 HOST-SUFFIX,aibeike.com,Direct
 HOST-SUFFIX,aichangbaishan.com,Direct
 HOST-SUFFIX,aidien.fun,Direct
+HOST-SUFFIX,aidream.website,Direct
 HOST-SUFFIX,aigodlike.com,Direct
 HOST-SUFFIX,aihubmix.com,Direct
 HOST-SUFFIX,aisnogames.com,Direct
@@ -225,6 +226,7 @@ HOST-SUFFIX,gsgltz.com,Direct
 HOST-SUFFIX,gsjkjt.com,Direct
 HOST-SUFFIX,gsnhcg.com,Direct
 HOST-SUFFIX,gsstic.com,Direct
+HOST-SUFFIX,guaitao.cc,Direct
 HOST-SUFFIX,gxnnjidingkeji.top,Direct
 HOST-SUFFIX,gzybao.com,Direct
 HOST-SUFFIX,halvie.com,Direct

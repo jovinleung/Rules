@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 542
+# 规则统计: 544
 
 no_resolve: true
 domain_set:
@@ -69,6 +69,7 @@ domain_suffix_set:
   - aibeike.com
   - aichangbaishan.com
   - aidien.fun
+  - aidream.website
   - aigodlike.com
   - aihubmix.com
   - aisnogames.com
@@ -228,6 +229,7 @@ domain_suffix_set:
   - gsjkjt.com
   - gsnhcg.com
   - gsstic.com
+  - guaitao.cc
   - gxnnjidingkeji.top
   - gzybao.com
   - halvie.com

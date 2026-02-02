@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 542
+# 规则统计: 544
 
 DOMAIN,SRC-PORT,41641
 DOMAIN,alt1-mtalk.google.com
@@ -66,6 +66,7 @@ DOMAIN-SUFFIX,afuns.me
 DOMAIN-SUFFIX,aibeike.com
 DOMAIN-SUFFIX,aichangbaishan.com
 DOMAIN-SUFFIX,aidien.fun
+DOMAIN-SUFFIX,aidream.website
 DOMAIN-SUFFIX,aigodlike.com
 DOMAIN-SUFFIX,aihubmix.com
 DOMAIN-SUFFIX,aisnogames.com
@@ -225,6 +226,7 @@ DOMAIN-SUFFIX,gsgltz.com
 DOMAIN-SUFFIX,gsjkjt.com
 DOMAIN-SUFFIX,gsnhcg.com
 DOMAIN-SUFFIX,gsstic.com
+DOMAIN-SUFFIX,guaitao.cc
 DOMAIN-SUFFIX,gxnnjidingkeji.top
 DOMAIN-SUFFIX,gzybao.com
 DOMAIN-SUFFIX,halvie.com

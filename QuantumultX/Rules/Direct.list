@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 543
+# 规则统计: 544
 
 HOST,SRC-PORT,41641,Direct
 HOST,alt1-mtalk.google.com,Direct
@@ -243,6 +243,7 @@ HOST-SUFFIX,hf-mirror.com,Direct
 HOST-SUFFIX,hhtvc.com,Direct
 HOST-SUFFIX,hijin.vip,Direct
 HOST-SUFFIX,hiwms.com,Direct
+HOST-SUFFIX,hkchat.app,Direct
 HOST-SUFFIX,hnxzctec.com,Direct
 HOST-SUFFIX,hsbc.com.hk,Direct
 HOST-SUFFIX,hstbroker.com,Direct

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 544
+# 规则统计: 545
 
 no_resolve: true
 domain_set:
@@ -246,6 +246,7 @@ domain_suffix_set:
   - hhtvc.com
   - hijin.vip
   - hiwms.com
+  - hkchat.app
   - hnxzctec.com
   - hsbc.com.hk
   - hstbroker.com

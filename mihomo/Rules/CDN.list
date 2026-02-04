@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4366
+# 规则统计: 4368
 
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -2029,6 +2029,8 @@ DOMAIN,mir-s3-cdn-cf.behance.net
 DOMAIN,miro.medium.com
 DOMAIN,mixin-images.zeromesh.net
 DOMAIN,mkt-site-asset.crypto.com
+DOMAIN,mma.prnewswire.com
+DOMAIN,mms.businesswire.com
 DOMAIN,mobilecenter.azureedge.net
 DOMAIN,moderate.cleantalk.org
 DOMAIN,modules.kernelsu.org

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 545
+# 规则统计: 546
 
 DOMAIN,SRC-PORT,41641
 DOMAIN,alt1-mtalk.google.com
@@ -84,6 +84,7 @@ DOMAIN-SUFFIX,apm-log-upload-os.hoyoverse.com
 DOMAIN-SUFFIX,aqtwwx.net
 DOMAIN-SUFFIX,argotunnel.com
 DOMAIN-SUFFIX,armvm.com
+DOMAIN-SUFFIX,asgardion.space
 DOMAIN-SUFFIX,atticus.vip
 DOMAIN-SUFFIX,awstme.top
 DOMAIN-SUFFIX,axuex.top

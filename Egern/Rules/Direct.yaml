@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 545
+# 规则统计: 546
 
 no_resolve: true
 domain_set:
@@ -87,6 +87,7 @@ domain_suffix_set:
   - aqtwwx.net
   - argotunnel.com
   - armvm.com
+  - asgardion.space
   - atticus.vip
   - awstme.top
   - axuex.top

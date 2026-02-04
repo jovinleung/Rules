@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 546
+# 规则统计: 547
 
 no_resolve: true
 domain_set:
@@ -206,6 +206,7 @@ domain_suffix_set:
   - ghproxy.cc
   - ghproxy.cfd
   - ghps.cc
+  - giomeru.com
   - girigirilove.com
   - git.886.be
   - github.abskoop.workers.dev

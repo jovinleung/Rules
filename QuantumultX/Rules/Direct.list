@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 545
+# 规则统计: 546
 
 HOST,SRC-PORT,41641,Direct
 HOST,alt1-mtalk.google.com,Direct
@@ -203,6 +203,7 @@ HOST-SUFFIX,ghp.ci,Direct
 HOST-SUFFIX,ghproxy.cc,Direct
 HOST-SUFFIX,ghproxy.cfd,Direct
 HOST-SUFFIX,ghps.cc,Direct
+HOST-SUFFIX,giomeru.com,Direct
 HOST-SUFFIX,girigirilove.com,Direct
 HOST-SUFFIX,git.886.be,Direct
 HOST-SUFFIX,github.abskoop.workers.dev,Direct

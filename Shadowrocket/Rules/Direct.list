@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 546
+# 规则统计: 547
 
 DOMAIN,SRC-PORT,41641
 DOMAIN,alt1-mtalk.google.com
@@ -203,6 +203,7 @@ DOMAIN-SUFFIX,ghp.ci
 DOMAIN-SUFFIX,ghproxy.cc
 DOMAIN-SUFFIX,ghproxy.cfd
 DOMAIN-SUFFIX,ghps.cc
+DOMAIN-SUFFIX,giomeru.com
 DOMAIN-SUFFIX,girigirilove.com
 DOMAIN-SUFFIX,git.886.be
 DOMAIN-SUFFIX,github.abskoop.workers.dev

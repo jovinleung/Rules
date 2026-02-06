@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 547
+# 规则统计: 548
 
 DOMAIN,SRC-PORT,41641
 DOMAIN,alt1-mtalk.google.com
@@ -186,6 +186,7 @@ DOMAIN-SUFFIX,fzvcolco.com
 DOMAIN-SUFFIX,fzwqq.com
 DOMAIN-SUFFIX,gaishitongshu.com
 DOMAIN-SUFFIX,game.maj-soul.com
+DOMAIN-SUFFIX,gamepp.com
 DOMAIN-SUFFIX,gangtise.com
 DOMAIN-SUFFIX,gaojiua.com
 DOMAIN-SUFFIX,gaze.run

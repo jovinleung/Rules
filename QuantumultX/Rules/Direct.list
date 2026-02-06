@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 546
+# 规则统计: 547
 
 HOST,SRC-PORT,41641,Direct
 HOST,alt1-mtalk.google.com,Direct
@@ -186,6 +186,7 @@ HOST-SUFFIX,fzvcolco.com,Direct
 HOST-SUFFIX,fzwqq.com,Direct
 HOST-SUFFIX,gaishitongshu.com,Direct
 HOST-SUFFIX,game.maj-soul.com,Direct
+HOST-SUFFIX,gamepp.com,Direct
 HOST-SUFFIX,gangtise.com,Direct
 HOST-SUFFIX,gaojiua.com,Direct
 HOST-SUFFIX,gaze.run,Direct

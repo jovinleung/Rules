@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 547
+# 规则统计: 548
 
 no_resolve: true
 domain_set:
@@ -189,6 +189,7 @@ domain_suffix_set:
   - fzwqq.com
   - gaishitongshu.com
   - game.maj-soul.com
+  - gamepp.com
   - gangtise.com
   - gaojiua.com
   - gaze.run

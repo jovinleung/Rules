@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 548
+# 规则统计: 549
 
 DOMAIN,SRC-PORT,41641
 DOMAIN,alt1-mtalk.google.com
@@ -307,6 +307,7 @@ DOMAIN-SUFFIX,kuaicha888.com
 DOMAIN-SUFFIX,kyarucloud.moe
 DOMAIN-SUFFIX,lanyun.net
 DOMAIN-SUFFIX,laogongju.com
+DOMAIN-SUFFIX,latexlive.com
 DOMAIN-SUFFIX,lcdn-locator.apple.com
 DOMAIN-SUFFIX,lcdn-registration.apple.com
 DOMAIN-SUFFIX,leelen.com

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 547
+# 规则统计: 548
 
 HOST,SRC-PORT,41641,Direct
 HOST,alt1-mtalk.google.com,Direct
@@ -307,6 +307,7 @@ HOST-SUFFIX,kuaicha888.com,Direct
 HOST-SUFFIX,kyarucloud.moe,Direct
 HOST-SUFFIX,lanyun.net,Direct
 HOST-SUFFIX,laogongju.com,Direct
+HOST-SUFFIX,latexlive.com,Direct
 HOST-SUFFIX,lcdn-locator.apple.com,Direct
 HOST-SUFFIX,lcdn-registration.apple.com,Direct
 HOST-SUFFIX,leelen.com,Direct

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 548
+# 规则统计: 549
 
 no_resolve: true
 domain_set:
@@ -310,6 +310,7 @@ domain_suffix_set:
   - kyarucloud.moe
   - lanyun.net
   - laogongju.com
+  - latexlive.com
   - lcdn-locator.apple.com
   - lcdn-registration.apple.com
   - leelen.com

@@ -1,8 +1,9 @@
 # 规则名称: Direct
-# 规则统计: 549
+# 规则统计: 554
 
 no_resolve: true
 domain_set:
+  - DST-PORT,7844
   - SRC-PORT,41641
   - alt1-mtalk.google.com
   - alt2-mtalk.google.com
@@ -395,6 +396,7 @@ domain_suffix_set:
   - qianuni.com
   - qianxuecloud.com
   - qianxueyunke.com
+  - qiaoqiaoyun.com
   - qiaoxuesi.com
   - qinglue.com
   - qmeng.top
@@ -502,6 +504,7 @@ domain_suffix_set:
   - xiaoxia.vip
   - xiberia.net
   - ximogo.com
+  - xingaochengtai.com
   - xinghaiwaimai.com
   - xingyaozhilian.com
   - xiqueer.com
@@ -551,6 +554,8 @@ domain_keyword_set:
   - synology
 ip_cidr_set:
   - 108.174.48.100/32
+  - 198.41.192.0/24
+  - 198.41.200.0/24
   - 218.78.7.16/32
   - 5.5.5.5/32
   - 98.126.27.164/32

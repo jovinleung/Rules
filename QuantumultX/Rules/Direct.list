@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 553
+# 规则统计: 555
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -372,6 +372,7 @@ HOST-SUFFIX,p01.epsonconnect.com,Direct
 HOST-SUFFIX,paperang.com,Direct
 HOST-SUFFIX,passnat.com,Direct
 HOST-SUFFIX,pianyuan.org,Direct
+HOST-SUFFIX,piedaochuan.top,Direct
 HOST-SUFFIX,pixcheese.com,Direct
 HOST-SUFFIX,pkghund.com,Direct
 HOST-SUFFIX,plusde1.younoyes.com,Direct
@@ -445,6 +446,7 @@ HOST-SUFFIX,tcp.mk,Direct
 HOST-SUFFIX,tcp.pub,Direct
 HOST-SUFFIX,tcp5.com,Direct
 HOST-SUFFIX,tcy365.net,Direct
+HOST-SUFFIX,tdrgame.top,Direct
 HOST-SUFFIX,terra-master.com,Direct
 HOST-SUFFIX,test-ipv6.com,Direct
 HOST-SUFFIX,theluyuan.com,Direct

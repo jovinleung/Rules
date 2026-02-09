@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 554
+# 规则统计: 556
 
 no_resolve: true
 domain_set:
@@ -375,6 +375,7 @@ domain_suffix_set:
   - paperang.com
   - passnat.com
   - pianyuan.org
+  - piedaochuan.top
   - pixcheese.com
   - pkghund.com
   - plusde1.younoyes.com
@@ -448,6 +449,7 @@ domain_suffix_set:
   - tcp.pub
   - tcp5.com
   - tcy365.net
+  - tdrgame.top
   - terra-master.com
   - test-ipv6.com
   - theluyuan.com

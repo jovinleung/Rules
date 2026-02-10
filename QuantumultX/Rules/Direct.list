@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 557
+# 规则统计: 559
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -93,6 +93,7 @@ HOST-SUFFIX,baiyishequ.com,Direct
 HOST-SUFFIX,banban.work,Direct
 HOST-SUFFIX,bangumi.tv,Direct
 HOST-SUFFIX,bdcb.cc,Direct
+HOST-SUFFIX,beautifulcarrot.com,Direct
 HOST-SUFFIX,belimked.com,Direct
 HOST-SUFFIX,bgm.tv,Direct
 HOST-SUFFIX,biandangroup.com,Direct
@@ -502,6 +503,7 @@ HOST-SUFFIX,xesabc.com,Direct
 HOST-SUFFIX,xiankabao.com,Direct
 HOST-SUFFIX,xiaobeiyangji.com,Direct
 HOST-SUFFIX,xiaochuanyun.com,Direct
+HOST-SUFFIX,xiaolikj.online,Direct
 HOST-SUFFIX,xiaoxia.vip,Direct
 HOST-SUFFIX,xiberia.net,Direct
 HOST-SUFFIX,ximogo.com,Direct

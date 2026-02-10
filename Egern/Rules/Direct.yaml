@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 558
+# 规则统计: 560
 
 no_resolve: true
 domain_set:
@@ -96,6 +96,7 @@ domain_suffix_set:
   - banban.work
   - bangumi.tv
   - bdcb.cc
+  - beautifulcarrot.com
   - belimked.com
   - bgm.tv
   - biandangroup.com
@@ -505,6 +506,7 @@ domain_suffix_set:
   - xiankabao.com
   - xiaobeiyangji.com
   - xiaochuanyun.com
+  - xiaolikj.online
   - xiaoxia.vip
   - xiberia.net
   - ximogo.com

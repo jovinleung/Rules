@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 555
+# 规则统计: 557
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -183,6 +183,7 @@ HOST-SUFFIX,fsytss.com,Direct
 HOST-SUFFIX,ft07.com,Direct
 HOST-SUFFIX,functorz.com,Direct
 HOST-SUFFIX,fuziche.com,Direct
+HOST-SUFFIX,fzshouji.com,Direct
 HOST-SUFFIX,fzvcolco.com,Direct
 HOST-SUFFIX,fzwqq.com,Direct
 HOST-SUFFIX,gaishitongshu.com,Direct
@@ -358,6 +359,7 @@ HOST-SUFFIX,neihang.net,Direct
 HOST-SUFFIX,netzz.net,Direct
 HOST-SUFFIX,nhk.or.jp,Direct
 HOST-SUFFIX,nicezhuanye.com,Direct
+HOST-SUFFIX,nkxingxh.top,Direct
 HOST-SUFFIX,nn.ci,Direct
 HOST-SUFFIX,nodcloud.com,Direct
 HOST-SUFFIX,nxog.top,Direct

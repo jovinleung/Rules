@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 556
+# 规则统计: 558
 
 no_resolve: true
 domain_set:
@@ -186,6 +186,7 @@ domain_suffix_set:
   - ft07.com
   - functorz.com
   - fuziche.com
+  - fzshouji.com
   - fzvcolco.com
   - fzwqq.com
   - gaishitongshu.com
@@ -361,6 +362,7 @@ domain_suffix_set:
   - netzz.net
   - nhk.or.jp
   - nicezhuanye.com
+  - nkxingxh.top
   - nn.ci
   - nodcloud.com
   - nxog.top

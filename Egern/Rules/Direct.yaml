@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 560
+# 规则统计: 561
 
 no_resolve: true
 domain_set:
@@ -236,6 +236,7 @@ domain_suffix_set:
   - gsnhcg.com
   - gsstic.com
   - guaitao.cc
+  - gwmapp-w.com
   - gxnnjidingkeji.top
   - gzybao.com
   - halvie.com

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 561
+# 规则统计: 563
 
 no_resolve: true
 domain_set:
@@ -405,6 +405,7 @@ domain_suffix_set:
   - qiaoxuesi.com
   - qinglue.com
   - qmeng.top
+  - quanxinfu.com
   - qweatherapi.com
   - rayws.top
   - redenmc.com
@@ -476,6 +477,7 @@ domain_suffix_set:
   - ugdocker.link
   - ulife.group
   - us.ci
+  - vanjee.net
   - vbkhk.com
   - vbkr.com
   - vbkrhk.com

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 560
+# 规则统计: 562
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -402,6 +402,7 @@ HOST-SUFFIX,qiaoqiaoyun.com,Direct
 HOST-SUFFIX,qiaoxuesi.com,Direct
 HOST-SUFFIX,qinglue.com,Direct
 HOST-SUFFIX,qmeng.top,Direct
+HOST-SUFFIX,quanxinfu.com,Direct
 HOST-SUFFIX,qweatherapi.com,Direct
 HOST-SUFFIX,rayws.top,Direct
 HOST-SUFFIX,redenmc.com,Direct
@@ -473,6 +474,7 @@ HOST-SUFFIX,uascent-iot.com,Direct
 HOST-SUFFIX,ugdocker.link,Direct
 HOST-SUFFIX,ulife.group,Direct
 HOST-SUFFIX,us.ci,Direct
+HOST-SUFFIX,vanjee.net,Direct
 HOST-SUFFIX,vbkhk.com,Direct
 HOST-SUFFIX,vbkr.com,Direct
 HOST-SUFFIX,vbkrhk.com,Direct

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 564
+# 规则统计: 565
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -370,6 +370,7 @@ HOST-SUFFIX,nxog.top,Direct
 HOST-SUFFIX,oceando.cloud,Direct
 HOST-SUFFIX,ok321.top,Direct
 HOST-SUFFIX,onebuygz.com,Direct
+HOST-SUFFIX,onetools.top,Direct
 HOST-SUFFIX,opentrust.net,Direct
 HOST-SUFFIX,ottai.com,Direct
 HOST-SUFFIX,ottiptv.cc,Direct

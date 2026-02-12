@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 565
+# 规则统计: 566
 
 no_resolve: true
 domain_set:
@@ -373,6 +373,7 @@ domain_suffix_set:
   - oceando.cloud
   - ok321.top
   - onebuygz.com
+  - onetools.top
   - opentrust.net
   - ottai.com
   - ottiptv.cc

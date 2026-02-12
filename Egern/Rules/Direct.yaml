@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 564
+# 规则统计: 565
 
 no_resolve: true
 domain_set:
@@ -340,6 +340,7 @@ domain_suffix_set:
   - medtechshare.com
   - meishiffx.online
   - meiyitou.top
+  - melecode.com
   - members.3322.org
   - meoof-pet.com
   - micu.hk

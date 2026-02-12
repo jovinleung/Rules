@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 563
+# 规则统计: 564
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -168,6 +168,7 @@ DOMAIN-SUFFIX,epark.cc
 DOMAIN-SUFFIX,epg.aptv.app
 DOMAIN-SUFFIX,epg.v1.mk
 DOMAIN-SUFFIX,everdrawing.com
+DOMAIN-SUFFIX,fdfinvoice.com
 DOMAIN-SUFFIX,feihengip.com
 DOMAIN-SUFFIX,feizhiyi.com
 DOMAIN-SUFFIX,fengsutb.com

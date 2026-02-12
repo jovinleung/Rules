@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 563
+# 规则统计: 564
 
 no_resolve: true
 domain_set:
@@ -171,6 +171,7 @@ domain_suffix_set:
   - epg.aptv.app
   - epg.v1.mk
   - everdrawing.com
+  - fdfinvoice.com
   - feihengip.com
   - feizhiyi.com
   - fengsutb.com

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 565
+# 规则统计: 567
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -56,6 +56,7 @@ HOST-SUFFIX,7sef.com,Direct
 HOST-SUFFIX,86656.net,Direct
 HOST-SUFFIX,8kc.top,Direct
 HOST-SUFFIX,900cha.com,Direct
+HOST-SUFFIX,91shenfan.com,Direct
 HOST-SUFFIX,985hezi.com,Direct
 HOST-SUFFIX,998tool.com,Direct
 HOST-SUFFIX,a0d.top,Direct
@@ -101,6 +102,7 @@ HOST-SUFFIX,biaoda.me,Direct
 HOST-SUFFIX,bingshandashu.com,Direct
 HOST-SUFFIX,bjtzeduyun.com,Direct
 HOST-SUFFIX,blog.google,Direct
+HOST-SUFFIX,bochaai.com,Direct
 HOST-SUFFIX,bochk.com,Direct
 HOST-SUFFIX,boyuemobile.com,Direct
 HOST-SUFFIX,bsbsb.top,Direct

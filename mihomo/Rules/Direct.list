@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 566
+# 规则统计: 568
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -56,6 +56,7 @@ DOMAIN-SUFFIX,7sef.com
 DOMAIN-SUFFIX,86656.net
 DOMAIN-SUFFIX,8kc.top
 DOMAIN-SUFFIX,900cha.com
+DOMAIN-SUFFIX,91shenfan.com
 DOMAIN-SUFFIX,985hezi.com
 DOMAIN-SUFFIX,998tool.com
 DOMAIN-SUFFIX,a0d.top
@@ -101,6 +102,7 @@ DOMAIN-SUFFIX,biaoda.me
 DOMAIN-SUFFIX,bingshandashu.com
 DOMAIN-SUFFIX,bjtzeduyun.com
 DOMAIN-SUFFIX,blog.google
+DOMAIN-SUFFIX,bochaai.com
 DOMAIN-SUFFIX,bochk.com
 DOMAIN-SUFFIX,boyuemobile.com
 DOMAIN-SUFFIX,bsbsb.top

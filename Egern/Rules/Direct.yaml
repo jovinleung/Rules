@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 566
+# 规则统计: 568
 
 no_resolve: true
 domain_set:
@@ -59,6 +59,7 @@ domain_suffix_set:
   - 86656.net
   - 8kc.top
   - 900cha.com
+  - 91shenfan.com
   - 985hezi.com
   - 998tool.com
   - a0d.top
@@ -104,6 +105,7 @@ domain_suffix_set:
   - bingshandashu.com
   - bjtzeduyun.com
   - blog.google
+  - bochaai.com
   - bochk.com
   - boyuemobile.com
   - bsbsb.top

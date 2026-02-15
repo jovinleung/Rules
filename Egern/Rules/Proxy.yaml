@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1327
+# 规则统计: 1336
 
 no_resolve: true
 domain_set:
@@ -144,6 +144,7 @@ domain_suffix_set:
   - bet
   - bet365.com
   - bg
+  - bgm.tv
   - bgp.he.net
   - bgp.tools
   - bibox.com
@@ -182,6 +183,7 @@ domain_suffix_set:
   - c-span.org
   - c.mi.com
   - ca
+  - cableav.tv
   - cachefly.net
   - cafe
   - cal.com
@@ -223,6 +225,7 @@ domain_suffix_set:
   - cloudflare-ipfs.com
   - cloudflare.com
   - cloudflare.dev
+  - cloudflare.tv
   - cloudflareaccess.com
   - cloudflareapps.com
   - cloudflarepreview.com
@@ -506,6 +509,7 @@ domain_suffix_set:
   - gvt9.com
   - gwtproject.org
   - hackmd.io
+  - hanime.tv
   - hanime1.com
   - hanime1.me
   - hanimeone.me
@@ -601,6 +605,7 @@ domain_suffix_set:
   - itasoftware.com
   - itch.io
   - iturrit.com
+  - iwara.tv
   - ixxx.com
   - j.mp
   - jable.tv
@@ -763,6 +768,7 @@ domain_suffix_set:
   - ms
   - msn.com
   - mtalk.google.com
+  - muku.tv
   - mullvad.net
   - mx
   - my
@@ -801,6 +807,7 @@ domain_suffix_set:
   - nitter.net
   - nj.com
   - njav.com
+  - njav.tv
   - nl
   - no
   - nodeseek.com
@@ -871,6 +878,7 @@ domain_suffix_set:
   - pe
   - peeringdb.com
   - perfect-privacy.com
+  - periscope.tv
   - ph
   - phncdn.com
   - photoshop.adobe.com
@@ -926,6 +934,7 @@ domain_suffix_set:
   - prowritingaid.com
   - proxmox.com
   - ps
+  - pscp.tv
   - ptt.cc
   - pttweb.cc
   - pusher.com
@@ -1156,12 +1165,12 @@ domain_suffix_set:
   - tumblr.com
   - tunein.com
   - turbobit.net
-  - tv
   - tv.iill.top
   - tw
   - twilio.com
   - twimg.co
   - twimg.com
+  - twitch.tv
   - twitpic.com
   - twitter.com
   - twittpr.com

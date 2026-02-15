@@ -1,5 +1,5 @@
 # 规则名称: ProxyGFW
-# 规则统计: 7649
+# 规则统计: 7652
 
 no_resolve: true
 domain_set:
@@ -686,6 +686,7 @@ domain_suffix_set:
   - bfnn.org
   - bfsh.hk
   - bg
+  - bgm.tv
   - bgme.me
   - bgp.he.net
   - bgp.tools
@@ -1253,6 +1254,7 @@ domain_suffix_set:
   - cloudflare-ipfs.com
   - cloudflare.com
   - cloudflare.dev
+  - cloudflare.tv
   - cloudflareaccess.com
   - cloudflareapps.com
   - cloudflarepreview.com
@@ -4307,6 +4309,7 @@ domain_suffix_set:
   - mtw.tl
   - mubi.com
   - muchosucko.com
+  - muku.tv
   - mullvad.net
   - multiply.com
   - multiproxy.org
@@ -4555,6 +4558,7 @@ domain_suffix_set:
   - nj.com
   - njactb.org
   - njav.com
+  - njav.tv
   - njuice.com
   - nl
   - nlfreevpn.com
@@ -6515,7 +6519,6 @@ domain_suffix_set:
   - tushycash.com
   - tuvpn.com
   - tuzaijidi.com
-  - tv
   - tv.com
   - tv.iill.top
   - tvants.com

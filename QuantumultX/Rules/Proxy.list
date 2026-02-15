@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1328
+# 规则统计: 1337
 
 HOST,ccmdl.adobe.com,Proxy
 HOST,community.oneplus.com,Proxy
@@ -141,6 +141,7 @@ HOST-SUFFIX,bestbuy.com,Proxy
 HOST-SUFFIX,bet,Proxy
 HOST-SUFFIX,bet365.com,Proxy
 HOST-SUFFIX,bg,Proxy
+HOST-SUFFIX,bgm.tv,Proxy
 HOST-SUFFIX,bgp.he.net,Proxy
 HOST-SUFFIX,bgp.tools,Proxy
 HOST-SUFFIX,bibox.com,Proxy
@@ -179,6 +180,7 @@ HOST-SUFFIX,bycsi.com,Proxy
 HOST-SUFFIX,c-span.org,Proxy
 HOST-SUFFIX,c.mi.com,Proxy
 HOST-SUFFIX,ca,Proxy
+HOST-SUFFIX,cableav.tv,Proxy
 HOST-SUFFIX,cachefly.net,Proxy
 HOST-SUFFIX,cafe,Proxy
 HOST-SUFFIX,cal.com,Proxy
@@ -220,6 +222,7 @@ HOST-SUFFIX,cloudflare-dns.com,Proxy
 HOST-SUFFIX,cloudflare-ipfs.com,Proxy
 HOST-SUFFIX,cloudflare.com,Proxy
 HOST-SUFFIX,cloudflare.dev,Proxy
+HOST-SUFFIX,cloudflare.tv,Proxy
 HOST-SUFFIX,cloudflareaccess.com,Proxy
 HOST-SUFFIX,cloudflareapps.com,Proxy
 HOST-SUFFIX,cloudflarepreview.com,Proxy
@@ -503,6 +506,7 @@ HOST-SUFFIX,gvt7.com,Proxy
 HOST-SUFFIX,gvt9.com,Proxy
 HOST-SUFFIX,gwtproject.org,Proxy
 HOST-SUFFIX,hackmd.io,Proxy
+HOST-SUFFIX,hanime.tv,Proxy
 HOST-SUFFIX,hanime1.com,Proxy
 HOST-SUFFIX,hanime1.me,Proxy
 HOST-SUFFIX,hanimeone.me,Proxy
@@ -598,6 +602,7 @@ HOST-SUFFIX,it,Proxy
 HOST-SUFFIX,itasoftware.com,Proxy
 HOST-SUFFIX,itch.io,Proxy
 HOST-SUFFIX,iturrit.com,Proxy
+HOST-SUFFIX,iwara.tv,Proxy
 HOST-SUFFIX,ixxx.com,Proxy
 HOST-SUFFIX,j.mp,Proxy
 HOST-SUFFIX,jable.tv,Proxy
@@ -760,6 +765,7 @@ HOST-SUFFIX,mozilla.org,Proxy
 HOST-SUFFIX,ms,Proxy
 HOST-SUFFIX,msn.com,Proxy
 HOST-SUFFIX,mtalk.google.com,Proxy
+HOST-SUFFIX,muku.tv,Proxy
 HOST-SUFFIX,mullvad.net,Proxy
 HOST-SUFFIX,mx,Proxy
 HOST-SUFFIX,my,Proxy
@@ -798,6 +804,7 @@ HOST-SUFFIX,nikkei.com,Proxy
 HOST-SUFFIX,nitter.net,Proxy
 HOST-SUFFIX,nj.com,Proxy
 HOST-SUFFIX,njav.com,Proxy
+HOST-SUFFIX,njav.tv,Proxy
 HOST-SUFFIX,nl,Proxy
 HOST-SUFFIX,no,Proxy
 HOST-SUFFIX,nodeseek.com,Proxy
@@ -868,6 +875,7 @@ HOST-SUFFIX,pawoo.net,Proxy
 HOST-SUFFIX,pe,Proxy
 HOST-SUFFIX,peeringdb.com,Proxy
 HOST-SUFFIX,perfect-privacy.com,Proxy
+HOST-SUFFIX,periscope.tv,Proxy
 HOST-SUFFIX,ph,Proxy
 HOST-SUFFIX,phncdn.com,Proxy
 HOST-SUFFIX,photoshop.adobe.com,Proxy
@@ -923,6 +931,7 @@ HOST-SUFFIX,protonweb.com,Proxy
 HOST-SUFFIX,prowritingaid.com,Proxy
 HOST-SUFFIX,proxmox.com,Proxy
 HOST-SUFFIX,ps,Proxy
+HOST-SUFFIX,pscp.tv,Proxy
 HOST-SUFFIX,ptt.cc,Proxy
 HOST-SUFFIX,pttweb.cc,Proxy
 HOST-SUFFIX,pusher.com,Proxy
@@ -1153,12 +1162,12 @@ HOST-SUFFIX,tube8.com,Proxy
 HOST-SUFFIX,tumblr.com,Proxy
 HOST-SUFFIX,tunein.com,Proxy
 HOST-SUFFIX,turbobit.net,Proxy
-HOST-SUFFIX,tv,Proxy
 HOST-SUFFIX,tv.iill.top,Proxy
 HOST-SUFFIX,tw,Proxy
 HOST-SUFFIX,twilio.com,Proxy
 HOST-SUFFIX,twimg.co,Proxy
 HOST-SUFFIX,twimg.com,Proxy
+HOST-SUFFIX,twitch.tv,Proxy
 HOST-SUFFIX,twitpic.com,Proxy
 HOST-SUFFIX,twitter.com,Proxy
 HOST-SUFFIX,twittpr.com,Proxy

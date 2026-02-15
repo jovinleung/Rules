@@ -1,5 +1,5 @@
 # 规则名称: ProxyGFW
-# 规则统计: 7650
+# 规则统计: 7653
 
 DOMAIN,ccmdl.adobe.com
 DOMAIN,cloud.oracle.com
@@ -683,6 +683,7 @@ DOMAIN-SUFFIX,beyondfirewall.com
 DOMAIN-SUFFIX,bfnn.org
 DOMAIN-SUFFIX,bfsh.hk
 DOMAIN-SUFFIX,bg
+DOMAIN-SUFFIX,bgm.tv
 DOMAIN-SUFFIX,bgme.me
 DOMAIN-SUFFIX,bgp.he.net
 DOMAIN-SUFFIX,bgp.tools
@@ -1250,6 +1251,7 @@ DOMAIN-SUFFIX,cloudflare-dns.com
 DOMAIN-SUFFIX,cloudflare-ipfs.com
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cloudflare.dev
+DOMAIN-SUFFIX,cloudflare.tv
 DOMAIN-SUFFIX,cloudflareaccess.com
 DOMAIN-SUFFIX,cloudflareapps.com
 DOMAIN-SUFFIX,cloudflarepreview.com
@@ -4304,6 +4306,7 @@ DOMAIN-SUFFIX,mthruf.com
 DOMAIN-SUFFIX,mtw.tl
 DOMAIN-SUFFIX,mubi.com
 DOMAIN-SUFFIX,muchosucko.com
+DOMAIN-SUFFIX,muku.tv
 DOMAIN-SUFFIX,mullvad.net
 DOMAIN-SUFFIX,multiply.com
 DOMAIN-SUFFIX,multiproxy.org
@@ -4552,6 +4555,7 @@ DOMAIN-SUFFIX,niusnews.com
 DOMAIN-SUFFIX,nj.com
 DOMAIN-SUFFIX,njactb.org
 DOMAIN-SUFFIX,njav.com
+DOMAIN-SUFFIX,njav.tv
 DOMAIN-SUFFIX,njuice.com
 DOMAIN-SUFFIX,nl
 DOMAIN-SUFFIX,nlfreevpn.com
@@ -6512,7 +6516,6 @@ DOMAIN-SUFFIX,turntable.fm
 DOMAIN-SUFFIX,tushycash.com
 DOMAIN-SUFFIX,tuvpn.com
 DOMAIN-SUFFIX,tuzaijidi.com
-DOMAIN-SUFFIX,tv
 DOMAIN-SUFFIX,tv.com
 DOMAIN-SUFFIX,tv.iill.top
 DOMAIN-SUFFIX,tvants.com

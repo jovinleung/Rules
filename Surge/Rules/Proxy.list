@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1328
+# 规则统计: 1337
 
 DOMAIN,ccmdl.adobe.com
 DOMAIN,community.oneplus.com
@@ -141,6 +141,7 @@ DOMAIN-SUFFIX,bestbuy.com
 DOMAIN-SUFFIX,bet
 DOMAIN-SUFFIX,bet365.com
 DOMAIN-SUFFIX,bg
+DOMAIN-SUFFIX,bgm.tv
 DOMAIN-SUFFIX,bgp.he.net
 DOMAIN-SUFFIX,bgp.tools
 DOMAIN-SUFFIX,bibox.com
@@ -179,6 +180,7 @@ DOMAIN-SUFFIX,bycsi.com
 DOMAIN-SUFFIX,c-span.org
 DOMAIN-SUFFIX,c.mi.com
 DOMAIN-SUFFIX,ca
+DOMAIN-SUFFIX,cableav.tv
 DOMAIN-SUFFIX,cachefly.net
 DOMAIN-SUFFIX,cafe
 DOMAIN-SUFFIX,cal.com
@@ -220,6 +222,7 @@ DOMAIN-SUFFIX,cloudflare-dns.com
 DOMAIN-SUFFIX,cloudflare-ipfs.com
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cloudflare.dev
+DOMAIN-SUFFIX,cloudflare.tv
 DOMAIN-SUFFIX,cloudflareaccess.com
 DOMAIN-SUFFIX,cloudflareapps.com
 DOMAIN-SUFFIX,cloudflarepreview.com
@@ -503,6 +506,7 @@ DOMAIN-SUFFIX,gvt7.com
 DOMAIN-SUFFIX,gvt9.com
 DOMAIN-SUFFIX,gwtproject.org
 DOMAIN-SUFFIX,hackmd.io
+DOMAIN-SUFFIX,hanime.tv
 DOMAIN-SUFFIX,hanime1.com
 DOMAIN-SUFFIX,hanime1.me
 DOMAIN-SUFFIX,hanimeone.me
@@ -598,6 +602,7 @@ DOMAIN-SUFFIX,it
 DOMAIN-SUFFIX,itasoftware.com
 DOMAIN-SUFFIX,itch.io
 DOMAIN-SUFFIX,iturrit.com
+DOMAIN-SUFFIX,iwara.tv
 DOMAIN-SUFFIX,ixxx.com
 DOMAIN-SUFFIX,j.mp
 DOMAIN-SUFFIX,jable.tv
@@ -760,6 +765,7 @@ DOMAIN-SUFFIX,mozilla.org
 DOMAIN-SUFFIX,ms
 DOMAIN-SUFFIX,msn.com
 DOMAIN-SUFFIX,mtalk.google.com
+DOMAIN-SUFFIX,muku.tv
 DOMAIN-SUFFIX,mullvad.net
 DOMAIN-SUFFIX,mx
 DOMAIN-SUFFIX,my
@@ -798,6 +804,7 @@ DOMAIN-SUFFIX,nikkei.com
 DOMAIN-SUFFIX,nitter.net
 DOMAIN-SUFFIX,nj.com
 DOMAIN-SUFFIX,njav.com
+DOMAIN-SUFFIX,njav.tv
 DOMAIN-SUFFIX,nl
 DOMAIN-SUFFIX,no
 DOMAIN-SUFFIX,nodeseek.com
@@ -868,6 +875,7 @@ DOMAIN-SUFFIX,pawoo.net
 DOMAIN-SUFFIX,pe
 DOMAIN-SUFFIX,peeringdb.com
 DOMAIN-SUFFIX,perfect-privacy.com
+DOMAIN-SUFFIX,periscope.tv
 DOMAIN-SUFFIX,ph
 DOMAIN-SUFFIX,phncdn.com
 DOMAIN-SUFFIX,photoshop.adobe.com
@@ -923,6 +931,7 @@ DOMAIN-SUFFIX,protonweb.com
 DOMAIN-SUFFIX,prowritingaid.com
 DOMAIN-SUFFIX,proxmox.com
 DOMAIN-SUFFIX,ps
+DOMAIN-SUFFIX,pscp.tv
 DOMAIN-SUFFIX,ptt.cc
 DOMAIN-SUFFIX,pttweb.cc
 DOMAIN-SUFFIX,pusher.com
@@ -1153,12 +1162,12 @@ DOMAIN-SUFFIX,tube8.com
 DOMAIN-SUFFIX,tumblr.com
 DOMAIN-SUFFIX,tunein.com
 DOMAIN-SUFFIX,turbobit.net
-DOMAIN-SUFFIX,tv
 DOMAIN-SUFFIX,tv.iill.top
 DOMAIN-SUFFIX,tw
 DOMAIN-SUFFIX,twilio.com
 DOMAIN-SUFFIX,twimg.co
 DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,twitpic.com
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,twittpr.com

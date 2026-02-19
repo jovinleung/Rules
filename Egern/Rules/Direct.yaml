@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 569
+# 规则统计: 570
 
 no_resolve: true
 domain_set:
@@ -297,6 +297,7 @@ domain_suffix_set:
   - jiliuwang.net
   - jingheiot.com
   - jiqw.com
+  - jjzyy.org
   - jsdelivr.com
   - jsdelivr.net
   - julebu.co

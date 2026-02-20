@@ -1,5 +1,5 @@
 # 规则名称: ProxyGFW
-# 规则统计: 7652
+# 规则统计: 7650
 
 no_resolve: true
 domain_set:
@@ -7573,8 +7573,6 @@ domain_keyword_set:
   - whatsapp
   - youtube
 ip_cidr_set:
-  - 1.0.0.1/32
-  - 1.1.1.1/32
   - 1.201.0.0/24
   - 103.2.28.0/24
   - 103.2.30.0/23

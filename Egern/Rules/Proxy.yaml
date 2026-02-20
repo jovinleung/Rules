@@ -1,7 +1,6 @@
 # 规则名称: Proxy
-# 规则统计: 1336
+# 规则统计: 1334
 
-no_resolve: true
 domain_set:
   - ccmdl.adobe.com
   - community.oneplus.com
@@ -1339,6 +1338,3 @@ domain_keyword_set:
   - pinterest
   - sci-hub
   - whatsapp
-ip_cidr_set:
-  - 1.0.0.1/32
-  - 1.1.1.1/32

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 570
+# 规则统计: 572
 
 no_resolve: true
 domain_set:
@@ -172,6 +172,7 @@ domain_suffix_set:
   - epark.cc
   - epg.aptv.app
   - epg.v1.mk
+  - et0731.com
   - everdrawing.com
   - fdfinvoice.com
   - feihengip.com
@@ -239,6 +240,7 @@ domain_suffix_set:
   - gsnhcg.com
   - gsstic.com
   - guaitao.cc
+  - gvgoo.com
   - gwmapp-w.com
   - gxnnjidingkeji.top
   - gzybao.com

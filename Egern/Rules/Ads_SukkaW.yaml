@@ -1,5 +1,5 @@
 # 规则名称: Ads_SukkaW
-# 规则统计: 106502
+# 规则统计: 106510
 
 no_resolve: true
 domain_set:
@@ -1100,7 +1100,9 @@ domain_set:
   - trends.mobile.sina.cn
   - trial.api.huangye.miui.com
   - ttnet-dig.feishu.cn
+  - ttnet-dig.larksuite.com
   - ttnet-doh.feishu.cn
+  - ttnet-doh.larksuite.com
   - tui.taobao.com
   - tv.app.migc.xiaomi.com
   - tvupgrade.yunos.com
@@ -16994,6 +16996,7 @@ domain_suffix_set:
   - cgqkhc.trendyol.com
   - cgrkk.godblessgrandparents.com
   - cgrs.smu.edu.sg
+  - cgrsihmgjmzfb.space
   - cgsisl.owllabs.com
   - cgsou.westgateresorts.com
   - cgt114u5chbwknvxfz.cfd
@@ -26070,6 +26073,7 @@ domain_suffix_set:
   - djauseotqdgnmf.com
   - djbztw.marimekko.com
   - djcjl.summitatsnoqualmie.com
+  - djcovfrdohvjp.website
   - djfp97jp7v.com
   - djgnqo9p1icyr.cloudfront.net
   - djhfkcfrdxv.com
@@ -31606,6 +31610,7 @@ domain_suffix_set:
   - fl.ummahsweetsbd.com
   - fl0hg5wlr.com
   - fl5dpe.oui.sncf
+  - flagcontes.qpon
   - flagsportclamour.com
   - flagstonefoundingmonotype.com
   - flailedhenrys.shop
@@ -31955,6 +31960,7 @@ domain_suffix_set:
   - forgetfulsnail.com
   - forgivengirlie.com
   - forgotgnatpalsy.com
+  - forhooylaulau.qpon
   - forintcrin.qpon
   - forkedclient.pro
   - forkinane.com
@@ -63637,6 +63643,7 @@ domain_suffix_set:
   - out.trkrabb.com
   - out.velpa.pl
   - outal.origo.hu
+  - outatebinits.com
   - outbidplacardshowman.com
   - outbrain.com
   - outcrycats.com
@@ -98707,6 +98714,7 @@ domain_suffix_set:
   - uedvam.tatilsepeti.com
   - ueedg.maximinfra.in
   - ueefnr.roan.de
+  - ueeljrxucdwrr.com
   - ueivh.greenllamaclean.com
   - uektedsni.com
   - ueleu.pacersteamstore.com

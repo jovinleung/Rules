@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 572
+# 规则统计: 573
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -35,6 +35,7 @@ HOST-SUFFIX,0044696.com,Direct
 HOST-SUFFIX,03241119.xyz,Direct
 HOST-SUFFIX,112114.xyz,Direct
 HOST-SUFFIX,115cdn.de,Direct
+HOST-SUFFIX,17van.com,Direct
 HOST-SUFFIX,1996999.xyz,Direct
 HOST-SUFFIX,204cloud.com,Direct
 HOST-SUFFIX,365ting.com,Direct

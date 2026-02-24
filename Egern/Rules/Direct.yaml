@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 573
+# 规则统计: 574
 
 no_resolve: true
 domain_set:
@@ -38,6 +38,7 @@ domain_suffix_set:
   - 03241119.xyz
   - 112114.xyz
   - 115cdn.de
+  - 17van.com
   - 1996999.xyz
   - 204cloud.com
   - 365ting.com

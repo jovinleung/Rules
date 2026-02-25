@@ -1,5 +1,5 @@
 # 规则名称: Ads_SukkaW
-# 规则统计: 107138
+# 规则统计: 107142
 
 HOST,03.lzzncm.com,Ads_SukkaW
 HOST,04.lzzncm.com,Ads_SukkaW
@@ -4324,6 +4324,7 @@ HOST-SUFFIX,ac.plandisc.com,Ads_SukkaW
 HOST-SUFFIX,ac.prism-world.jp.net,Ads_SukkaW
 HOST-SUFFIX,ac.ptagroup.sk,Ads_SukkaW
 HOST-SUFFIX,ac.waterplops.com,Ads_SukkaW
+HOST-SUFFIX,ac00qmnjz.com,Ads_SukkaW
 HOST-SUFFIX,ac1.pingpingw.com,Ads_SukkaW
 HOST-SUFFIX,ac173c41a1.com,Ads_SukkaW
 HOST-SUFFIX,ac2.tnaflix.com,Ads_SukkaW
@@ -18278,6 +18279,7 @@ HOST-SUFFIX,coddlermourner.qpon,Ads_SukkaW
 HOST-SUFFIX,code.acstat.com,Ads_SukkaW
 HOST-SUFFIX,code.ainsyndication.com,Ads_SukkaW
 HOST-SUFFIX,code.ditiezu.net,Ads_SukkaW
+HOST-SUFFIX,code.geonamebase.com,Ads_SukkaW
 HOST-SUFFIX,code.r5hsid.ru,Ads_SukkaW
 HOST-SUFFIX,code.randomhouse.com,Ads_SukkaW
 HOST-SUFFIX,code.usergram.info,Ads_SukkaW
@@ -26604,7 +26606,6 @@ HOST-SUFFIX,dolphincdn.xyz,Ads_SukkaW
 HOST-SUFFIX,dolqckqvbryxo.website,Ads_SukkaW
 HOST-SUFFIX,dolrfm.fotoregistro.com.br,Ads_SukkaW
 HOST-SUFFIX,dom.123zap.com.br,Ads_SukkaW
-HOST-SUFFIX,domain1.chahaoba.cn,Ads_SukkaW
 HOST-SUFFIX,domainanalytics.net,Ads_SukkaW
 HOST-SUFFIX,domainbntest.branchcustom.xyz,Ads_SukkaW
 HOST-SUFFIX,domaincntrol.com,Ads_SukkaW
@@ -45632,6 +45633,7 @@ HOST-SUFFIX,kibn.cn,Ads_SukkaW
 HOST-SUFFIX,kick1pore.com,Ads_SukkaW
 HOST-SUFFIX,kickougeetsu.net,Ads_SukkaW
 HOST-SUFFIX,kiddbs.baby-calendar.jp,Ads_SukkaW
+HOST-SUFFIX,kiddingainus.cfd,Ads_SukkaW
 HOST-SUFFIX,kiddinglyeven.com,Ads_SukkaW
 HOST-SUFFIX,kidney.renovaabd.com,Ads_SukkaW
 HOST-SUFFIX,kidpowers.com,Ads_SukkaW
@@ -67305,6 +67307,7 @@ HOST-SUFFIX,psbiaf.converse.com,Ads_SukkaW
 HOST-SUFFIX,pscfsj.casadabebida.com.br,Ads_SukkaW
 HOST-SUFFIX,pscunow.fmservice.com,Ads_SukkaW
 HOST-SUFFIX,psdatjrnkurfb.website,Ads_SukkaW
+HOST-SUFFIX,psdqempur.com,Ads_SukkaW
 HOST-SUFFIX,psdxbtjowlyjxhs.com,Ads_SukkaW
 HOST-SUFFIX,pse.gabor.com,Ads_SukkaW
 HOST-SUFFIX,psedwm.com,Ads_SukkaW
@@ -97806,6 +97809,7 @@ HOST-SUFFIX,trhfq.rimli.in,Ads_SukkaW
 HOST-SUFFIX,tri.media,Ads_SukkaW
 HOST-SUFFIX,trialapp.live-english.co.jp,Ads_SukkaW
 HOST-SUFFIX,trialshoewager.com,Ads_SukkaW
+HOST-SUFFIX,triaryknub.qpon,Ads_SukkaW
 HOST-SUFFIX,tribalfusion.com,Ads_SukkaW
 HOST-SUFFIX,tributeglassmulberry.com,Ads_SukkaW
 HOST-SUFFIX,tributeinducedfuzzy.com,Ads_SukkaW

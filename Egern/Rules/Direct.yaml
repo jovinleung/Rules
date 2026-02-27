@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 574
+# 规则统计: 575
 
 no_resolve: true
 domain_set:
@@ -56,6 +56,7 @@ domain_suffix_set:
   - 657192.com
   - 6v520.net
   - 737698.xyz
+  - 77shuku.org
   - 7sef.com
   - 86656.net
   - 8kc.top

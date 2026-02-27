@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 574
+# 规则统计: 573
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -75,7 +75,6 @@ HOST-SUFFIX,aihubmix.com,Direct
 HOST-SUFFIX,aisnogames.com,Direct
 HOST-SUFFIX,aistudio-app.com,Direct
 HOST-SUFFIX,akamaihd.net,Direct
-HOST-SUFFIX,akamaized.net,Direct
 HOST-SUFFIX,alonginwind.eu.org,Direct
 HOST-SUFFIX,alonginwind.top,Direct
 HOST-SUFFIX,aloys233.top,Direct

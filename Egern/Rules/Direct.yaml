@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 575
+# 规则统计: 574
 
 no_resolve: true
 domain_set:
@@ -78,7 +78,6 @@ domain_suffix_set:
   - aisnogames.com
   - aistudio-app.com
   - akamaihd.net
-  - akamaized.net
   - alonginwind.eu.org
   - alonginwind.top
   - aloys233.top

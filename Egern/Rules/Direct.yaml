@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 575
+# 规则统计: 576
 
 no_resolve: true
 domain_set:
@@ -551,6 +551,7 @@ domain_suffix_set:
   - yunzuoye.net
   - yyshub.top
   - yzcsoft.com
+  - z-tek.com
   - z6e.com
   - zcloud.world
   - zctnet.top

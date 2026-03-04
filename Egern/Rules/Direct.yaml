@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 578
+# 规则统计: 576
 
 no_resolve: true
 domain_set:
@@ -311,8 +311,6 @@ domain_suffix_set:
   - kaihong.com
   - kaijiejinrong.com
   - kancaibao.com
-  - kaspersky-labs.com
-  - kaspersky.com
   - kcbd.top
   - kejiweixun.com
   - keyoo.com

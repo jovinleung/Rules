@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 577
+# 规则统计: 578
 
 no_resolve: true
 domain_set:
@@ -454,6 +454,7 @@ domain_suffix_set:
   - starlink.uno
   - stkfanli.com
   - subhd.tv
+  - sunrisecontent.akamaized.net
   - suyur.com
   - svyun.com
   - sxlljm.com

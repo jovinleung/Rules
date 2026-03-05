@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 577
+# 规则统计: 578
 
 no_resolve: true
 domain_set:
@@ -47,6 +47,7 @@ domain_suffix_set:
   - 3dwhere.com
   - 3gxk.net
   - 4399zmxy.com
+  - 4xiaoshuo.org
   - 51tbox.com
   - 51wanxue.com
   - 51zmt.top

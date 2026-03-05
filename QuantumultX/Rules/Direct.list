@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 575
+# 规则统计: 576
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -31,6 +31,7 @@ HOST,sycm.mmstat.com,Direct
 HOST,update.googleapis.com,Direct
 HOST,vd.l.qq.com,Direct
 HOST,vi.l.qq.com,Direct
+HOST-SUFFIX,00333118.com,Direct
 HOST-SUFFIX,0044696.com,Direct
 HOST-SUFFIX,03241119.xyz,Direct
 HOST-SUFFIX,112114.xyz,Direct

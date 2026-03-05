@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 576
+# 规则统计: 577
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -31,6 +31,7 @@ DOMAIN,sycm.mmstat.com
 DOMAIN,update.googleapis.com
 DOMAIN,vd.l.qq.com
 DOMAIN,vi.l.qq.com
+DOMAIN-SUFFIX,00333118.com
 DOMAIN-SUFFIX,0044696.com
 DOMAIN-SUFFIX,03241119.xyz
 DOMAIN-SUFFIX,112114.xyz

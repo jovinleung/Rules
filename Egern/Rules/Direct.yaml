@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 578
+# 规则统计: 579
 
 no_resolve: true
 domain_set:
@@ -512,6 +512,7 @@ domain_suffix_set:
   - wushuangai.com
   - www.ojrq.net
   - wwwh.eu.org
+  - wwwwqq.com
   - wxdw.top
   - x86pi.com
   - xbcloudprint.com

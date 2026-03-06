@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 577
+# 规则统计: 578
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -509,6 +509,7 @@ HOST-SUFFIX,wpurl.cc,Direct
 HOST-SUFFIX,wushuangai.com,Direct
 HOST-SUFFIX,www.ojrq.net,Direct
 HOST-SUFFIX,wwwh.eu.org,Direct
+HOST-SUFFIX,wwwwqq.com,Direct
 HOST-SUFFIX,wxdw.top,Direct
 HOST-SUFFIX,x86pi.com,Direct
 HOST-SUFFIX,xbcloudprint.com,Direct

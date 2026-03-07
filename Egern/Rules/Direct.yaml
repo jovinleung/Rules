@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 579
+# 规则统计: 581
 
 no_resolve: true
 domain_set:
@@ -103,6 +103,7 @@ domain_suffix_set:
   - bdcb.cc
   - beautifulcarrot.com
   - belimked.com
+  - betahub.tech
   - bgm.tv
   - biandangroup.com
   - biaoda.me
@@ -384,6 +385,7 @@ domain_suffix_set:
   - onebuygz.com
   - onetools.top
   - opentrust.net
+  - osbdf.com
   - ottai.com
   - ottiptv.cc
   - ourschool.cc

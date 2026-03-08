@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 582
+# 规则统计: 583
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -572,6 +572,7 @@ DOMAIN-SUFFIX,zqin758.xyz
 DOMAIN-SUFFIX,zsytit.com
 DOMAIN-SUFFIX,ztytech.com
 DOMAIN-SUFFIX,zuobiao.press
+DOMAIN-SUFFIX,zysou.com
 DOMAIN-SUFFIX,zzz-log-upload-os.hoyoverse.com
 DOMAIN-KEYWORD,m-team
 DOMAIN-KEYWORD,quickconnect

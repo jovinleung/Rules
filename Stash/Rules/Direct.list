@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 581
+# 规则统计: 582
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -474,6 +474,7 @@ DOMAIN-SUFFIX,thinkerride.com
 DOMAIN-SUFFIX,thmnet.com
 DOMAIN-SUFFIX,timbrd.com
 DOMAIN-SUFFIX,tixue.net
+DOMAIN-SUFFIX,tmallyc.com
 DOMAIN-SUFFIX,tnas.link
 DOMAIN-SUFFIX,tnas.online
 DOMAIN-SUFFIX,tool56.com

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 581
+# 规则统计: 582
 
 no_resolve: true
 domain_set:
@@ -477,6 +477,7 @@ domain_suffix_set:
   - thmnet.com
   - timbrd.com
   - tixue.net
+  - tmallyc.com
   - tnas.link
   - tnas.online
   - tool56.com

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 584
+# 规则统计: 587
 
 no_resolve: true
 domain_set:
@@ -42,6 +42,7 @@ domain_suffix_set:
   - 17van.com
   - 1996999.xyz
   - 204cloud.com
+  - 2mcnxs.cc
   - 365ting.com
   - 3d-apollo.com
   - 3dwhere.com
@@ -345,6 +346,7 @@ domain_suffix_set:
   - m-team.io
   - machtalk.net
   - manfuz.co
+  - mblyun.com
   - mc-user.com
   - mchuiji.com
   - mcxyzt.cc
@@ -567,6 +569,7 @@ domain_suffix_set:
   - zhituwujie.com
   - zhixingyunke.com
   - zhongancloud.com
+  - zhouyiy.com
   - zhu.today
   - zjxhedu.com
   - zmis.me

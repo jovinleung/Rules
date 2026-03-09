@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 586
+# 规则统计: 589
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -34,6 +34,7 @@ HOST,vi.l.qq.com,Direct
 HOST-SUFFIX,00333118.com,Direct
 HOST-SUFFIX,0044696.com,Direct
 HOST-SUFFIX,03241119.xyz,Direct
+HOST-SUFFIX,0734cn.top,Direct
 HOST-SUFFIX,112114.xyz,Direct
 HOST-SUFFIX,115cdn.de,Direct
 HOST-SUFFIX,17van.com,Direct
@@ -272,6 +273,7 @@ HOST-SUFFIX,hub.gitmirror.com,Direct
 HOST-SUFFIX,hub.rat.dev,Direct
 HOST-SUFFIX,hub.xdark.top,Direct
 HOST-SUFFIX,huikao8.com,Direct
+HOST-SUFFIX,hutaoyun.top,Direct
 HOST-SUFFIX,hwbim.com,Direct
 HOST-SUFFIX,hwjianmo.com,Direct
 HOST-SUFFIX,hwzuku.com,Direct
@@ -523,6 +525,7 @@ HOST-SUFFIX,xbgjw.com,Direct
 HOST-SUFFIX,xdqtech.com,Direct
 HOST-SUFFIX,xdtool.com,Direct
 HOST-SUFFIX,xesabc.com,Direct
+HOST-SUFFIX,xfltd.org,Direct
 HOST-SUFFIX,xiankabao.com,Direct
 HOST-SUFFIX,xiaobeiyangji.com,Direct
 HOST-SUFFIX,xiaochuanyun.com,Direct

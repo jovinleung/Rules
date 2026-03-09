@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 587
+# 规则统计: 590
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -34,6 +34,7 @@ DOMAIN,vi.l.qq.com
 DOMAIN-SUFFIX,00333118.com
 DOMAIN-SUFFIX,0044696.com
 DOMAIN-SUFFIX,03241119.xyz
+DOMAIN-SUFFIX,0734cn.top
 DOMAIN-SUFFIX,112114.xyz
 DOMAIN-SUFFIX,115cdn.de
 DOMAIN-SUFFIX,17van.com
@@ -272,6 +273,7 @@ DOMAIN-SUFFIX,hub.gitmirror.com
 DOMAIN-SUFFIX,hub.rat.dev
 DOMAIN-SUFFIX,hub.xdark.top
 DOMAIN-SUFFIX,huikao8.com
+DOMAIN-SUFFIX,hutaoyun.top
 DOMAIN-SUFFIX,hwbim.com
 DOMAIN-SUFFIX,hwjianmo.com
 DOMAIN-SUFFIX,hwzuku.com
@@ -523,6 +525,7 @@ DOMAIN-SUFFIX,xbgjw.com
 DOMAIN-SUFFIX,xdqtech.com
 DOMAIN-SUFFIX,xdtool.com
 DOMAIN-SUFFIX,xesabc.com
+DOMAIN-SUFFIX,xfltd.org
 DOMAIN-SUFFIX,xiankabao.com
 DOMAIN-SUFFIX,xiaobeiyangji.com
 DOMAIN-SUFFIX,xiaochuanyun.com

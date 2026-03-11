@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 591
+# 规则统计: 592
 
 no_resolve: true
 domain_set:
@@ -290,6 +290,7 @@ domain_suffix_set:
   - ifengmap.com
   - ifish7.com
   - igpsport.com
+  - ijingyi.com
   - ilucky.net
   - imacos.top
   - immortalwrt.org

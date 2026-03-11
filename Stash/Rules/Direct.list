@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 591
+# 规则统计: 592
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -287,6 +287,7 @@ DOMAIN-SUFFIX,ifconfig.co
 DOMAIN-SUFFIX,ifengmap.com
 DOMAIN-SUFFIX,ifish7.com
 DOMAIN-SUFFIX,igpsport.com
+DOMAIN-SUFFIX,ijingyi.com
 DOMAIN-SUFFIX,ilucky.net
 DOMAIN-SUFFIX,imacos.top
 DOMAIN-SUFFIX,immortalwrt.org

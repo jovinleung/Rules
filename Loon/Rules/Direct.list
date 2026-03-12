@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 592
+# 规则统计: 593
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -45,6 +45,7 @@ DOMAIN-SUFFIX,365ting.com
 DOMAIN-SUFFIX,3d-apollo.com
 DOMAIN-SUFFIX,3dwhere.com
 DOMAIN-SUFFIX,3gxk.net
+DOMAIN-SUFFIX,419g.com
 DOMAIN-SUFFIX,4399zmxy.com
 DOMAIN-SUFFIX,4xiaoshuo.org
 DOMAIN-SUFFIX,51tbox.com

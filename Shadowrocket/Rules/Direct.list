@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 593
+# 规则统计: 594
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -395,6 +395,7 @@ DOMAIN-SUFFIX,ottai.com
 DOMAIN-SUFFIX,ottiptv.cc
 DOMAIN-SUFFIX,ourschool.cc
 DOMAIN-SUFFIX,p01.epsonconnect.com
+DOMAIN-SUFFIX,packertec.com
 DOMAIN-SUFFIX,paperang.com
 DOMAIN-SUFFIX,passnat.com
 DOMAIN-SUFFIX,pianyuan.org

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 593
+# 规则统计: 594
 
 no_resolve: true
 domain_set:
@@ -398,6 +398,7 @@ domain_suffix_set:
   - ottiptv.cc
   - ourschool.cc
   - p01.epsonconnect.com
+  - packertec.com
   - paperang.com
   - passnat.com
   - pianyuan.org

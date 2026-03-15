@@ -1,5 +1,5 @@
 # 规则名称: Ads_SukkaW
-# 规则统计: 111949
+# 规则统计: 111953
 
 HOST,03.lzzncm.com,Ads_SukkaW
 HOST,04.lzzncm.com,Ads_SukkaW
@@ -32936,6 +32936,7 @@ HOST-SUFFIX,foco.gamers.n1promos.com.br,Ads_SukkaW
 HOST-SUFFIX,foco.n1promos.com.br,Ads_SukkaW
 HOST-SUFFIX,foco.perfumes.n1promos.com.br,Ads_SukkaW
 HOST-SUFFIX,foco.veteranodaspromos.com.br,Ads_SukkaW
+HOST-SUFFIX,focusfitwear.com,Ads_SukkaW
 HOST-SUFFIX,fodderpracticable.com,Ads_SukkaW
 HOST-SUFFIX,fodgfip.fr,Ads_SukkaW
 HOST-SUFFIX,fodh.cn,Ads_SukkaW
@@ -63316,6 +63317,7 @@ HOST-SUFFIX,nervoussummer.com,Ads_SukkaW
 HOST-SUFFIX,neshad.giftvaly.com,Ads_SukkaW
 HOST-SUFFIX,nessainy.net,Ads_SukkaW
 HOST-SUFFIX,nesscredits.qpon,Ads_SukkaW
+HOST-SUFFIX,nestbuyers.com,Ads_SukkaW
 HOST-SUFFIX,nestledmph.com,Ads_SukkaW
 HOST-SUFFIX,nestybedamp.shop,Ads_SukkaW
 HOST-SUFFIX,net.24-ads.com,Ads_SukkaW
@@ -71452,6 +71454,7 @@ HOST-SUFFIX,r.powuta.com,Ads_SukkaW
 HOST-SUFFIX,r.presspadnews.com,Ads_SukkaW
 HOST-SUFFIX,r.rbc.ru,Ads_SukkaW
 HOST-SUFFIX,r.rover.com,Ads_SukkaW
+HOST-SUFFIX,r.sdiapi.net,Ads_SukkaW
 HOST-SUFFIX,r.sib2.gardrops.com,Ads_SukkaW
 HOST-SUFFIX,r.sportsie.com,Ads_SukkaW
 HOST-SUFFIX,r.studiosarte.com,Ads_SukkaW
@@ -95688,6 +95691,7 @@ HOST-SUFFIX,tag.fmscycles.com,Ads_SukkaW
 HOST-SUFFIX,tag.foreverfierce.com,Ads_SukkaW
 HOST-SUFFIX,tag.franquiahomeangels.com.br,Ads_SukkaW
 HOST-SUFFIX,tag.geeker.co,Ads_SukkaW
+HOST-SUFFIX,tag.gendiscover.com,Ads_SukkaW
 HOST-SUFFIX,tag.getamigo.io,Ads_SukkaW
 HOST-SUFFIX,tag.goldenbees.fr,Ads_SukkaW
 HOST-SUFFIX,tag.hanoverpowersports.com,Ads_SukkaW

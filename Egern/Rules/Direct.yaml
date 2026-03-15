@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 594
+# 规则统计: 595
 
 no_resolve: true
 domain_set:
@@ -296,6 +296,7 @@ domain_suffix_set:
   - imacos.top
   - immortalwrt.org
   - iosgujian.com
+  - iot889.com
   - iotrix.net
   - ip159.com
   - ip6.seeip.org

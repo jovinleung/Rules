@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 594
+# 规则统计: 598
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -60,6 +60,7 @@ HOST-SUFFIX,6v520.net,Direct
 HOST-SUFFIX,737698.xyz,Direct
 HOST-SUFFIX,77shuku.org,Direct
 HOST-SUFFIX,7sef.com,Direct
+HOST-SUFFIX,85sc.com,Direct
 HOST-SUFFIX,86656.net,Direct
 HOST-SUFFIX,8kc.top,Direct
 HOST-SUFFIX,900cha.com,Direct
@@ -97,6 +98,7 @@ HOST-SUFFIX,asgardion.space,Direct
 HOST-SUFFIX,atticus.vip,Direct
 HOST-SUFFIX,awstme.top,Direct
 HOST-SUFFIX,axuex.top,Direct
+HOST-SUFFIX,babawar.com,Direct
 HOST-SUFFIX,baiyishequ.com,Direct
 HOST-SUFFIX,banban.work,Direct
 HOST-SUFFIX,bangumi.tv,Direct
@@ -418,6 +420,7 @@ HOST-SUFFIX,privateapi.xyz,Direct
 HOST-SUFFIX,ptl.gs,Direct
 HOST-SUFFIX,ptlgs.org,Direct
 HOST-SUFFIX,pwithe.com,Direct
+HOST-SUFFIX,qianfan.app,Direct
 HOST-SUFFIX,qiankunshopping.com,Direct
 HOST-SUFFIX,qianuni.com,Direct
 HOST-SUFFIX,qianxuecloud.com,Direct
@@ -527,6 +530,7 @@ HOST-SUFFIX,wxdw.top,Direct
 HOST-SUFFIX,x86pi.com,Direct
 HOST-SUFFIX,xbcloudprint.com,Direct
 HOST-SUFFIX,xbgjw.com,Direct
+HOST-SUFFIX,xboxfan.com,Direct
 HOST-SUFFIX,xdqtech.com,Direct
 HOST-SUFFIX,xdtool.com,Direct
 HOST-SUFFIX,xesabc.com,Direct

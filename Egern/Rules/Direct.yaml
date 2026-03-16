@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 595
+# 规则统计: 599
 
 no_resolve: true
 domain_set:
@@ -63,6 +63,7 @@ domain_suffix_set:
   - 737698.xyz
   - 77shuku.org
   - 7sef.com
+  - 85sc.com
   - 86656.net
   - 8kc.top
   - 900cha.com
@@ -100,6 +101,7 @@ domain_suffix_set:
   - atticus.vip
   - awstme.top
   - axuex.top
+  - babawar.com
   - baiyishequ.com
   - banban.work
   - bangumi.tv
@@ -421,6 +423,7 @@ domain_suffix_set:
   - ptl.gs
   - ptlgs.org
   - pwithe.com
+  - qianfan.app
   - qiankunshopping.com
   - qianuni.com
   - qianxuecloud.com
@@ -530,6 +533,7 @@ domain_suffix_set:
   - x86pi.com
   - xbcloudprint.com
   - xbgjw.com
+  - xboxfan.com
   - xdqtech.com
   - xdtool.com
   - xesabc.com

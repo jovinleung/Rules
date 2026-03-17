@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 599
+# 规则统计: 603
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -133,6 +133,7 @@ DOMAIN-SUFFIX,cheshire.top
 DOMAIN-SUFFIX,chii.in
 DOMAIN-SUFFIX,chinatle.com
 DOMAIN-SUFFIX,chujingapp.com
+DOMAIN-SUFFIX,chushi.cool
 DOMAIN-SUFFIX,clivia.fun
 DOMAIN-SUFFIX,cmbc.run
 DOMAIN-SUFFIX,cn-music.mefun.vip
@@ -268,6 +269,8 @@ DOMAIN-SUFFIX,hijin.vip
 DOMAIN-SUFFIX,hiwms.com
 DOMAIN-SUFFIX,hkchat.app
 DOMAIN-SUFFIX,hnxzctec.com
+DOMAIN-SUFFIX,hongxingdl.com
+DOMAIN-SUFFIX,hongxingdl.love
 DOMAIN-SUFFIX,hsbc.com.hk
 DOMAIN-SUFFIX,hstbroker.com
 DOMAIN-SUFFIX,hszq6.com
@@ -574,6 +577,7 @@ DOMAIN-SUFFIX,z6e.com
 DOMAIN-SUFFIX,zcloud.world
 DOMAIN-SUFFIX,zctnet.top
 DOMAIN-SUFFIX,zeekrline.com
+DOMAIN-SUFFIX,zhangleglobal.com
 DOMAIN-SUFFIX,zhi10.com
 DOMAIN-SUFFIX,zhituwujie.com
 DOMAIN-SUFFIX,zhixingyunke.com

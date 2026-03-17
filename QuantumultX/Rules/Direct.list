@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 598
+# 规则统计: 602
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -133,6 +133,7 @@ HOST-SUFFIX,cheshire.top,Direct
 HOST-SUFFIX,chii.in,Direct
 HOST-SUFFIX,chinatle.com,Direct
 HOST-SUFFIX,chujingapp.com,Direct
+HOST-SUFFIX,chushi.cool,Direct
 HOST-SUFFIX,clivia.fun,Direct
 HOST-SUFFIX,cmbc.run,Direct
 HOST-SUFFIX,cn-music.mefun.vip,Direct
@@ -268,6 +269,8 @@ HOST-SUFFIX,hijin.vip,Direct
 HOST-SUFFIX,hiwms.com,Direct
 HOST-SUFFIX,hkchat.app,Direct
 HOST-SUFFIX,hnxzctec.com,Direct
+HOST-SUFFIX,hongxingdl.com,Direct
+HOST-SUFFIX,hongxingdl.love,Direct
 HOST-SUFFIX,hsbc.com.hk,Direct
 HOST-SUFFIX,hstbroker.com,Direct
 HOST-SUFFIX,hszq6.com,Direct
@@ -574,6 +577,7 @@ HOST-SUFFIX,z6e.com,Direct
 HOST-SUFFIX,zcloud.world,Direct
 HOST-SUFFIX,zctnet.top,Direct
 HOST-SUFFIX,zeekrline.com,Direct
+HOST-SUFFIX,zhangleglobal.com,Direct
 HOST-SUFFIX,zhi10.com,Direct
 HOST-SUFFIX,zhituwujie.com,Direct
 HOST-SUFFIX,zhixingyunke.com,Direct

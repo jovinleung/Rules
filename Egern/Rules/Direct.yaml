@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 599
+# 规则统计: 603
 
 no_resolve: true
 domain_set:
@@ -136,6 +136,7 @@ domain_suffix_set:
   - chii.in
   - chinatle.com
   - chujingapp.com
+  - chushi.cool
   - clivia.fun
   - cmbc.run
   - cn-music.mefun.vip
@@ -271,6 +272,8 @@ domain_suffix_set:
   - hiwms.com
   - hkchat.app
   - hnxzctec.com
+  - hongxingdl.com
+  - hongxingdl.love
   - hsbc.com.hk
   - hstbroker.com
   - hszq6.com
@@ -577,6 +580,7 @@ domain_suffix_set:
   - zcloud.world
   - zctnet.top
   - zeekrline.com
+  - zhangleglobal.com
   - zhi10.com
   - zhituwujie.com
   - zhixingyunke.com

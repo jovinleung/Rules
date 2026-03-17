@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4488
+# 规则统计: 4489
 
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -3031,6 +3031,7 @@ DOMAIN,tn.txxx.tube
 DOMAIN,tn.upornia.com
 DOMAIN,tn.vjav.com
 DOMAIN,todoist.b-cdn.net
+DOMAIN,tomshardware-data.community.forum
 DOMAIN,tools-static.wmflabs.org
 DOMAIN,tools.refokus.com
 DOMAIN,top1cdn.top1health.com

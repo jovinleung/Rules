@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4488
+# 规则统计: 4489
 
 domain_set:
   - 0x0.st
@@ -3032,6 +3032,7 @@ domain_set:
   - tn.upornia.com
   - tn.vjav.com
   - todoist.b-cdn.net
+  - tomshardware-data.community.forum
   - tools-static.wmflabs.org
   - tools.refokus.com
   - top1cdn.top1health.com

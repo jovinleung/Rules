@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 603
+# 规则统计: 604
 
 no_resolve: true
 domain_set:
@@ -327,6 +327,8 @@ domain_suffix_set:
   - kaihong.com
   - kaijiejinrong.com
   - kancaibao.com
+  - kaspersky-labs.com
+  - kaspersky.com
   - kcbd.top
   - kejiweixun.com
   - keyoo.com
@@ -335,7 +337,6 @@ domain_suffix_set:
   - kmeila.com
   - knit.bid
   - kuaicha888.com
-  - kyarucloud.moe
   - lanyun.net
   - laogongju.com
   - latexlive.com

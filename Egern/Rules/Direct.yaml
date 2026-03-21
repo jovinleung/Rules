@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 604
+# 规则统计: 607
 
 no_resolve: true
 domain_set:
@@ -117,6 +117,7 @@ domain_suffix_set:
   - blog.google
   - bochaai.com
   - bochk.com
+  - boxim.online
   - boyuemobile.com
   - bsbsb.top
   - bunny.net
@@ -525,6 +526,7 @@ domain_suffix_set:
   - wenyi188.com
   - weshape3d.com
   - wewillpro.com
+  - wildfirechat.net
   - wjx.top
   - wlcdn88.com
   - wologic.net
@@ -542,6 +544,7 @@ domain_suffix_set:
   - xdtool.com
   - xesabc.com
   - xfltd.org
+  - xgzb.top
   - xiankabao.com
   - xiaobeiyangji.com
   - xiaochuanyun.com

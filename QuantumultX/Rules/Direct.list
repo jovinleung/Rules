@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 606
+# 规则统计: 608
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -131,6 +131,7 @@ HOST-SUFFIX,checkipv6.dyndns.org,Direct
 HOST-SUFFIX,chenyuxia.com,Direct
 HOST-SUFFIX,cheriexsky.love,Direct
 HOST-SUFFIX,cheshire.top,Direct
+HOST-SUFFIX,chessease.net,Direct
 HOST-SUFFIX,chii.in,Direct
 HOST-SUFFIX,chinatle.com,Direct
 HOST-SUFFIX,chujingapp.com,Direct
@@ -397,6 +398,7 @@ HOST-SUFFIX,oceando.cloud,Direct
 HOST-SUFFIX,ok321.top,Direct
 HOST-SUFFIX,onebuygz.com,Direct
 HOST-SUFFIX,onetools.top,Direct
+HOST-SUFFIX,openkylin.top,Direct
 HOST-SUFFIX,opentrust.net,Direct
 HOST-SUFFIX,osbdf.com,Direct
 HOST-SUFFIX,ottai.com,Direct

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 607
+# 规则统计: 609
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -131,6 +131,7 @@ DOMAIN-SUFFIX,checkipv6.dyndns.org
 DOMAIN-SUFFIX,chenyuxia.com
 DOMAIN-SUFFIX,cheriexsky.love
 DOMAIN-SUFFIX,cheshire.top
+DOMAIN-SUFFIX,chessease.net
 DOMAIN-SUFFIX,chii.in
 DOMAIN-SUFFIX,chinatle.com
 DOMAIN-SUFFIX,chujingapp.com
@@ -397,6 +398,7 @@ DOMAIN-SUFFIX,oceando.cloud
 DOMAIN-SUFFIX,ok321.top
 DOMAIN-SUFFIX,onebuygz.com
 DOMAIN-SUFFIX,onetools.top
+DOMAIN-SUFFIX,openkylin.top
 DOMAIN-SUFFIX,opentrust.net
 DOMAIN-SUFFIX,osbdf.com
 DOMAIN-SUFFIX,ottai.com

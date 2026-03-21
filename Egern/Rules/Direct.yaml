@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 607
+# 规则统计: 609
 
 no_resolve: true
 domain_set:
@@ -134,6 +134,7 @@ domain_suffix_set:
   - chenyuxia.com
   - cheriexsky.love
   - cheshire.top
+  - chessease.net
   - chii.in
   - chinatle.com
   - chujingapp.com
@@ -400,6 +401,7 @@ domain_suffix_set:
   - ok321.top
   - onebuygz.com
   - onetools.top
+  - openkylin.top
   - opentrust.net
   - osbdf.com
   - ottai.com

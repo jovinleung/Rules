@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 609
+# 规则统计: 610
 
 no_resolve: true
 domain_set:
@@ -482,6 +482,7 @@ domain_suffix_set:
   - sxlljm.com
   - tailgdd.com
   - tailscale.com
+  - talk-cloud.net
   - tangguobaohe.com
   - tastientech.com
   - tclai.top

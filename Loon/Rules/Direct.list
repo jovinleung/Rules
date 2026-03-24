@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 609
+# 规则统计: 610
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -479,6 +479,7 @@ DOMAIN-SUFFIX,svyun.com
 DOMAIN-SUFFIX,sxlljm.com
 DOMAIN-SUFFIX,tailgdd.com
 DOMAIN-SUFFIX,tailscale.com
+DOMAIN-SUFFIX,talk-cloud.net
 DOMAIN-SUFFIX,tangguobaohe.com
 DOMAIN-SUFFIX,tastientech.com
 DOMAIN-SUFFIX,tclai.top

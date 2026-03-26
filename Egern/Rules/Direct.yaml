@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 611
+# 规则统计: 613
 
 no_resolve: true
 domain_set:
@@ -142,6 +142,7 @@ domain_suffix_set:
   - chushi.cool
   - clivia.fun
   - cmbc.run
+  - cmhk.com
   - cn-music.mefun.vip
   - cnb.space
   - cnspeedtest.cn
@@ -329,6 +330,7 @@ domain_suffix_set:
   - jzagile.com
   - kaihong.com
   - kaijiejinrong.com
+  - kaipanhong.com
   - kancaibao.com
   - kaspersky-labs.com
   - kaspersky.com

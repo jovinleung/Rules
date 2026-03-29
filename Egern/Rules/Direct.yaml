@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 613
+# 规则统计: 614
 
 no_resolve: true
 domain_set:
@@ -123,6 +123,7 @@ domain_suffix_set:
   - bsbsb.top
   - bunny.net
   - canghaiip.com
+  - cangjie-lang.net
   - cc.cd
   - cdn.ist
   - centbrowser.net

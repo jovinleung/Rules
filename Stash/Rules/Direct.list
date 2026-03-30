@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 614
+# 规则统计: 616
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -442,6 +442,7 @@ DOMAIN-SUFFIX,qinglue.com
 DOMAIN-SUFFIX,qmeng.top
 DOMAIN-SUFFIX,quanxinfu.com
 DOMAIN-SUFFIX,qweatherapi.com
+DOMAIN-SUFFIX,qzyun.net
 DOMAIN-SUFFIX,rayws.top
 DOMAIN-SUFFIX,redenmc.com
 DOMAIN-SUFFIX,registry.dockermirror.com
@@ -565,6 +566,7 @@ DOMAIN-SUFFIX,xixih.cc
 DOMAIN-SUFFIX,xkkapk.com
 DOMAIN-SUFFIX,xn--4kq62z5rby2qupq9ub.top
 DOMAIN-SUFFIX,xn--cesw6hd3s99f.com
+DOMAIN-SUFFIX,xn--vhqr42drhf5k7b.com
 DOMAIN-SUFFIX,xopenbeta.com
 DOMAIN-SUFFIX,xuanyuancode.com
 DOMAIN-SUFFIX,xuepaipai.com

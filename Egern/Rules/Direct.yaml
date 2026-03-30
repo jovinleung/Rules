@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 614
+# 规则统计: 616
 
 no_resolve: true
 domain_set:
@@ -445,6 +445,7 @@ domain_suffix_set:
   - qmeng.top
   - quanxinfu.com
   - qweatherapi.com
+  - qzyun.net
   - rayws.top
   - redenmc.com
   - registry.dockermirror.com
@@ -568,6 +569,7 @@ domain_suffix_set:
   - xkkapk.com
   - xn--4kq62z5rby2qupq9ub.top
   - xn--cesw6hd3s99f.com
+  - xn--vhqr42drhf5k7b.com
   - xopenbeta.com
   - xuanyuancode.com
   - xuepaipai.com

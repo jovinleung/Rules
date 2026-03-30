@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 615
+# 规则统计: 616
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -204,6 +204,7 @@ HOST-SUFFIX,fssbcc.top,Direct
 HOST-SUFFIX,fsytss.com,Direct
 HOST-SUFFIX,ft07.com,Direct
 HOST-SUFFIX,functorz.com,Direct
+HOST-SUFFIX,fuyinkeji.top,Direct
 HOST-SUFFIX,fuziche.com,Direct
 HOST-SUFFIX,fzshouji.com,Direct
 HOST-SUFFIX,fzvcolco.com,Direct

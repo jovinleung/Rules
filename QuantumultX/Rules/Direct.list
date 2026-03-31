@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 616
+# 规则统计: 618
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -56,6 +56,7 @@ HOST-SUFFIX,52met.com,Direct
 HOST-SUFFIX,52muban.com,Direct
 HOST-SUFFIX,55555.ink,Direct
 HOST-SUFFIX,657192.com,Direct
+HOST-SUFFIX,66990000.xyz,Direct
 HOST-SUFFIX,6v520.net,Direct
 HOST-SUFFIX,737698.xyz,Direct
 HOST-SUFFIX,77shuku.org,Direct
@@ -180,6 +181,7 @@ HOST-SUFFIX,eagsen.com,Direct
 HOST-SUFFIX,easytier.top,Direct
 HOST-SUFFIX,easytomessage.com,Direct
 HOST-SUFFIX,einfo-tech.com,Direct
+HOST-SUFFIX,emby.yun,Direct
 HOST-SUFFIX,englibrary.com,Direct
 HOST-SUFFIX,enyugame.net,Direct
 HOST-SUFFIX,epark.cc,Direct

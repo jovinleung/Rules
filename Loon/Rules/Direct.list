@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 619
+# 规则统计: 620
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -125,6 +125,7 @@ DOMAIN-SUFFIX,cangjie-lang.net
 DOMAIN-SUFFIX,cc.cd
 DOMAIN-SUFFIX,cdn.ist
 DOMAIN-SUFFIX,centbrowser.net
+DOMAIN-SUFFIX,cftunnel.com
 DOMAIN-SUFFIX,cg3da.com
 DOMAIN-SUFFIX,cgicop.com
 DOMAIN-SUFFIX,chaxunjiao.com

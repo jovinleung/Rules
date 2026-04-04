@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 619
+# 规则统计: 620
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -156,6 +156,7 @@ HOST-SUFFIX,cyouzai.com,Direct
 HOST-SUFFIX,d4ctech.com,Direct
 HOST-SUFFIX,dadateach.com,Direct
 HOST-SUFFIX,dahai96.com,Direct
+HOST-SUFFIX,daocloud.vip,Direct
 HOST-SUFFIX,day.app,Direct
 HOST-SUFFIX,dayilive.com,Direct
 HOST-SUFFIX,dcgstd.com,Direct

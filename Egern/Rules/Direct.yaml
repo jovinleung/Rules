@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 620
+# 规则统计: 621
 
 no_resolve: true
 domain_set:
@@ -159,6 +159,7 @@ domain_suffix_set:
   - d4ctech.com
   - dadateach.com
   - dahai96.com
+  - daocloud.vip
   - day.app
   - dayilive.com
   - dcgstd.com

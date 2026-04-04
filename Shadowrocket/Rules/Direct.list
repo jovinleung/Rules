@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 620
+# 规则统计: 621
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -156,6 +156,7 @@ DOMAIN-SUFFIX,cyouzai.com
 DOMAIN-SUFFIX,d4ctech.com
 DOMAIN-SUFFIX,dadateach.com
 DOMAIN-SUFFIX,dahai96.com
+DOMAIN-SUFFIX,daocloud.vip
 DOMAIN-SUFFIX,day.app
 DOMAIN-SUFFIX,dayilive.com
 DOMAIN-SUFFIX,dcgstd.com

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 621
+# 规则统计: 622
 
 no_resolve: true
 domain_set:
@@ -69,6 +69,7 @@ domain_suffix_set:
   - 8kc.top
   - 900cha.com
   - 91shenfan.com
+  - 97973399.com
   - 985hezi.com
   - 998tool.com
   - a0d.top

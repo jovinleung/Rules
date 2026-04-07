@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 623
+# 规则统计: 624
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -105,6 +105,7 @@ DOMAIN-SUFFIX,babawar.com
 DOMAIN-SUFFIX,baiyishequ.com
 DOMAIN-SUFFIX,banban.work
 DOMAIN-SUFFIX,bangumi.tv
+DOMAIN-SUFFIX,batchat.com
 DOMAIN-SUFFIX,bdcb.cc
 DOMAIN-SUFFIX,beautifulcarrot.com
 DOMAIN-SUFFIX,belimked.com

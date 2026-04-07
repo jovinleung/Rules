@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 622
+# 规则统计: 623
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -504,6 +504,7 @@ DOMAIN-SUFFIX,test-ipv6.com
 DOMAIN-SUFFIX,theluyuan.com
 DOMAIN-SUFFIX,thinkerride.com
 DOMAIN-SUFFIX,thmnet.com
+DOMAIN-SUFFIX,tianlala.com
 DOMAIN-SUFFIX,timbrd.com
 DOMAIN-SUFFIX,tixue.net
 DOMAIN-SUFFIX,tmallyc.com

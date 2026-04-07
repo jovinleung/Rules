@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 621
+# 规则统计: 622
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -504,6 +504,7 @@ HOST-SUFFIX,test-ipv6.com,Direct
 HOST-SUFFIX,theluyuan.com,Direct
 HOST-SUFFIX,thinkerride.com,Direct
 HOST-SUFFIX,thmnet.com,Direct
+HOST-SUFFIX,tianlala.com,Direct
 HOST-SUFFIX,timbrd.com,Direct
 HOST-SUFFIX,tixue.net,Direct
 HOST-SUFFIX,tmallyc.com,Direct

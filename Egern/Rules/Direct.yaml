@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 622
+# 规则统计: 623
 
 no_resolve: true
 domain_set:
@@ -507,6 +507,7 @@ domain_suffix_set:
   - theluyuan.com
   - thinkerride.com
   - thmnet.com
+  - tianlala.com
   - timbrd.com
   - tixue.net
   - tmallyc.com

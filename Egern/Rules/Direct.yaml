@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 624
+# 规则统计: 625
 
 no_resolve: true
 domain_set:
@@ -483,6 +483,7 @@ domain_suffix_set:
   - sksight.com
   - snfox.com
   - snltty.com
+  - soulteary.com
   - sptv.ii00.cc
   - ssjj2.com
   - starlink.uno

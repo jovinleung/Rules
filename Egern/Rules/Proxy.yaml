@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1334
+# 规则统计: 1336
 
 domain_set:
   - ccmdl.adobe.com
@@ -424,6 +424,7 @@ domain_suffix_set:
   - gameflare.com
   - gameloft.com
   - gamme.com.tw
+  - garmin.com
   - gartner.com
   - gate.io
   - gcld-line.com
@@ -587,6 +588,7 @@ domain_suffix_set:
   - intel.com
   - intercom.io
   - internet.org
+  - intervals.icu
   - intodns.com
   - ip-scan.adspower.net
   - ip.sb

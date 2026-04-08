@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1335
+# 规则统计: 1337
 
 HOST,ccmdl.adobe.com,Proxy
 HOST,community.oneplus.com,Proxy
@@ -422,6 +422,7 @@ HOST-SUFFIX,g2.com,Proxy
 HOST-SUFFIX,gameflare.com,Proxy
 HOST-SUFFIX,gameloft.com,Proxy
 HOST-SUFFIX,gamme.com.tw,Proxy
+HOST-SUFFIX,garmin.com,Proxy
 HOST-SUFFIX,gartner.com,Proxy
 HOST-SUFFIX,gate.io,Proxy
 HOST-SUFFIX,gcld-line.com,Proxy
@@ -585,6 +586,7 @@ HOST-SUFFIX,instatus.com,Proxy
 HOST-SUFFIX,intel.com,Proxy
 HOST-SUFFIX,intercom.io,Proxy
 HOST-SUFFIX,internet.org,Proxy
+HOST-SUFFIX,intervals.icu,Proxy
 HOST-SUFFIX,intodns.com,Proxy
 HOST-SUFFIX,ip-scan.adspower.net,Proxy
 HOST-SUFFIX,ip.sb,Proxy

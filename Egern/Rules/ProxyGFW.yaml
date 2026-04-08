@@ -1,5 +1,5 @@
 # 规则名称: ProxyGFW
-# 规则统计: 7650
+# 规则统计: 7652
 
 no_resolve: true
 domain_set:
@@ -2366,6 +2366,7 @@ domain_suffix_set:
   - gardennetworks.com
   - gardennetworks.org
   - garena.com
+  - garmin.com
   - gartlive.com
   - gartner.com
   - garudalinux.org
@@ -3411,6 +3412,7 @@ domain_suffix_set:
   - internetfreedom.org
   - internetpopculture.com
   - interseclab.org
+  - intervals.icu
   - inthenameofconfuciusmovie.com
   - intodns.com
   - invidio.us

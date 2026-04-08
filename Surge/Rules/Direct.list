@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 624
+# 规则统计: 625
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -480,6 +480,7 @@ DOMAIN-SUFFIX,sixloy428.top
 DOMAIN-SUFFIX,sksight.com
 DOMAIN-SUFFIX,snfox.com
 DOMAIN-SUFFIX,snltty.com
+DOMAIN-SUFFIX,soulteary.com
 DOMAIN-SUFFIX,sptv.ii00.cc
 DOMAIN-SUFFIX,ssjj2.com
 DOMAIN-SUFFIX,starlink.uno

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 626
+# 规则统计: 623
 
 no_resolve: true
 domain_set:
@@ -386,7 +386,6 @@ domain_suffix_set:
   - mifeng.plus
   - mifon.com
   - minor-api-os.hoyoverse.com
-  - misea.top
   - mixly.org
   - mobai.sbs
   - modelscope.net
@@ -403,7 +402,6 @@ domain_suffix_set:
   - natchecker.com
   - neihang.net
   - netzz.net
-  - nhk.or.jp
   - nicezhuanye.com
   - nkxingxh.top
   - nn.ci
@@ -439,7 +437,6 @@ domain_suffix_set:
   - pool.ntp.org
   - powershellgallery.com
   - privateapi.xyz
-  - ptl.gs
   - ptlgs.org
   - pwithe.com
   - qianfan.app

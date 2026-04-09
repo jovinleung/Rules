@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 625
+# 规则统计: 622
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -383,7 +383,6 @@ HOST-SUFFIX,micu.hk,Direct
 HOST-SUFFIX,mifeng.plus,Direct
 HOST-SUFFIX,mifon.com,Direct
 HOST-SUFFIX,minor-api-os.hoyoverse.com,Direct
-HOST-SUFFIX,misea.top,Direct
 HOST-SUFFIX,mixly.org,Direct
 HOST-SUFFIX,mobai.sbs,Direct
 HOST-SUFFIX,modelscope.net,Direct
@@ -400,7 +399,6 @@ HOST-SUFFIX,nanshe-tech.com,Direct
 HOST-SUFFIX,natchecker.com,Direct
 HOST-SUFFIX,neihang.net,Direct
 HOST-SUFFIX,netzz.net,Direct
-HOST-SUFFIX,nhk.or.jp,Direct
 HOST-SUFFIX,nicezhuanye.com,Direct
 HOST-SUFFIX,nkxingxh.top,Direct
 HOST-SUFFIX,nn.ci,Direct
@@ -436,7 +434,6 @@ HOST-SUFFIX,ponyemu.com,Direct
 HOST-SUFFIX,pool.ntp.org,Direct
 HOST-SUFFIX,powershellgallery.com,Direct
 HOST-SUFFIX,privateapi.xyz,Direct
-HOST-SUFFIX,ptl.gs,Direct
 HOST-SUFFIX,ptlgs.org,Direct
 HOST-SUFFIX,pwithe.com,Direct
 HOST-SUFFIX,qianfan.app,Direct

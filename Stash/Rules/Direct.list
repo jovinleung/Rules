@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 626
+# 规则统计: 623
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -383,7 +383,6 @@ DOMAIN-SUFFIX,micu.hk
 DOMAIN-SUFFIX,mifeng.plus
 DOMAIN-SUFFIX,mifon.com
 DOMAIN-SUFFIX,minor-api-os.hoyoverse.com
-DOMAIN-SUFFIX,misea.top
 DOMAIN-SUFFIX,mixly.org
 DOMAIN-SUFFIX,mobai.sbs
 DOMAIN-SUFFIX,modelscope.net
@@ -400,7 +399,6 @@ DOMAIN-SUFFIX,nanshe-tech.com
 DOMAIN-SUFFIX,natchecker.com
 DOMAIN-SUFFIX,neihang.net
 DOMAIN-SUFFIX,netzz.net
-DOMAIN-SUFFIX,nhk.or.jp
 DOMAIN-SUFFIX,nicezhuanye.com
 DOMAIN-SUFFIX,nkxingxh.top
 DOMAIN-SUFFIX,nn.ci
@@ -436,7 +434,6 @@ DOMAIN-SUFFIX,ponyemu.com
 DOMAIN-SUFFIX,pool.ntp.org
 DOMAIN-SUFFIX,powershellgallery.com
 DOMAIN-SUFFIX,privateapi.xyz
-DOMAIN-SUFFIX,ptl.gs
 DOMAIN-SUFFIX,ptlgs.org
 DOMAIN-SUFFIX,pwithe.com
 DOMAIN-SUFFIX,qianfan.app

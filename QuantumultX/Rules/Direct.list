@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 624
+# 规则统计: 625
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -114,6 +114,7 @@ HOST-SUFFIX,bgm.tv,Direct
 HOST-SUFFIX,biandangroup.com,Direct
 HOST-SUFFIX,biaoda.me,Direct
 HOST-SUFFIX,bingshandashu.com,Direct
+HOST-SUFFIX,bjssjsyy.com,Direct
 HOST-SUFFIX,bjtzeduyun.com,Direct
 HOST-SUFFIX,blog.google,Direct
 HOST-SUFFIX,bochaai.com,Direct

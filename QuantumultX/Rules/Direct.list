@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 622
+# 规则统计: 623
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -377,6 +377,7 @@ HOST-SUFFIX,medtechshare.com,Direct
 HOST-SUFFIX,meishiffx.online,Direct
 HOST-SUFFIX,meiyitou.top,Direct
 HOST-SUFFIX,melecode.com,Direct
+HOST-SUFFIX,meloong.com,Direct
 HOST-SUFFIX,members.3322.org,Direct
 HOST-SUFFIX,meoof-pet.com,Direct
 HOST-SUFFIX,micu.hk,Direct

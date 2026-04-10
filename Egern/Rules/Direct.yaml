@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 623
+# 规则统计: 624
 
 no_resolve: true
 domain_set:
@@ -380,6 +380,7 @@ domain_suffix_set:
   - meishiffx.online
   - meiyitou.top
   - melecode.com
+  - meloong.com
   - members.3322.org
   - meoof-pet.com
   - micu.hk

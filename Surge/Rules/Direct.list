@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 623
+# 规则统计: 624
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -377,6 +377,7 @@ DOMAIN-SUFFIX,medtechshare.com
 DOMAIN-SUFFIX,meishiffx.online
 DOMAIN-SUFFIX,meiyitou.top
 DOMAIN-SUFFIX,melecode.com
+DOMAIN-SUFFIX,meloong.com
 DOMAIN-SUFFIX,members.3322.org
 DOMAIN-SUFFIX,meoof-pet.com
 DOMAIN-SUFFIX,micu.hk

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 624
+# 规则统计: 625
 
 no_resolve: true
 domain_set:
@@ -577,6 +577,7 @@ domain_suffix_set:
   - xkkapk.com
   - xn--4kq62z5rby2qupq9ub.top
   - xn--cesw6hd3s99f.com
+  - xn--mmz.cc
   - xn--vhqr42drhf5k7b.com
   - xopenbeta.com
   - xuanyuancode.com

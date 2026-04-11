@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 625
+# 规则统计: 627
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -170,6 +170,7 @@ HOST-SUFFIX,dell.com,Direct
 HOST-SUFFIX,dfhog.com,Direct
 HOST-SUFFIX,dhub.kubesre.xyz,Direct
 HOST-SUFFIX,dingdingzn.com,Direct
+HOST-SUFFIX,divoiotcloud.com,Direct
 HOST-SUFFIX,diyiedu.com,Direct
 HOST-SUFFIX,dnshe.com,Direct
 HOST-SUFFIX,docker.1panel.live,Direct
@@ -470,6 +471,7 @@ HOST-SUFFIX,seedpace.com,Direct
 HOST-SUFFIX,server2.cn2gias.uk,Direct
 HOST-SUFFIX,sgtv.ii00.cc,Direct
 HOST-SUFFIX,shanghai-parking.com,Direct
+HOST-SUFFIX,shanghongbei.com,Direct
 HOST-SUFFIX,shineacc.com,Direct
 HOST-SUFFIX,shuangqingtech.com,Direct
 HOST-SUFFIX,shuinfo.com,Direct

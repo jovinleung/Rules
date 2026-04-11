@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 626
+# 规则统计: 628
 
 no_resolve: true
 domain_set:
@@ -173,6 +173,7 @@ domain_suffix_set:
   - dfhog.com
   - dhub.kubesre.xyz
   - dingdingzn.com
+  - divoiotcloud.com
   - diyiedu.com
   - dnshe.com
   - docker.1panel.live
@@ -473,6 +474,7 @@ domain_suffix_set:
   - server2.cn2gias.uk
   - sgtv.ii00.cc
   - shanghai-parking.com
+  - shanghongbei.com
   - shineacc.com
   - shuangqingtech.com
   - shuinfo.com

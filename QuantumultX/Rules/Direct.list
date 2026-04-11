@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 624
+# 规则统计: 625
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -330,6 +330,7 @@ HOST-SUFFIX,jiqw.com,Direct
 HOST-SUFFIX,jjzyy.org,Direct
 HOST-SUFFIX,jsdelivr.com,Direct
 HOST-SUFFIX,jsdelivr.net,Direct
+HOST-SUFFIX,jsj.top,Direct
 HOST-SUFFIX,julebu.co,Direct
 HOST-SUFFIX,jxjktzjt.com,Direct
 HOST-SUFFIX,jxpp.com,Direct

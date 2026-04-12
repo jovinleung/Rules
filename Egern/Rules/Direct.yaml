@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 628
+# 规则统计: 631
 
 no_resolve: true
 domain_set:
@@ -326,6 +326,7 @@ domain_suffix_set:
   - jduoduo.com
   - jfjt.cc
   - jh96095.com
+  - jiangningwater.com
   - jiaoyanyun.com
   - jieyoutsg.com
   - jiliuwang.net
@@ -461,6 +462,7 @@ domain_suffix_set:
   - royqh.net
   - rsfcxq.com
   - ruijie.com
+  - rxcrs.com
   - saduck.top
   - sanligu.top
   - sapphiretech.com
@@ -517,6 +519,7 @@ domain_suffix_set:
   - tmallyc.com
   - tnas.link
   - tnas.online
+  - tongkask.com
   - tool56.com
   - topwd.top
   - tozi-cn.top

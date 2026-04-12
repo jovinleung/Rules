@@ -1,5 +1,5 @@
 # 规则名称: ProxyGFW
-# 规则统计: 7652
+# 规则统计: 7653
 
 no_resolve: true
 domain_set:
@@ -3992,6 +3992,7 @@ domain_suffix_set:
   - madrau.com
   - madthumbs.com
   - magic-net.info
+  - magic.link
   - mahabodhi.org
   - mahjongsoul.com
   - maiio.net

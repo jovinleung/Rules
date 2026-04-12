@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1337
+# 规则统计: 1338
 
 HOST,ccmdl.adobe.com,Proxy
 HOST,community.oneplus.com,Proxy
@@ -698,6 +698,7 @@ HOST-SUFFIX,macaddress.io,Proxy
 HOST-SUFFIX,macpaw.com,Proxy
 HOST-SUFFIX,macupdate.com,Proxy
 HOST-SUFFIX,madewithcode.com,Proxy
+HOST-SUFFIX,magic.link,Proxy
 HOST-SUFFIX,mailchimp.com,Proxy
 HOST-SUFFIX,majsoul.union-game.com,Proxy
 HOST-SUFFIX,makerworld.com,Proxy

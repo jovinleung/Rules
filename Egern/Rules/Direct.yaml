@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 631
+# 规则统计: 632
 
 no_resolve: true
 domain_set:
@@ -155,6 +155,7 @@ domain_suffix_set:
   - cocav.com
   - codeloop.top
   - coffee-iot.com
+  - cone-x.com
   - congmiqq.com
   - coros.com
   - crtyhr.com

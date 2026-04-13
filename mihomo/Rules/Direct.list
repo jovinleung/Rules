@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 632
+# 规则统计: 633
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -360,6 +360,7 @@ DOMAIN-SUFFIX,lcdn-registration.apple.com
 DOMAIN-SUFFIX,leelen.com
 DOMAIN-SUFFIX,letaoedu.com
 DOMAIN-SUFFIX,lg3000.top
+DOMAIN-SUFFIX,lightmake.site
 DOMAIN-SUFFIX,liunn.com
 DOMAIN-SUFFIX,liveperson.net
 DOMAIN-SUFFIX,localhost.ptlogin2.qq.com

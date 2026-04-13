@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 631
+# 规则统计: 632
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -360,6 +360,7 @@ HOST-SUFFIX,lcdn-registration.apple.com,Direct
 HOST-SUFFIX,leelen.com,Direct
 HOST-SUFFIX,letaoedu.com,Direct
 HOST-SUFFIX,lg3000.top,Direct
+HOST-SUFFIX,lightmake.site,Direct
 HOST-SUFFIX,liunn.com,Direct
 HOST-SUFFIX,liveperson.net,Direct
 HOST-SUFFIX,localhost.ptlogin2.qq.com,Direct

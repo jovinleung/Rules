@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 632
+# 规则统计: 633
 
 no_resolve: true
 domain_set:
@@ -363,6 +363,7 @@ domain_suffix_set:
   - leelen.com
   - letaoedu.com
   - lg3000.top
+  - lightmake.site
   - liunn.com
   - liveperson.net
   - localhost.ptlogin2.qq.com

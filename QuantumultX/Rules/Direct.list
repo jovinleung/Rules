@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 632
+# 规则统计: 633
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -197,6 +197,7 @@ HOST-SUFFIX,epg.v1.mk,Direct
 HOST-SUFFIX,et0731.com,Direct
 HOST-SUFFIX,everdrawing.com,Direct
 HOST-SUFFIX,excelbbx.net,Direct
+HOST-SUFFIX,exiliumgf.com,Direct
 HOST-SUFFIX,fdfinvoice.com,Direct
 HOST-SUFFIX,feihengip.com,Direct
 HOST-SUFFIX,feizhiyi.com,Direct

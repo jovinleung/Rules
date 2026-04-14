@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 634
+# 规则统计: 635
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -87,6 +87,7 @@ DOMAIN-SUFFIX,akamaihd.net
 DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,alonginwind.eu.org
 DOMAIN-SUFFIX,alonginwind.to
+DOMAIN-SUFFIX,alonginwind.top
 DOMAIN-SUFFIX,aloys233.top
 DOMAIN-SUFFIX,antping.com
 DOMAIN-SUFFIX,anycubic.com

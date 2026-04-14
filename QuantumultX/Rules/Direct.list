@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 633
+# 规则统计: 634
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -87,6 +87,7 @@ HOST-SUFFIX,akamaihd.net,Direct
 HOST-SUFFIX,akamaized.net,Direct
 HOST-SUFFIX,alonginwind.eu.org,Direct
 HOST-SUFFIX,alonginwind.to,Direct
+HOST-SUFFIX,alonginwind.top,Direct
 HOST-SUFFIX,aloys233.top,Direct
 HOST-SUFFIX,antping.com,Direct
 HOST-SUFFIX,anycubic.com,Direct

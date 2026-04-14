@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4526
+# 规则统计: 4527
 
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -2987,6 +2987,7 @@ DOMAIN,telemetry.individual.githubcopilot.com
 DOMAIN,telemetry.nextjs.org
 DOMAIN,telemetry.split.io
 DOMAIN,telemetry.stepsecurity.io
+DOMAIN,telemetry.timescale.com
 DOMAIN,telemetry.vercel.com
 DOMAIN,telemetry2.devolutions.net
 DOMAIN,test.manyse.com

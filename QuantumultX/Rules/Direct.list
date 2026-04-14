@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 634
+# 规则统计: 635
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -611,6 +611,7 @@ HOST-SUFFIX,zctnet.top,Direct
 HOST-SUFFIX,zeekrline.com,Direct
 HOST-SUFFIX,zhangleglobal.com,Direct
 HOST-SUFFIX,zhi10.com,Direct
+HOST-SUFFIX,zhiexa.com,Direct
 HOST-SUFFIX,zhituwujie.com,Direct
 HOST-SUFFIX,zhixingyunke.com,Direct
 HOST-SUFFIX,zhongancloud.com,Direct

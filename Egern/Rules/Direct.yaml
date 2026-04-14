@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 635
+# 规则统计: 636
 
 no_resolve: true
 domain_set:
@@ -614,6 +614,7 @@ domain_suffix_set:
   - zeekrline.com
   - zhangleglobal.com
   - zhi10.com
+  - zhiexa.com
   - zhituwujie.com
   - zhixingyunke.com
   - zhongancloud.com

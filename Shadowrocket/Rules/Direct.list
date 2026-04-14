@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 635
+# 规则统计: 636
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -611,6 +611,7 @@ DOMAIN-SUFFIX,zctnet.top
 DOMAIN-SUFFIX,zeekrline.com
 DOMAIN-SUFFIX,zhangleglobal.com
 DOMAIN-SUFFIX,zhi10.com
+DOMAIN-SUFFIX,zhiexa.com
 DOMAIN-SUFFIX,zhituwujie.com
 DOMAIN-SUFFIX,zhixingyunke.com
 DOMAIN-SUFFIX,zhongancloud.com

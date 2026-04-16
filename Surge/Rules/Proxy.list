@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1338
+# 规则统计: 1343
 
 DOMAIN,ccmdl.adobe.com
 DOMAIN,community.oneplus.com
@@ -64,6 +64,7 @@ DOMAIN-SUFFIX,airtableusercontent.com
 DOMAIN-SUFFIX,ajay.app
 DOMAIN-SUFFIX,akamai.net
 DOMAIN-SUFFIX,akamaihd.net
+DOMAIN-SUFFIX,alotporn.com
 DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,amplience.com
@@ -413,6 +414,7 @@ DOMAIN-SUFFIX,freedownloadmanager.org
 DOMAIN-SUFFIX,freemacsoft.net
 DOMAIN-SUFFIX,freepik.com
 DOMAIN-SUFFIX,ft.com
+DOMAIN-SUFFIX,ftchinese.com
 DOMAIN-SUFFIX,fuq.com
 DOMAIN-SUFFIX,fxnetworks.com
 DOMAIN-SUFFIX,fxtwitter.com
@@ -558,6 +560,7 @@ DOMAIN-SUFFIX,iboysoft.com
 DOMAIN-SUFFIX,icann.org
 DOMAIN-SUFFIX,iconfinder.com
 DOMAIN-SUFFIX,id
+DOMAIN-SUFFIX,idcflare.com
 DOMAIN-SUFFIX,idrive.com
 DOMAIN-SUFFIX,ie
 DOMAIN-SUFFIX,ietf.org
@@ -1222,6 +1225,7 @@ DOMAIN-SUFFIX,vn
 DOMAIN-SUFFIX,voachinese.com
 DOMAIN-SUFFIX,voanews.com
 DOMAIN-SUFFIX,vpnunlimited.com
+DOMAIN-SUFFIX,vrchat.com
 DOMAIN-SUFFIX,vrporn.com
 DOMAIN-SUFFIX,vxtwitter.com
 DOMAIN-SUFFIX,vzw.com
@@ -1265,6 +1269,7 @@ DOMAIN-SUFFIX,wikipedia.com
 DOMAIN-SUFFIX,wikipedia.org
 DOMAIN-SUFFIX,wikiquote.org
 DOMAIN-SUFFIX,wikisource.org
+DOMAIN-SUFFIX,wikissl.com
 DOMAIN-SUFFIX,wikiversity.org
 DOMAIN-SUFFIX,wikivoyage.org
 DOMAIN-SUFFIX,wikiwand.com

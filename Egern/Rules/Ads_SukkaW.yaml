@@ -1,5 +1,5 @@
 # 规则名称: Ads_SukkaW
-# 规则统计: 116482
+# 规则统计: 116510
 
 no_resolve: true
 domain_set:
@@ -15,7 +15,6 @@ domain_set:
   - a.glcdn.co
   - a.hl.mi.com
   - a.imput.net
-  - a.macked.app
   - a.tool.lu
   - a0.app.xiaomi.com
   - abtest-ch.snssdk.com
@@ -43,7 +42,6 @@ domain_set:
   - ad.alimama.com
   - ad.api.3g.tudou.com
   - ad.api.3g.youku.com
-  - ad.api.mobile.youku.com
   - ad.api.moji.com
   - ad.bayescom.com
   - ad.bn.netease.com
@@ -58,7 +56,6 @@ domain_set:
   - ad.huajiao.com
   - ad.hzyoka.com
   - ad.iot.360.cn
-  - ad.jamster.co.uk
   - ad.jia.360.cn
   - ad.jiemian.com
   - ad.maoyan.com
@@ -145,7 +142,6 @@ domain_set:
   - ads.xxxad.net
   - ads.yam.com
   - ads.yimg.com
-  - ads2.mediaarmor.com
   - ads3-normal-hl.zijieapi.com
   - ads3-normal-lf.zijieapi.com
   - ads3-normal-lq.zijieapi.com
@@ -287,7 +283,6 @@ domain_set:
   - applogapi.autohome.com.cn
   - applogios.uc.cn
   - apppv.zol.com.cn
-  - apps.mobilityware.com
   - appupdates.189.cn
   - appuu.cn
   - ark.letv.com
@@ -337,7 +332,6 @@ domain_set:
   - c.mse.360.cn
   - c.msn.com.cn
   - c.uaa.iqiyi.com
-  - c.yes.youku.com
   - c2.l.qq.com
   - c753738.r38.cf2.rackcdn.com
   - cache.datamart.windows.com
@@ -495,7 +489,6 @@ domain_set:
   - edgecast-vod.yimg.com
   - emma-414870e223.huodonghezi.com
   - emoticon.sns.iqiyi.com
-  - ems.cp12.wasu.tv
   - encounter.bz.mgtv.com
   - engine.lvehaisen.com
   - err.taobao.com
@@ -520,14 +513,12 @@ domain_set:
   - file.daihuo.qq.com
   - flash.sec.miui.com
   - floor.bz.mgtv.com
-  - fm.p0y.cn
   - fms.ipinyou.com
   - foundation.mozilla.org
   - free-aos-cdn-image.amap.com
   - front-perf.imoim.net
   - frontier-aweme-hl.snssdk.com
   - ftpcontent.worldnow.com
-  - fumiad.dxys.pro
   - fyb-2.cdn.bcebos.com
   - g.163.com
   - g.koowo.com
@@ -1123,6 +1114,7 @@ domain_set:
   - umdc.aliapp.org
   - umm.html.zone
   - union.gdtimg.com
+  - up.zpic.biz
   - update.9mod.com
   - url8807.global.passport.xiaomi.com
   - us.l.qq.com
@@ -2590,6 +2582,7 @@ domain_suffix_set:
   - 8ab16250fe.com
   - 8acd6b63f9.com
   - 8afb98c0d8.com
+  - 8bcfwi4tqnrg81exx1kwk.cfd
   - 8bnouo6r6.com
   - 8c66b76e9b.com
   - 8c67cu652j6jhej.rest
@@ -5512,7 +5505,6 @@ domain_suffix_set:
   - ads.linkedin.com
   - ads.lot-tissimo.com
   - ads.luffy.my.id
-  - ads.mobilityware.com
   - ads.mobvertising.net
   - ads.mozilla.org
   - ads.naga11capi.com
@@ -6006,6 +5998,7 @@ domain_suffix_set:
   - aerodynomach.com
   - aerosolhudson.qpon
   - aerserv.com
+  - aesqzfuosgvay.com
   - aests.aesthency.com
   - aesus.so-net.ne.jp
   - aesyahweh.com
@@ -6503,6 +6496,7 @@ domain_suffix_set:
   - aggalj.eloem.kr
   - aggerpunka.com
   - aggle.net
+  - aggravatingboard.pro
   - aggravatingoil.com
   - aggregateknowledge.com
   - aggregationmodest.com
@@ -7360,6 +7354,7 @@ domain_suffix_set:
   - ama.wdr.de
   - ama.wdrmaus.de
   - amaerodactylon.com
+  - amalhslzc.com
   - amanad.adtdp.com
   - amaniondinenoblify.qpon
   - amarh.coniferkingdom.com
@@ -11273,6 +11268,7 @@ domain_suffix_set:
   - apubhamgfnfu.com
   - apv-launcher.minute.ly
   - apvdr.com
+  - apwfflihednimr.com
   - apxl.io
   - apxlv.com
   - apxqgj.jassduell.ch
@@ -12275,6 +12271,7 @@ domain_suffix_set:
   - awbbsat.com
   - awbkht.verktygsproffsen.se
   - awcapuuezefta.com
+  - awcdfqayavljm.site
   - awcecrod.com
   - awcrpu.com
   - awdeliverynet.com
@@ -12516,6 +12513,7 @@ domain_suffix_set:
   - ayintothefre.org
   - ayittd.goldmoondnc.com
   - ayjxqgxvefyuv.space
+  - aykmyleqgnwcd.website
   - ayleaf.petersofkensington.com.au
   - ayo.arredoitaliano.it
   - ayodanuauw.com
@@ -16509,6 +16507,7 @@ domain_suffix_set:
   - car.walltouchbd.com
   - car21.net.home24.de
   - car40.net.home24.de
+  - carabushulsiteslaving.cyou
   - caraganaarborescenspendula.com
   - caravanexhale.com
   - carbonads.com
@@ -27465,6 +27464,7 @@ domain_suffix_set:
   - documentaryselfless.com
   - docyjy.ryderwear.com
   - dodgebugs.com
+  - dodgilybranchy.qpon
   - dodgyfactoidprecut.com
   - dodrryvg.octopusenergy.co.jp
   - dof9zd9l290mz.cloudfront.net
@@ -27764,6 +27764,7 @@ domain_suffix_set:
   - dr8pk6ovub897.cloudfront.net
   - dra.dragonwash.ro
   - drabimprovement.com
+  - dracintomtitsuncke.cfd
   - draffcerotingaiter.cfd
   - dragate-in-dc.heytapmobile.com
   - dragate.dc.oppomobile.com
@@ -30201,6 +30202,7 @@ domain_suffix_set:
   - encirclesheriffemit.com
   - encnaialfvqm.com
   - encodediagnosisrelish.com
+  - encolorsoke.shop
   - encompassreport.elliemae.com
   - encouragingthread.com
   - encratykenelm.com
@@ -30662,6 +30664,7 @@ domain_suffix_set:
   - erpkk.vestique.com
   - erpqkcfvsjjyap.com
   - err.ifengcloud.ifeng.com
+  - errablededanim.cfd
   - errablehoddins.com
   - erredformelt.qpon
   - error-analytics-production.shopifysvc.com
@@ -35517,6 +35520,7 @@ domain_suffix_set:
   - glmeilgroi.com
   - gloaphoo.net
   - global-mktg.transunion.com
+  - global-receiver-ta.thinkingdata.cn
   - global-report.ml.youngjoygame.com
   - global-sis.engagelab.com
   - global-staticplat.cdn.bcebos.com
@@ -40617,7 +40621,6 @@ domain_suffix_set:
   - gtrimmani.com
   - gtrm.sutirhatbd.xyz
   - gtrphahmu.com
-  - gts-ads.twistbox.com
   - gts.absulo.it
   - gts.cynomi.com
   - gts.qodo.ai
@@ -40959,6 +40962,7 @@ domain_suffix_set:
   - hadsokz.com
   - haeresanticbhungi.qpon
   - hafakkkp.in
+  - hafqulwpaa.in
   - hagglyabacli.cfd
   - haginsensiblesupervise.com
   - hagnutrient.com
@@ -41227,6 +41231,7 @@ domain_suffix_set:
   - hbovtg4y76tveij4z.rest
   - hbpvm.lapolicegear.com
   - hbpwxguusxnzg.website
+  - hbr2czm7pfy994i.rest
   - hbrcv.adobe.com
   - hbrhkr.photosi.com
   - hbrt.adobe.com
@@ -42884,6 +42889,7 @@ domain_suffix_set:
   - ibidemkorari.com
   - ibikini.cyou
   - ibis.lgappstv.com
+  - ibjcwqwfbgtmt.space
   - ibkdhfyogesgc.online
   - ibktikewqhktw.site
   - ibkups.rci.com
@@ -46952,6 +46958,7 @@ domain_suffix_set:
   - jntbtoyqzjwpni.com
   - jntmvkbuhknjz.website
   - jnunn.alppouch.com
+  - jnvsfqonjgtxo.space
   - jnwcubaojvaqh.site
   - jnwpr.chefstore.com
   - jnwuama.top
@@ -48001,6 +48008,7 @@ domain_suffix_set:
   - kglduw.lifesum.co.kr
   - kgmhnaywmhtgi.website
   - kgmmfk.galcomi.jp
+  - kgnbvtgb.com
   - kgoj4nrhe.com
   - kgozkkmzuigpr.site
   - kgphuomgkevmh.website
@@ -49377,6 +49385,7 @@ domain_suffix_set:
   - lc.thekingofbongo.com
   - lcacaen1.verdantpathfinder.com
   - lcacaen4.verdantpathfinder.com
+  - lcauxlaebieki.space
   - lcbmtd.icu
   - lcccfy.golfenstock.com
   - lcd.aivote.com
@@ -49463,6 +49472,7 @@ domain_suffix_set:
   - lead.umf.org.nz
   - leadbolt.net
   - leadboltads.net
+  - leadboltapps.com
   - leader.executiveforum.com
   - leaders.iedp.com
   - leadership.zengerfolkman.com
@@ -59830,6 +59840,7 @@ domain_suffix_set:
   - media.vivaclix.com
   - media.wave.qburst.com
   - media6degrees.com
+  - mediaarmor.com
   - mediabr.v4company.com
   - mediacpc.com
   - mediadstream.com
@@ -62452,6 +62463,7 @@ domain_suffix_set:
   - mh.theminimalisthub.nl
   - mh9qqwotr890.koelewijn.nl
   - mhaqoffcj7.com
+  - mhaqzaoks.in
   - mhauev.glasses.com
   - mhaw.cn
   - mhbpepxcxhrwfp.com
@@ -63124,6 +63136,7 @@ domain_suffix_set:
   - mobiletelemetry.ebay.com
   - mobiletest.aspensnowmass.com
   - mobiletracking.ru
+  - mobilityware.com
   - mobilize.tupinambaenergia.com.br
   - mobipromote.com
   - mobiright.com
@@ -67975,6 +67988,7 @@ domain_suffix_set:
   - oudw850vbx.com
   - oueltdoqctddl.online
   - oufbb.baristaunderground.com
+  - ouffjumlsqcss.space
   - oufgq.boatoutfitters.com
   - oufrqs.kunduz.com
   - oufuqh.kant.ru
@@ -68413,6 +68427,7 @@ domain_suffix_set:
   - packagebellysmoothly.com
   - packagingsolutions.filamatic.com
   - packsofgood.com
+  - pacogage.cfd
   - padsabs.com
   - padsims.com
   - padskis.com
@@ -69644,6 +69659,7 @@ domain_suffix_set:
   - pendo-data-prod.box.com
   - pendulejewely.com
   - pengeskabe.jcp.dk
+  - pengowinnocknaggin.qpon
   - penguin.craftpeak.io
   - penguin.revolana.com
   - penitentagilemenace.com
@@ -70719,6 +70735,7 @@ domain_suffix_set:
   - poflix.com
   - pogbd.suzannesfashions.ca
   - pogothere.xyz
+  - pogwinwcsnggrv.com
   - pogydistant.cyou
   - pointcontinentrtb.com
   - pointdigestion.com
@@ -85003,6 +85020,7 @@ domain_suffix_set:
   - somnistats.jetblue.com
   - somnit.blinkfitness.com
   - somnit.equinox.com
+  - somnusveld.cfd
   - somos.almanimal.com
   - somos.bebee.com
   - somos.bestchamp.org
@@ -85072,6 +85090,7 @@ domain_suffix_set:
   - soqwtxjtvglkz.website
   - sorbedprinter.cyou
   - sorbetbungler.com
+  - sordgables.cyou
   - sordidsicknessfaded.com
   - sore-list.pro
   - sore-middle.com
@@ -101505,7 +101524,6 @@ domain_suffix_set:
   - thingsmadenavy.com
   - thingstaste.com
   - think.phdinc.com
-  - thinkingdata.cn
   - thinkitten.com
   - thinkitwice.com
   - thinksuggest.org
@@ -101646,6 +101664,7 @@ domain_suffix_set:
   - tigershark.paavanmagic.com
   - tigershark.samwaymire.com
   - tigfvdr.com
+  - tiggfqfzpzszh.space
   - tightcharacter.pro
   - tightpowder.com
   - tiglck.technopolis.bg
@@ -107732,6 +107751,7 @@ domain_suffix_set:
   - twirll-stape-int.twirll.com
   - twirlparchextent.com
   - twirlsap.com
+  - twistbox.com
   - twistconcept.com
   - twistloss.com
   - twitter.sx
@@ -108677,6 +108697,7 @@ domain_suffix_set:
   - unequalbrake.com
   - unequaledchair.com
   - unequaltrail.com
+  - unerectcolonic.qpon
   - unfairgenelullaby.com
   - unfamiillardates.net
   - unfamllliardates.com
@@ -109024,6 +109045,7 @@ domain_suffix_set:
   - ur.b.inhaabit.com
   - ur.gcion.com
   - ur.trackingjourney.com
+  - uraliangavials.cyou
   - uraninditehandgun.cyou
   - uranus.jd.com
   - uranus.sogou.com
@@ -110626,6 +110648,7 @@ domain_suffix_set:
   - vpvq.cn
   - vpw1lig85.com
   - vpx4fmj4z6.com
+  - vpxfmraxtbgsea.com
   - vpxyw6rbv3.com
   - vpxzunvaldxcp.world
   - vpyahznkwoqjm.space
@@ -112714,6 +112737,7 @@ domain_suffix_set:
   - wooferdeia.com
   - woofersgargets.cyou
   - woogoust.com
+  - woolfamboyna.cyou
   - woonkruthf.com
   - woonwaysidewesty.qpon
   - woopra.com
@@ -113646,6 +113670,7 @@ domain_suffix_set:
   - xikjtijizpka.in
   - xilpcschzrgnp.site
   - ximad.com
+  - ximeiptvuunyc.space
   - ximhirsew.com
   - ximybkpxwu.com
   - xinfmi.helmonline.de
@@ -114163,6 +114188,7 @@ domain_suffix_set:
   - xwzbpkku-i.site
   - xwzebw.waja.co.jp
   - xxccqt.trendhim.co.za
+  - xxddnjzoakiuu.space
   - xxhfuaek.icu
   - xxjiqg.oysho.com
   - xxjvha.timex.com
@@ -114624,6 +114650,7 @@ domain_suffix_set:
   - yhuamf.ktronix.com
   - yhvewh.aboutyou.ro
   - yi.ximizi.com
+  - yibhznphfqrwt.site
   - yibxfyylqxswj.site
   - yicrdo.amsterdamprinting.com
   - yidaomobi.com
@@ -114920,6 +114947,7 @@ domain_suffix_set:
   - ypcdbw.drive2.ru
   - ypdewh.dokuritsu.mynavi.jp
   - ypedyumnpafvy.xyz
+  - ypfilupixpgho.space
   - ypirlqn.icu
   - ypjihx.homemarkt.gr
   - ypkado.clicrbs.com.br

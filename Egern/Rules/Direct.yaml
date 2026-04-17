@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 636
+# 规则统计: 638
 
 no_resolve: true
 domain_set:
@@ -74,6 +74,7 @@ domain_suffix_set:
   - 998tool.com
   - a0d.top
   - aaawz.cc
+  - acepanel.net
   - acggit.com
   - adobe.com
   - afeica.com
@@ -394,6 +395,7 @@ domain_suffix_set:
   - mifeng.plus
   - mifon.com
   - minor-api-os.hoyoverse.com
+  - miraiemby.com
   - mixly.org
   - mobai.sbs
   - modelscope.net

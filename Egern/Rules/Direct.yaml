@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 640
+# 规则统计: 641
 
 no_resolve: true
 domain_set:
@@ -50,6 +50,7 @@ domain_suffix_set:
   - 3gxk.net
   - 419g.com
   - 4399zmxy.com
+  - 4kgj.com
   - 4xiaoshuo.org
   - 51tbox.com
   - 51wanxue.com

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 641
+# 规则统计: 642
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -502,6 +502,7 @@ DOMAIN-SUFFIX,sunrisecontent.akamaized.net
 DOMAIN-SUFFIX,suyur.com
 DOMAIN-SUFFIX,svyun.com
 DOMAIN-SUFFIX,sxlljm.com
+DOMAIN-SUFFIX,sy1.top
 DOMAIN-SUFFIX,tailgdd.com
 DOMAIN-SUFFIX,tailscale.com
 DOMAIN-SUFFIX,tajiduo.com

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 641
+# 规则统计: 642
 
 no_resolve: true
 domain_set:
@@ -505,6 +505,7 @@ domain_suffix_set:
   - suyur.com
   - svyun.com
   - sxlljm.com
+  - sy1.top
   - tailgdd.com
   - tailscale.com
   - tajiduo.com

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 643
+# 规则统计: 644
 
 no_resolve: true
 domain_set:
@@ -423,6 +423,7 @@ domain_suffix_set:
   - oceando.cloud
   - ok321.top
   - onebuygz.com
+  - onetoken.sh
   - onetools.top
   - openkylin.top
   - opentrust.net

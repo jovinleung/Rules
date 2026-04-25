@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 641
+# 规则统计: 642
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -129,6 +129,7 @@ HOST-SUFFIX,bunny.net,Direct
 HOST-SUFFIX,canghaiip.com,Direct
 HOST-SUFFIX,cangjie-lang.net,Direct
 HOST-SUFFIX,cc.cd,Direct
+HOST-SUFFIX,ccw.site,Direct
 HOST-SUFFIX,cdn.ist,Direct
 HOST-SUFFIX,centbrowser.net,Direct
 HOST-SUFFIX,cftunnel.com,Direct

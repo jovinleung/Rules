@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 642
+# 规则统计: 643
 
 no_resolve: true
 domain_set:
@@ -132,6 +132,7 @@ domain_suffix_set:
   - canghaiip.com
   - cangjie-lang.net
   - cc.cd
+  - ccw.site
   - cdn.ist
   - centbrowser.net
   - cftunnel.com

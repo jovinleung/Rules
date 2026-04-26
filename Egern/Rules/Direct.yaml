@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 644
+# 规则统计: 645
 
 no_resolve: true
 domain_set:
@@ -59,6 +59,7 @@ domain_suffix_set:
   - 52met.com
   - 52muban.com
   - 55555.ink
+  - 580ai.net
   - 657192.com
   - 66990000.xyz
   - 6v520.net

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 644
+# 规则统计: 646
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -258,6 +258,7 @@ HOST-SUFFIX,gmoj.net,Direct
 HOST-SUFFIX,gmya.net,Direct
 HOST-SUFFIX,goalmapapp.com,Direct
 HOST-SUFFIX,goka.top,Direct
+HOST-SUFFIX,gongxiangjizhang.com,Direct
 HOST-SUFFIX,goodnotesapp.com.cn,Direct
 HOST-SUFFIX,googletraveladservices.com,Direct
 HOST-SUFFIX,googoc.com,Direct
@@ -461,6 +462,7 @@ HOST-SUFFIX,qiaoxuesi.com,Direct
 HOST-SUFFIX,qinglue.com,Direct
 HOST-SUFFIX,qmeng.top,Direct
 HOST-SUFFIX,quanxinfu.com,Direct
+HOST-SUFFIX,qweapi.com,Direct
 HOST-SUFFIX,qweatherapi.com,Direct
 HOST-SUFFIX,qzyun.net,Direct
 HOST-SUFFIX,rayws.top,Direct

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 647
+# 规则统计: 648
 
 no_resolve: true
 domain_set:
@@ -222,6 +222,7 @@ domain_suffix_set:
   - fsytss.com
   - ft07.com
   - functorz.com
+  - fussengroup.com
   - fuyinkeji.top
   - fuziche.com
   - fzshouji.com

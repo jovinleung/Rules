@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 647
+# 规则统计: 648
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -219,6 +219,7 @@ DOMAIN-SUFFIX,fssbcc.top
 DOMAIN-SUFFIX,fsytss.com
 DOMAIN-SUFFIX,ft07.com
 DOMAIN-SUFFIX,functorz.com
+DOMAIN-SUFFIX,fussengroup.com
 DOMAIN-SUFFIX,fuyinkeji.top
 DOMAIN-SUFFIX,fuziche.com
 DOMAIN-SUFFIX,fzshouji.com

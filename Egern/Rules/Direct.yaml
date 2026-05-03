@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 648
+# 规则统计: 649
 
 no_resolve: true
 domain_set:
@@ -608,6 +608,7 @@ domain_suffix_set:
   - xxrsm.com
   - xzsckj.com
   - xzzhtc.com
+  - yayi360.com
   - ycjintou.com
   - ydayc.com
   - yicaiykt.com

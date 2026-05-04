@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 649
+# 规则统计: 650
 
 no_resolve: true
 domain_set:
@@ -68,6 +68,7 @@ domain_suffix_set:
   - 7sef.com
   - 85sc.com
   - 86656.net
+  - 88996api.cloud
   - 8kc.top
   - 900cha.com
   - 91shenfan.com

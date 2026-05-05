@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1342
+# 规则统计: 1343
 
 domain_set:
   - ccmdl.adobe.com
@@ -245,6 +245,7 @@ domain_suffix_set:
   - cnn.com
   - cnn.io
   - cnyes.com
+  - codeberg.org
   - codecov.io
   - codeforces.com
   - codeforces.org

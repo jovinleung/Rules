@@ -1,5 +1,5 @@
 # 规则名称: ProxyGFW
-# 规则统计: 7657
+# 规则统计: 7658
 
 HOST,ccmdl.adobe.com,ProxyGFW
 HOST,cloud.oracle.com,ProxyGFW
@@ -1298,6 +1298,7 @@ HOST-SUFFIX,cobinhood.com,ProxyGFW
 HOST-SUFFIX,cochina.co,ProxyGFW
 HOST-SUFFIX,cochina.org,ProxyGFW
 HOST-SUFFIX,code1984.com,ProxyGFW
+HOST-SUFFIX,codeberg.org,ProxyGFW
 HOST-SUFFIX,codecov.io,ProxyGFW
 HOST-SUFFIX,codeforces.com,ProxyGFW
 HOST-SUFFIX,codeforces.org,ProxyGFW

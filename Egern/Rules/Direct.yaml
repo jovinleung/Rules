@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 650
+# 规则统计: 651
 
 no_resolve: true
 domain_set:
@@ -634,6 +634,7 @@ domain_suffix_set:
   - zhongancloud.com
   - zhouyiy.com
   - zhu.today
+  - zjshulong.com
   - zjxhedu.com
   - zmis.me
   - znnu.com

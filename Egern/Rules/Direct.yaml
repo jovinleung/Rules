@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 651
+# 规则统计: 656
 
 no_resolve: true
 domain_set:
@@ -265,6 +265,7 @@ domain_suffix_set:
   - goka.top
   - gongxiangjizhang.com
   - goodnotesapp.com.cn
+  - goofish.pro
   - googletraveladservices.com
   - googoc.com
   - gootho.com
@@ -311,6 +312,7 @@ domain_suffix_set:
   - hutaoyun.top
   - hwbim.com
   - hwjianmo.com
+  - hwwlyz.com
   - hwzuku.com
   - hybiome.com
   - hzlawyer.net
@@ -398,6 +400,7 @@ domain_suffix_set:
   - meloong.com
   - members.3322.org
   - meoof-pet.com
+  - miaotixing.com
   - micu.hk
   - mifeng.plus
   - mifon.com
@@ -541,6 +544,7 @@ domain_suffix_set:
   - topwd.top
   - tozi-cn.top
   - ts3.ink
+  - ttshitu.com
   - tulipsport.com
   - tumukaoyan.com
   - tuxing.art
@@ -607,6 +611,7 @@ domain_suffix_set:
   - xuepaipai.com
   - xxir.com
   - xxrsm.com
+  - xyys.com
   - xzsckj.com
   - xzzhtc.com
   - yayi360.com

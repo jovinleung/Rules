@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 656
+# 规则统计: 657
 
 no_resolve: true
 domain_set:
@@ -415,6 +415,7 @@ domain_suffix_set:
   - mslmc.net
   - mtaokj.com
   - mykuaidi.com
+  - myrny.xin
   - myshopex.com
   - naixi.com
   - nanhuabx.com

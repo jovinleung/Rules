@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 655
+# 规则统计: 656
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -412,6 +412,7 @@ HOST-SUFFIX,msftncsi.com,Direct
 HOST-SUFFIX,mslmc.net,Direct
 HOST-SUFFIX,mtaokj.com,Direct
 HOST-SUFFIX,mykuaidi.com,Direct
+HOST-SUFFIX,myrny.xin,Direct
 HOST-SUFFIX,myshopex.com,Direct
 HOST-SUFFIX,naixi.com,Direct
 HOST-SUFFIX,nanhuabx.com,Direct

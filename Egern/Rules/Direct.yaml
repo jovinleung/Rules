@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 657
+# 规则统计: 658
 
 no_resolve: true
 domain_set:
@@ -513,6 +513,7 @@ domain_suffix_set:
   - stkfanli.com
   - subhd.tv
   - sunrisecontent.akamaized.net
+  - suu-fun.com
   - suyur.com
   - svyun.com
   - sxlljm.com

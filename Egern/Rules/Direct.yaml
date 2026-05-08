@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 658
+# 规则统计: 659
 
 no_resolve: true
 domain_set:
@@ -100,6 +100,7 @@ domain_suffix_set:
   - anycubic.com
   - anyrouter.top
   - anytocopy.com
+  - ap-leasing.com
   - api.myip.com
   - apm-log-upload-os.hoyoverse.com
   - aqtwwx.net

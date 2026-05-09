@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 659
+# 规则统计: 660
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -431,6 +431,7 @@ DOMAIN-SUFFIX,ok321.top
 DOMAIN-SUFFIX,onebuygz.com
 DOMAIN-SUFFIX,onetoken.sh
 DOMAIN-SUFFIX,onetools.top
+DOMAIN-SUFFIX,openappfilter.com
 DOMAIN-SUFFIX,openkylin.top
 DOMAIN-SUFFIX,opentrust.net
 DOMAIN-SUFFIX,osbdf.com

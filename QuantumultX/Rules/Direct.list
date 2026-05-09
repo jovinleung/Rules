@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 658
+# 规则统计: 659
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -431,6 +431,7 @@ HOST-SUFFIX,ok321.top,Direct
 HOST-SUFFIX,onebuygz.com,Direct
 HOST-SUFFIX,onetoken.sh,Direct
 HOST-SUFFIX,onetools.top,Direct
+HOST-SUFFIX,openappfilter.com,Direct
 HOST-SUFFIX,openkylin.top,Direct
 HOST-SUFFIX,opentrust.net,Direct
 HOST-SUFFIX,osbdf.com,Direct

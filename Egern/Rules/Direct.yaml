@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 659
+# 规则统计: 660
 
 no_resolve: true
 domain_set:
@@ -434,6 +434,7 @@ domain_suffix_set:
   - onebuygz.com
   - onetoken.sh
   - onetools.top
+  - openappfilter.com
   - openkylin.top
   - opentrust.net
   - osbdf.com

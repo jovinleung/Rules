@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 659
+# 规则统计: 662
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -161,6 +161,7 @@ HOST-SUFFIX,codeloop.top,Direct
 HOST-SUFFIX,coffee-iot.com,Direct
 HOST-SUFFIX,cone-x.com,Direct
 HOST-SUFFIX,congmiqq.com,Direct
+HOST-SUFFIX,constasj.me,Direct
 HOST-SUFFIX,coros.com,Direct
 HOST-SUFFIX,crtyhr.com,Direct
 HOST-SUFFIX,cyouzai.com,Direct
@@ -325,6 +326,7 @@ HOST-SUFFIX,ijingyi.com,Direct
 HOST-SUFFIX,ilucky.net,Direct
 HOST-SUFFIX,imacos.top,Direct
 HOST-SUFFIX,immortalwrt.org,Direct
+HOST-SUFFIX,infini-fantasy.com,Direct
 HOST-SUFFIX,iosgujian.com,Direct
 HOST-SUFFIX,iot889.com,Direct
 HOST-SUFFIX,iotrix.net,Direct
@@ -374,6 +376,7 @@ HOST-SUFFIX,leelen.com,Direct
 HOST-SUFFIX,letaoedu.com,Direct
 HOST-SUFFIX,lg3000.top,Direct
 HOST-SUFFIX,lightmake.site,Direct
+HOST-SUFFIX,linka2a.net,Direct
 HOST-SUFFIX,liunn.com,Direct
 HOST-SUFFIX,liveperson.net,Direct
 HOST-SUFFIX,localhost.ptlogin2.qq.com,Direct

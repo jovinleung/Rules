@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 660
+# 规则统计: 663
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -161,6 +161,7 @@ DOMAIN-SUFFIX,codeloop.top
 DOMAIN-SUFFIX,coffee-iot.com
 DOMAIN-SUFFIX,cone-x.com
 DOMAIN-SUFFIX,congmiqq.com
+DOMAIN-SUFFIX,constasj.me
 DOMAIN-SUFFIX,coros.com
 DOMAIN-SUFFIX,crtyhr.com
 DOMAIN-SUFFIX,cyouzai.com
@@ -325,6 +326,7 @@ DOMAIN-SUFFIX,ijingyi.com
 DOMAIN-SUFFIX,ilucky.net
 DOMAIN-SUFFIX,imacos.top
 DOMAIN-SUFFIX,immortalwrt.org
+DOMAIN-SUFFIX,infini-fantasy.com
 DOMAIN-SUFFIX,iosgujian.com
 DOMAIN-SUFFIX,iot889.com
 DOMAIN-SUFFIX,iotrix.net
@@ -374,6 +376,7 @@ DOMAIN-SUFFIX,leelen.com
 DOMAIN-SUFFIX,letaoedu.com
 DOMAIN-SUFFIX,lg3000.top
 DOMAIN-SUFFIX,lightmake.site
+DOMAIN-SUFFIX,linka2a.net
 DOMAIN-SUFFIX,liunn.com
 DOMAIN-SUFFIX,liveperson.net
 DOMAIN-SUFFIX,localhost.ptlogin2.qq.com

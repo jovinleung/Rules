@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 660
+# 规则统计: 663
 
 no_resolve: true
 domain_set:
@@ -164,6 +164,7 @@ domain_suffix_set:
   - coffee-iot.com
   - cone-x.com
   - congmiqq.com
+  - constasj.me
   - coros.com
   - crtyhr.com
   - cyouzai.com
@@ -328,6 +329,7 @@ domain_suffix_set:
   - ilucky.net
   - imacos.top
   - immortalwrt.org
+  - infini-fantasy.com
   - iosgujian.com
   - iot889.com
   - iotrix.net
@@ -377,6 +379,7 @@ domain_suffix_set:
   - letaoedu.com
   - lg3000.top
   - lightmake.site
+  - linka2a.net
   - liunn.com
   - liveperson.net
   - localhost.ptlogin2.qq.com

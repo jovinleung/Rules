@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 663
+# 规则统计: 662
 
 no_resolve: true
 domain_set:
@@ -98,7 +98,6 @@ domain_suffix_set:
   - aloys233.top
   - antping.com
   - anycubic.com
-  - anyrouter.top
   - anytocopy.com
   - ap-leasing.com
   - api.myip.com

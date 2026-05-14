@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 661
+# 规则统计: 662
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -247,6 +247,7 @@ HOST-SUFFIX,ghp.ci,Direct
 HOST-SUFFIX,ghproxy.cc,Direct
 HOST-SUFFIX,ghproxy.cfd,Direct
 HOST-SUFFIX,ghps.cc,Direct
+HOST-SUFFIX,gifpay.com,Direct
 HOST-SUFFIX,giomeru.com,Direct
 HOST-SUFFIX,girigirilove.com,Direct
 HOST-SUFFIX,git.886.be,Direct

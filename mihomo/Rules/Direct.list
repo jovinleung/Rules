@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 662
+# 规则统计: 663
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -247,6 +247,7 @@ DOMAIN-SUFFIX,ghp.ci
 DOMAIN-SUFFIX,ghproxy.cc
 DOMAIN-SUFFIX,ghproxy.cfd
 DOMAIN-SUFFIX,ghps.cc
+DOMAIN-SUFFIX,gifpay.com
 DOMAIN-SUFFIX,giomeru.com
 DOMAIN-SUFFIX,girigirilove.com
 DOMAIN-SUFFIX,git.886.be

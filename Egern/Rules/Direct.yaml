@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 663
+# 规则统计: 664
 
 no_resolve: true
 domain_set:
@@ -159,6 +159,7 @@ domain_suffix_set:
   - cnb.space
   - cnspeedtest.cn
   - cocav.com
+  - code-relay.com
   - codeloop.top
   - coffee-iot.com
   - cone-x.com

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 664
+# 规则统计: 665
 
 no_resolve: true
 domain_set:
@@ -538,6 +538,7 @@ domain_suffix_set:
   - tdrgame.top
   - terra-master.com
   - test-ipv6.com
+  - tggfl.com
   - theluyuan.com
   - thinkerride.com
   - thmnet.com

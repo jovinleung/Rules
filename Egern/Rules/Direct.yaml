@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 665
+# 规则统计: 666
 
 no_resolve: true
 domain_set:
@@ -627,6 +627,7 @@ domain_suffix_set:
   - ycjintou.com
   - ydayc.com
   - yicaiykt.com
+  - yingshi.dog
   - yiso.fun
   - yixc.com
   - yongyu.xyz

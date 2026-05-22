@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 667
+# 规则统计: 668
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -404,6 +404,7 @@ DOMAIN-SUFFIX,members.3322.org
 DOMAIN-SUFFIX,meoof-pet.com
 DOMAIN-SUFFIX,miaotixing.com
 DOMAIN-SUFFIX,micu.hk
+DOMAIN-SUFFIX,micun.com
 DOMAIN-SUFFIX,mifeng.plus
 DOMAIN-SUFFIX,mifon.com
 DOMAIN-SUFFIX,minor-api-os.hoyoverse.com

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 667
+# 规则统计: 668
 
 no_resolve: true
 domain_set:
@@ -407,6 +407,7 @@ domain_suffix_set:
   - meoof-pet.com
   - miaotixing.com
   - micu.hk
+  - micun.com
   - mifeng.plus
   - mifon.com
   - minor-api-os.hoyoverse.com

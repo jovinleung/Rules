@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 666
+# 规则统计: 667
 
 no_resolve: true
 domain_set:
@@ -502,6 +502,7 @@ domain_suffix_set:
   - sgtv.ii00.cc
   - shanghai-parking.com
   - shanghongbei.com
+  - share123.top
   - shineacc.com
   - shuangqingtech.com
   - shuinfo.com

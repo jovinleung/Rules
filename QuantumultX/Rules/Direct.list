@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 665
+# 规则统计: 666
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -499,6 +499,7 @@ HOST-SUFFIX,server2.cn2gias.uk,Direct
 HOST-SUFFIX,sgtv.ii00.cc,Direct
 HOST-SUFFIX,shanghai-parking.com,Direct
 HOST-SUFFIX,shanghongbei.com,Direct
+HOST-SUFFIX,share123.top,Direct
 HOST-SUFFIX,shineacc.com,Direct
 HOST-SUFFIX,shuangqingtech.com,Direct
 HOST-SUFFIX,shuinfo.com,Direct

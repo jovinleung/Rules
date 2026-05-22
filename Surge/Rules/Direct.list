@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 666
+# 规则统计: 667
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -499,6 +499,7 @@ DOMAIN-SUFFIX,server2.cn2gias.uk
 DOMAIN-SUFFIX,sgtv.ii00.cc
 DOMAIN-SUFFIX,shanghai-parking.com
 DOMAIN-SUFFIX,shanghongbei.com
+DOMAIN-SUFFIX,share123.top
 DOMAIN-SUFFIX,shineacc.com
 DOMAIN-SUFFIX,shuangqingtech.com
 DOMAIN-SUFFIX,shuinfo.com

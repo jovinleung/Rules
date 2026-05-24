@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 669
+# 规则统计: 670
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -537,6 +537,7 @@ DOMAIN-SUFFIX,tcp5.com
 DOMAIN-SUFFIX,tcy365.net
 DOMAIN-SUFFIX,tdrgame.top
 DOMAIN-SUFFIX,terra-master.com
+DOMAIN-SUFFIX,terrabbs.ink
 DOMAIN-SUFFIX,test-ipv6.com
 DOMAIN-SUFFIX,tggfl.com
 DOMAIN-SUFFIX,theluyuan.com

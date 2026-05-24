@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 668
+# 规则统计: 669
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -537,6 +537,7 @@ HOST-SUFFIX,tcp5.com,Direct
 HOST-SUFFIX,tcy365.net,Direct
 HOST-SUFFIX,tdrgame.top,Direct
 HOST-SUFFIX,terra-master.com,Direct
+HOST-SUFFIX,terrabbs.ink,Direct
 HOST-SUFFIX,test-ipv6.com,Direct
 HOST-SUFFIX,tggfl.com,Direct
 HOST-SUFFIX,theluyuan.com,Direct

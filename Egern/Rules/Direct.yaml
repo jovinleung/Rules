@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 669
+# 规则统计: 670
 
 no_resolve: true
 domain_set:
@@ -540,6 +540,7 @@ domain_suffix_set:
   - tcy365.net
   - tdrgame.top
   - terra-master.com
+  - terrabbs.ink
   - test-ipv6.com
   - tggfl.com
   - theluyuan.com

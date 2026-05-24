@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 668
+# 规则统计: 669
 
 no_resolve: true
 domain_set:
@@ -330,6 +330,7 @@ domain_suffix_set:
   - ilucky.net
   - imacos.top
   - immortalwrt.org
+  - indeedpower.com
   - infini-fantasy.com
   - iosgujian.com
   - iot889.com

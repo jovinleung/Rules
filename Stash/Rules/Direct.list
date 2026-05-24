@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 668
+# 规则统计: 669
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -327,6 +327,7 @@ DOMAIN-SUFFIX,ijingyi.com
 DOMAIN-SUFFIX,ilucky.net
 DOMAIN-SUFFIX,imacos.top
 DOMAIN-SUFFIX,immortalwrt.org
+DOMAIN-SUFFIX,indeedpower.com
 DOMAIN-SUFFIX,infini-fantasy.com
 DOMAIN-SUFFIX,iosgujian.com
 DOMAIN-SUFFIX,iot889.com

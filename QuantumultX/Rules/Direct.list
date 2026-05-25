@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 669
+# 规则统计: 671
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -285,6 +285,7 @@ HOST-SUFFIX,gzybao.com,Direct
 HOST-SUFFIX,halvie.com,Direct
 HOST-SUFFIX,ham.xin,Direct
 HOST-SUFFIX,hangnakeji.com,Direct
+HOST-SUFFIX,haofanhuoban.com,Direct
 HOST-SUFFIX,haoxueche.com,Direct
 HOST-SUFFIX,harbourmooc.com,Direct
 HOST-SUFFIX,hbcof.com,Direct
@@ -547,6 +548,7 @@ HOST-SUFFIX,tianlala.com,Direct
 HOST-SUFFIX,timbrd.com,Direct
 HOST-SUFFIX,tixue.net,Direct
 HOST-SUFFIX,tmallyc.com,Direct
+HOST-SUFFIX,tmwanba.com,Direct
 HOST-SUFFIX,tnas.link,Direct
 HOST-SUFFIX,tnas.online,Direct
 HOST-SUFFIX,tongkask.com,Direct

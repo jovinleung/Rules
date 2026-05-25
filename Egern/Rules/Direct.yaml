@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 670
+# 规则统计: 672
 
 no_resolve: true
 domain_set:
@@ -288,6 +288,7 @@ domain_suffix_set:
   - halvie.com
   - ham.xin
   - hangnakeji.com
+  - haofanhuoban.com
   - haoxueche.com
   - harbourmooc.com
   - hbcof.com
@@ -550,6 +551,7 @@ domain_suffix_set:
   - timbrd.com
   - tixue.net
   - tmallyc.com
+  - tmwanba.com
   - tnas.link
   - tnas.online
   - tongkask.com

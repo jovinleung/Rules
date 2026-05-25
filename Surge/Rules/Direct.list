@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 670
+# 规则统计: 672
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -285,6 +285,7 @@ DOMAIN-SUFFIX,gzybao.com
 DOMAIN-SUFFIX,halvie.com
 DOMAIN-SUFFIX,ham.xin
 DOMAIN-SUFFIX,hangnakeji.com
+DOMAIN-SUFFIX,haofanhuoban.com
 DOMAIN-SUFFIX,haoxueche.com
 DOMAIN-SUFFIX,harbourmooc.com
 DOMAIN-SUFFIX,hbcof.com
@@ -547,6 +548,7 @@ DOMAIN-SUFFIX,tianlala.com
 DOMAIN-SUFFIX,timbrd.com
 DOMAIN-SUFFIX,tixue.net
 DOMAIN-SUFFIX,tmallyc.com
+DOMAIN-SUFFIX,tmwanba.com
 DOMAIN-SUFFIX,tnas.link
 DOMAIN-SUFFIX,tnas.online
 DOMAIN-SUFFIX,tongkask.com

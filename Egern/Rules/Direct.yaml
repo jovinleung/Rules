@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 672
+# 规则统计: 673
 
 no_resolve: true
 domain_set:
@@ -567,6 +567,7 @@ domain_suffix_set:
   - u-carloan.com
   - uascent-iot.com
   - ugdocker.link
+  - ugnas.cloud
   - ulife.group
   - us.ci
   - vanjee.net

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 673
+# 规则统计: 674
 
 no_resolve: true
 domain_set:
@@ -339,6 +339,7 @@ domain_suffix_set:
   - ip159.com
   - ip6.seeip.org
   - ipapi.co
+  - iposl.com
   - ipshu.com
   - istoreos.com
   - itptg.com

@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1344
+# 规则统计: 1345
 
 HOST,ccmdl.adobe.com,Proxy
 HOST,community.oneplus.com,Proxy
@@ -923,6 +923,7 @@ HOST-SUFFIX,pornoxo.com,Proxy
 HOST-SUFFIX,pornpics.com,Proxy
 HOST-SUFFIX,porntrex.com,Proxy
 HOST-SUFFIX,porntube.com,Proxy
+HOST-SUFFIX,posthog.com,Proxy
 HOST-SUFFIX,postmarkapp.com,Proxy
 HOST-SUFFIX,precisionhydration.com,Proxy
 HOST-SUFFIX,prisma.io,Proxy

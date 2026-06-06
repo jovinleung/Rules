@@ -1,5 +1,5 @@
 # 规则名称: ProxyGFW
-# 规则统计: 7659
+# 规则统计: 7660
 
 HOST,ccmdl.adobe.com,ProxyGFW
 HOST,cloud.oracle.com,ProxyGFW
@@ -6437,6 +6437,7 @@ HOST-SUFFIX,tr,ProxyGFW
 HOST-SUFFIX,tracfone.com,ProxyGFW
 HOST-SUFFIX,tradingview.com,ProxyGFW
 HOST-SUFFIX,traffichaus.com,ProxyGFW
+HOST-SUFFIX,trakt.tv,ProxyGFW
 HOST-SUFFIX,translate.goog,ProxyGFW
 HOST-SUFFIX,transparency.org,ProxyGFW
 HOST-SUFFIX,travelinkcard.com,ProxyGFW

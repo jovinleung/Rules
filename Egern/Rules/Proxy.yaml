@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1344
+# 规则统计: 1345
 
 domain_set:
   - ccmdl.adobe.com
@@ -1160,6 +1160,7 @@ domain_suffix_set:
   - toroporno.com
   - tr
   - tradingview.com
+  - trakt.tv
   - travis-ci.com
   - travis-ci.org
   - tronscan.org

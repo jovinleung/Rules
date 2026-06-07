@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 674
+# 规则统计: 675
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -300,6 +300,7 @@ HOST-SUFFIX,hkchat.app,Direct
 HOST-SUFFIX,hnxzctec.com,Direct
 HOST-SUFFIX,hongxingdl.com,Direct
 HOST-SUFFIX,hongxingdl.love,Direct
+HOST-SUFFIX,hprtupgrade.com,Direct
 HOST-SUFFIX,hsbc.com.hk,Direct
 HOST-SUFFIX,hstbroker.com,Direct
 HOST-SUFFIX,hszq6.com,Direct

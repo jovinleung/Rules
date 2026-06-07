@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 675
+# 规则统计: 676
 
 no_resolve: true
 domain_set:
@@ -303,6 +303,7 @@ domain_suffix_set:
   - hnxzctec.com
   - hongxingdl.com
   - hongxingdl.love
+  - hprtupgrade.com
   - hsbc.com.hk
   - hstbroker.com
   - hszq6.com

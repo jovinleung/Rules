@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 674
+# 规则统计: 675
 
 no_resolve: true
 domain_set:
@@ -425,6 +425,7 @@ domain_suffix_set:
   - mykuaidi.com
   - myrny.xin
   - myshopex.com
+  - mystery0.vip
   - naixi.com
   - nanhuabx.com
   - nanshe-tech.com

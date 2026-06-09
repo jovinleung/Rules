@@ -1,5 +1,5 @@
 # 规则名称: ProxyGFW
-# 规则统计: 7659
+# 规则统计: 7660
 
 no_resolve: true
 domain_set:
@@ -2124,6 +2124,7 @@ domain_suffix_set:
   - fixvx.com
   - fizzik.com
   - flagsonline.it
+  - flathub.org
   - flecheinthepeche.fr
   - fleshbot.com
   - fleursdeslettres.com

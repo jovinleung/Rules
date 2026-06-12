@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 676
+# 规则统计: 677
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -368,6 +368,7 @@ DOMAIN-SUFFIX,kejiweixun.com
 DOMAIN-SUFFIX,keyoo.com
 DOMAIN-SUFFIX,kgithub.com
 DOMAIN-SUFFIX,kit327.com
+DOMAIN-SUFFIX,kldai.vip
 DOMAIN-SUFFIX,kmeila.com
 DOMAIN-SUFFIX,knit.bid
 DOMAIN-SUFFIX,kuaicha888.com

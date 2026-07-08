@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 680
+# 规则统计: 681
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -107,6 +107,7 @@ DOMAIN-SUFFIX,atticus.vip
 DOMAIN-SUFFIX,awstme.top
 DOMAIN-SUFFIX,axuex.top
 DOMAIN-SUFFIX,babawar.com
+DOMAIN-SUFFIX,baicaf.com
 DOMAIN-SUFFIX,baiyishequ.com
 DOMAIN-SUFFIX,banban.work
 DOMAIN-SUFFIX,batchat.com

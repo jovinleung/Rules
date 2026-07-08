@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 680
+# 规则统计: 681
 
 no_resolve: true
 domain_set:
@@ -110,6 +110,7 @@ domain_suffix_set:
   - awstme.top
   - axuex.top
   - babawar.com
+  - baicaf.com
   - baiyishequ.com
   - banban.work
   - batchat.com

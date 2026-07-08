@@ -1,5 +1,5 @@
 # 规则名称: ProxyGFW
-# 规则统计: 7660
+# 规则统计: 7663
 
 no_resolve: true
 domain_set:
@@ -1266,6 +1266,7 @@ domain_suffix_set:
   - cloudfront.net
   - cloudfunctions.net
   - cloudinary.com
+  - cloudns.net
   - cloudsync-prod.s3.us-east-1.amazonaws.com
   - club1069.com
   - clubhouse.com
@@ -1370,6 +1371,7 @@ domain_suffix_set:
   - cpu-monkey.com
   - cpuid.com
   - cq99.us
+  - cr
   - crackle.com
   - crashlytics.com
   - crazypool.org
@@ -1551,6 +1553,7 @@ domain_suffix_set:
   - depositphotos.com
   - derekhsu.homeip.net
   - desc.se
+  - desec.io
   - design.google
   - desipro.de
   - desmos.com

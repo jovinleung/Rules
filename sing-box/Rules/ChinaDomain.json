@@ -4,6 +4,7 @@
     {
       "domain": [
         "acg.tv",
+        "app.viayoo.com",
         "assets1.xboxlive.cn",
         "assets2.xboxlive.cn",
         "b23.tv",
@@ -21,9 +22,12 @@
         "media.cdn.queniuqe.com",
         "ocsp.globalsign.com",
         "ocsp2.globalsign.com",
+        "res.viayoo.com",
         "url.cn",
+        "viayoo.com",
         "www.intel.cn",
-        "www.layuicdn.com"
+        "www.layuicdn.com",
+        "www.viayoo.com"
       ]
     },
     {
@@ -104,6 +108,7 @@
         "9game.cn",
         "9xiu.com",
         "abchina.com",
+        "ac.cn",
         "acfun.cn",
         "acgvideo.com",
         "addlink.cn",
@@ -515,6 +520,7 @@
         "livechina.com",
         "ljcdn.com",
         "lkcoffee.com",
+        "lltskb.com",
         "lofter.com",
         "luckincoffeecdn.com",
         "ludashi.com",

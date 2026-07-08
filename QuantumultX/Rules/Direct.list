@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 676
+# 规则统计: 679
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -109,13 +109,11 @@ HOST-SUFFIX,axuex.top,Direct
 HOST-SUFFIX,babawar.com,Direct
 HOST-SUFFIX,baiyishequ.com,Direct
 HOST-SUFFIX,banban.work,Direct
-HOST-SUFFIX,bangumi.tv,Direct
 HOST-SUFFIX,batchat.com,Direct
 HOST-SUFFIX,bdcb.cc,Direct
 HOST-SUFFIX,beautifulcarrot.com,Direct
 HOST-SUFFIX,belimked.com,Direct
 HOST-SUFFIX,betahub.tech,Direct
-HOST-SUFFIX,bgm.tv,Direct
 HOST-SUFFIX,biandangroup.com,Direct
 HOST-SUFFIX,biaoda.me,Direct
 HOST-SUFFIX,bingshandashu.com,Direct
@@ -171,6 +169,7 @@ HOST-SUFFIX,daocloud.vip,Direct
 HOST-SUFFIX,day.app,Direct
 HOST-SUFFIX,dayilive.com,Direct
 HOST-SUFFIX,dcgstd.com,Direct
+HOST-SUFFIX,dcshfu.com,Direct
 HOST-SUFFIX,ddsrem.com,Direct
 HOST-SUFFIX,ddxq.mobi,Direct
 HOST-SUFFIX,ddzn.tech,Direct
@@ -329,6 +328,7 @@ HOST-SUFFIX,ilucky.net,Direct
 HOST-SUFFIX,imacos.top,Direct
 HOST-SUFFIX,immortalwrt.org,Direct
 HOST-SUFFIX,indeedpower.com,Direct
+HOST-SUFFIX,inetlab.top,Direct
 HOST-SUFFIX,infini-fantasy.com,Direct
 HOST-SUFFIX,iosgujian.com,Direct
 HOST-SUFFIX,iot889.com,Direct
@@ -382,6 +382,7 @@ HOST-SUFFIX,letaoedu.com,Direct
 HOST-SUFFIX,lg3000.top,Direct
 HOST-SUFFIX,lightmake.site,Direct
 HOST-SUFFIX,linka2a.net,Direct
+HOST-SUFFIX,listenai.com,Direct
 HOST-SUFFIX,liunn.com,Direct
 HOST-SUFFIX,liveperson.net,Direct
 HOST-SUFFIX,localhost.ptlogin2.qq.com,Direct
@@ -521,7 +522,6 @@ HOST-SUFFIX,sptv.ii00.cc,Direct
 HOST-SUFFIX,ssjj2.com,Direct
 HOST-SUFFIX,starlink.uno,Direct
 HOST-SUFFIX,stkfanli.com,Direct
-HOST-SUFFIX,subhd.tv,Direct
 HOST-SUFFIX,sunrisecontent.akamaized.net,Direct
 HOST-SUFFIX,suu-fun.com,Direct
 HOST-SUFFIX,suyur.com,Direct
@@ -546,10 +546,12 @@ HOST-SUFFIX,test-ipv6.com,Direct
 HOST-SUFFIX,tggfl.com,Direct
 HOST-SUFFIX,theluyuan.com,Direct
 HOST-SUFFIX,thinkerride.com,Direct
+HOST-SUFFIX,thispx.com,Direct
 HOST-SUFFIX,thmnet.com,Direct
 HOST-SUFFIX,tianlala.com,Direct
 HOST-SUFFIX,timbrd.com,Direct
 HOST-SUFFIX,tixue.net,Direct
+HOST-SUFFIX,tluyou.com,Direct
 HOST-SUFFIX,tmallyc.com,Direct
 HOST-SUFFIX,tmwanba.com,Direct
 HOST-SUFFIX,tnas.link,Direct
@@ -641,6 +643,7 @@ HOST-SUFFIX,yixc.com,Direct
 HOST-SUFFIX,yongyu.xyz,Direct
 HOST-SUFFIX,yooc.me,Direct
 HOST-SUFFIX,youzhiyouxing.com,Direct
+HOST-SUFFIX,yunqin.online,Direct
 HOST-SUFFIX,yunzuoye.net,Direct
 HOST-SUFFIX,yyshub.top,Direct
 HOST-SUFFIX,yzcsoft.com,Direct

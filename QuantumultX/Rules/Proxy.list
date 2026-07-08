@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1347
+# 规则统计: 1351
 
 HOST,ccmdl.adobe.com,Proxy
 HOST,community.oneplus.com,Proxy
@@ -80,6 +80,7 @@ HOST-SUFFIX,anyporn.com,Proxy
 HOST-SUFFIX,anysex.com,Proxy
 HOST-SUFFIX,ao3.org,Proxy
 HOST-SUFFIX,aol.com,Proxy
+HOST-SUFFIX,ap.org,Proxy
 HOST-SUFFIX,apernet.io,Proxy
 HOST-SUFFIX,apibay.org,Proxy
 HOST-SUFFIX,apk-dl.com,Proxy
@@ -234,6 +235,7 @@ HOST-SUFFIX,cloudflaretunnel.com,Proxy
 HOST-SUFFIX,cloudfront.net,Proxy
 HOST-SUFFIX,cloudfunctions.net,Proxy
 HOST-SUFFIX,cloudinary.com,Proxy
+HOST-SUFFIX,cloudns.net,Proxy
 HOST-SUFFIX,cloudsync-prod.s3.us-east-1.amazonaws.com,Proxy
 HOST-SUFFIX,clubhouse.com,Proxy
 HOST-SUFFIX,clubhouseapi.com,Proxy
@@ -263,6 +265,7 @@ HOST-SUFFIX,cosplay-jav.com,Proxy
 HOST-SUFFIX,costco.com,Proxy
 HOST-SUFFIX,coveralls.io,Proxy
 HOST-SUFFIX,cpuid.com,Proxy
+HOST-SUFFIX,cr,Proxy
 HOST-SUFFIX,crashlytics.com,Proxy
 HOST-SUFFIX,creaders.net,Proxy
 HOST-SUFFIX,creativelab5.com,Proxy
@@ -291,6 +294,7 @@ HOST-SUFFIX,deepl.com,Proxy
 HOST-SUFFIX,deepmind.com,Proxy
 HOST-SUFFIX,deezer.com,Proxy
 HOST-SUFFIX,deno.com,Proxy
+HOST-SUFFIX,desec.io,Proxy
 HOST-SUFFIX,desmos.com,Proxy
 HOST-SUFFIX,detnews.com,Proxy
 HOST-SUFFIX,deviantart.com,Proxy

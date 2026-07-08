@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1346
+# 规则统计: 1350
 
 domain_set:
   - ccmdl.adobe.com
@@ -82,6 +82,7 @@ domain_suffix_set:
   - anysex.com
   - ao3.org
   - aol.com
+  - ap.org
   - apernet.io
   - apibay.org
   - apk-dl.com
@@ -236,6 +237,7 @@ domain_suffix_set:
   - cloudfront.net
   - cloudfunctions.net
   - cloudinary.com
+  - cloudns.net
   - cloudsync-prod.s3.us-east-1.amazonaws.com
   - clubhouse.com
   - clubhouseapi.com
@@ -265,6 +267,7 @@ domain_suffix_set:
   - costco.com
   - coveralls.io
   - cpuid.com
+  - cr
   - crashlytics.com
   - creaders.net
   - creativelab5.com
@@ -293,6 +296,7 @@ domain_suffix_set:
   - deepmind.com
   - deezer.com
   - deno.com
+  - desec.io
   - desmos.com
   - detnews.com
   - deviantart.com

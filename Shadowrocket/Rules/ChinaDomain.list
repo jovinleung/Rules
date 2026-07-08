@@ -1,7 +1,8 @@
 # 规则名称: ChinaDomain
-# 规则统计: 861
+# 规则统计: 867
 
 DOMAIN,acg.tv
+DOMAIN,app.viayoo.com
 DOMAIN,assets1.xboxlive.cn
 DOMAIN,assets2.xboxlive.cn
 DOMAIN,b23.tv
@@ -19,9 +20,12 @@ DOMAIN,lv.queniujq.cn
 DOMAIN,media.cdn.queniuqe.com
 DOMAIN,ocsp.globalsign.com
 DOMAIN,ocsp2.globalsign.com
+DOMAIN,res.viayoo.com
 DOMAIN,url.cn
+DOMAIN,viayoo.com
 DOMAIN,www.intel.cn
 DOMAIN,www.layuicdn.com
+DOMAIN,www.viayoo.com
 DOMAIN-SUFFIX,10010.com
 DOMAIN-SUFFIX,10086.cn
 DOMAIN-SUFFIX,110.com
@@ -98,6 +102,7 @@ DOMAIN-SUFFIX,9966.org
 DOMAIN-SUFFIX,9game.cn
 DOMAIN-SUFFIX,9xiu.com
 DOMAIN-SUFFIX,abchina.com
+DOMAIN-SUFFIX,ac.cn
 DOMAIN-SUFFIX,acfun.cn
 DOMAIN-SUFFIX,acgvideo.com
 DOMAIN-SUFFIX,addlink.cn
@@ -509,6 +514,7 @@ DOMAIN-SUFFIX,livechina.cn
 DOMAIN-SUFFIX,livechina.com
 DOMAIN-SUFFIX,ljcdn.com
 DOMAIN-SUFFIX,lkcoffee.com
+DOMAIN-SUFFIX,lltskb.com
 DOMAIN-SUFFIX,lofter.com
 DOMAIN-SUFFIX,luckincoffeecdn.com
 DOMAIN-SUFFIX,ludashi.com

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 686
+# 规则统计: 687
 
 no_resolve: true
 domain_set:
@@ -165,6 +165,7 @@ domain_suffix_set:
   - constasj.me
   - coros.com
   - crtyhr.com
+  - csqaq.com
   - cyouzai.com
   - d4ctech.com
   - dadateach.com

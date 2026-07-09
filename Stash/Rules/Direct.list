@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 685
+# 规则统计: 686
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -359,6 +359,7 @@ DOMAIN-SUFFIX,jxjktzjt.com
 DOMAIN-SUFFIX,jxpp.com
 DOMAIN-SUFFIX,jzagile.com
 DOMAIN-SUFFIX,kaihong.com
+DOMAIN-SUFFIX,kaijiacloud.com
 DOMAIN-SUFFIX,kaijiejinrong.com
 DOMAIN-SUFFIX,kaipanhong.com
 DOMAIN-SUFFIX,kancaibao.com

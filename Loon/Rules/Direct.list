@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 690
+# 规则统计: 691
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -210,6 +210,7 @@ DOMAIN-SUFFIX,exiliumgf.com
 DOMAIN-SUFFIX,fdfinvoice.com
 DOMAIN-SUFFIX,feihengip.com
 DOMAIN-SUFFIX,feizhiyi.com
+DOMAIN-SUFFIX,fengda.me
 DOMAIN-SUFFIX,fengsutb.com
 DOMAIN-SUFFIX,ffhome.com
 DOMAIN-SUFFIX,fileball.app

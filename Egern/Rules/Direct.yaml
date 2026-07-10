@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 690
+# 规则统计: 691
 
 no_resolve: true
 domain_set:
@@ -213,6 +213,7 @@ domain_suffix_set:
   - fdfinvoice.com
   - feihengip.com
   - feizhiyi.com
+  - fengda.me
   - fengsutb.com
   - ffhome.com
   - fileball.app

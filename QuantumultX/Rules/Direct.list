@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 689
+# 规则统计: 690
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -210,6 +210,7 @@ HOST-SUFFIX,exiliumgf.com,Direct
 HOST-SUFFIX,fdfinvoice.com,Direct
 HOST-SUFFIX,feihengip.com,Direct
 HOST-SUFFIX,feizhiyi.com,Direct
+HOST-SUFFIX,fengda.me,Direct
 HOST-SUFFIX,fengsutb.com,Direct
 HOST-SUFFIX,ffhome.com,Direct
 HOST-SUFFIX,fileball.app,Direct

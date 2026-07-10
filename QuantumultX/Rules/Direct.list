@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 687
+# 规则统计: 689
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -238,6 +238,7 @@ HOST-SUFFIX,gaze.run,Direct
 HOST-SUFFIX,gdcucc.v1.mk,Direct
 HOST-SUFFIX,geektool.top,Direct
 HOST-SUFFIX,gegeselect.hk,Direct
+HOST-SUFFIX,gelaiyun.net,Direct
 HOST-SUFFIX,ggbond.org,Direct
 HOST-SUFFIX,gh-proxy.com,Direct
 HOST-SUFFIX,gh.con.sh,Direct
@@ -321,6 +322,7 @@ HOST-SUFFIX,hybiome.com,Direct
 HOST-SUFFIX,hzlawyer.net,Direct
 HOST-SUFFIX,hzqsn.com,Direct
 HOST-SUFFIX,icvcs.com,Direct
+HOST-SUFFIX,idazhe.net,Direct
 HOST-SUFFIX,idsduf.com,Direct
 HOST-SUFFIX,ifconfig.co,Direct
 HOST-SUFFIX,ifengmap.com,Direct

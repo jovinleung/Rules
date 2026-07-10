@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 688
+# 规则统计: 690
 
 no_resolve: true
 domain_set:
@@ -241,6 +241,7 @@ domain_suffix_set:
   - gdcucc.v1.mk
   - geektool.top
   - gegeselect.hk
+  - gelaiyun.net
   - ggbond.org
   - gh-proxy.com
   - gh.con.sh
@@ -324,6 +325,7 @@ domain_suffix_set:
   - hzlawyer.net
   - hzqsn.com
   - icvcs.com
+  - idazhe.net
   - idsduf.com
   - ifconfig.co
   - ifengmap.com

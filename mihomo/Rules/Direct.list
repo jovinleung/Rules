@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 688
+# 规则统计: 690
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -238,6 +238,7 @@ DOMAIN-SUFFIX,gaze.run
 DOMAIN-SUFFIX,gdcucc.v1.mk
 DOMAIN-SUFFIX,geektool.top
 DOMAIN-SUFFIX,gegeselect.hk
+DOMAIN-SUFFIX,gelaiyun.net
 DOMAIN-SUFFIX,ggbond.org
 DOMAIN-SUFFIX,gh-proxy.com
 DOMAIN-SUFFIX,gh.con.sh
@@ -321,6 +322,7 @@ DOMAIN-SUFFIX,hybiome.com
 DOMAIN-SUFFIX,hzlawyer.net
 DOMAIN-SUFFIX,hzqsn.com
 DOMAIN-SUFFIX,icvcs.com
+DOMAIN-SUFFIX,idazhe.net
 DOMAIN-SUFFIX,idsduf.com
 DOMAIN-SUFFIX,ifconfig.co
 DOMAIN-SUFFIX,ifengmap.com

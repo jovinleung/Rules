@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 692
+# 规则统计: 693
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -322,6 +322,7 @@ DOMAIN-SUFFIX,hwzuku.com
 DOMAIN-SUFFIX,hybiome.com
 DOMAIN-SUFFIX,hzlawyer.net
 DOMAIN-SUFFIX,hzqsn.com
+DOMAIN-SUFFIX,ibnjl.shop
 DOMAIN-SUFFIX,icvcs.com
 DOMAIN-SUFFIX,idazhe.net
 DOMAIN-SUFFIX,idsduf.com

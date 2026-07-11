@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 692
+# 规则统计: 693
 
 no_resolve: true
 domain_set:
@@ -325,6 +325,7 @@ domain_suffix_set:
   - hybiome.com
   - hzlawyer.net
   - hzqsn.com
+  - ibnjl.shop
   - icvcs.com
   - idazhe.net
   - idsduf.com

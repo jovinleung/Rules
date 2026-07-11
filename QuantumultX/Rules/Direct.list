@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 691
+# 规则统计: 692
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -322,6 +322,7 @@ HOST-SUFFIX,hwzuku.com,Direct
 HOST-SUFFIX,hybiome.com,Direct
 HOST-SUFFIX,hzlawyer.net,Direct
 HOST-SUFFIX,hzqsn.com,Direct
+HOST-SUFFIX,ibnjl.shop,Direct
 HOST-SUFFIX,icvcs.com,Direct
 HOST-SUFFIX,idazhe.net,Direct
 HOST-SUFFIX,idsduf.com,Direct

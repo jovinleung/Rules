@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 693
+# 规则统计: 696
 
 no_resolve: true
 domain_set:
@@ -300,6 +300,7 @@ domain_suffix_set:
   - hexiny.com
   - hezuvip.com
   - hf-mirror.com
+  - hfhs8x.info
   - hhtvc.com
   - hijin.vip
   - hiwms.com
@@ -447,6 +448,7 @@ domain_suffix_set:
   - nkxingxh.top
   - nn.ci
   - nodcloud.com
+  - noyer.eu.org
   - nxog.top
   - oceando.cloud
   - ok321.top
@@ -597,6 +599,7 @@ domain_suffix_set:
   - we-stats.com
   - webs.vc
   - wenyi188.com
+  - wera.eu.org
   - weshape3d.com
   - wewillpro.com
   - wildfirechat.net

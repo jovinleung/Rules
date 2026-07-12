@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 692
+# 规则统计: 695
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -297,6 +297,7 @@ HOST-SUFFIX,hdbz.net,Direct
 HOST-SUFFIX,hexiny.com,Direct
 HOST-SUFFIX,hezuvip.com,Direct
 HOST-SUFFIX,hf-mirror.com,Direct
+HOST-SUFFIX,hfhs8x.info,Direct
 HOST-SUFFIX,hhtvc.com,Direct
 HOST-SUFFIX,hijin.vip,Direct
 HOST-SUFFIX,hiwms.com,Direct
@@ -444,6 +445,7 @@ HOST-SUFFIX,nicezhuanye.com,Direct
 HOST-SUFFIX,nkxingxh.top,Direct
 HOST-SUFFIX,nn.ci,Direct
 HOST-SUFFIX,nodcloud.com,Direct
+HOST-SUFFIX,noyer.eu.org,Direct
 HOST-SUFFIX,nxog.top,Direct
 HOST-SUFFIX,oceando.cloud,Direct
 HOST-SUFFIX,ok321.top,Direct
@@ -594,6 +596,7 @@ HOST-SUFFIX,warmheart.top,Direct
 HOST-SUFFIX,we-stats.com,Direct
 HOST-SUFFIX,webs.vc,Direct
 HOST-SUFFIX,wenyi188.com,Direct
+HOST-SUFFIX,wera.eu.org,Direct
 HOST-SUFFIX,weshape3d.com,Direct
 HOST-SUFFIX,wewillpro.com,Direct
 HOST-SUFFIX,wildfirechat.net,Direct

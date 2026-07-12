@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 695
+# 规则统计: 696
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -652,6 +652,7 @@ HOST-SUFFIX,yicaiykt.com,Direct
 HOST-SUFFIX,yingshi.dog,Direct
 HOST-SUFFIX,yiso.fun,Direct
 HOST-SUFFIX,yixc.com,Direct
+HOST-SUFFIX,ymzec.com,Direct
 HOST-SUFFIX,yongyu.xyz,Direct
 HOST-SUFFIX,yooc.me,Direct
 HOST-SUFFIX,youzhiyouxing.com,Direct

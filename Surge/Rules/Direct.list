@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 696
+# 规则统计: 697
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -652,6 +652,7 @@ DOMAIN-SUFFIX,yicaiykt.com
 DOMAIN-SUFFIX,yingshi.dog
 DOMAIN-SUFFIX,yiso.fun
 DOMAIN-SUFFIX,yixc.com
+DOMAIN-SUFFIX,ymzec.com
 DOMAIN-SUFFIX,yongyu.xyz
 DOMAIN-SUFFIX,yooc.me
 DOMAIN-SUFFIX,youzhiyouxing.com

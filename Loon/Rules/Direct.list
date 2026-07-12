@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 697
+# 规则统计: 698
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -96,6 +96,7 @@ DOMAIN-SUFFIX,alonginwind.top
 DOMAIN-SUFFIX,aloys233.top
 DOMAIN-SUFFIX,antping.com
 DOMAIN-SUFFIX,anycubic.com
+DOMAIN-SUFFIX,anythinktech.com
 DOMAIN-SUFFIX,anytocopy.com
 DOMAIN-SUFFIX,ap-leasing.com
 DOMAIN-SUFFIX,api.myip.com

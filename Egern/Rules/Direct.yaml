@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 698
+# 规则统计: 699
 
 no_resolve: true
 domain_set:
@@ -606,6 +606,7 @@ domain_suffix_set:
   - wildfirechat.net
   - wjx.top
   - wlcdn88.com
+  - wlups.com
   - wologic.net
   - wpurl.cc
   - wushuangai.com

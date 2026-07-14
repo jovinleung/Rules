@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 699
+# 规则统计: 700
 
 no_resolve: true
 domain_set:
@@ -53,6 +53,7 @@ domain_suffix_set:
   - 4399zmxy.com
   - 4kgj.com
   - 4xiaoshuo.org
+  - 51kandianshi.com
   - 51tbox.com
   - 51wanxue.com
   - 51zmt.top

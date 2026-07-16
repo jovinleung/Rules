@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 701
+# 规则统计: 702
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -601,6 +601,7 @@ DOMAIN-SUFFIX,webs.vc
 DOMAIN-SUFFIX,wenyi188.com
 DOMAIN-SUFFIX,wera.eu.org
 DOMAIN-SUFFIX,weshape3d.com
+DOMAIN-SUFFIX,wetolink.com
 DOMAIN-SUFFIX,wewillpro.com
 DOMAIN-SUFFIX,wildfirechat.net
 DOMAIN-SUFFIX,wjx.top

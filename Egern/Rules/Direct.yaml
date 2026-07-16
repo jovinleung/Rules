@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 701
+# 规则统计: 702
 
 no_resolve: true
 domain_set:
@@ -604,6 +604,7 @@ domain_suffix_set:
   - wenyi188.com
   - wera.eu.org
   - weshape3d.com
+  - wetolink.com
   - wewillpro.com
   - wildfirechat.net
   - wjx.top

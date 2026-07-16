@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 700
+# 规则统计: 701
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -601,6 +601,7 @@ HOST-SUFFIX,webs.vc,Direct
 HOST-SUFFIX,wenyi188.com,Direct
 HOST-SUFFIX,wera.eu.org,Direct
 HOST-SUFFIX,weshape3d.com,Direct
+HOST-SUFFIX,wetolink.com,Direct
 HOST-SUFFIX,wewillpro.com,Direct
 HOST-SUFFIX,wildfirechat.net,Direct
 HOST-SUFFIX,wjx.top,Direct

@@ -1,15 +1,12 @@
 # 规则名称: Ads_SukkaW
 # 规则统计: 116174
 
-HOST,03.lzzncm.com,Ads_SukkaW
-HOST,04.lzzncm.com,Ads_SukkaW
 HOST,1oavsblobprodcus350.blob.core.windows.net,Ads_SukkaW
 HOST,2016.sina.cn,Ads_SukkaW
 HOST,37bvsblobprodcus311.blob.core.windows.net,Ads_SukkaW
 HOST,80vn.cn,Ads_SukkaW
 HOST,9ibbcq2d.sina.cn,Ads_SukkaW
 HOST,a.alimama.cn,Ads_SukkaW
-HOST,a.dounanhuahui.com,Ads_SukkaW
 HOST,a.glcdn.co,Ads_SukkaW
 HOST,a.hl.mi.com,Ads_SukkaW
 HOST,a.imput.net,Ads_SukkaW
@@ -27915,6 +27912,7 @@ HOST-SUFFIX,doubtdrawer.com,Ads_SukkaW
 HOST-SUFFIX,doubtsuseless.com,Ads_SukkaW
 HOST-SUFFIX,douchegibbets.shop,Ads_SukkaW
 HOST-SUFFIX,doumob.com,Ads_SukkaW
+HOST-SUFFIX,dounanhuahui.com,Ads_SukkaW
 HOST-SUFFIX,dove.hoku.nz,Ads_SukkaW
 HOST-SUFFIX,dowarmhugo.com,Ads_SukkaW
 HOST-SUFFIX,dowietampoonjuglans.cfd,Ads_SukkaW
@@ -33807,6 +33805,7 @@ HOST-SUFFIX,forwardslashetc.com,Ads_SukkaW
 HOST-SUFFIX,forwarnjigging.qpon,Ads_SukkaW
 HOST-SUFFIX,forzubatr.com,Ads_SukkaW
 HOST-SUFFIX,fossesfyttes.qpon,Ads_SukkaW
+HOST-SUFFIX,fosshub.com,Ads_SukkaW
 HOST-SUFFIX,fossilzero.com,Ads_SukkaW
 HOST-SUFFIX,fostercraver.qpon,Ads_SukkaW
 HOST-SUFFIX,fostergurk.cyou,Ads_SukkaW
@@ -57204,6 +57203,7 @@ HOST-SUFFIX,lzuc.sfr.fr,Ads_SukkaW
 HOST-SUFFIX,lzvwxy.hometogo.pl,Ads_SukkaW
 HOST-SUFFIX,lzwxzz.chintaistyle.jp,Ads_SukkaW
 HOST-SUFFIX,lzxdx24yib.com,Ads_SukkaW
+HOST-SUFFIX,lzzncm.com,Ads_SukkaW
 HOST-SUFFIX,m-adash.m.taobao.com,Ads_SukkaW
 HOST-SUFFIX,m-kosche.com,Ads_SukkaW
 HOST-SUFFIX,m-metrics.capitalone.com,Ads_SukkaW

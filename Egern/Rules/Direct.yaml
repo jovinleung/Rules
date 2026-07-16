@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 700
+# 规则统计: 701
 
 no_resolve: true
 domain_set:
@@ -576,6 +576,7 @@ domain_suffix_set:
   - tool56.com
   - topwd.top
   - tozi-cn.top
+  - trjho.com
   - ts3.ink
   - ttshitu.com
   - tulipsport.com

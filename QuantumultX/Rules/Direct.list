@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 699
+# 规则统计: 700
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -573,6 +573,7 @@ HOST-SUFFIX,tongkask.com,Direct
 HOST-SUFFIX,tool56.com,Direct
 HOST-SUFFIX,topwd.top,Direct
 HOST-SUFFIX,tozi-cn.top,Direct
+HOST-SUFFIX,trjho.com,Direct
 HOST-SUFFIX,ts3.ink,Direct
 HOST-SUFFIX,ttshitu.com,Direct
 HOST-SUFFIX,tulipsport.com,Direct

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 702
+# 规则统计: 703
 
 no_resolve: true
 domain_set:
@@ -529,6 +529,7 @@ domain_suffix_set:
   - shunjing.xin
   - shuqiandiqiu.com
   - shyxhy.com
+  - sisiim.com
   - sixloy428.top
   - sksight.com
   - snfox.com

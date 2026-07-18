@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 703
+# 规则统计: 704
 
 no_resolve: true
 domain_set:
@@ -515,6 +515,7 @@ domain_suffix_set:
   - scnyw.com
   - scratch5.com
   - sct.ftqq.com
+  - scyol.com
   - sdk-log-upload-os.hoyoverse.com
   - seaflysoft.com
   - seedpace.com

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 702
+# 规则统计: 703
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -512,6 +512,7 @@ HOST-SUFFIX,scbaijia.com,Direct
 HOST-SUFFIX,scnyw.com,Direct
 HOST-SUFFIX,scratch5.com,Direct
 HOST-SUFFIX,sct.ftqq.com,Direct
+HOST-SUFFIX,scyol.com,Direct
 HOST-SUFFIX,sdk-log-upload-os.hoyoverse.com,Direct
 HOST-SUFFIX,seaflysoft.com,Direct
 HOST-SUFFIX,seedpace.com,Direct

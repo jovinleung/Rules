@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 704
+# 规则统计: 705
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -616,6 +616,7 @@ DOMAIN-SUFFIX,www.ojrq.net
 DOMAIN-SUFFIX,wwwh.eu.org
 DOMAIN-SUFFIX,wwwwqq.com
 DOMAIN-SUFFIX,wxdw.top
+DOMAIN-SUFFIX,x-gpu.com
 DOMAIN-SUFFIX,x86pi.com
 DOMAIN-SUFFIX,xbcloudprint.com
 DOMAIN-SUFFIX,xbgjw.com

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 703
+# 规则统计: 704
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -616,6 +616,7 @@ HOST-SUFFIX,www.ojrq.net,Direct
 HOST-SUFFIX,wwwh.eu.org,Direct
 HOST-SUFFIX,wwwwqq.com,Direct
 HOST-SUFFIX,wxdw.top,Direct
+HOST-SUFFIX,x-gpu.com,Direct
 HOST-SUFFIX,x86pi.com,Direct
 HOST-SUFFIX,xbcloudprint.com,Direct
 HOST-SUFFIX,xbgjw.com,Direct

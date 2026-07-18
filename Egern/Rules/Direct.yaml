@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 704
+# 规则统计: 705
 
 no_resolve: true
 domain_set:
@@ -619,6 +619,7 @@ domain_suffix_set:
   - wwwh.eu.org
   - wwwwqq.com
   - wxdw.top
+  - x-gpu.com
   - x86pi.com
   - xbcloudprint.com
   - xbgjw.com

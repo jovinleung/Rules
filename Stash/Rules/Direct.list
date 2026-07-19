@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 705
+# 规则统计: 706
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -449,6 +449,7 @@ DOMAIN-SUFFIX,nn.ci
 DOMAIN-SUFFIX,nodcloud.com
 DOMAIN-SUFFIX,noyer.eu.org
 DOMAIN-SUFFIX,nxog.top
+DOMAIN-SUFFIX,oai.sb
 DOMAIN-SUFFIX,oceando.cloud
 DOMAIN-SUFFIX,ok321.top
 DOMAIN-SUFFIX,onebuygz.com

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 705
+# 规则统计: 706
 
 no_resolve: true
 domain_set:
@@ -452,6 +452,7 @@ domain_suffix_set:
   - nodcloud.com
   - noyer.eu.org
   - nxog.top
+  - oai.sb
   - oceando.cloud
   - ok321.top
   - onebuygz.com

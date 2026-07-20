@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 707
+# 规则统计: 708
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -587,6 +587,7 @@ DOMAIN-SUFFIX,twinkstar.com
 DOMAIN-SUFFIX,u-carloan.com
 DOMAIN-SUFFIX,uascent-iot.com
 DOMAIN-SUFFIX,ugdocker.link
+DOMAIN-SUFFIX,ugediao.com
 DOMAIN-SUFFIX,ugnas.cloud
 DOMAIN-SUFFIX,ulife.group
 DOMAIN-SUFFIX,us.ci

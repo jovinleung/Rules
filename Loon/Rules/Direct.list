@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 706
+# 规则统计: 707
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -209,6 +209,7 @@ DOMAIN-SUFFIX,et0731.com
 DOMAIN-SUFFIX,everdrawing.com
 DOMAIN-SUFFIX,excelbbx.net
 DOMAIN-SUFFIX,exiliumgf.com
+DOMAIN-SUFFIX,fb71ef91e1014.beer
 DOMAIN-SUFFIX,fdfinvoice.com
 DOMAIN-SUFFIX,feihengip.com
 DOMAIN-SUFFIX,feizhiyi.com

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 708
+# 规则统计: 709
 
 no_resolve: true
 domain_set:
@@ -167,6 +167,7 @@ domain_suffix_set:
   - congmiqq.com
   - constasj.me
   - coros.com
+  - crrcgo.cc
   - crtyhr.com
   - csqaq.com
   - cyouzai.com

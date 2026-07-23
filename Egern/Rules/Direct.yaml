@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 709
+# 规则统计: 710
 
 no_resolve: true
 domain_set:
@@ -300,6 +300,7 @@ domain_suffix_set:
   - harbourmooc.com
   - hbcof.com
   - hbctic.com
+  - hbymfswz.com
   - hdbz.net
   - hexiny.com
   - hezuvip.com

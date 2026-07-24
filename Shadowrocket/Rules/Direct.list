@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 711
+# 规则统计: 712
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -542,6 +542,7 @@ DOMAIN-SUFFIX,ssjj2.com
 DOMAIN-SUFFIX,starlink.uno
 DOMAIN-SUFFIX,stkfanli.com
 DOMAIN-SUFFIX,sunrisecontent.akamaized.net
+DOMAIN-SUFFIX,susudesu.com
 DOMAIN-SUFFIX,suu-fun.com
 DOMAIN-SUFFIX,suyur.com
 DOMAIN-SUFFIX,svyun.com

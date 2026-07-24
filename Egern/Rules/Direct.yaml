@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 711
+# 规则统计: 712
 
 no_resolve: true
 domain_set:
@@ -545,6 +545,7 @@ domain_suffix_set:
   - starlink.uno
   - stkfanli.com
   - sunrisecontent.akamaized.net
+  - susudesu.com
   - suu-fun.com
   - suyur.com
   - svyun.com

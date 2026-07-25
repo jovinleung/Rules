@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 711
+# 规则统计: 712
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -130,6 +130,7 @@ HOST-SUFFIX,boxim.online,Direct
 HOST-SUFFIX,boyuemobile.com,Direct
 HOST-SUFFIX,bsbsb.top,Direct
 HOST-SUFFIX,bunny.net,Direct
+HOST-SUFFIX,ca-sinfusi.com,Direct
 HOST-SUFFIX,canghaiip.com,Direct
 HOST-SUFFIX,cangjie-lang.net,Direct
 HOST-SUFFIX,ccw.site,Direct

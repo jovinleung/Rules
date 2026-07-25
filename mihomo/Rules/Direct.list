@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 712
+# 规则统计: 713
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -130,6 +130,7 @@ DOMAIN-SUFFIX,boxim.online
 DOMAIN-SUFFIX,boyuemobile.com
 DOMAIN-SUFFIX,bsbsb.top
 DOMAIN-SUFFIX,bunny.net
+DOMAIN-SUFFIX,ca-sinfusi.com
 DOMAIN-SUFFIX,canghaiip.com
 DOMAIN-SUFFIX,cangjie-lang.net
 DOMAIN-SUFFIX,ccw.site

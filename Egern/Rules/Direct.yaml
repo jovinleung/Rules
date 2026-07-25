@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 712
+# 规则统计: 713
 
 no_resolve: true
 domain_set:
@@ -133,6 +133,7 @@ domain_suffix_set:
   - boyuemobile.com
   - bsbsb.top
   - bunny.net
+  - ca-sinfusi.com
   - canghaiip.com
   - cangjie-lang.net
   - ccw.site

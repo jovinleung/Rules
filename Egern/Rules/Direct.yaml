@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 713
+# 规则统计: 714
 
 no_resolve: true
 domain_set:
@@ -210,6 +210,7 @@ domain_suffix_set:
   - epark.cc
   - epg.aptv.app
   - epg.v1.mk
+  - erocraft.com
   - et0731.com
   - everdrawing.com
   - excelbbx.net

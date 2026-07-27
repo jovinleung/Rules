@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 714
+# 规则统计: 715
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -450,6 +450,7 @@ DOMAIN-SUFFIX,neihang.net
 DOMAIN-SUFFIX,netzz.net
 DOMAIN-SUFFIX,nicezhuanye.com
 DOMAIN-SUFFIX,nkxingxh.top
+DOMAIN-SUFFIX,nlyd.club
 DOMAIN-SUFFIX,nn.ci
 DOMAIN-SUFFIX,nodcloud.com
 DOMAIN-SUFFIX,noyer.eu.org

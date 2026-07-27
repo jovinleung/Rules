@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 714
+# 规则统计: 715
 
 no_resolve: true
 domain_set:
@@ -453,6 +453,7 @@ domain_suffix_set:
   - netzz.net
   - nicezhuanye.com
   - nkxingxh.top
+  - nlyd.club
   - nn.ci
   - nodcloud.com
   - noyer.eu.org

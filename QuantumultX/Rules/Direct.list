@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 714
+# 规则统计: 715
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -81,6 +81,7 @@ HOST-SUFFIX,acggit.com,Direct
 HOST-SUFFIX,adobe.com,Direct
 HOST-SUFFIX,afeica.com,Direct
 HOST-SUFFIX,afuns.me,Direct
+HOST-SUFFIX,ahlt10010.com,Direct
 HOST-SUFFIX,aibeike.com,Direct
 HOST-SUFFIX,aichangbaishan.com,Direct
 HOST-SUFFIX,aidien.fun,Direct

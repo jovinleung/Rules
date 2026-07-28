@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 718
+# 规则统计: 721
 
 no_resolve: true
 domain_set:
@@ -234,6 +234,7 @@ domain_suffix_set:
   - fssbcc.top
   - fsytss.com
   - ft07.com
+  - ftqq.com
   - functorz.com
   - fussengroup.com
   - fuyinkeji.top
@@ -300,6 +301,7 @@ domain_suffix_set:
   - ham.xin
   - hangnakeji.com
   - haofanhuoban.com
+  - haojieyun.com
   - haoxueche.com
   - harbourmooc.com
   - hbcof.com
@@ -368,6 +370,7 @@ domain_suffix_set:
   - jieyoutsg.com
   - jiliuwang.net
   - jingheiot.com
+  - jinzanzan.com
   - jiqw.com
   - jjzyy.org
   - jsdelivr.com

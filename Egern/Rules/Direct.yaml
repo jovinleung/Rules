@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 716
+# 规则统计: 717
 
 no_resolve: true
 domain_set:
@@ -704,6 +704,7 @@ domain_suffix_set:
   - ztytech.com
   - zuobiao.press
   - zysou.com
+  - zzclass.com
   - zzr.cc
   - zzz-log-upload-os.hoyoverse.com
 domain_keyword_set:

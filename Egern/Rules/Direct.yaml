@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 717
+# 规则统计: 718
 
 no_resolve: true
 domain_set:
@@ -172,6 +172,7 @@ domain_suffix_set:
   - crrcgo.cc
   - crtyhr.com
   - csqaq.com
+  - cym520.top
   - cyouzai.com
   - d4ctech.com
   - dadateach.com

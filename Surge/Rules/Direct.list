@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 717
+# 规则统计: 718
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -169,6 +169,7 @@ DOMAIN-SUFFIX,coros.com
 DOMAIN-SUFFIX,crrcgo.cc
 DOMAIN-SUFFIX,crtyhr.com
 DOMAIN-SUFFIX,csqaq.com
+DOMAIN-SUFFIX,cym520.top
 DOMAIN-SUFFIX,cyouzai.com
 DOMAIN-SUFFIX,d4ctech.com
 DOMAIN-SUFFIX,dadateach.com

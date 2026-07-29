@@ -1,5 +1,5 @@
 # 规则名称: ProxyGFW
-# 规则统计: 7664
+# 规则统计: 7666
 
 HOST,ccmdl.adobe.com,ProxyGFW
 HOST,cloud.oracle.com,ProxyGFW
@@ -516,6 +516,7 @@ HOST-SUFFIX,atlanta168.com,ProxyGFW
 HOST-SUFFIX,atlaspost.com,ProxyGFW
 HOST-SUFFIX,atlassian.com,ProxyGFW
 HOST-SUFFIX,atlassian.net,ProxyGFW
+HOST-SUFFIX,atmeta.com,ProxyGFW
 HOST-SUFFIX,atnext.com,ProxyGFW
 HOST-SUFFIX,atom.com,ProxyGFW
 HOST-SUFFIX,au,ProxyGFW
@@ -594,6 +595,7 @@ HOST-SUFFIX,bangchen.net,ProxyGFW
 HOST-SUFFIX,bangdream.space,ProxyGFW
 HOST-SUFFIX,bangkokpost.com,ProxyGFW
 HOST-SUFFIX,bangumi.moe,ProxyGFW
+HOST-SUFFIX,bangumi.tv,ProxyGFW
 HOST-SUFFIX,bangyoulater.com,ProxyGFW
 HOST-SUFFIX,bankmobilevibe.com,ProxyGFW
 HOST-SUFFIX,bannedbook.org,ProxyGFW

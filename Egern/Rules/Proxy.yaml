@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1350
+# 规则统计: 1353
 
 domain_set:
   - ccmdl.adobe.com
@@ -111,6 +111,7 @@ domain_suffix_set:
   - at
   - atlassian.com
   - atlassian.net
+  - atmeta.com
   - atom.com
   - au
   - auth0.com
@@ -136,6 +137,7 @@ domain_suffix_set:
   - bandwagonhost.com
   - bang.com
   - bangumi.moe
+  - bangumi.tv
   - bbc.com
   - bblmw.com
   - be
@@ -1156,6 +1158,7 @@ domain_suffix_set:
   - tinyurl.com
   - tktube.com
   - tmagazine.com
+  - tmdb.org
   - tnaflix.com
   - to
   - tokto-motion.net

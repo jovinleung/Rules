@@ -1,5 +1,5 @@
 # 规则名称: ProxyGFW
-# 规则统计: 7663
+# 规则统计: 7665
 
 no_resolve: true
 domain_set:
@@ -519,6 +519,7 @@ domain_suffix_set:
   - atlaspost.com
   - atlassian.com
   - atlassian.net
+  - atmeta.com
   - atnext.com
   - atom.com
   - au
@@ -597,6 +598,7 @@ domain_suffix_set:
   - bangdream.space
   - bangkokpost.com
   - bangumi.moe
+  - bangumi.tv
   - bangyoulater.com
   - bankmobilevibe.com
   - bannedbook.org

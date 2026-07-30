@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 721
+# 规则统计: 723
 
 no_resolve: true
 domain_set:
@@ -205,6 +205,7 @@ domain_suffix_set:
   - eagsen.com
   - easytier.top
   - easytomessage.com
+  - eceshi.com
   - einfo-tech.com
   - emby.yun
   - englibrary.com
@@ -316,6 +317,7 @@ domain_suffix_set:
   - hijin.vip
   - hiwms.com
   - hkchat.app
+  - hnchasing.com
   - hnxzctec.com
   - hongxingdl.com
   - hongxingdl.love

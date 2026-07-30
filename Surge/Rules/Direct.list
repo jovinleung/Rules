@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 721
+# 规则统计: 723
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -202,6 +202,7 @@ DOMAIN-SUFFIX,dushe1.app
 DOMAIN-SUFFIX,eagsen.com
 DOMAIN-SUFFIX,easytier.top
 DOMAIN-SUFFIX,easytomessage.com
+DOMAIN-SUFFIX,eceshi.com
 DOMAIN-SUFFIX,einfo-tech.com
 DOMAIN-SUFFIX,emby.yun
 DOMAIN-SUFFIX,englibrary.com
@@ -313,6 +314,7 @@ DOMAIN-SUFFIX,hhtvc.com
 DOMAIN-SUFFIX,hijin.vip
 DOMAIN-SUFFIX,hiwms.com
 DOMAIN-SUFFIX,hkchat.app
+DOMAIN-SUFFIX,hnchasing.com
 DOMAIN-SUFFIX,hnxzctec.com
 DOMAIN-SUFFIX,hongxingdl.com
 DOMAIN-SUFFIX,hongxingdl.love

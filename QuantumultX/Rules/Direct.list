@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 720
+# 规则统计: 722
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -202,6 +202,7 @@ HOST-SUFFIX,dushe1.app,Direct
 HOST-SUFFIX,eagsen.com,Direct
 HOST-SUFFIX,easytier.top,Direct
 HOST-SUFFIX,easytomessage.com,Direct
+HOST-SUFFIX,eceshi.com,Direct
 HOST-SUFFIX,einfo-tech.com,Direct
 HOST-SUFFIX,emby.yun,Direct
 HOST-SUFFIX,englibrary.com,Direct
@@ -313,6 +314,7 @@ HOST-SUFFIX,hhtvc.com,Direct
 HOST-SUFFIX,hijin.vip,Direct
 HOST-SUFFIX,hiwms.com,Direct
 HOST-SUFFIX,hkchat.app,Direct
+HOST-SUFFIX,hnchasing.com,Direct
 HOST-SUFFIX,hnxzctec.com,Direct
 HOST-SUFFIX,hongxingdl.com,Direct
 HOST-SUFFIX,hongxingdl.love,Direct

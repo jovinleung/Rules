@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 724
+# 规则统计: 725
 
 no_resolve: true
 domain_set:
@@ -113,6 +113,7 @@ domain_suffix_set:
   - atticus.vip
   - awstme.top
   - axuex.top
+  - ba-hospital.com
   - babawar.com
   - baicaf.com
   - baiyishequ.com

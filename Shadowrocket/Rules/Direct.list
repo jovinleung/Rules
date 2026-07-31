@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 723
+# 规则统计: 724
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -646,6 +646,7 @@ DOMAIN-SUFFIX,xiankabao.com
 DOMAIN-SUFFIX,xiaobeiyangji.com
 DOMAIN-SUFFIX,xiaochuanyun.com
 DOMAIN-SUFFIX,xiaolikj.online
+DOMAIN-SUFFIX,xiaomaicn.com
 DOMAIN-SUFFIX,xiaoxia.vip
 DOMAIN-SUFFIX,xiberia.net
 DOMAIN-SUFFIX,ximogo.com

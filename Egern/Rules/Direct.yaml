@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 723
+# 规则统计: 724
 
 no_resolve: true
 domain_set:
@@ -649,6 +649,7 @@ domain_suffix_set:
   - xiaobeiyangji.com
   - xiaochuanyun.com
   - xiaolikj.online
+  - xiaomaicn.com
   - xiaoxia.vip
   - xiberia.net
   - ximogo.com

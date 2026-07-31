@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 722
+# 规则统计: 723
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -646,6 +646,7 @@ HOST-SUFFIX,xiankabao.com,Direct
 HOST-SUFFIX,xiaobeiyangji.com,Direct
 HOST-SUFFIX,xiaochuanyun.com,Direct
 HOST-SUFFIX,xiaolikj.online,Direct
+HOST-SUFFIX,xiaomaicn.com,Direct
 HOST-SUFFIX,xiaoxia.vip,Direct
 HOST-SUFFIX,xiberia.net,Direct
 HOST-SUFFIX,ximogo.com,Direct

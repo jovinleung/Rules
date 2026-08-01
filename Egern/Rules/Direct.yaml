@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 725
+# 规则统计: 726
 
 no_resolve: true
 domain_set:
@@ -508,6 +508,7 @@ domain_suffix_set:
   - qianxueyunke.com
   - qiaoqiaoyun.com
   - qiaoxuesi.com
+  - qingjiansoft.com
   - qinglue.com
   - qjmotorlink.com
   - qmeng.top

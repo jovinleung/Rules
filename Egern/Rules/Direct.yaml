@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 726
+# 规则统计: 727
 
 no_resolve: true
 domain_set:
@@ -60,6 +60,7 @@ domain_suffix_set:
   - 52jiawei.com
   - 52met.com
   - 52muban.com
+  - 52youzai.com
   - 55555.ink
   - 580ai.net
   - 657192.com

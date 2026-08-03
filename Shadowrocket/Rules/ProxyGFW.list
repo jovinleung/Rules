@@ -1,5 +1,5 @@
 # 规则名称: ProxyGFW
-# 规则统计: 7667
+# 规则统计: 7668
 
 DOMAIN,7h15_ru1353t_1s_m4d3_by_5ukk4w.skk.moe
 DOMAIN,ccmdl.adobe.com
@@ -6444,6 +6444,7 @@ DOMAIN-SUFFIX,tr
 DOMAIN-SUFFIX,tracfone.com
 DOMAIN-SUFFIX,tradingview.com
 DOMAIN-SUFFIX,traffichaus.com
+DOMAIN-SUFFIX,trainingpeaks.com
 DOMAIN-SUFFIX,trakt.tv
 DOMAIN-SUFFIX,translate.goog
 DOMAIN-SUFFIX,transparency.org

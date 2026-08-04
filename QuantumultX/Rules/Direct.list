@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 726
+# 规则统计: 730
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -152,6 +152,7 @@ HOST-SUFFIX,cheshire.top,Direct
 HOST-SUFFIX,chessease.net,Direct
 HOST-SUFFIX,chii.in,Direct
 HOST-SUFFIX,chinatle.com,Direct
+HOST-SUFFIX,chuguansmart.com,Direct
 HOST-SUFFIX,chujingapp.com,Direct
 HOST-SUFFIX,chushi.cool,Direct
 HOST-SUFFIX,clivia.fun,Direct
@@ -188,6 +189,7 @@ HOST-SUFFIX,dell.com,Direct
 HOST-SUFFIX,dfhog.com,Direct
 HOST-SUFFIX,dhub.kubesre.xyz,Direct
 HOST-SUFFIX,dingdingzn.com,Direct
+HOST-SUFFIX,dircleaner.com,Direct
 HOST-SUFFIX,divoiotcloud.com,Direct
 HOST-SUFFIX,diyiedu.com,Direct
 HOST-SUFFIX,dnshe.com,Direct
@@ -665,6 +667,7 @@ HOST-SUFFIX,xn--4kq62z5rby2qupq9ub.top,Direct
 HOST-SUFFIX,xn--cesw6hd3s99f.com,Direct
 HOST-SUFFIX,xn--mmz.cc,Direct
 HOST-SUFFIX,xn--vhqr42drhf5k7b.com,Direct
+HOST-SUFFIX,xn--zfru1ggxt.fun,Direct
 HOST-SUFFIX,xopenbeta.com,Direct
 HOST-SUFFIX,xuanyuancode.com,Direct
 HOST-SUFFIX,xuepaipai.com,Direct
@@ -681,6 +684,7 @@ HOST-SUFFIX,yingshi.dog,Direct
 HOST-SUFFIX,yiso.fun,Direct
 HOST-SUFFIX,yixc.com,Direct
 HOST-SUFFIX,ymzec.com,Direct
+HOST-SUFFIX,ynsj001.com,Direct
 HOST-SUFFIX,yongyu.xyz,Direct
 HOST-SUFFIX,yooc.me,Direct
 HOST-SUFFIX,youzhiyouxing.com,Direct

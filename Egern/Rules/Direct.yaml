@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 727
+# 规则统计: 731
 
 no_resolve: true
 domain_set:
@@ -155,6 +155,7 @@ domain_suffix_set:
   - chessease.net
   - chii.in
   - chinatle.com
+  - chuguansmart.com
   - chujingapp.com
   - chushi.cool
   - clivia.fun
@@ -191,6 +192,7 @@ domain_suffix_set:
   - dfhog.com
   - dhub.kubesre.xyz
   - dingdingzn.com
+  - dircleaner.com
   - divoiotcloud.com
   - diyiedu.com
   - dnshe.com
@@ -668,6 +670,7 @@ domain_suffix_set:
   - xn--cesw6hd3s99f.com
   - xn--mmz.cc
   - xn--vhqr42drhf5k7b.com
+  - xn--zfru1ggxt.fun
   - xopenbeta.com
   - xuanyuancode.com
   - xuepaipai.com
@@ -684,6 +687,7 @@ domain_suffix_set:
   - yiso.fun
   - yixc.com
   - ymzec.com
+  - ynsj001.com
   - yongyu.xyz
   - yooc.me
   - youzhiyouxing.com

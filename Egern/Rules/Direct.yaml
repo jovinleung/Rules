@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 731
+# 规则统计: 732
 
 no_resolve: true
 domain_set:
@@ -228,6 +228,7 @@ domain_suffix_set:
   - feizhiyi.com
   - fengda.me
   - fengsutb.com
+  - fffff.games
   - ffhome.com
   - fileball.app
   - fjpit.com

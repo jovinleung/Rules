@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 732
+# 规则统计: 735
 
 no_resolve: true
 domain_set:
@@ -38,6 +38,7 @@ domain_suffix_set:
   - 0044696.com
   - 03241119.xyz
   - 0734cn.top
+  - 0759mall.com
   - 112114.xyz
   - 115cdn.de
   - 17van.com
@@ -73,8 +74,10 @@ domain_suffix_set:
   - 86656.net
   - 88996api.cloud
   - 8kc.top
+  - 8x14khzwmi.com
   - 900cha.com
   - 91shenfan.com
+  - 975135.xyz
   - 97973399.com
   - 985hezi.com
   - 998tool.com

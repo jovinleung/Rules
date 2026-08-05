@@ -1,5 +1,5 @@
 # 规则名称: ProxyGFW
-# 规则统计: 7668
+# 规则统计: 7669
 
 DOMAIN,7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe
 DOMAIN,ccmdl.adobe.com
@@ -7637,6 +7637,7 @@ IP-CIDR,203.208.41.0/24,no-resolve
 IP-CIDR,203.208.43.0/24,no-resolve
 IP-CIDR,203.208.50.0/24,no-resolve
 IP-CIDR,204.15.20.0/22,no-resolve
+IP-CIDR,207.241.224.2/32,no-resolve
 IP-CIDR,208.43.122.128/27,no-resolve
 IP-CIDR,220.181.174.162/32,no-resolve
 IP-CIDR,220.181.174.226/32,no-resolve

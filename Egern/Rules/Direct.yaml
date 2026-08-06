@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 735
+# 规则统计: 736
 
 no_resolve: true
 domain_set:
@@ -704,6 +704,7 @@ domain_suffix_set:
   - zcloud.world
   - zctnet.top
   - zeekrline.com
+  - zhaiad.com
   - zhangleglobal.com
   - zhi10.com
   - zhiexa.com

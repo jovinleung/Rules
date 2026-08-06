@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 736
+# 规则统计: 737
 
 no_resolve: true
 domain_set:
@@ -84,6 +84,7 @@ domain_suffix_set:
   - a0d.top
   - aaawz.cc
   - acepanel.net
+  - acgdraw.com
   - acggit.com
   - adobe.com
   - afeica.com

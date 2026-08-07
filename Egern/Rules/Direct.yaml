@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 740
+# 规则统计: 741
 
 no_resolve: true
 domain_set:
@@ -544,6 +544,7 @@ domain_suffix_set:
   - sdk-log-upload-os.hoyoverse.com
   - seaflysoft.com
   - seedpace.com
+  - senachina.com
   - server2.cn2gias.uk
   - sgtv.ii00.cc
   - shanghai-parking.com

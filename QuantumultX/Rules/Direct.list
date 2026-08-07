@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 736
+# 规则统计: 739
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -325,6 +325,7 @@ HOST-SUFFIX,hiwms.com,Direct
 HOST-SUFFIX,hkchat.app,Direct
 HOST-SUFFIX,hnchasing.com,Direct
 HOST-SUFFIX,hnxzctec.com,Direct
+HOST-SUFFIX,hoaihe.store,Direct
 HOST-SUFFIX,hongxingdl.com,Direct
 HOST-SUFFIX,hongxingdl.love,Direct
 HOST-SUFFIX,hprtupgrade.com,Direct
@@ -561,6 +562,7 @@ HOST-SUFFIX,sptv.ii00.cc,Direct
 HOST-SUFFIX,ssjj2.com,Direct
 HOST-SUFFIX,starlink.uno,Direct
 HOST-SUFFIX,stkfanli.com,Direct
+HOST-SUFFIX,sufe.me,Direct
 HOST-SUFFIX,sunrisecontent.akamaized.net,Direct
 HOST-SUFFIX,susudesu.com,Direct
 HOST-SUFFIX,suu-fun.com,Direct
@@ -722,6 +724,7 @@ HOST-SUFFIX,ztytech.com,Direct
 HOST-SUFFIX,zuobiao.press,Direct
 HOST-SUFFIX,zysou.com,Direct
 HOST-SUFFIX,zzclass.com,Direct
+HOST-SUFFIX,zzqrgs3148.vip,Direct
 HOST-SUFFIX,zzr.cc,Direct
 HOST-SUFFIX,zzz-log-upload-os.hoyoverse.com,Direct
 HOST-KEYWORD,m-team,Direct

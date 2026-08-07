@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 740
+# 规则统计: 741
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -565,6 +565,7 @@ HOST-SUFFIX,starlink.uno,Direct
 HOST-SUFFIX,stkfanli.com,Direct
 HOST-SUFFIX,sufe.me,Direct
 HOST-SUFFIX,sunrisecontent.akamaized.net,Direct
+HOST-SUFFIX,suntl.com,Direct
 HOST-SUFFIX,susudesu.com,Direct
 HOST-SUFFIX,suu-fun.com,Direct
 HOST-SUFFIX,suyur.com,Direct

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 741
+# 规则统计: 742
 
 no_resolve: true
 domain_set:
@@ -568,6 +568,7 @@ domain_suffix_set:
   - stkfanli.com
   - sufe.me
   - sunrisecontent.akamaized.net
+  - suntl.com
   - susudesu.com
   - suu-fun.com
   - suyur.com

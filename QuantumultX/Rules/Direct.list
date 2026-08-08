@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 742
+# 规则统计: 744
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -60,6 +60,7 @@ HOST-SUFFIX,52met.com,Direct
 HOST-SUFFIX,52muban.com,Direct
 HOST-SUFFIX,52youzai.com,Direct
 HOST-SUFFIX,55555.ink,Direct
+HOST-SUFFIX,56tvc.com,Direct
 HOST-SUFFIX,580ai.net,Direct
 HOST-SUFFIX,657192.com,Direct
 HOST-SUFFIX,66990000.xyz,Direct
@@ -102,6 +103,7 @@ HOST-SUFFIX,alonginwind.to,Direct
 HOST-SUFFIX,alonginwind.top,Direct
 HOST-SUFFIX,aloys233.top,Direct
 HOST-SUFFIX,antping.com,Direct
+HOST-SUFFIX,anvnjmc.com,Direct
 HOST-SUFFIX,anycubic.com,Direct
 HOST-SUFFIX,anythinktech.com,Direct
 HOST-SUFFIX,anytocopy.com,Direct

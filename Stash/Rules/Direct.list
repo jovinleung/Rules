@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 743
+# 规则统计: 745
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -60,6 +60,7 @@ DOMAIN-SUFFIX,52met.com
 DOMAIN-SUFFIX,52muban.com
 DOMAIN-SUFFIX,52youzai.com
 DOMAIN-SUFFIX,55555.ink
+DOMAIN-SUFFIX,56tvc.com
 DOMAIN-SUFFIX,580ai.net
 DOMAIN-SUFFIX,657192.com
 DOMAIN-SUFFIX,66990000.xyz
@@ -102,6 +103,7 @@ DOMAIN-SUFFIX,alonginwind.to
 DOMAIN-SUFFIX,alonginwind.top
 DOMAIN-SUFFIX,aloys233.top
 DOMAIN-SUFFIX,antping.com
+DOMAIN-SUFFIX,anvnjmc.com
 DOMAIN-SUFFIX,anycubic.com
 DOMAIN-SUFFIX,anythinktech.com
 DOMAIN-SUFFIX,anytocopy.com

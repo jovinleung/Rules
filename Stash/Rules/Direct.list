@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 761
+# 规则统计: 763
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -111,6 +111,7 @@ DOMAIN-SUFFIX,anytocopy.com
 DOMAIN-SUFFIX,ap-leasing.com
 DOMAIN-SUFFIX,api.myip.com
 DOMAIN-SUFFIX,apm-log-upload-os.hoyoverse.com
+DOMAIN-SUFFIX,appracle.com
 DOMAIN-SUFFIX,aqtwwx.net
 DOMAIN-SUFFIX,argotunnel.com
 DOMAIN-SUFFIX,armvm.com
@@ -311,6 +312,7 @@ DOMAIN-SUFFIX,gvgoo.com
 DOMAIN-SUFFIX,gwmapp-w.com
 DOMAIN-SUFFIX,gxnnjidingkeji.top
 DOMAIN-SUFFIX,gzybao.com
+DOMAIN-SUFFIX,haimaiedu.net
 DOMAIN-SUFFIX,halvie.com
 DOMAIN-SUFFIX,ham.xin
 DOMAIN-SUFFIX,hangnakeji.com

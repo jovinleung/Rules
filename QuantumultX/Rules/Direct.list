@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 760
+# 规则统计: 762
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -111,6 +111,7 @@ HOST-SUFFIX,anytocopy.com,Direct
 HOST-SUFFIX,ap-leasing.com,Direct
 HOST-SUFFIX,api.myip.com,Direct
 HOST-SUFFIX,apm-log-upload-os.hoyoverse.com,Direct
+HOST-SUFFIX,appracle.com,Direct
 HOST-SUFFIX,aqtwwx.net,Direct
 HOST-SUFFIX,argotunnel.com,Direct
 HOST-SUFFIX,armvm.com,Direct
@@ -311,6 +312,7 @@ HOST-SUFFIX,gvgoo.com,Direct
 HOST-SUFFIX,gwmapp-w.com,Direct
 HOST-SUFFIX,gxnnjidingkeji.top,Direct
 HOST-SUFFIX,gzybao.com,Direct
+HOST-SUFFIX,haimaiedu.net,Direct
 HOST-SUFFIX,halvie.com,Direct
 HOST-SUFFIX,ham.xin,Direct
 HOST-SUFFIX,hangnakeji.com,Direct

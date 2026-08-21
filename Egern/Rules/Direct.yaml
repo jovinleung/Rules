@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 746
+# 规则统计: 761
 
 no_resolve: true
 domain_set:
@@ -90,6 +90,7 @@ domain_suffix_set:
   - adobe.com
   - afeica.com
   - afuns.me
+  - agentscope.io
   - ahlt10010.com
   - aibeike.com
   - aichangbaishan.com
@@ -124,6 +125,7 @@ domain_suffix_set:
   - babawar.com
   - baicaf.com
   - baiyishequ.com
+  - bajie.la
   - banban.work
   - batchat.com
   - bdcb.cc
@@ -138,6 +140,7 @@ domain_suffix_set:
   - blog.google
   - bochaai.com
   - bochk.com
+  - bowenkj.com
   - boxim.online
   - boyuemobile.com
   - bsbsb.top
@@ -212,6 +215,7 @@ domain_suffix_set:
   - drvceo.com
   - dskj-ops.com
   - dushe1.app
+  - dytt8.com
   - eagsen.com
   - easytier.top
   - easytomessage.com
@@ -313,6 +317,7 @@ domain_suffix_set:
   - halvie.com
   - ham.xin
   - hangnakeji.com
+  - hanqiuming888.com
   - haofanhuoban.com
   - haojieyun.com
   - haoxueche.com
@@ -402,6 +407,7 @@ domain_suffix_set:
   - kancaibao.com
   - kaspersky-labs.com
   - kaspersky.com
+  - kasperskydaily.com
   - kcbd.top
   - kejiweixun.com
   - keyoo.com
@@ -421,6 +427,7 @@ domain_suffix_set:
   - lg3000.top
   - lightmake.site
   - linka2a.net
+  - linux.sb
   - listenai.com
   - liunn.com
   - liveperson.net
@@ -437,6 +444,7 @@ domain_suffix_set:
   - manfuz.co
   - mblyun.com
   - mc-user.com
+  - mcar.vip
   - mchuiji.com
   - mcxyzt.cc
   - medtechshare.com
@@ -456,6 +464,7 @@ domain_suffix_set:
   - mixly.org
   - mobai.sbs
   - modelscope.net
+  - monkeyray.net
   - morefuntengyun.com
   - msftconnecttest.com
   - msftncsi.com
@@ -523,6 +532,7 @@ domain_suffix_set:
   - qiaoxuesi.com
   - qingjiansoft.com
   - qinglue.com
+  - qiuquan.org
   - qjmotorlink.com
   - qmeng.top
   - quanxinfu.com
@@ -569,6 +579,7 @@ domain_suffix_set:
   - sptv.ii00.cc
   - ssjj2.com
   - starlink.uno
+  - startssl.com
   - stkfanli.com
   - sufe.me
   - sunrisecontent.akamaized.net
@@ -599,6 +610,7 @@ domain_suffix_set:
   - thinkerride.com
   - thispx.com
   - thmnet.com
+  - threep.top
   - tianlala.com
   - timbrd.com
   - tixue.net
@@ -633,6 +645,7 @@ domain_suffix_set:
   - vclbrokers.com
   - vcltrade.com
   - vgogbuy.com
+  - vpsjyz.com
   - vv1865.com
   - warmheart.top
   - we-stats.com
@@ -695,6 +708,7 @@ domain_suffix_set:
   - yayi360.com
   - ycjintou.com
   - ydayc.com
+  - yhxjkj.top
   - yicaiykt.com
   - yingshi.dog
   - yiso.fun
@@ -722,6 +736,7 @@ domain_suffix_set:
   - zhongancloud.com
   - zhouyiy.com
   - zhu.today
+  - zjjslawyer.com
   - zjshulong.com
   - zjxhedu.com
   - zmis.me

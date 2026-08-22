@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 763
+# 规则统计: 764
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -519,6 +519,7 @@ DOMAIN-SUFFIX,plusus3.younoyes.com
 DOMAIN-SUFFIX,ponyemu.com
 DOMAIN-SUFFIX,pool.ntp.org
 DOMAIN-SUFFIX,powershellgallery.com
+DOMAIN-SUFFIX,ppt28.com
 DOMAIN-SUFFIX,privateapi.xyz
 DOMAIN-SUFFIX,ptlgs.org
 DOMAIN-SUFFIX,pwithe.com

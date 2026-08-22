@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 762
+# 规则统计: 763
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -519,6 +519,7 @@ HOST-SUFFIX,plusus3.younoyes.com,Direct
 HOST-SUFFIX,ponyemu.com,Direct
 HOST-SUFFIX,pool.ntp.org,Direct
 HOST-SUFFIX,powershellgallery.com,Direct
+HOST-SUFFIX,ppt28.com,Direct
 HOST-SUFFIX,privateapi.xyz,Direct
 HOST-SUFFIX,ptlgs.org,Direct
 HOST-SUFFIX,pwithe.com,Direct

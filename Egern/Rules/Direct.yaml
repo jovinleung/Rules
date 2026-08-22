@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 763
+# 规则统计: 764
 
 no_resolve: true
 domain_set:
@@ -522,6 +522,7 @@ domain_suffix_set:
   - ponyemu.com
   - pool.ntp.org
   - powershellgallery.com
+  - ppt28.com
   - privateapi.xyz
   - ptlgs.org
   - pwithe.com

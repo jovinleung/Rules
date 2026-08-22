@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 767
+# 规则统计: 769
 
 no_resolve: true
 domain_set:
@@ -752,10 +752,12 @@ domain_suffix_set:
   - ztytech.com
   - zuobiao.press
   - zysou.com
+  - zyyct.com
   - zzclass.com
   - zzqrgs3148.vip
   - zzr.cc
   - zzz-log-upload-os.hoyoverse.com
+  - zzzcaculator.top
   - zzzmap.com
 domain_keyword_set:
   - m-team

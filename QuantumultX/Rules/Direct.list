@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 763
+# 规则统计: 766
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -148,6 +148,7 @@ HOST-SUFFIX,canghaiip.com,Direct
 HOST-SUFFIX,cangjie-lang.net,Direct
 HOST-SUFFIX,ccw.site,Direct
 HOST-SUFFIX,cdn.ist,Direct
+HOST-SUFFIX,cdut.top,Direct
 HOST-SUFFIX,centbrowser.net,Direct
 HOST-SUFFIX,cftunnel.com,Direct
 HOST-SUFFIX,cg3da.com,Direct
@@ -307,6 +308,7 @@ HOST-SUFFIX,gsjkjt.com,Direct
 HOST-SUFFIX,gsnhcg.com,Direct
 HOST-SUFFIX,gsstic.com,Direct
 HOST-SUFFIX,guaitao.cc,Direct
+HOST-SUFFIX,guang233.com,Direct
 HOST-SUFFIX,guangyapan.com,Direct
 HOST-SUFFIX,gvgoo.com,Direct
 HOST-SUFFIX,gwmapp-w.com,Direct
@@ -751,6 +753,7 @@ HOST-SUFFIX,zzclass.com,Direct
 HOST-SUFFIX,zzqrgs3148.vip,Direct
 HOST-SUFFIX,zzr.cc,Direct
 HOST-SUFFIX,zzz-log-upload-os.hoyoverse.com,Direct
+HOST-SUFFIX,zzzmap.com,Direct
 HOST-KEYWORD,m-team,Direct
 HOST-KEYWORD,quickconnect,Direct
 HOST-KEYWORD,synology,Direct

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 764
+# 规则统计: 767
 
 no_resolve: true
 domain_set:
@@ -151,6 +151,7 @@ domain_suffix_set:
   - cangjie-lang.net
   - ccw.site
   - cdn.ist
+  - cdut.top
   - centbrowser.net
   - cftunnel.com
   - cg3da.com
@@ -310,6 +311,7 @@ domain_suffix_set:
   - gsnhcg.com
   - gsstic.com
   - guaitao.cc
+  - guang233.com
   - guangyapan.com
   - gvgoo.com
   - gwmapp-w.com
@@ -754,6 +756,7 @@ domain_suffix_set:
   - zzqrgs3148.vip
   - zzr.cc
   - zzz-log-upload-os.hoyoverse.com
+  - zzzmap.com
 domain_keyword_set:
   - m-team
   - quickconnect

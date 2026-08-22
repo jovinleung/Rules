@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 764
+# 规则统计: 767
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -148,6 +148,7 @@ DOMAIN-SUFFIX,canghaiip.com
 DOMAIN-SUFFIX,cangjie-lang.net
 DOMAIN-SUFFIX,ccw.site
 DOMAIN-SUFFIX,cdn.ist
+DOMAIN-SUFFIX,cdut.top
 DOMAIN-SUFFIX,centbrowser.net
 DOMAIN-SUFFIX,cftunnel.com
 DOMAIN-SUFFIX,cg3da.com
@@ -307,6 +308,7 @@ DOMAIN-SUFFIX,gsjkjt.com
 DOMAIN-SUFFIX,gsnhcg.com
 DOMAIN-SUFFIX,gsstic.com
 DOMAIN-SUFFIX,guaitao.cc
+DOMAIN-SUFFIX,guang233.com
 DOMAIN-SUFFIX,guangyapan.com
 DOMAIN-SUFFIX,gvgoo.com
 DOMAIN-SUFFIX,gwmapp-w.com
@@ -751,6 +753,7 @@ DOMAIN-SUFFIX,zzclass.com
 DOMAIN-SUFFIX,zzqrgs3148.vip
 DOMAIN-SUFFIX,zzr.cc
 DOMAIN-SUFFIX,zzz-log-upload-os.hoyoverse.com
+DOMAIN-SUFFIX,zzzmap.com
 DOMAIN-KEYWORD,m-team
 DOMAIN-KEYWORD,quickconnect
 DOMAIN-KEYWORD,synology

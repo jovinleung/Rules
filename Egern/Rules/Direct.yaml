@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 774
+# 规则统计: 775
 
 no_resolve: true
 domain_set:
@@ -488,6 +488,7 @@ domain_suffix_set:
   - neihang.net
   - netzz.net
   - nicezhuanye.com
+  - njonemall.com
   - nkxingxh.top
   - nlyd.club
   - nn.ci

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 773
+# 规则统计: 774
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -485,6 +485,7 @@ HOST-SUFFIX,natchecker.com,Direct
 HOST-SUFFIX,neihang.net,Direct
 HOST-SUFFIX,netzz.net,Direct
 HOST-SUFFIX,nicezhuanye.com,Direct
+HOST-SUFFIX,njonemall.com,Direct
 HOST-SUFFIX,nkxingxh.top,Direct
 HOST-SUFFIX,nlyd.club,Direct
 HOST-SUFFIX,nn.ci,Direct

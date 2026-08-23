@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 770
+# 规则统计: 773
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -469,6 +469,7 @@ HOST-SUFFIX,mobai.sbs,Direct
 HOST-SUFFIX,modelscope.net,Direct
 HOST-SUFFIX,monkeyray.net,Direct
 HOST-SUFFIX,morefuntengyun.com,Direct
+HOST-SUFFIX,mrtdephoto.net,Direct
 HOST-SUFFIX,msftconnecttest.com,Direct
 HOST-SUFFIX,msftncsi.com,Direct
 HOST-SUFFIX,mslmc.net,Direct
@@ -680,12 +681,14 @@ HOST-SUFFIX,xdtool.com,Direct
 HOST-SUFFIX,xesabc.com,Direct
 HOST-SUFFIX,xfltd.org,Direct
 HOST-SUFFIX,xgzb.top,Direct
+HOST-SUFFIX,xianghuiin.com,Direct
 HOST-SUFFIX,xiankabao.com,Direct
 HOST-SUFFIX,xiaobeiyangji.com,Direct
 HOST-SUFFIX,xiaochuanyun.com,Direct
 HOST-SUFFIX,xiaolikj.online,Direct
 HOST-SUFFIX,xiaomaicn.com,Direct
 HOST-SUFFIX,xiaoxia.vip,Direct
+HOST-SUFFIX,xiaoyuan888.com,Direct
 HOST-SUFFIX,xiberia.net,Direct
 HOST-SUFFIX,ximogo.com,Direct
 HOST-SUFFIX,xingaochengtai.com,Direct

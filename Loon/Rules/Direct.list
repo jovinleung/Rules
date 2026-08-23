@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 771
+# 规则统计: 774
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -469,6 +469,7 @@ DOMAIN-SUFFIX,mobai.sbs
 DOMAIN-SUFFIX,modelscope.net
 DOMAIN-SUFFIX,monkeyray.net
 DOMAIN-SUFFIX,morefuntengyun.com
+DOMAIN-SUFFIX,mrtdephoto.net
 DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,msftncsi.com
 DOMAIN-SUFFIX,mslmc.net
@@ -680,12 +681,14 @@ DOMAIN-SUFFIX,xdtool.com
 DOMAIN-SUFFIX,xesabc.com
 DOMAIN-SUFFIX,xfltd.org
 DOMAIN-SUFFIX,xgzb.top
+DOMAIN-SUFFIX,xianghuiin.com
 DOMAIN-SUFFIX,xiankabao.com
 DOMAIN-SUFFIX,xiaobeiyangji.com
 DOMAIN-SUFFIX,xiaochuanyun.com
 DOMAIN-SUFFIX,xiaolikj.online
 DOMAIN-SUFFIX,xiaomaicn.com
 DOMAIN-SUFFIX,xiaoxia.vip
+DOMAIN-SUFFIX,xiaoyuan888.com
 DOMAIN-SUFFIX,xiberia.net
 DOMAIN-SUFFIX,ximogo.com
 DOMAIN-SUFFIX,xingaochengtai.com

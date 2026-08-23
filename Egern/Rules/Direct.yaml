@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 771
+# 规则统计: 774
 
 no_resolve: true
 domain_set:
@@ -472,6 +472,7 @@ domain_suffix_set:
   - modelscope.net
   - monkeyray.net
   - morefuntengyun.com
+  - mrtdephoto.net
   - msftconnecttest.com
   - msftncsi.com
   - mslmc.net
@@ -683,12 +684,14 @@ domain_suffix_set:
   - xesabc.com
   - xfltd.org
   - xgzb.top
+  - xianghuiin.com
   - xiankabao.com
   - xiaobeiyangji.com
   - xiaochuanyun.com
   - xiaolikj.online
   - xiaomaicn.com
   - xiaoxia.vip
+  - xiaoyuan888.com
   - xiberia.net
   - ximogo.com
   - xingaochengtai.com

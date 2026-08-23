@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 769
+# 规则统计: 771
 
 no_resolve: true
 domain_set:
@@ -41,6 +41,7 @@ domain_suffix_set:
   - 0759mall.com
   - 112114.xyz
   - 115cdn.de
+  - 123795.com
   - 17van.com
   - 1996999.xyz
   - 204cloud.com
@@ -87,6 +88,7 @@ domain_suffix_set:
   - acepanel.net
   - acgdraw.com
   - acggit.com
+  - adhuanxiao.com
   - adobe.com
   - afeica.com
   - afuns.me

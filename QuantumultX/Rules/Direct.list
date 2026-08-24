@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 778
+# 规则统计: 783
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -39,6 +39,7 @@ HOST-SUFFIX,0759mall.com,Direct
 HOST-SUFFIX,112114.xyz,Direct
 HOST-SUFFIX,115cdn.de,Direct
 HOST-SUFFIX,123795.com,Direct
+HOST-SUFFIX,123clouddisk.com,Direct
 HOST-SUFFIX,17van.com,Direct
 HOST-SUFFIX,1996999.xyz,Direct
 HOST-SUFFIX,204cloud.com,Direct
@@ -121,6 +122,7 @@ HOST-SUFFIX,asgardion.space,Direct
 HOST-SUFFIX,atticus.vip,Direct
 HOST-SUFFIX,awstme.top,Direct
 HOST-SUFFIX,axuex.top,Direct
+HOST-SUFFIX,b7f3192.com,Direct
 HOST-SUFFIX,ba-hospital.com,Direct
 HOST-SUFFIX,babawar.com,Direct
 HOST-SUFFIX,baicaf.com,Direct
@@ -148,6 +150,7 @@ HOST-SUFFIX,bunny.net,Direct
 HOST-SUFFIX,ca-sinfusi.com,Direct
 HOST-SUFFIX,canghaiip.com,Direct
 HOST-SUFFIX,cangjie-lang.net,Direct
+HOST-SUFFIX,cc39ute.shop,Direct
 HOST-SUFFIX,ccw.site,Direct
 HOST-SUFFIX,cdn.doctor,Direct
 HOST-SUFFIX,cdn.ist,Direct
@@ -216,6 +219,7 @@ HOST-SUFFIX,dothantech.com,Direct
 HOST-SUFFIX,douqq.com,Direct
 HOST-SUFFIX,drvceo.com,Direct
 HOST-SUFFIX,dskj-ops.com,Direct
+HOST-SUFFIX,dtproj.top,Direct
 HOST-SUFFIX,dushe1.app,Direct
 HOST-SUFFIX,dytt8.com,Direct
 HOST-SUFFIX,eagsen.com,Direct
@@ -529,6 +533,7 @@ HOST-SUFFIX,pool.ntp.org,Direct
 HOST-SUFFIX,powershellgallery.com,Direct
 HOST-SUFFIX,ppt28.com,Direct
 HOST-SUFFIX,privateapi.xyz,Direct
+HOST-SUFFIX,psf0404.shop,Direct
 HOST-SUFFIX,ptlgs.org,Direct
 HOST-SUFFIX,pwithe.com,Direct
 HOST-SUFFIX,qianfan.app,Direct

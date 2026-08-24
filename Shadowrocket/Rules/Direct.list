@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 779
+# 规则统计: 784
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -39,6 +39,7 @@ DOMAIN-SUFFIX,0759mall.com
 DOMAIN-SUFFIX,112114.xyz
 DOMAIN-SUFFIX,115cdn.de
 DOMAIN-SUFFIX,123795.com
+DOMAIN-SUFFIX,123clouddisk.com
 DOMAIN-SUFFIX,17van.com
 DOMAIN-SUFFIX,1996999.xyz
 DOMAIN-SUFFIX,204cloud.com
@@ -121,6 +122,7 @@ DOMAIN-SUFFIX,asgardion.space
 DOMAIN-SUFFIX,atticus.vip
 DOMAIN-SUFFIX,awstme.top
 DOMAIN-SUFFIX,axuex.top
+DOMAIN-SUFFIX,b7f3192.com
 DOMAIN-SUFFIX,ba-hospital.com
 DOMAIN-SUFFIX,babawar.com
 DOMAIN-SUFFIX,baicaf.com
@@ -148,6 +150,7 @@ DOMAIN-SUFFIX,bunny.net
 DOMAIN-SUFFIX,ca-sinfusi.com
 DOMAIN-SUFFIX,canghaiip.com
 DOMAIN-SUFFIX,cangjie-lang.net
+DOMAIN-SUFFIX,cc39ute.shop
 DOMAIN-SUFFIX,ccw.site
 DOMAIN-SUFFIX,cdn.doctor
 DOMAIN-SUFFIX,cdn.ist
@@ -216,6 +219,7 @@ DOMAIN-SUFFIX,dothantech.com
 DOMAIN-SUFFIX,douqq.com
 DOMAIN-SUFFIX,drvceo.com
 DOMAIN-SUFFIX,dskj-ops.com
+DOMAIN-SUFFIX,dtproj.top
 DOMAIN-SUFFIX,dushe1.app
 DOMAIN-SUFFIX,dytt8.com
 DOMAIN-SUFFIX,eagsen.com
@@ -529,6 +533,7 @@ DOMAIN-SUFFIX,pool.ntp.org
 DOMAIN-SUFFIX,powershellgallery.com
 DOMAIN-SUFFIX,ppt28.com
 DOMAIN-SUFFIX,privateapi.xyz
+DOMAIN-SUFFIX,psf0404.shop
 DOMAIN-SUFFIX,ptlgs.org
 DOMAIN-SUFFIX,pwithe.com
 DOMAIN-SUFFIX,qianfan.app

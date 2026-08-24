@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 779
+# 规则统计: 784
 
 no_resolve: true
 domain_set:
@@ -42,6 +42,7 @@ domain_suffix_set:
   - 112114.xyz
   - 115cdn.de
   - 123795.com
+  - 123clouddisk.com
   - 17van.com
   - 1996999.xyz
   - 204cloud.com
@@ -124,6 +125,7 @@ domain_suffix_set:
   - atticus.vip
   - awstme.top
   - axuex.top
+  - b7f3192.com
   - ba-hospital.com
   - babawar.com
   - baicaf.com
@@ -151,6 +153,7 @@ domain_suffix_set:
   - ca-sinfusi.com
   - canghaiip.com
   - cangjie-lang.net
+  - cc39ute.shop
   - ccw.site
   - cdn.doctor
   - cdn.ist
@@ -219,6 +222,7 @@ domain_suffix_set:
   - douqq.com
   - drvceo.com
   - dskj-ops.com
+  - dtproj.top
   - dushe1.app
   - dytt8.com
   - eagsen.com
@@ -532,6 +536,7 @@ domain_suffix_set:
   - powershellgallery.com
   - ppt28.com
   - privateapi.xyz
+  - psf0404.shop
   - ptlgs.org
   - pwithe.com
   - qianfan.app

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 776
+# 规则统计: 777
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -317,6 +317,7 @@ HOST-SUFFIX,gvgoo.com,Direct
 HOST-SUFFIX,gwmapp-w.com,Direct
 HOST-SUFFIX,gxnnjidingkeji.top,Direct
 HOST-SUFFIX,gzybao.com,Direct
+HOST-SUFFIX,h6009.top,Direct
 HOST-SUFFIX,haimaiedu.net,Direct
 HOST-SUFFIX,halvie.com,Direct
 HOST-SUFFIX,ham.xin,Direct

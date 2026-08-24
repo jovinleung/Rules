@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 777
+# 规则统计: 778
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -317,6 +317,7 @@ DOMAIN-SUFFIX,gvgoo.com
 DOMAIN-SUFFIX,gwmapp-w.com
 DOMAIN-SUFFIX,gxnnjidingkeji.top
 DOMAIN-SUFFIX,gzybao.com
+DOMAIN-SUFFIX,h6009.top
 DOMAIN-SUFFIX,haimaiedu.net
 DOMAIN-SUFFIX,halvie.com
 DOMAIN-SUFFIX,ham.xin

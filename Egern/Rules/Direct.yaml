@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 777
+# 规则统计: 778
 
 no_resolve: true
 domain_set:
@@ -320,6 +320,7 @@ domain_suffix_set:
   - gwmapp-w.com
   - gxnnjidingkeji.top
   - gzybao.com
+  - h6009.top
   - haimaiedu.net
   - halvie.com
   - ham.xin

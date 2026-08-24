@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 775
+# 规则统计: 777
 
 no_resolve: true
 domain_set:
@@ -152,6 +152,7 @@ domain_suffix_set:
   - canghaiip.com
   - cangjie-lang.net
   - ccw.site
+  - cdn.doctor
   - cdn.ist
   - cdut.top
   - centbrowser.net
@@ -654,6 +655,7 @@ domain_suffix_set:
   - vclbrokers.com
   - vcltrade.com
   - vgogbuy.com
+  - vip-cdn.com
   - vpsjyz.com
   - vv1865.com
   - warmheart.top

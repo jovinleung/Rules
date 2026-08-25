@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 791
+# 规则统计: 795
 
 no_resolve: true
 domain_set:
@@ -86,6 +86,7 @@ domain_suffix_set:
   - 998tool.com
   - a0d.top
   - aaawz.cc
+  - abctougu.com
   - acepanel.net
   - acgdraw.com
   - acggit.com
@@ -124,6 +125,7 @@ domain_suffix_set:
   - asgardion.space
   - atticus.vip
   - awstme.top
+  - ax1x.com
   - axuex.top
   - b7f3192.com
   - ba-hospital.com
@@ -347,6 +349,7 @@ domain_suffix_set:
   - hfhs8x.info
   - hhtvc.com
   - hijin.vip
+  - hiocloud.com
   - hiwms.com
   - hkchat.app
   - hnchasing.com
@@ -503,6 +506,7 @@ domain_suffix_set:
   - nkxingxh.top
   - nlyd.club
   - nn.ci
+  - no-mad-sub.one
   - nodcloud.com
   - noyer.eu.org
   - nxog.top

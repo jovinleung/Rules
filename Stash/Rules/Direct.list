@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 791
+# 规则统计: 795
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -83,6 +83,7 @@ DOMAIN-SUFFIX,985hezi.com
 DOMAIN-SUFFIX,998tool.com
 DOMAIN-SUFFIX,a0d.top
 DOMAIN-SUFFIX,aaawz.cc
+DOMAIN-SUFFIX,abctougu.com
 DOMAIN-SUFFIX,acepanel.net
 DOMAIN-SUFFIX,acgdraw.com
 DOMAIN-SUFFIX,acggit.com
@@ -121,6 +122,7 @@ DOMAIN-SUFFIX,armvm.com
 DOMAIN-SUFFIX,asgardion.space
 DOMAIN-SUFFIX,atticus.vip
 DOMAIN-SUFFIX,awstme.top
+DOMAIN-SUFFIX,ax1x.com
 DOMAIN-SUFFIX,axuex.top
 DOMAIN-SUFFIX,b7f3192.com
 DOMAIN-SUFFIX,ba-hospital.com
@@ -344,6 +346,7 @@ DOMAIN-SUFFIX,hf-mirror.com
 DOMAIN-SUFFIX,hfhs8x.info
 DOMAIN-SUFFIX,hhtvc.com
 DOMAIN-SUFFIX,hijin.vip
+DOMAIN-SUFFIX,hiocloud.com
 DOMAIN-SUFFIX,hiwms.com
 DOMAIN-SUFFIX,hkchat.app
 DOMAIN-SUFFIX,hnchasing.com
@@ -500,6 +503,7 @@ DOMAIN-SUFFIX,njonemall.com
 DOMAIN-SUFFIX,nkxingxh.top
 DOMAIN-SUFFIX,nlyd.club
 DOMAIN-SUFFIX,nn.ci
+DOMAIN-SUFFIX,no-mad-sub.one
 DOMAIN-SUFFIX,nodcloud.com
 DOMAIN-SUFFIX,noyer.eu.org
 DOMAIN-SUFFIX,nxog.top

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 790
+# 规则统计: 794
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -83,6 +83,7 @@ HOST-SUFFIX,985hezi.com,Direct
 HOST-SUFFIX,998tool.com,Direct
 HOST-SUFFIX,a0d.top,Direct
 HOST-SUFFIX,aaawz.cc,Direct
+HOST-SUFFIX,abctougu.com,Direct
 HOST-SUFFIX,acepanel.net,Direct
 HOST-SUFFIX,acgdraw.com,Direct
 HOST-SUFFIX,acggit.com,Direct
@@ -121,6 +122,7 @@ HOST-SUFFIX,armvm.com,Direct
 HOST-SUFFIX,asgardion.space,Direct
 HOST-SUFFIX,atticus.vip,Direct
 HOST-SUFFIX,awstme.top,Direct
+HOST-SUFFIX,ax1x.com,Direct
 HOST-SUFFIX,axuex.top,Direct
 HOST-SUFFIX,b7f3192.com,Direct
 HOST-SUFFIX,ba-hospital.com,Direct
@@ -344,6 +346,7 @@ HOST-SUFFIX,hf-mirror.com,Direct
 HOST-SUFFIX,hfhs8x.info,Direct
 HOST-SUFFIX,hhtvc.com,Direct
 HOST-SUFFIX,hijin.vip,Direct
+HOST-SUFFIX,hiocloud.com,Direct
 HOST-SUFFIX,hiwms.com,Direct
 HOST-SUFFIX,hkchat.app,Direct
 HOST-SUFFIX,hnchasing.com,Direct
@@ -500,6 +503,7 @@ HOST-SUFFIX,njonemall.com,Direct
 HOST-SUFFIX,nkxingxh.top,Direct
 HOST-SUFFIX,nlyd.club,Direct
 HOST-SUFFIX,nn.ci,Direct
+HOST-SUFFIX,no-mad-sub.one,Direct
 HOST-SUFFIX,nodcloud.com,Direct
 HOST-SUFFIX,noyer.eu.org,Direct
 HOST-SUFFIX,nxog.top,Direct

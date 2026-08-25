@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 795
+# 规则统计: 796
 
 no_resolve: true
 domain_set:
@@ -453,6 +453,7 @@ domain_suffix_set:
   - localhost.ptlogin2.qq.com
   - localhost.sec.qq.com
   - longmenshuju.com
+  - loveutips.com
   - lsbj365.com
   - lucky.gd
   - lyihub.com

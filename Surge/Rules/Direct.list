@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 795
+# 规则统计: 796
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -450,6 +450,7 @@ DOMAIN-SUFFIX,liveperson.net
 DOMAIN-SUFFIX,localhost.ptlogin2.qq.com
 DOMAIN-SUFFIX,localhost.sec.qq.com
 DOMAIN-SUFFIX,longmenshuju.com
+DOMAIN-SUFFIX,loveutips.com
 DOMAIN-SUFFIX,lsbj365.com
 DOMAIN-SUFFIX,lucky.gd
 DOMAIN-SUFFIX,lyihub.com

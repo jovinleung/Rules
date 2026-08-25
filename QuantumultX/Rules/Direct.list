@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 794
+# 规则统计: 795
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -450,6 +450,7 @@ HOST-SUFFIX,liveperson.net,Direct
 HOST-SUFFIX,localhost.ptlogin2.qq.com,Direct
 HOST-SUFFIX,localhost.sec.qq.com,Direct
 HOST-SUFFIX,longmenshuju.com,Direct
+HOST-SUFFIX,loveutips.com,Direct
 HOST-SUFFIX,lsbj365.com,Direct
 HOST-SUFFIX,lucky.gd,Direct
 HOST-SUFFIX,lyihub.com,Direct

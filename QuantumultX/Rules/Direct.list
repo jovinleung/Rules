@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 783
+# 规则统计: 790
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -147,6 +147,7 @@ HOST-SUFFIX,boxim.online,Direct
 HOST-SUFFIX,boyuemobile.com,Direct
 HOST-SUFFIX,bsbsb.top,Direct
 HOST-SUFFIX,bunny.net,Direct
+HOST-SUFFIX,bvmlt.top,Direct
 HOST-SUFFIX,ca-sinfusi.com,Direct
 HOST-SUFFIX,canghaiip.com,Direct
 HOST-SUFFIX,cangjie-lang.net,Direct
@@ -172,6 +173,7 @@ HOST-SUFFIX,chinatle.com,Direct
 HOST-SUFFIX,chuguansmart.com,Direct
 HOST-SUFFIX,chujingapp.com,Direct
 HOST-SUFFIX,chushi.cool,Direct
+HOST-SUFFIX,ciallo.party,Direct
 HOST-SUFFIX,clivia.fun,Direct
 HOST-SUFFIX,cmbc.run,Direct
 HOST-SUFFIX,cmhk.com,Direct
@@ -259,6 +261,7 @@ HOST-SUFFIX,fsytss.com,Direct
 HOST-SUFFIX,ft07.com,Direct
 HOST-SUFFIX,ftqq.com,Direct
 HOST-SUFFIX,functorz.com,Direct
+HOST-SUFFIX,funmob.top,Direct
 HOST-SUFFIX,fussengroup.com,Direct
 HOST-SUFFIX,fuyinkeji.top,Direct
 HOST-SUFFIX,fuziche.com,Direct
@@ -349,6 +352,7 @@ HOST-SUFFIX,hoaihe.store,Direct
 HOST-SUFFIX,hongxingdl.com,Direct
 HOST-SUFFIX,hongxingdl.love,Direct
 HOST-SUFFIX,hprtupgrade.com,Direct
+HOST-SUFFIX,hrhgstock.com,Direct
 HOST-SUFFIX,hsbc.com.hk,Direct
 HOST-SUFFIX,hstbroker.com,Direct
 HOST-SUFFIX,hszq6.com,Direct
@@ -480,6 +484,7 @@ HOST-SUFFIX,msftconnecttest.com,Direct
 HOST-SUFFIX,msftncsi.com,Direct
 HOST-SUFFIX,mslmc.net,Direct
 HOST-SUFFIX,mtaokj.com,Direct
+HOST-SUFFIX,muhemob.com,Direct
 HOST-SUFFIX,mykuaidi.com,Direct
 HOST-SUFFIX,myrny.xin,Direct
 HOST-SUFFIX,myshopex.com,Direct
@@ -573,6 +578,7 @@ HOST-SUFFIX,sdk-log-upload-os.hoyoverse.com,Direct
 HOST-SUFFIX,seaflysoft.com,Direct
 HOST-SUFFIX,seedpace.com,Direct
 HOST-SUFFIX,senachina.com,Direct
+HOST-SUFFIX,senmuse.com,Direct
 HOST-SUFFIX,server2.cn2gias.uk,Direct
 HOST-SUFFIX,sgtv.ii00.cc,Direct
 HOST-SUFFIX,shanghai-parking.com,Direct
@@ -753,6 +759,7 @@ HOST-SUFFIX,zhixingyunke.com,Direct
 HOST-SUFFIX,zhongancloud.com,Direct
 HOST-SUFFIX,zhouyiy.com,Direct
 HOST-SUFFIX,zhu.today,Direct
+HOST-SUFFIX,zhytstudio.com,Direct
 HOST-SUFFIX,zjjslawyer.com,Direct
 HOST-SUFFIX,zjshulong.com,Direct
 HOST-SUFFIX,zjxhedu.com,Direct

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 806
+# 规则统计: 814
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -439,6 +439,8 @@ DOMAIN-SUFFIX,kldai.vip
 DOMAIN-SUFFIX,kmeila.com
 DOMAIN-SUFFIX,knit.bid
 DOMAIN-SUFFIX,kuaicha888.com
+DOMAIN-SUFFIX,kudashi.com
+DOMAIN-SUFFIX,kukongjian.com
 DOMAIN-SUFFIX,lanyun.net
 DOMAIN-SUFFIX,laogongju.com
 DOMAIN-SUFFIX,latexlive.com
@@ -471,6 +473,7 @@ DOMAIN-SUFFIX,mcar.vip
 DOMAIN-SUFFIX,mchuiji.com
 DOMAIN-SUFFIX,mcxyzt.cc
 DOMAIN-SUFFIX,medtechshare.com
+DOMAIN-SUFFIX,meijian.com
 DOMAIN-SUFFIX,meishiffx.online
 DOMAIN-SUFFIX,meiyitou.top
 DOMAIN-SUFFIX,melecode.com
@@ -486,6 +489,7 @@ DOMAIN-SUFFIX,minor-api-os.hoyoverse.com
 DOMAIN-SUFFIX,miraiemby.com
 DOMAIN-SUFFIX,mixly.org
 DOMAIN-SUFFIX,mobai.sbs
+DOMAIN-SUFFIX,modaiyun.com
 DOMAIN-SUFFIX,modelscope.net
 DOMAIN-SUFFIX,monkeyray.net
 DOMAIN-SUFFIX,morefuntengyun.com
@@ -646,6 +650,7 @@ DOMAIN-SUFFIX,thispx.com
 DOMAIN-SUFFIX,thmnet.com
 DOMAIN-SUFFIX,threep.top
 DOMAIN-SUFFIX,tianlala.com
+DOMAIN-SUFFIX,tianruo.xyz
 DOMAIN-SUFFIX,timbrd.com
 DOMAIN-SUFFIX,tixue.net
 DOMAIN-SUFFIX,tluyou.com
@@ -656,6 +661,7 @@ DOMAIN-SUFFIX,tnas.online
 DOMAIN-SUFFIX,tongkask.com
 DOMAIN-SUFFIX,tool56.com
 DOMAIN-SUFFIX,topwd.top
+DOMAIN-SUFFIX,touchgal.ink
 DOMAIN-SUFFIX,tozi-cn.top
 DOMAIN-SUFFIX,trjho.com
 DOMAIN-SUFFIX,ts3.ink
@@ -664,6 +670,7 @@ DOMAIN-SUFFIX,tulipsport.com
 DOMAIN-SUFFIX,tumukaoyan.com
 DOMAIN-SUFFIX,tuxing.art
 DOMAIN-SUFFIX,twinkstar.com
+DOMAIN-SUFFIX,tztec.top
 DOMAIN-SUFFIX,u-carloan.com
 DOMAIN-SUFFIX,uascent-iot.com
 DOMAIN-SUFFIX,ugdocker.link
@@ -740,6 +747,7 @@ DOMAIN-SUFFIX,xuepaipai.com
 DOMAIN-SUFFIX,xxir.com
 DOMAIN-SUFFIX,xxrsm.com
 DOMAIN-SUFFIX,xyys.com
+DOMAIN-SUFFIX,xzong.online
 DOMAIN-SUFFIX,xzsckj.com
 DOMAIN-SUFFIX,xzzhtc.com
 DOMAIN-SUFFIX,yayi360.com

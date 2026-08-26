@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 805
+# 规则统计: 813
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -439,6 +439,8 @@ HOST-SUFFIX,kldai.vip,Direct
 HOST-SUFFIX,kmeila.com,Direct
 HOST-SUFFIX,knit.bid,Direct
 HOST-SUFFIX,kuaicha888.com,Direct
+HOST-SUFFIX,kudashi.com,Direct
+HOST-SUFFIX,kukongjian.com,Direct
 HOST-SUFFIX,lanyun.net,Direct
 HOST-SUFFIX,laogongju.com,Direct
 HOST-SUFFIX,latexlive.com,Direct
@@ -471,6 +473,7 @@ HOST-SUFFIX,mcar.vip,Direct
 HOST-SUFFIX,mchuiji.com,Direct
 HOST-SUFFIX,mcxyzt.cc,Direct
 HOST-SUFFIX,medtechshare.com,Direct
+HOST-SUFFIX,meijian.com,Direct
 HOST-SUFFIX,meishiffx.online,Direct
 HOST-SUFFIX,meiyitou.top,Direct
 HOST-SUFFIX,melecode.com,Direct
@@ -486,6 +489,7 @@ HOST-SUFFIX,minor-api-os.hoyoverse.com,Direct
 HOST-SUFFIX,miraiemby.com,Direct
 HOST-SUFFIX,mixly.org,Direct
 HOST-SUFFIX,mobai.sbs,Direct
+HOST-SUFFIX,modaiyun.com,Direct
 HOST-SUFFIX,modelscope.net,Direct
 HOST-SUFFIX,monkeyray.net,Direct
 HOST-SUFFIX,morefuntengyun.com,Direct
@@ -646,6 +650,7 @@ HOST-SUFFIX,thispx.com,Direct
 HOST-SUFFIX,thmnet.com,Direct
 HOST-SUFFIX,threep.top,Direct
 HOST-SUFFIX,tianlala.com,Direct
+HOST-SUFFIX,tianruo.xyz,Direct
 HOST-SUFFIX,timbrd.com,Direct
 HOST-SUFFIX,tixue.net,Direct
 HOST-SUFFIX,tluyou.com,Direct
@@ -656,6 +661,7 @@ HOST-SUFFIX,tnas.online,Direct
 HOST-SUFFIX,tongkask.com,Direct
 HOST-SUFFIX,tool56.com,Direct
 HOST-SUFFIX,topwd.top,Direct
+HOST-SUFFIX,touchgal.ink,Direct
 HOST-SUFFIX,tozi-cn.top,Direct
 HOST-SUFFIX,trjho.com,Direct
 HOST-SUFFIX,ts3.ink,Direct
@@ -664,6 +670,7 @@ HOST-SUFFIX,tulipsport.com,Direct
 HOST-SUFFIX,tumukaoyan.com,Direct
 HOST-SUFFIX,tuxing.art,Direct
 HOST-SUFFIX,twinkstar.com,Direct
+HOST-SUFFIX,tztec.top,Direct
 HOST-SUFFIX,u-carloan.com,Direct
 HOST-SUFFIX,uascent-iot.com,Direct
 HOST-SUFFIX,ugdocker.link,Direct
@@ -740,6 +747,7 @@ HOST-SUFFIX,xuepaipai.com,Direct
 HOST-SUFFIX,xxir.com,Direct
 HOST-SUFFIX,xxrsm.com,Direct
 HOST-SUFFIX,xyys.com,Direct
+HOST-SUFFIX,xzong.online,Direct
 HOST-SUFFIX,xzsckj.com,Direct
 HOST-SUFFIX,xzzhtc.com,Direct
 HOST-SUFFIX,yayi360.com,Direct

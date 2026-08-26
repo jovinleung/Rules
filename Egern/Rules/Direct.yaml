@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 806
+# 规则统计: 814
 
 no_resolve: true
 domain_set:
@@ -442,6 +442,8 @@ domain_suffix_set:
   - kmeila.com
   - knit.bid
   - kuaicha888.com
+  - kudashi.com
+  - kukongjian.com
   - lanyun.net
   - laogongju.com
   - latexlive.com
@@ -474,6 +476,7 @@ domain_suffix_set:
   - mchuiji.com
   - mcxyzt.cc
   - medtechshare.com
+  - meijian.com
   - meishiffx.online
   - meiyitou.top
   - melecode.com
@@ -489,6 +492,7 @@ domain_suffix_set:
   - miraiemby.com
   - mixly.org
   - mobai.sbs
+  - modaiyun.com
   - modelscope.net
   - monkeyray.net
   - morefuntengyun.com
@@ -649,6 +653,7 @@ domain_suffix_set:
   - thmnet.com
   - threep.top
   - tianlala.com
+  - tianruo.xyz
   - timbrd.com
   - tixue.net
   - tluyou.com
@@ -659,6 +664,7 @@ domain_suffix_set:
   - tongkask.com
   - tool56.com
   - topwd.top
+  - touchgal.ink
   - tozi-cn.top
   - trjho.com
   - ts3.ink
@@ -667,6 +673,7 @@ domain_suffix_set:
   - tumukaoyan.com
   - tuxing.art
   - twinkstar.com
+  - tztec.top
   - u-carloan.com
   - uascent-iot.com
   - ugdocker.link
@@ -743,6 +750,7 @@ domain_suffix_set:
   - xxir.com
   - xxrsm.com
   - xyys.com
+  - xzong.online
   - xzsckj.com
   - xzzhtc.com
   - yayi360.com

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 813
+# 规则统计: 816
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -138,6 +138,7 @@ HOST-SUFFIX,batchat.com,Direct
 HOST-SUFFIX,bdcb.cc,Direct
 HOST-SUFFIX,beautifulcarrot.com,Direct
 HOST-SUFFIX,belimked.com,Direct
+HOST-SUFFIX,belongme.top,Direct
 HOST-SUFFIX,betahub.tech,Direct
 HOST-SUFFIX,biandangroup.com,Direct
 HOST-SUFFIX,biaoda.me,Direct
@@ -246,6 +247,7 @@ HOST-SUFFIX,et0731.com,Direct
 HOST-SUFFIX,everdrawing.com,Direct
 HOST-SUFFIX,excelbbx.net,Direct
 HOST-SUFFIX,exiliumgf.com,Direct
+HOST-SUFFIX,fastify.cc,Direct
 HOST-SUFFIX,fb71ef91e1014.beer,Direct
 HOST-SUFFIX,fdfinvoice.com,Direct
 HOST-SUFFIX,feihengip.com,Direct
@@ -534,6 +536,7 @@ HOST-SUFFIX,ottiptv.cc,Direct
 HOST-SUFFIX,ourschool.cc,Direct
 HOST-SUFFIX,p01.epsonconnect.com,Direct
 HOST-SUFFIX,packertec.com,Direct
+HOST-SUFFIX,panjue.com,Direct
 HOST-SUFFIX,paperang.com,Direct
 HOST-SUFFIX,passnat.com,Direct
 HOST-SUFFIX,pcwatch.com,Direct

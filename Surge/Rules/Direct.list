@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 814
+# 规则统计: 817
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -138,6 +138,7 @@ DOMAIN-SUFFIX,batchat.com
 DOMAIN-SUFFIX,bdcb.cc
 DOMAIN-SUFFIX,beautifulcarrot.com
 DOMAIN-SUFFIX,belimked.com
+DOMAIN-SUFFIX,belongme.top
 DOMAIN-SUFFIX,betahub.tech
 DOMAIN-SUFFIX,biandangroup.com
 DOMAIN-SUFFIX,biaoda.me
@@ -246,6 +247,7 @@ DOMAIN-SUFFIX,et0731.com
 DOMAIN-SUFFIX,everdrawing.com
 DOMAIN-SUFFIX,excelbbx.net
 DOMAIN-SUFFIX,exiliumgf.com
+DOMAIN-SUFFIX,fastify.cc
 DOMAIN-SUFFIX,fb71ef91e1014.beer
 DOMAIN-SUFFIX,fdfinvoice.com
 DOMAIN-SUFFIX,feihengip.com
@@ -534,6 +536,7 @@ DOMAIN-SUFFIX,ottiptv.cc
 DOMAIN-SUFFIX,ourschool.cc
 DOMAIN-SUFFIX,p01.epsonconnect.com
 DOMAIN-SUFFIX,packertec.com
+DOMAIN-SUFFIX,panjue.com
 DOMAIN-SUFFIX,paperang.com
 DOMAIN-SUFFIX,passnat.com
 DOMAIN-SUFFIX,pcwatch.com

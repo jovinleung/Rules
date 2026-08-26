@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 796
+# 规则统计: 806
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -43,6 +43,7 @@ DOMAIN-SUFFIX,123clouddisk.com
 DOMAIN-SUFFIX,17van.com
 DOMAIN-SUFFIX,1996999.xyz
 DOMAIN-SUFFIX,204cloud.com
+DOMAIN-SUFFIX,25mao.com
 DOMAIN-SUFFIX,2mcnxs.cc
 DOMAIN-SUFFIX,365ting.com
 DOMAIN-SUFFIX,365wp.top
@@ -54,6 +55,7 @@ DOMAIN-SUFFIX,4399zmxy.com
 DOMAIN-SUFFIX,4kgj.com
 DOMAIN-SUFFIX,4xiaoshuo.org
 DOMAIN-SUFFIX,51kandianshi.com
+DOMAIN-SUFFIX,51mowan.com
 DOMAIN-SUFFIX,51tbox.com
 DOMAIN-SUFFIX,51wanxue.com
 DOMAIN-SUFFIX,51zmt.top
@@ -89,6 +91,7 @@ DOMAIN-SUFFIX,acgdraw.com
 DOMAIN-SUFFIX,acggit.com
 DOMAIN-SUFFIX,adhuanxiao.com
 DOMAIN-SUFFIX,adobe.com
+DOMAIN-SUFFIX,adosmo.com
 DOMAIN-SUFFIX,afeica.com
 DOMAIN-SUFFIX,afuns.me
 DOMAIN-SUFFIX,agentscope.io
@@ -193,6 +196,7 @@ DOMAIN-SUFFIX,coros.com
 DOMAIN-SUFFIX,crrcgo.cc
 DOMAIN-SUFFIX,crtyhr.com
 DOMAIN-SUFFIX,csqaq.com
+DOMAIN-SUFFIX,cydiabc.top
 DOMAIN-SUFFIX,cym520.top
 DOMAIN-SUFFIX,cyouzai.com
 DOMAIN-SUFFIX,d4ctech.com
@@ -345,6 +349,7 @@ DOMAIN-SUFFIX,hezuvip.com
 DOMAIN-SUFFIX,hf-mirror.com
 DOMAIN-SUFFIX,hfhs8x.info
 DOMAIN-SUFFIX,hhtvc.com
+DOMAIN-SUFFIX,higgsweb.com
 DOMAIN-SUFFIX,hijin.vip
 DOMAIN-SUFFIX,hiocloud.com
 DOMAIN-SUFFIX,hiwms.com
@@ -429,6 +434,7 @@ DOMAIN-SUFFIX,kejiweixun.com
 DOMAIN-SUFFIX,keyoo.com
 DOMAIN-SUFFIX,kgithub.com
 DOMAIN-SUFFIX,kit327.com
+DOMAIN-SUFFIX,kiwiot.com
 DOMAIN-SUFFIX,kldai.vip
 DOMAIN-SUFFIX,kmeila.com
 DOMAIN-SUFFIX,knit.bid
@@ -526,6 +532,7 @@ DOMAIN-SUFFIX,p01.epsonconnect.com
 DOMAIN-SUFFIX,packertec.com
 DOMAIN-SUFFIX,paperang.com
 DOMAIN-SUFFIX,passnat.com
+DOMAIN-SUFFIX,pcwatch.com
 DOMAIN-SUFFIX,pianyuan.org
 DOMAIN-SUFFIX,piedaochuan.top
 DOMAIN-SUFFIX,pixcheese.com
@@ -597,6 +604,7 @@ DOMAIN-SUFFIX,shuqiandiqiu.com
 DOMAIN-SUFFIX,shyxhy.com
 DOMAIN-SUFFIX,sisiim.com
 DOMAIN-SUFFIX,sixloy428.top
+DOMAIN-SUFFIX,skktec.com
 DOMAIN-SUFFIX,sksight.com
 DOMAIN-SUFFIX,snfox.com
 DOMAIN-SUFFIX,snltty.com
@@ -615,6 +623,7 @@ DOMAIN-SUFFIX,suyur.com
 DOMAIN-SUFFIX,svyun.com
 DOMAIN-SUFFIX,sxlljm.com
 DOMAIN-SUFFIX,sy1.top
+DOMAIN-SUFFIX,sztopten.com
 DOMAIN-SUFFIX,tailgdd.com
 DOMAIN-SUFFIX,tailscale.com
 DOMAIN-SUFFIX,tajiduo.com
@@ -768,6 +777,7 @@ DOMAIN-SUFFIX,zhytstudio.com
 DOMAIN-SUFFIX,zjjslawyer.com
 DOMAIN-SUFFIX,zjshulong.com
 DOMAIN-SUFFIX,zjxhedu.com
+DOMAIN-SUFFIX,zllinks.com
 DOMAIN-SUFFIX,zmis.me
 DOMAIN-SUFFIX,znnu.com
 DOMAIN-SUFFIX,znztv.com

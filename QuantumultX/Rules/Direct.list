@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 795
+# 规则统计: 805
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -43,6 +43,7 @@ HOST-SUFFIX,123clouddisk.com,Direct
 HOST-SUFFIX,17van.com,Direct
 HOST-SUFFIX,1996999.xyz,Direct
 HOST-SUFFIX,204cloud.com,Direct
+HOST-SUFFIX,25mao.com,Direct
 HOST-SUFFIX,2mcnxs.cc,Direct
 HOST-SUFFIX,365ting.com,Direct
 HOST-SUFFIX,365wp.top,Direct
@@ -54,6 +55,7 @@ HOST-SUFFIX,4399zmxy.com,Direct
 HOST-SUFFIX,4kgj.com,Direct
 HOST-SUFFIX,4xiaoshuo.org,Direct
 HOST-SUFFIX,51kandianshi.com,Direct
+HOST-SUFFIX,51mowan.com,Direct
 HOST-SUFFIX,51tbox.com,Direct
 HOST-SUFFIX,51wanxue.com,Direct
 HOST-SUFFIX,51zmt.top,Direct
@@ -89,6 +91,7 @@ HOST-SUFFIX,acgdraw.com,Direct
 HOST-SUFFIX,acggit.com,Direct
 HOST-SUFFIX,adhuanxiao.com,Direct
 HOST-SUFFIX,adobe.com,Direct
+HOST-SUFFIX,adosmo.com,Direct
 HOST-SUFFIX,afeica.com,Direct
 HOST-SUFFIX,afuns.me,Direct
 HOST-SUFFIX,agentscope.io,Direct
@@ -193,6 +196,7 @@ HOST-SUFFIX,coros.com,Direct
 HOST-SUFFIX,crrcgo.cc,Direct
 HOST-SUFFIX,crtyhr.com,Direct
 HOST-SUFFIX,csqaq.com,Direct
+HOST-SUFFIX,cydiabc.top,Direct
 HOST-SUFFIX,cym520.top,Direct
 HOST-SUFFIX,cyouzai.com,Direct
 HOST-SUFFIX,d4ctech.com,Direct
@@ -345,6 +349,7 @@ HOST-SUFFIX,hezuvip.com,Direct
 HOST-SUFFIX,hf-mirror.com,Direct
 HOST-SUFFIX,hfhs8x.info,Direct
 HOST-SUFFIX,hhtvc.com,Direct
+HOST-SUFFIX,higgsweb.com,Direct
 HOST-SUFFIX,hijin.vip,Direct
 HOST-SUFFIX,hiocloud.com,Direct
 HOST-SUFFIX,hiwms.com,Direct
@@ -429,6 +434,7 @@ HOST-SUFFIX,kejiweixun.com,Direct
 HOST-SUFFIX,keyoo.com,Direct
 HOST-SUFFIX,kgithub.com,Direct
 HOST-SUFFIX,kit327.com,Direct
+HOST-SUFFIX,kiwiot.com,Direct
 HOST-SUFFIX,kldai.vip,Direct
 HOST-SUFFIX,kmeila.com,Direct
 HOST-SUFFIX,knit.bid,Direct
@@ -526,6 +532,7 @@ HOST-SUFFIX,p01.epsonconnect.com,Direct
 HOST-SUFFIX,packertec.com,Direct
 HOST-SUFFIX,paperang.com,Direct
 HOST-SUFFIX,passnat.com,Direct
+HOST-SUFFIX,pcwatch.com,Direct
 HOST-SUFFIX,pianyuan.org,Direct
 HOST-SUFFIX,piedaochuan.top,Direct
 HOST-SUFFIX,pixcheese.com,Direct
@@ -597,6 +604,7 @@ HOST-SUFFIX,shuqiandiqiu.com,Direct
 HOST-SUFFIX,shyxhy.com,Direct
 HOST-SUFFIX,sisiim.com,Direct
 HOST-SUFFIX,sixloy428.top,Direct
+HOST-SUFFIX,skktec.com,Direct
 HOST-SUFFIX,sksight.com,Direct
 HOST-SUFFIX,snfox.com,Direct
 HOST-SUFFIX,snltty.com,Direct
@@ -615,6 +623,7 @@ HOST-SUFFIX,suyur.com,Direct
 HOST-SUFFIX,svyun.com,Direct
 HOST-SUFFIX,sxlljm.com,Direct
 HOST-SUFFIX,sy1.top,Direct
+HOST-SUFFIX,sztopten.com,Direct
 HOST-SUFFIX,tailgdd.com,Direct
 HOST-SUFFIX,tailscale.com,Direct
 HOST-SUFFIX,tajiduo.com,Direct
@@ -768,6 +777,7 @@ HOST-SUFFIX,zhytstudio.com,Direct
 HOST-SUFFIX,zjjslawyer.com,Direct
 HOST-SUFFIX,zjshulong.com,Direct
 HOST-SUFFIX,zjxhedu.com,Direct
+HOST-SUFFIX,zllinks.com,Direct
 HOST-SUFFIX,zmis.me,Direct
 HOST-SUFFIX,znnu.com,Direct
 HOST-SUFFIX,znztv.com,Direct

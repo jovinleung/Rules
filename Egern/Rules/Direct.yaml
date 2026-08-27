@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 819
+# 规则统计: 822
 
 no_resolve: true
 domain_set:
@@ -466,6 +466,7 @@ domain_suffix_set:
   - longmenshuju.com
   - loveutips.com
   - lsbj365.com
+  - lsposed.zip
   - lucky.gd
   - lyihub.com
   - lyilife.com
@@ -729,6 +730,7 @@ domain_suffix_set:
   - xianghuiin.com
   - xiankabao.com
   - xiaobeiyangji.com
+  - xiaocaiyuan.com
   - xiaochuanyun.com
   - xiaolikj.online
   - xiaomaicn.com
@@ -762,6 +764,7 @@ domain_suffix_set:
   - ycjintou.com
   - ydayc.com
   - yhxjkj.top
+  - yibanbianji.com
   - yicaiykt.com
   - yingshi.dog
   - yiso.fun

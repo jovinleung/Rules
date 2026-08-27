@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 818
+# 规则统计: 821
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -463,6 +463,7 @@ HOST-SUFFIX,localhost.sec.qq.com,Direct
 HOST-SUFFIX,longmenshuju.com,Direct
 HOST-SUFFIX,loveutips.com,Direct
 HOST-SUFFIX,lsbj365.com,Direct
+HOST-SUFFIX,lsposed.zip,Direct
 HOST-SUFFIX,lucky.gd,Direct
 HOST-SUFFIX,lyihub.com,Direct
 HOST-SUFFIX,lyilife.com,Direct
@@ -726,6 +727,7 @@ HOST-SUFFIX,xgzb.top,Direct
 HOST-SUFFIX,xianghuiin.com,Direct
 HOST-SUFFIX,xiankabao.com,Direct
 HOST-SUFFIX,xiaobeiyangji.com,Direct
+HOST-SUFFIX,xiaocaiyuan.com,Direct
 HOST-SUFFIX,xiaochuanyun.com,Direct
 HOST-SUFFIX,xiaolikj.online,Direct
 HOST-SUFFIX,xiaomaicn.com,Direct
@@ -759,6 +761,7 @@ HOST-SUFFIX,yayi360.com,Direct
 HOST-SUFFIX,ycjintou.com,Direct
 HOST-SUFFIX,ydayc.com,Direct
 HOST-SUFFIX,yhxjkj.top,Direct
+HOST-SUFFIX,yibanbianji.com,Direct
 HOST-SUFFIX,yicaiykt.com,Direct
 HOST-SUFFIX,yingshi.dog,Direct
 HOST-SUFFIX,yiso.fun,Direct

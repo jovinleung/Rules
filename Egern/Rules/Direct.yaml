@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 817
+# 规则统计: 819
 
 no_resolve: true
 domain_set:
@@ -267,6 +267,7 @@ domain_suffix_set:
   - fowep.com
   - freetv.top
   - frp-ski.com
+  - fsjiaoyubang.com
   - fssbcc.top
   - fsytss.com
   - ft07.com
@@ -533,6 +534,7 @@ domain_suffix_set:
   - openevai.com
   - openkylin.top
   - opentrust.net
+  - orence.net
   - osbdf.com
   - ottai.com
   - ottiptv.cc

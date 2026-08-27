@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 817
+# 规则统计: 819
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -264,6 +264,7 @@ DOMAIN-SUFFIX,fofuai.com
 DOMAIN-SUFFIX,fowep.com
 DOMAIN-SUFFIX,freetv.top
 DOMAIN-SUFFIX,frp-ski.com
+DOMAIN-SUFFIX,fsjiaoyubang.com
 DOMAIN-SUFFIX,fssbcc.top
 DOMAIN-SUFFIX,fsytss.com
 DOMAIN-SUFFIX,ft07.com
@@ -530,6 +531,7 @@ DOMAIN-SUFFIX,openappfilter.com
 DOMAIN-SUFFIX,openevai.com
 DOMAIN-SUFFIX,openkylin.top
 DOMAIN-SUFFIX,opentrust.net
+DOMAIN-SUFFIX,orence.net
 DOMAIN-SUFFIX,osbdf.com
 DOMAIN-SUFFIX,ottai.com
 DOMAIN-SUFFIX,ottiptv.cc

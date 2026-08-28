@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 843
+# 规则统计: 845
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -213,6 +213,7 @@ DOMAIN-SUFFIX,dcshfu.com
 DOMAIN-SUFFIX,ddsrem.com
 DOMAIN-SUFFIX,ddxq.mobi
 DOMAIN-SUFFIX,ddzn.tech
+DOMAIN-SUFFIX,deepzero.com
 DOMAIN-SUFFIX,dell.com
 DOMAIN-SUFFIX,dfhog.com
 DOMAIN-SUFFIX,dhub.kubesre.xyz
@@ -740,6 +741,7 @@ DOMAIN-SUFFIX,xboxfan.com
 DOMAIN-SUFFIX,xdqtech.com
 DOMAIN-SUFFIX,xdtool.com
 DOMAIN-SUFFIX,xesabc.com
+DOMAIN-SUFFIX,xesim.net
 DOMAIN-SUFFIX,xfltd.org
 DOMAIN-SUFFIX,xgzb.top
 DOMAIN-SUFFIX,xianghuiin.com

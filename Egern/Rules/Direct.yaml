@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 843
+# 规则统计: 845
 
 no_resolve: true
 domain_set:
@@ -216,6 +216,7 @@ domain_suffix_set:
   - ddsrem.com
   - ddxq.mobi
   - ddzn.tech
+  - deepzero.com
   - dell.com
   - dfhog.com
   - dhub.kubesre.xyz
@@ -743,6 +744,7 @@ domain_suffix_set:
   - xdqtech.com
   - xdtool.com
   - xesabc.com
+  - xesim.net
   - xfltd.org
   - xgzb.top
   - xianghuiin.com

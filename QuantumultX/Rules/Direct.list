@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 842
+# 规则统计: 844
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -213,6 +213,7 @@ HOST-SUFFIX,dcshfu.com,Direct
 HOST-SUFFIX,ddsrem.com,Direct
 HOST-SUFFIX,ddxq.mobi,Direct
 HOST-SUFFIX,ddzn.tech,Direct
+HOST-SUFFIX,deepzero.com,Direct
 HOST-SUFFIX,dell.com,Direct
 HOST-SUFFIX,dfhog.com,Direct
 HOST-SUFFIX,dhub.kubesre.xyz,Direct
@@ -740,6 +741,7 @@ HOST-SUFFIX,xboxfan.com,Direct
 HOST-SUFFIX,xdqtech.com,Direct
 HOST-SUFFIX,xdtool.com,Direct
 HOST-SUFFIX,xesabc.com,Direct
+HOST-SUFFIX,xesim.net,Direct
 HOST-SUFFIX,xfltd.org,Direct
 HOST-SUFFIX,xgzb.top,Direct
 HOST-SUFFIX,xianghuiin.com,Direct

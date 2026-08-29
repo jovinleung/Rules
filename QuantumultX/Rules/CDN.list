@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4716
+# 规则统计: 4718
 
 HOST,0x0.st,CDN
 HOST,3dna.nationbuilder.com,CDN
@@ -1432,6 +1432,7 @@ HOST,file.izanm.org,CDN
 HOST,file.zoom.us,CDN
 HOST,file1.hkepc.net,CDN
 HOST,files.armorgames.com,CDN
+HOST,files.blocktempo.ai,CDN
 HOST,files.buildwithfern.com,CDN
 HOST,files.gempages.net,CDN
 HOST,files.iwara.tv,CDN
@@ -1634,6 +1635,7 @@ HOST,image-stgus.samsung.com,CDN
 HOST,image-us.samsung.com,CDN
 HOST,image.acg.lol,CDN
 HOST,image.ap-mail.org,CDN
+HOST,image.blocktempo.com,CDN
 HOST,image.civitai.com,CDN
 HOST,image.cnbcfm.com,CDN
 HOST,image.comicbz.com,CDN

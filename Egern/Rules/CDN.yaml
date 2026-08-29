@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4716
+# 规则统计: 4718
 
 domain_set:
   - 0x0.st
@@ -1433,6 +1433,7 @@ domain_set:
   - file.zoom.us
   - file1.hkepc.net
   - files.armorgames.com
+  - files.blocktempo.ai
   - files.buildwithfern.com
   - files.gempages.net
   - files.iwara.tv
@@ -1635,6 +1636,7 @@ domain_set:
   - image-us.samsung.com
   - image.acg.lol
   - image.ap-mail.org
+  - image.blocktempo.com
   - image.civitai.com
   - image.cnbcfm.com
   - image.comicbz.com

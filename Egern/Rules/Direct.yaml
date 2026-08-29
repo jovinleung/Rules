@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 845
+# 规则统计: 847
 
 no_resolve: true
 domain_set:
@@ -95,6 +95,8 @@ domain_suffix_set:
   - acgdraw.com
   - acggit.com
   - adhuanxiao.com
+  - admpv.com
+  - admpv.net
   - adobe.com
   - adosmo.com
   - afeica.com

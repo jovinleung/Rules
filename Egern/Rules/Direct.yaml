@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 847
+# 规则统计: 849
 
 no_resolve: true
 domain_set:
@@ -141,6 +141,7 @@ domain_suffix_set:
   - baiyishequ.com
   - bajie.la
   - banban.work
+  - baominggongju.com
   - batchat.com
   - bdcb.cc
   - beautifulcarrot.com
@@ -733,6 +734,7 @@ domain_suffix_set:
   - wlups.com
   - wologic.net
   - wpurl.cc
+  - wty-yy.top
   - wushuangai.com
   - www.ojrq.net
   - wwwh.eu.org

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 849
+# 规则统计: 856
 
 no_resolve: true
 domain_set:
@@ -76,6 +76,7 @@ domain_suffix_set:
   - 737698.xyz
   - 77shuku.org
   - 7sef.com
+  - 800686.xyz
   - 85sc.com
   - 86656.net
   - 888lm02.com
@@ -163,6 +164,7 @@ domain_suffix_set:
   - bunny.net
   - bvmlt.top
   - ca-sinfusi.com
+  - calmate.cc
   - canghaiip.com
   - cangjie-lang.net
   - cc39ute.shop
@@ -270,6 +272,7 @@ domain_suffix_set:
   - fjpit.com
   - flingtrainer.com
   - fofuai.com
+  - founderyt.com
   - fowep.com
   - freetv.top
   - frp-ski.com
@@ -503,6 +506,7 @@ domain_suffix_set:
   - meloong.com
   - members.3322.org
   - meoof-pet.com
+  - mfdqsc.com
   - miaotixing.com
   - micu.hk
   - micun.com
@@ -523,7 +527,9 @@ domain_suffix_set:
   - mslmc.net
   - mtaokj.com
   - muhemob.com
+  - myfenghua.com
   - mykuaidi.com
+  - mypikpak.net
   - myrny.xin
   - myshopex.com
   - mystery0.vip
@@ -765,6 +771,7 @@ domain_suffix_set:
   - xingaochengtai.com
   - xinghaiwaimai.com
   - xingyaozhilian.com
+  - xinstall.top
   - xiqueer.com
   - xiuxitong.com
   - xiwang.com

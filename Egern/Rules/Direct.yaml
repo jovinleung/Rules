@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 856
+# 规则统计: 860
 
 no_resolve: true
 domain_set:
@@ -102,6 +102,7 @@ domain_suffix_set:
   - adosmo.com
   - afeica.com
   - afuns.me
+  - agentkey.app
   - agentscope.io
   - ahlt10010.com
   - aibeike.com
@@ -139,6 +140,7 @@ domain_suffix_set:
   - ba-hospital.com
   - babawar.com
   - baicaf.com
+  - baidu94.com
   - baiyishequ.com
   - bajie.la
   - banban.work
@@ -282,6 +284,7 @@ domain_suffix_set:
   - ft07.com
   - ftqq.com
   - functorz.com
+  - funlinkads.com
   - funmob.top
   - fussengroup.com
   - fuyinkeji.top
@@ -376,6 +379,7 @@ domain_suffix_set:
   - hoaihe.store
   - hongxingdl.com
   - hongxingdl.love
+  - hooos.com
   - hprtupgrade.com
   - hrhgstock.com
   - hsbc.com.hk

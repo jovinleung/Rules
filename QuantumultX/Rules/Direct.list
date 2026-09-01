@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 855
+# 规则统计: 859
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -99,6 +99,7 @@ HOST-SUFFIX,adobe.com,Direct
 HOST-SUFFIX,adosmo.com,Direct
 HOST-SUFFIX,afeica.com,Direct
 HOST-SUFFIX,afuns.me,Direct
+HOST-SUFFIX,agentkey.app,Direct
 HOST-SUFFIX,agentscope.io,Direct
 HOST-SUFFIX,ahlt10010.com,Direct
 HOST-SUFFIX,aibeike.com,Direct
@@ -136,6 +137,7 @@ HOST-SUFFIX,b7f3192.com,Direct
 HOST-SUFFIX,ba-hospital.com,Direct
 HOST-SUFFIX,babawar.com,Direct
 HOST-SUFFIX,baicaf.com,Direct
+HOST-SUFFIX,baidu94.com,Direct
 HOST-SUFFIX,baiyishequ.com,Direct
 HOST-SUFFIX,bajie.la,Direct
 HOST-SUFFIX,banban.work,Direct
@@ -279,6 +281,7 @@ HOST-SUFFIX,fsytss.com,Direct
 HOST-SUFFIX,ft07.com,Direct
 HOST-SUFFIX,ftqq.com,Direct
 HOST-SUFFIX,functorz.com,Direct
+HOST-SUFFIX,funlinkads.com,Direct
 HOST-SUFFIX,funmob.top,Direct
 HOST-SUFFIX,fussengroup.com,Direct
 HOST-SUFFIX,fuyinkeji.top,Direct
@@ -373,6 +376,7 @@ HOST-SUFFIX,hnxzctec.com,Direct
 HOST-SUFFIX,hoaihe.store,Direct
 HOST-SUFFIX,hongxingdl.com,Direct
 HOST-SUFFIX,hongxingdl.love,Direct
+HOST-SUFFIX,hooos.com,Direct
 HOST-SUFFIX,hprtupgrade.com,Direct
 HOST-SUFFIX,hrhgstock.com,Direct
 HOST-SUFFIX,hsbc.com.hk,Direct

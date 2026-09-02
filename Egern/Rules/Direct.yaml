@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 860
+# 规则统计: 861
 
 no_resolve: true
 domain_set:
@@ -812,6 +812,7 @@ domain_suffix_set:
   - yooc.me
   - youqian.pro
   - youzhiyouxing.com
+  - yueti.vip
   - yunqin.online
   - yunzuoye.net
   - yyshub.top

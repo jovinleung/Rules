@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 861
+# 规则统计: 862
 
 no_resolve: true
 domain_set:
@@ -187,6 +187,7 @@ domain_suffix_set:
   - cheshire.top
   - chessease.net
   - chii.in
+  - china-amass.com
   - chinatle.com
   - chuguansmart.com
   - chujingapp.com

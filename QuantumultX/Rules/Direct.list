@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 860
+# 规则统计: 861
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -184,6 +184,7 @@ HOST-SUFFIX,cheriexsky.love,Direct
 HOST-SUFFIX,cheshire.top,Direct
 HOST-SUFFIX,chessease.net,Direct
 HOST-SUFFIX,chii.in,Direct
+HOST-SUFFIX,china-amass.com,Direct
 HOST-SUFFIX,chinatle.com,Direct
 HOST-SUFFIX,chuguansmart.com,Direct
 HOST-SUFFIX,chujingapp.com,Direct

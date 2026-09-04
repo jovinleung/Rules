@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 862
+# 规则统计: 863
 
 no_resolve: true
 domain_set:
@@ -169,6 +169,7 @@ domain_suffix_set:
   - calmate.cc
   - canghaiip.com
   - cangjie-lang.net
+  - cc.ink
   - cc39ute.shop
   - ccw.site
   - cdn.doctor

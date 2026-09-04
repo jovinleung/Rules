@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 863
+# 规则统计: 864
 
 no_resolve: true
 domain_set:
@@ -388,6 +388,7 @@ domain_suffix_set:
   - hstbroker.com
   - hszq6.com
   - htkgsx.com
+  - huacheng2025.com
   - hub.crdz.gq
   - hub.gitmirror.com
   - hub.rat.dev

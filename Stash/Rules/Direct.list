@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 863
+# 规则统计: 864
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -385,6 +385,7 @@ DOMAIN-SUFFIX,hsbc.com.hk
 DOMAIN-SUFFIX,hstbroker.com
 DOMAIN-SUFFIX,hszq6.com
 DOMAIN-SUFFIX,htkgsx.com
+DOMAIN-SUFFIX,huacheng2025.com
 DOMAIN-SUFFIX,hub.crdz.gq
 DOMAIN-SUFFIX,hub.gitmirror.com
 DOMAIN-SUFFIX,hub.rat.dev

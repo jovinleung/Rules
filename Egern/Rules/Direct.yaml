@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 864
+# 规则统计: 865
 
 no_resolve: true
 domain_set:
@@ -612,6 +612,7 @@ domain_suffix_set:
   - qjmotorlink.com
   - qmeng.top
   - quanxinfu.com
+  - quanzhua.com
   - quxuanshu.com
   - qweapi.com
   - qweatherapi.com

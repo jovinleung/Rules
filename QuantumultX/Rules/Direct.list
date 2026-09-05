@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 867
+# 规则统计: 871
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -228,6 +228,7 @@ HOST-SUFFIX,dell.com,Direct
 HOST-SUFFIX,dfhog.com,Direct
 HOST-SUFFIX,dhub.kubesre.xyz,Direct
 HOST-SUFFIX,dingdingzn.com,Direct
+HOST-SUFFIX,dingstock.net,Direct
 HOST-SUFFIX,dircleaner.com,Direct
 HOST-SUFFIX,divoiotcloud.com,Direct
 HOST-SUFFIX,diyiedu.com,Direct
@@ -299,6 +300,7 @@ HOST-SUFFIX,gangtise.com,Direct
 HOST-SUFFIX,gaojiua.com,Direct
 HOST-SUFFIX,gaze.run,Direct
 HOST-SUFFIX,gdcucc.v1.mk,Direct
+HOST-SUFFIX,gdzhimou.com,Direct
 HOST-SUFFIX,geektool.top,Direct
 HOST-SUFFIX,gegeselect.hk,Direct
 HOST-SUFFIX,gelaiyun.net,Direct
@@ -417,6 +419,7 @@ HOST-SUFFIX,immortalwrt.org,Direct
 HOST-SUFFIX,indeedpower.com,Direct
 HOST-SUFFIX,inetlab.top,Direct
 HOST-SUFFIX,infini-fantasy.com,Direct
+HOST-SUFFIX,initaq.com,Direct
 HOST-SUFFIX,inte.net,Direct
 HOST-SUFFIX,iosgujian.com,Direct
 HOST-SUFFIX,iot889.com,Direct
@@ -567,6 +570,7 @@ HOST-SUFFIX,openkylin.top,Direct
 HOST-SUFFIX,opentrust.net,Direct
 HOST-SUFFIX,orence.net,Direct
 HOST-SUFFIX,osbdf.com,Direct
+HOST-SUFFIX,ossrs.net,Direct
 HOST-SUFFIX,ottai.com,Direct
 HOST-SUFFIX,ottiptv.cc,Direct
 HOST-SUFFIX,ourschool.cc,Direct

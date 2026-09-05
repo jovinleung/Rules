@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 866
+# 规则统计: 868
 
 no_resolve: true
 domain_set:
@@ -208,6 +208,7 @@ domain_suffix_set:
   - congmiqq.com
   - constasj.me
   - coros.com
+  - cqnbmarathon.com
   - crrcgo.cc
   - crtyhr.com
   - csqaq.com
@@ -556,6 +557,7 @@ domain_suffix_set:
   - nodcloud.com
   - noyer.eu.org
   - nxog.top
+  - nyxcuy.com
   - oai.sb
   - oceando.cloud
   - ok321.top

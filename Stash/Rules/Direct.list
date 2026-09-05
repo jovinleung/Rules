@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 866
+# 规则统计: 868
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -205,6 +205,7 @@ DOMAIN-SUFFIX,cone-x.com
 DOMAIN-SUFFIX,congmiqq.com
 DOMAIN-SUFFIX,constasj.me
 DOMAIN-SUFFIX,coros.com
+DOMAIN-SUFFIX,cqnbmarathon.com
 DOMAIN-SUFFIX,crrcgo.cc
 DOMAIN-SUFFIX,crtyhr.com
 DOMAIN-SUFFIX,csqaq.com
@@ -553,6 +554,7 @@ DOMAIN-SUFFIX,no-mad-sub.one
 DOMAIN-SUFFIX,nodcloud.com
 DOMAIN-SUFFIX,noyer.eu.org
 DOMAIN-SUFFIX,nxog.top
+DOMAIN-SUFFIX,nyxcuy.com
 DOMAIN-SUFFIX,oai.sb
 DOMAIN-SUFFIX,oceando.cloud
 DOMAIN-SUFFIX,ok321.top

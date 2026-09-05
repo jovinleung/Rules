@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 865
+# 规则统计: 867
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -205,6 +205,7 @@ HOST-SUFFIX,cone-x.com,Direct
 HOST-SUFFIX,congmiqq.com,Direct
 HOST-SUFFIX,constasj.me,Direct
 HOST-SUFFIX,coros.com,Direct
+HOST-SUFFIX,cqnbmarathon.com,Direct
 HOST-SUFFIX,crrcgo.cc,Direct
 HOST-SUFFIX,crtyhr.com,Direct
 HOST-SUFFIX,csqaq.com,Direct
@@ -553,6 +554,7 @@ HOST-SUFFIX,no-mad-sub.one,Direct
 HOST-SUFFIX,nodcloud.com,Direct
 HOST-SUFFIX,noyer.eu.org,Direct
 HOST-SUFFIX,nxog.top,Direct
+HOST-SUFFIX,nyxcuy.com,Direct
 HOST-SUFFIX,oai.sb,Direct
 HOST-SUFFIX,oceando.cloud,Direct
 HOST-SUFFIX,ok321.top,Direct

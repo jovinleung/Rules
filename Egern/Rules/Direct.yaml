@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 872
+# 规则统计: 874
 
 no_resolve: true
 domain_set:
@@ -73,6 +73,7 @@ domain_suffix_set:
   - 657192.com
   - 66990000.xyz
   - 6v520.net
+  - 71.am
   - 737698.xyz
   - 77shuku.org
   - 7sef.com
@@ -448,6 +449,7 @@ domain_suffix_set:
   - jinzanzan.com
   - jiqw.com
   - jjzyy.org
+  - jkgeek.com
   - jsdelivr.com
   - jsdelivr.net
   - jsj.top

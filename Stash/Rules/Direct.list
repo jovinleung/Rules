@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 865
+# 规则统计: 866
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -470,6 +470,7 @@ DOMAIN-SUFFIX,koebpmhcce.com
 DOMAIN-SUFFIX,kuaicha888.com
 DOMAIN-SUFFIX,kudashi.com
 DOMAIN-SUFFIX,kukongjian.com
+DOMAIN-SUFFIX,kwai.net
 DOMAIN-SUFFIX,lanyun.net
 DOMAIN-SUFFIX,laogongju.com
 DOMAIN-SUFFIX,latexlive.com

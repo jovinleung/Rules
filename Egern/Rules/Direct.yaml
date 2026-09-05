@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 865
+# 规则统计: 866
 
 no_resolve: true
 domain_set:
@@ -473,6 +473,7 @@ domain_suffix_set:
   - kuaicha888.com
   - kudashi.com
   - kukongjian.com
+  - kwai.net
   - lanyun.net
   - laogongju.com
   - latexlive.com

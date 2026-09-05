@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 864
+# 规则统计: 865
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -470,6 +470,7 @@ HOST-SUFFIX,koebpmhcce.com,Direct
 HOST-SUFFIX,kuaicha888.com,Direct
 HOST-SUFFIX,kudashi.com,Direct
 HOST-SUFFIX,kukongjian.com,Direct
+HOST-SUFFIX,kwai.net,Direct
 HOST-SUFFIX,lanyun.net,Direct
 HOST-SUFFIX,laogongju.com,Direct
 HOST-SUFFIX,latexlive.com,Direct

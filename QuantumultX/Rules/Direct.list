@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 873
+# 规则统计: 876
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -47,6 +47,7 @@ HOST-SUFFIX,25mao.com,Direct
 HOST-SUFFIX,2mcnxs.cc,Direct
 HOST-SUFFIX,365ting.com,Direct
 HOST-SUFFIX,365wp.top,Direct
+HOST-SUFFIX,3ced.top,Direct
 HOST-SUFFIX,3d-apollo.com,Direct
 HOST-SUFFIX,3dwhere.com,Direct
 HOST-SUFFIX,3gxk.net,Direct
@@ -94,6 +95,7 @@ HOST-SUFFIX,acepanel.net,Direct
 HOST-SUFFIX,acgdraw.com,Direct
 HOST-SUFFIX,acggit.com,Direct
 HOST-SUFFIX,adhuanxiao.com,Direct
+HOST-SUFFIX,admobile.top,Direct
 HOST-SUFFIX,admpv.com,Direct
 HOST-SUFFIX,admpv.net,Direct
 HOST-SUFFIX,adobe.com,Direct
@@ -421,6 +423,7 @@ HOST-SUFFIX,indeedpower.com,Direct
 HOST-SUFFIX,inetlab.top,Direct
 HOST-SUFFIX,infini-fantasy.com,Direct
 HOST-SUFFIX,initaq.com,Direct
+HOST-SUFFIX,inmobicdn.net,Direct
 HOST-SUFFIX,inte.net,Direct
 HOST-SUFFIX,iosgujian.com,Direct
 HOST-SUFFIX,iot889.com,Direct

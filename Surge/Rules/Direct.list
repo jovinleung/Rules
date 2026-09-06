@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 874
+# 规则统计: 877
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -47,6 +47,7 @@ DOMAIN-SUFFIX,25mao.com
 DOMAIN-SUFFIX,2mcnxs.cc
 DOMAIN-SUFFIX,365ting.com
 DOMAIN-SUFFIX,365wp.top
+DOMAIN-SUFFIX,3ced.top
 DOMAIN-SUFFIX,3d-apollo.com
 DOMAIN-SUFFIX,3dwhere.com
 DOMAIN-SUFFIX,3gxk.net
@@ -94,6 +95,7 @@ DOMAIN-SUFFIX,acepanel.net
 DOMAIN-SUFFIX,acgdraw.com
 DOMAIN-SUFFIX,acggit.com
 DOMAIN-SUFFIX,adhuanxiao.com
+DOMAIN-SUFFIX,admobile.top
 DOMAIN-SUFFIX,admpv.com
 DOMAIN-SUFFIX,admpv.net
 DOMAIN-SUFFIX,adobe.com
@@ -421,6 +423,7 @@ DOMAIN-SUFFIX,indeedpower.com
 DOMAIN-SUFFIX,inetlab.top
 DOMAIN-SUFFIX,infini-fantasy.com
 DOMAIN-SUFFIX,initaq.com
+DOMAIN-SUFFIX,inmobicdn.net
 DOMAIN-SUFFIX,inte.net
 DOMAIN-SUFFIX,iosgujian.com
 DOMAIN-SUFFIX,iot889.com

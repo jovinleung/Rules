@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 877
+# 规则统计: 884
 
 no_resolve: true
 domain_set:
@@ -358,6 +358,7 @@ domain_suffix_set:
   - gxnnjidingkeji.top
   - gzjkoa.com
   - gzybao.com
+  - h5bqb.top
   - h6009.top
   - haimaiedu.net
   - halvie.com
@@ -438,6 +439,7 @@ domain_suffix_set:
   - ipshu.com
   - istoreos.com
   - itptg.com
+  - itui.cc
   - jbsy20riz9.com
   - jduoduo.com
   - jfjt.cc
@@ -514,6 +516,7 @@ domain_suffix_set:
   - mc-user.com
   - mcar.vip
   - mchuiji.com
+  - mcrmb.com
   - mcxyzt.cc
   - medtechshare.com
   - meijian.com
@@ -528,6 +531,7 @@ domain_suffix_set:
   - micu.hk
   - micun.com
   - midoci.com
+  - midoci.top
   - mifeng.plus
   - mifon.com
   - minor-api-os.hoyoverse.com
@@ -569,6 +573,7 @@ domain_suffix_set:
   - oai.sb
   - oceando.cloud
   - ok321.top
+  - omq.cc
   - onebuygz.com
   - onetoken.sh
   - onetools.top
@@ -673,6 +678,7 @@ domain_suffix_set:
   - ssjj2.com
   - starlink.uno
   - startssl.com
+  - staticmeow.com
   - stkfanli.com
   - sufe.me
   - sunrisecontent.akamaized.net
@@ -815,6 +821,7 @@ domain_suffix_set:
   - xzzhtc.com
   - yayi360.com
   - ycjintou.com
+  - ycyct.com
   - ydayc.com
   - yhxjkj.top
   - yibanbianji.com

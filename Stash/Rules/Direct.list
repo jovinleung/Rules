@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 877
+# 规则统计: 884
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -355,6 +355,7 @@ DOMAIN-SUFFIX,gwmapp-w.com
 DOMAIN-SUFFIX,gxnnjidingkeji.top
 DOMAIN-SUFFIX,gzjkoa.com
 DOMAIN-SUFFIX,gzybao.com
+DOMAIN-SUFFIX,h5bqb.top
 DOMAIN-SUFFIX,h6009.top
 DOMAIN-SUFFIX,haimaiedu.net
 DOMAIN-SUFFIX,halvie.com
@@ -435,6 +436,7 @@ DOMAIN-SUFFIX,iposl.com
 DOMAIN-SUFFIX,ipshu.com
 DOMAIN-SUFFIX,istoreos.com
 DOMAIN-SUFFIX,itptg.com
+DOMAIN-SUFFIX,itui.cc
 DOMAIN-SUFFIX,jbsy20riz9.com
 DOMAIN-SUFFIX,jduoduo.com
 DOMAIN-SUFFIX,jfjt.cc
@@ -511,6 +513,7 @@ DOMAIN-SUFFIX,mblyun.com
 DOMAIN-SUFFIX,mc-user.com
 DOMAIN-SUFFIX,mcar.vip
 DOMAIN-SUFFIX,mchuiji.com
+DOMAIN-SUFFIX,mcrmb.com
 DOMAIN-SUFFIX,mcxyzt.cc
 DOMAIN-SUFFIX,medtechshare.com
 DOMAIN-SUFFIX,meijian.com
@@ -525,6 +528,7 @@ DOMAIN-SUFFIX,miaotixing.com
 DOMAIN-SUFFIX,micu.hk
 DOMAIN-SUFFIX,micun.com
 DOMAIN-SUFFIX,midoci.com
+DOMAIN-SUFFIX,midoci.top
 DOMAIN-SUFFIX,mifeng.plus
 DOMAIN-SUFFIX,mifon.com
 DOMAIN-SUFFIX,minor-api-os.hoyoverse.com
@@ -566,6 +570,7 @@ DOMAIN-SUFFIX,nyxcuy.com
 DOMAIN-SUFFIX,oai.sb
 DOMAIN-SUFFIX,oceando.cloud
 DOMAIN-SUFFIX,ok321.top
+DOMAIN-SUFFIX,omq.cc
 DOMAIN-SUFFIX,onebuygz.com
 DOMAIN-SUFFIX,onetoken.sh
 DOMAIN-SUFFIX,onetools.top
@@ -670,6 +675,7 @@ DOMAIN-SUFFIX,sptv.ii00.cc
 DOMAIN-SUFFIX,ssjj2.com
 DOMAIN-SUFFIX,starlink.uno
 DOMAIN-SUFFIX,startssl.com
+DOMAIN-SUFFIX,staticmeow.com
 DOMAIN-SUFFIX,stkfanli.com
 DOMAIN-SUFFIX,sufe.me
 DOMAIN-SUFFIX,sunrisecontent.akamaized.net
@@ -812,6 +818,7 @@ DOMAIN-SUFFIX,xzsckj.com
 DOMAIN-SUFFIX,xzzhtc.com
 DOMAIN-SUFFIX,yayi360.com
 DOMAIN-SUFFIX,ycjintou.com
+DOMAIN-SUFFIX,ycyct.com
 DOMAIN-SUFFIX,ydayc.com
 DOMAIN-SUFFIX,yhxjkj.top
 DOMAIN-SUFFIX,yibanbianji.com

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 884
+# 规则统计: 885
 
 no_resolve: true
 domain_set:
@@ -267,6 +267,7 @@ domain_suffix_set:
   - everdrawing.com
   - excelbbx.net
   - exiliumgf.com
+  - faka163.com
   - fastify.cc
   - fb71ef91e1014.beer
   - fdfinvoice.com

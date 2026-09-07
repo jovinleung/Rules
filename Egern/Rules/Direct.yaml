@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 885
+# 规则统计: 888
 
 no_resolve: true
 domain_set:
@@ -162,6 +162,7 @@ domain_suffix_set:
   - blog.google
   - bochaai.com
   - bochk.com
+  - boowayun.com
   - bowenkj.com
   - boxim.online
   - boyuemobile.com
@@ -374,6 +375,7 @@ domain_suffix_set:
   - hbctic.com
   - hbymfswz.com
   - hdbz.net
+  - hdcm00.com
   - hexiny.com
   - hezuvip.com
   - hf-mirror.com
@@ -629,6 +631,7 @@ domain_suffix_set:
   - qiuquan.org
   - qjmotorlink.com
   - qmeng.top
+  - qmpx.net
   - quanxinfu.com
   - quanzhua.com
   - quxuanshu.com

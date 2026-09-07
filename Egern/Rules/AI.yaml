@@ -1,5 +1,5 @@
 # 规则名称: AI
-# 规则统计: 65
+# 规则统计: 66
 
 domain_set:
   - 7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe
@@ -32,6 +32,7 @@ domain_suffix_set:
   - client-api.arkoselabs.com
   - clipdrop.co
   - cloudcode-pa.googleapis.com
+  - cursor.sh
   - deepmind.com
   - deepmind.google
   - dify.ai

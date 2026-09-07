@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 888
+# 规则统计: 891
 
 no_resolve: true
 domain_set:
@@ -127,6 +127,8 @@ domain_suffix_set:
   - anycubic.com
   - anythinktech.com
   - anytocopy.com
+  - aoc.com
+  - aocdisplays.com
   - ap-leasing.com
   - api.myip.com
   - apm-log-upload-os.hoyoverse.com
@@ -169,6 +171,7 @@ domain_suffix_set:
   - bsbsb.top
   - bunny.net
   - bvmlt.top
+  - bxlsj.com
   - ca-sinfusi.com
   - calmate.cc
   - canghaiip.com

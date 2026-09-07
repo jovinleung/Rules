@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 891
+# 规则统计: 892
 
 no_resolve: true
 domain_set:
@@ -395,6 +395,7 @@ domain_suffix_set:
   - hongxingdl.com
   - hongxingdl.love
   - hooos.com
+  - hpr7e.top
   - hprtupgrade.com
   - hrhgstock.com
   - hsbc.com.hk

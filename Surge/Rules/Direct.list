@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 891
+# 规则统计: 892
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -392,6 +392,7 @@ DOMAIN-SUFFIX,hoaihe.store
 DOMAIN-SUFFIX,hongxingdl.com
 DOMAIN-SUFFIX,hongxingdl.love
 DOMAIN-SUFFIX,hooos.com
+DOMAIN-SUFFIX,hpr7e.top
 DOMAIN-SUFFIX,hprtupgrade.com
 DOMAIN-SUFFIX,hrhgstock.com
 DOMAIN-SUFFIX,hsbc.com.hk

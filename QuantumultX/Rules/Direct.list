@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 890
+# 规则统计: 891
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -392,6 +392,7 @@ HOST-SUFFIX,hoaihe.store,Direct
 HOST-SUFFIX,hongxingdl.com,Direct
 HOST-SUFFIX,hongxingdl.love,Direct
 HOST-SUFFIX,hooos.com,Direct
+HOST-SUFFIX,hpr7e.top,Direct
 HOST-SUFFIX,hprtupgrade.com,Direct
 HOST-SUFFIX,hrhgstock.com,Direct
 HOST-SUFFIX,hsbc.com.hk,Direct

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 896
+# 规则统计: 902
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -68,6 +68,7 @@ HOST-SUFFIX,52youzai.com,Direct
 HOST-SUFFIX,55555.ink,Direct
 HOST-SUFFIX,56tvc.com,Direct
 HOST-SUFFIX,580ai.net,Direct
+HOST-SUFFIX,618208.xyz,Direct
 HOST-SUFFIX,657192.com,Direct
 HOST-SUFFIX,66990000.xyz,Direct
 HOST-SUFFIX,6v520.net,Direct
@@ -119,6 +120,7 @@ HOST-SUFFIX,alonginwind.eu.org,Direct
 HOST-SUFFIX,alonginwind.to,Direct
 HOST-SUFFIX,alonginwind.top,Direct
 HOST-SUFFIX,aloys233.top,Direct
+HOST-SUFFIX,amap-cdn.com,Direct
 HOST-SUFFIX,antping.com,Direct
 HOST-SUFFIX,anvnjmc.com,Direct
 HOST-SUFFIX,anycubic.com,Direct
@@ -682,6 +684,7 @@ HOST-SUFFIX,sksight.com,Direct
 HOST-SUFFIX,snfox.com,Direct
 HOST-SUFFIX,snltty.com,Direct
 HOST-SUFFIX,soulteary.com,Direct
+HOST-SUFFIX,spisec.com,Direct
 HOST-SUFFIX,sptv.ii00.cc,Direct
 HOST-SUFFIX,ssjj2.com,Direct
 HOST-SUFFIX,starlink.uno,Direct
@@ -758,6 +761,7 @@ HOST-SUFFIX,vclbrokers.com,Direct
 HOST-SUFFIX,vcltrade.com,Direct
 HOST-SUFFIX,vgogbuy.com,Direct
 HOST-SUFFIX,vip-cdn.com,Direct
+HOST-SUFFIX,vlan5.com,Direct
 HOST-SUFFIX,vpsjyz.com,Direct
 HOST-SUFFIX,vv1865.com,Direct
 HOST-SUFFIX,warmheart.top,Direct
@@ -805,6 +809,7 @@ HOST-SUFFIX,xiberia.net,Direct
 HOST-SUFFIX,ximogo.com,Direct
 HOST-SUFFIX,xingaochengtai.com,Direct
 HOST-SUFFIX,xinghaiwaimai.com,Direct
+HOST-SUFFIX,xingmojs.com,Direct
 HOST-SUFFIX,xingyaozhilian.com,Direct
 HOST-SUFFIX,xinstall.top,Direct
 HOST-SUFFIX,xiqueer.com,Direct
@@ -875,6 +880,7 @@ HOST-SUFFIX,znztv.com,Direct
 HOST-SUFFIX,zqin758.xyz,Direct
 HOST-SUFFIX,zsytit.com,Direct
 HOST-SUFFIX,ztytech.com,Direct
+HOST-SUFFIX,zuidazym3u8.com,Direct
 HOST-SUFFIX,zuobiao.press,Direct
 HOST-SUFFIX,zysou.com,Direct
 HOST-SUFFIX,zyyct.com,Direct

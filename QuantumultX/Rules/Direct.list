@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 891
+# 规则统计: 896
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -308,6 +308,7 @@ HOST-SUFFIX,gangtise.com,Direct
 HOST-SUFFIX,gaojiua.com,Direct
 HOST-SUFFIX,gaze.run,Direct
 HOST-SUFFIX,gdcucc.v1.mk,Direct
+HOST-SUFFIX,gdpcdz.com,Direct
 HOST-SUFFIX,gdzhimou.com,Direct
 HOST-SUFFIX,geektool.top,Direct
 HOST-SUFFIX,gegeselect.hk,Direct
@@ -509,6 +510,7 @@ HOST-SUFFIX,longmenshuju.com,Direct
 HOST-SUFFIX,loveutips.com,Direct
 HOST-SUFFIX,lsbj365.com,Direct
 HOST-SUFFIX,lsposed.zip,Direct
+HOST-SUFFIX,lty02.com,Direct
 HOST-SUFFIX,lucky.gd,Direct
 HOST-SUFFIX,lyihub.com,Direct
 HOST-SUFFIX,lyilife.com,Direct
@@ -668,6 +670,7 @@ HOST-SUFFIX,shanghongbei.com,Direct
 HOST-SUFFIX,share123.top,Direct
 HOST-SUFFIX,shineacc.com,Direct
 HOST-SUFFIX,shuangqingtech.com,Direct
+HOST-SUFFIX,shuangxiumall.com,Direct
 HOST-SUFFIX,shuinfo.com,Direct
 HOST-SUFFIX,shunjing.xin,Direct
 HOST-SUFFIX,shuqiandiqiu.com,Direct
@@ -768,6 +771,7 @@ HOST-SUFFIX,wewillpro.com,Direct
 HOST-SUFFIX,wildfirechat.net,Direct
 HOST-SUFFIX,wjx.top,Direct
 HOST-SUFFIX,wlcdn88.com,Direct
+HOST-SUFFIX,wlkac.com,Direct
 HOST-SUFFIX,wlups.com,Direct
 HOST-SUFFIX,wologic.net,Direct
 HOST-SUFFIX,wpurl.cc,Direct
@@ -810,6 +814,7 @@ HOST-SUFFIX,xixih.cc,Direct
 HOST-SUFFIX,xkkapk.com,Direct
 HOST-SUFFIX,xn--4kq62z5rby2qupq9ub.top,Direct
 HOST-SUFFIX,xn--cesw6hd3s99f.com,Direct
+HOST-SUFFIX,xn--id-ov2cb7n32b01yl6auun2bpzk4p2dgip.com,Direct
 HOST-SUFFIX,xn--mmz.cc,Direct
 HOST-SUFFIX,xn--vhqr42drhf5k7b.com,Direct
 HOST-SUFFIX,xn--zfru1ggxt.fun,Direct

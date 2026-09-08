@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 892
+# 规则统计: 897
 
 no_resolve: true
 domain_set:
@@ -311,6 +311,7 @@ domain_suffix_set:
   - gaojiua.com
   - gaze.run
   - gdcucc.v1.mk
+  - gdpcdz.com
   - gdzhimou.com
   - geektool.top
   - gegeselect.hk
@@ -512,6 +513,7 @@ domain_suffix_set:
   - loveutips.com
   - lsbj365.com
   - lsposed.zip
+  - lty02.com
   - lucky.gd
   - lyihub.com
   - lyilife.com
@@ -671,6 +673,7 @@ domain_suffix_set:
   - share123.top
   - shineacc.com
   - shuangqingtech.com
+  - shuangxiumall.com
   - shuinfo.com
   - shunjing.xin
   - shuqiandiqiu.com
@@ -771,6 +774,7 @@ domain_suffix_set:
   - wildfirechat.net
   - wjx.top
   - wlcdn88.com
+  - wlkac.com
   - wlups.com
   - wologic.net
   - wpurl.cc
@@ -813,6 +817,7 @@ domain_suffix_set:
   - xkkapk.com
   - xn--4kq62z5rby2qupq9ub.top
   - xn--cesw6hd3s99f.com
+  - xn--id-ov2cb7n32b01yl6auun2bpzk4p2dgip.com
   - xn--mmz.cc
   - xn--vhqr42drhf5k7b.com
   - xn--zfru1ggxt.fun

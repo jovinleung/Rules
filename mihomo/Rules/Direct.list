@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 892
+# 规则统计: 897
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -308,6 +308,7 @@ DOMAIN-SUFFIX,gangtise.com
 DOMAIN-SUFFIX,gaojiua.com
 DOMAIN-SUFFIX,gaze.run
 DOMAIN-SUFFIX,gdcucc.v1.mk
+DOMAIN-SUFFIX,gdpcdz.com
 DOMAIN-SUFFIX,gdzhimou.com
 DOMAIN-SUFFIX,geektool.top
 DOMAIN-SUFFIX,gegeselect.hk
@@ -509,6 +510,7 @@ DOMAIN-SUFFIX,longmenshuju.com
 DOMAIN-SUFFIX,loveutips.com
 DOMAIN-SUFFIX,lsbj365.com
 DOMAIN-SUFFIX,lsposed.zip
+DOMAIN-SUFFIX,lty02.com
 DOMAIN-SUFFIX,lucky.gd
 DOMAIN-SUFFIX,lyihub.com
 DOMAIN-SUFFIX,lyilife.com
@@ -668,6 +670,7 @@ DOMAIN-SUFFIX,shanghongbei.com
 DOMAIN-SUFFIX,share123.top
 DOMAIN-SUFFIX,shineacc.com
 DOMAIN-SUFFIX,shuangqingtech.com
+DOMAIN-SUFFIX,shuangxiumall.com
 DOMAIN-SUFFIX,shuinfo.com
 DOMAIN-SUFFIX,shunjing.xin
 DOMAIN-SUFFIX,shuqiandiqiu.com
@@ -768,6 +771,7 @@ DOMAIN-SUFFIX,wewillpro.com
 DOMAIN-SUFFIX,wildfirechat.net
 DOMAIN-SUFFIX,wjx.top
 DOMAIN-SUFFIX,wlcdn88.com
+DOMAIN-SUFFIX,wlkac.com
 DOMAIN-SUFFIX,wlups.com
 DOMAIN-SUFFIX,wologic.net
 DOMAIN-SUFFIX,wpurl.cc
@@ -810,6 +814,7 @@ DOMAIN-SUFFIX,xixih.cc
 DOMAIN-SUFFIX,xkkapk.com
 DOMAIN-SUFFIX,xn--4kq62z5rby2qupq9ub.top
 DOMAIN-SUFFIX,xn--cesw6hd3s99f.com
+DOMAIN-SUFFIX,xn--id-ov2cb7n32b01yl6auun2bpzk4p2dgip.com
 DOMAIN-SUFFIX,xn--mmz.cc
 DOMAIN-SUFFIX,xn--vhqr42drhf5k7b.com
 DOMAIN-SUFFIX,xn--zfru1ggxt.fun

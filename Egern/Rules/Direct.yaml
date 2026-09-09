@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 903
+# 规则统计: 905
 
 no_resolve: true
 domain_set:
@@ -397,6 +397,7 @@ domain_suffix_set:
   - hoaihe.store
   - hongxingdl.com
   - hongxingdl.love
+  - hongyanyanbaihuo.online
   - hooos.com
   - hpr7e.top
   - hprtupgrade.com
@@ -579,6 +580,7 @@ domain_suffix_set:
   - no-mad-sub.one
   - nodcloud.com
   - noyer.eu.org
+  - nwiztech.com
   - nxog.top
   - nyxcuy.com
   - oai.sb

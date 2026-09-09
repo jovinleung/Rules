@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 903
+# 规则统计: 905
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -394,6 +394,7 @@ DOMAIN-SUFFIX,hnxzctec.com
 DOMAIN-SUFFIX,hoaihe.store
 DOMAIN-SUFFIX,hongxingdl.com
 DOMAIN-SUFFIX,hongxingdl.love
+DOMAIN-SUFFIX,hongyanyanbaihuo.online
 DOMAIN-SUFFIX,hooos.com
 DOMAIN-SUFFIX,hpr7e.top
 DOMAIN-SUFFIX,hprtupgrade.com
@@ -576,6 +577,7 @@ DOMAIN-SUFFIX,nn.ci
 DOMAIN-SUFFIX,no-mad-sub.one
 DOMAIN-SUFFIX,nodcloud.com
 DOMAIN-SUFFIX,noyer.eu.org
+DOMAIN-SUFFIX,nwiztech.com
 DOMAIN-SUFFIX,nxog.top
 DOMAIN-SUFFIX,nyxcuy.com
 DOMAIN-SUFFIX,oai.sb

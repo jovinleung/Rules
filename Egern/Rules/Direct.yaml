@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 910
+# 规则统计: 911
 
 no_resolve: true
 domain_set:
@@ -451,6 +451,7 @@ domain_suffix_set:
   - ipapi.co
   - iposl.com
   - ipshu.com
+  - iquantumad.com
   - istoreos.com
   - itptg.com
   - itui.cc

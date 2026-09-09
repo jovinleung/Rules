@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 905
+# 规则统计: 910
 
 no_resolve: true
 domain_set:
@@ -239,6 +239,7 @@ domain_suffix_set:
   - dell.com
   - dfhog.com
   - dhub.kubesre.xyz
+  - diandaojia.net
   - dingdingzn.com
   - dingstock.net
   - dircleaner.com
@@ -273,6 +274,7 @@ domain_suffix_set:
   - everdrawing.com
   - excelbbx.net
   - exiliumgf.com
+  - eye4cloud.com
   - faka163.com
   - fastify.cc
   - fb71ef91e1014.beer
@@ -303,6 +305,7 @@ domain_suffix_set:
   - fussengroup.com
   - fuyinkeji.top
   - fuziche.com
+  - fzedu.pub
   - fzshouji.com
   - fzvcolco.com
   - fzwqq.com
@@ -546,6 +549,7 @@ domain_suffix_set:
   - midoci.top
   - mifeng.plus
   - mifon.com
+  - mifosy.com
   - minor-api-os.hoyoverse.com
   - miraiemby.com
   - mixly.org
@@ -801,6 +805,7 @@ domain_suffix_set:
   - xesim.net
   - xfltd.org
   - xgzb.top
+  - xhey.top
   - xianghuiin.com
   - xiankabao.com
   - xiaobeiyangji.com

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 905
+# 规则统计: 910
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -236,6 +236,7 @@ DOMAIN-SUFFIX,deepzero.com
 DOMAIN-SUFFIX,dell.com
 DOMAIN-SUFFIX,dfhog.com
 DOMAIN-SUFFIX,dhub.kubesre.xyz
+DOMAIN-SUFFIX,diandaojia.net
 DOMAIN-SUFFIX,dingdingzn.com
 DOMAIN-SUFFIX,dingstock.net
 DOMAIN-SUFFIX,dircleaner.com
@@ -270,6 +271,7 @@ DOMAIN-SUFFIX,et0731.com
 DOMAIN-SUFFIX,everdrawing.com
 DOMAIN-SUFFIX,excelbbx.net
 DOMAIN-SUFFIX,exiliumgf.com
+DOMAIN-SUFFIX,eye4cloud.com
 DOMAIN-SUFFIX,faka163.com
 DOMAIN-SUFFIX,fastify.cc
 DOMAIN-SUFFIX,fb71ef91e1014.beer
@@ -300,6 +302,7 @@ DOMAIN-SUFFIX,funmob.top
 DOMAIN-SUFFIX,fussengroup.com
 DOMAIN-SUFFIX,fuyinkeji.top
 DOMAIN-SUFFIX,fuziche.com
+DOMAIN-SUFFIX,fzedu.pub
 DOMAIN-SUFFIX,fzshouji.com
 DOMAIN-SUFFIX,fzvcolco.com
 DOMAIN-SUFFIX,fzwqq.com
@@ -543,6 +546,7 @@ DOMAIN-SUFFIX,midoci.com
 DOMAIN-SUFFIX,midoci.top
 DOMAIN-SUFFIX,mifeng.plus
 DOMAIN-SUFFIX,mifon.com
+DOMAIN-SUFFIX,mifosy.com
 DOMAIN-SUFFIX,minor-api-os.hoyoverse.com
 DOMAIN-SUFFIX,miraiemby.com
 DOMAIN-SUFFIX,mixly.org
@@ -798,6 +802,7 @@ DOMAIN-SUFFIX,xesabc.com
 DOMAIN-SUFFIX,xesim.net
 DOMAIN-SUFFIX,xfltd.org
 DOMAIN-SUFFIX,xgzb.top
+DOMAIN-SUFFIX,xhey.top
 DOMAIN-SUFFIX,xianghuiin.com
 DOMAIN-SUFFIX,xiankabao.com
 DOMAIN-SUFFIX,xiaobeiyangji.com

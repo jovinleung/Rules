@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 904
+# 规则统计: 909
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -236,6 +236,7 @@ HOST-SUFFIX,deepzero.com,Direct
 HOST-SUFFIX,dell.com,Direct
 HOST-SUFFIX,dfhog.com,Direct
 HOST-SUFFIX,dhub.kubesre.xyz,Direct
+HOST-SUFFIX,diandaojia.net,Direct
 HOST-SUFFIX,dingdingzn.com,Direct
 HOST-SUFFIX,dingstock.net,Direct
 HOST-SUFFIX,dircleaner.com,Direct
@@ -270,6 +271,7 @@ HOST-SUFFIX,et0731.com,Direct
 HOST-SUFFIX,everdrawing.com,Direct
 HOST-SUFFIX,excelbbx.net,Direct
 HOST-SUFFIX,exiliumgf.com,Direct
+HOST-SUFFIX,eye4cloud.com,Direct
 HOST-SUFFIX,faka163.com,Direct
 HOST-SUFFIX,fastify.cc,Direct
 HOST-SUFFIX,fb71ef91e1014.beer,Direct
@@ -300,6 +302,7 @@ HOST-SUFFIX,funmob.top,Direct
 HOST-SUFFIX,fussengroup.com,Direct
 HOST-SUFFIX,fuyinkeji.top,Direct
 HOST-SUFFIX,fuziche.com,Direct
+HOST-SUFFIX,fzedu.pub,Direct
 HOST-SUFFIX,fzshouji.com,Direct
 HOST-SUFFIX,fzvcolco.com,Direct
 HOST-SUFFIX,fzwqq.com,Direct
@@ -543,6 +546,7 @@ HOST-SUFFIX,midoci.com,Direct
 HOST-SUFFIX,midoci.top,Direct
 HOST-SUFFIX,mifeng.plus,Direct
 HOST-SUFFIX,mifon.com,Direct
+HOST-SUFFIX,mifosy.com,Direct
 HOST-SUFFIX,minor-api-os.hoyoverse.com,Direct
 HOST-SUFFIX,miraiemby.com,Direct
 HOST-SUFFIX,mixly.org,Direct
@@ -798,6 +802,7 @@ HOST-SUFFIX,xesabc.com,Direct
 HOST-SUFFIX,xesim.net,Direct
 HOST-SUFFIX,xfltd.org,Direct
 HOST-SUFFIX,xgzb.top,Direct
+HOST-SUFFIX,xhey.top,Direct
 HOST-SUFFIX,xianghuiin.com,Direct
 HOST-SUFFIX,xiankabao.com,Direct
 HOST-SUFFIX,xiaobeiyangji.com,Direct

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 912
+# 规则统计: 913
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -250,6 +250,7 @@ DOMAIN-SUFFIX,dockerpull.org
 DOMAIN-SUFFIX,dockerpull.pw
 DOMAIN-SUFFIX,dothantech.com
 DOMAIN-SUFFIX,douqq.com
+DOMAIN-SUFFIX,dropiy.com
 DOMAIN-SUFFIX,drvceo.com
 DOMAIN-SUFFIX,dskj-ops.com
 DOMAIN-SUFFIX,dtproj.top

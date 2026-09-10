@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 911
+# 规则统计: 912
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -250,6 +250,7 @@ HOST-SUFFIX,dockerpull.org,Direct
 HOST-SUFFIX,dockerpull.pw,Direct
 HOST-SUFFIX,dothantech.com,Direct
 HOST-SUFFIX,douqq.com,Direct
+HOST-SUFFIX,dropiy.com,Direct
 HOST-SUFFIX,drvceo.com,Direct
 HOST-SUFFIX,dskj-ops.com,Direct
 HOST-SUFFIX,dtproj.top,Direct

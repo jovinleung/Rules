@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 911
+# 规则统计: 912
 
 no_resolve: true
 domain_set:
@@ -691,6 +691,7 @@ domain_suffix_set:
   - sixloy428.top
   - skktec.com
   - sksight.com
+  - skxvc.com
   - snfox.com
   - snltty.com
   - soulteary.com

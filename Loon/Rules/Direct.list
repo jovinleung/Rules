@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 911
+# 规则统计: 912
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -688,6 +688,7 @@ DOMAIN-SUFFIX,sisiim.com
 DOMAIN-SUFFIX,sixloy428.top
 DOMAIN-SUFFIX,skktec.com
 DOMAIN-SUFFIX,sksight.com
+DOMAIN-SUFFIX,skxvc.com
 DOMAIN-SUFFIX,snfox.com
 DOMAIN-SUFFIX,snltty.com
 DOMAIN-SUFFIX,soulteary.com

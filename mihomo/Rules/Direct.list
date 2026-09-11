@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 916
+# 规则统计: 918
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -366,6 +366,7 @@ DOMAIN-SUFFIX,guangyapan.com
 DOMAIN-SUFFIX,gvgoo.com
 DOMAIN-SUFFIX,gwmapp-w.com
 DOMAIN-SUFFIX,gxnnjidingkeji.top
+DOMAIN-SUFFIX,gxrke1715.com
 DOMAIN-SUFFIX,gzjkoa.com
 DOMAIN-SUFFIX,gzybao.com
 DOMAIN-SUFFIX,h5bqb.top
@@ -590,6 +591,7 @@ DOMAIN-SUFFIX,nwiztech.com
 DOMAIN-SUFFIX,nxog.top
 DOMAIN-SUFFIX,nyxcuy.com
 DOMAIN-SUFFIX,oai.sb
+DOMAIN-SUFFIX,oath.com
 DOMAIN-SUFFIX,oceando.cloud
 DOMAIN-SUFFIX,ok321.top
 DOMAIN-SUFFIX,omq.cc

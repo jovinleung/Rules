@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 915
+# 规则统计: 917
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -366,6 +366,7 @@ HOST-SUFFIX,guangyapan.com,Direct
 HOST-SUFFIX,gvgoo.com,Direct
 HOST-SUFFIX,gwmapp-w.com,Direct
 HOST-SUFFIX,gxnnjidingkeji.top,Direct
+HOST-SUFFIX,gxrke1715.com,Direct
 HOST-SUFFIX,gzjkoa.com,Direct
 HOST-SUFFIX,gzybao.com,Direct
 HOST-SUFFIX,h5bqb.top,Direct
@@ -590,6 +591,7 @@ HOST-SUFFIX,nwiztech.com,Direct
 HOST-SUFFIX,nxog.top,Direct
 HOST-SUFFIX,nyxcuy.com,Direct
 HOST-SUFFIX,oai.sb,Direct
+HOST-SUFFIX,oath.com,Direct
 HOST-SUFFIX,oceando.cloud,Direct
 HOST-SUFFIX,ok321.top,Direct
 HOST-SUFFIX,omq.cc,Direct

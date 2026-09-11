@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 913
+# 规则统计: 914
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -444,6 +444,7 @@ DOMAIN-SUFFIX,inte.net
 DOMAIN-SUFFIX,iosgujian.com
 DOMAIN-SUFFIX,iot889.com
 DOMAIN-SUFFIX,iotrix.net
+DOMAIN-SUFFIX,ip.plus
 DOMAIN-SUFFIX,ip159.com
 DOMAIN-SUFFIX,ip6.seeip.org
 DOMAIN-SUFFIX,ipapi.co

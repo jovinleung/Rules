@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 912
+# 规则统计: 913
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -444,6 +444,7 @@ HOST-SUFFIX,inte.net,Direct
 HOST-SUFFIX,iosgujian.com,Direct
 HOST-SUFFIX,iot889.com,Direct
 HOST-SUFFIX,iotrix.net,Direct
+HOST-SUFFIX,ip.plus,Direct
 HOST-SUFFIX,ip159.com,Direct
 HOST-SUFFIX,ip6.seeip.org,Direct
 HOST-SUFFIX,ipapi.co,Direct

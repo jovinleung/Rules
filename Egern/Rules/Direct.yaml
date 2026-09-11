@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 913
+# 规则统计: 914
 
 no_resolve: true
 domain_set:
@@ -447,6 +447,7 @@ domain_suffix_set:
   - iosgujian.com
   - iot889.com
   - iotrix.net
+  - ip.plus
   - ip159.com
   - ip6.seeip.org
   - ipapi.co

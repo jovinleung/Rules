@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 914
+# 规则统计: 916
 
 no_resolve: true
 domain_set:
@@ -350,6 +350,7 @@ domain_suffix_set:
   - goka.top
   - gongxiangjizhang.com
   - goodnotesapp.com.cn
+  - goodq.top
   - goofish.pro
   - googletraveladservices.com
   - googoc.com
@@ -484,6 +485,7 @@ domain_suffix_set:
   - kaijiejinrong.com
   - kaipanhong.com
   - kancaibao.com
+  - kanxiquan.com
   - kaspersky-labs.com
   - kaspersky.com
   - kasperskydaily.com

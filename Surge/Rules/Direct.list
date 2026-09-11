@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 914
+# 规则统计: 916
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -347,6 +347,7 @@ DOMAIN-SUFFIX,goalmapapp.com
 DOMAIN-SUFFIX,goka.top
 DOMAIN-SUFFIX,gongxiangjizhang.com
 DOMAIN-SUFFIX,goodnotesapp.com.cn
+DOMAIN-SUFFIX,goodq.top
 DOMAIN-SUFFIX,goofish.pro
 DOMAIN-SUFFIX,googletraveladservices.com
 DOMAIN-SUFFIX,googoc.com
@@ -481,6 +482,7 @@ DOMAIN-SUFFIX,kaijiacloud.com
 DOMAIN-SUFFIX,kaijiejinrong.com
 DOMAIN-SUFFIX,kaipanhong.com
 DOMAIN-SUFFIX,kancaibao.com
+DOMAIN-SUFFIX,kanxiquan.com
 DOMAIN-SUFFIX,kaspersky-labs.com
 DOMAIN-SUFFIX,kaspersky.com
 DOMAIN-SUFFIX,kasperskydaily.com

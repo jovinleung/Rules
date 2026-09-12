@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 918
+# 规则统计: 919
 
 no_resolve: true
 domain_set:
@@ -756,6 +756,7 @@ domain_suffix_set:
   - trjho.com
   - ts3.ink
   - ttshitu.com
+  - tualatin.club
   - tulipsport.com
   - tumukaoyan.com
   - tuxing.art

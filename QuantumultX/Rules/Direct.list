@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 918
+# 规则统计: 924
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -84,6 +84,7 @@ HOST-SUFFIX,88996api.cloud,Direct
 HOST-SUFFIX,8kc.top,Direct
 HOST-SUFFIX,8x14khzwmi.com,Direct
 HOST-SUFFIX,900cha.com,Direct
+HOST-SUFFIX,91biu.work,Direct
 HOST-SUFFIX,91shenfan.com,Direct
 HOST-SUFFIX,975135.xyz,Direct
 HOST-SUFFIX,97973399.com,Direct
@@ -121,6 +122,7 @@ HOST-SUFFIX,alonginwind.to,Direct
 HOST-SUFFIX,alonginwind.top,Direct
 HOST-SUFFIX,aloys233.top,Direct
 HOST-SUFFIX,amap-cdn.com,Direct
+HOST-SUFFIX,ankltoken.com,Direct
 HOST-SUFFIX,antping.com,Direct
 HOST-SUFFIX,anvnjmc.com,Direct
 HOST-SUFFIX,anycubic.com,Direct
@@ -287,6 +289,7 @@ HOST-SUFFIX,ffhome.com,Direct
 HOST-SUFFIX,fileball.app,Direct
 HOST-SUFFIX,fjpit.com,Direct
 HOST-SUFFIX,flingtrainer.com,Direct
+HOST-SUFFIX,fnspeed.net,Direct
 HOST-SUFFIX,fofuai.com,Direct
 HOST-SUFFIX,founderyt.com,Direct
 HOST-SUFFIX,fowep.com,Direct
@@ -423,6 +426,7 @@ HOST-SUFFIX,hwzuku.com,Direct
 HOST-SUFFIX,hybiome.com,Direct
 HOST-SUFFIX,hzlawyer.net,Direct
 HOST-SUFFIX,hzqsn.com,Direct
+HOST-SUFFIX,hzyi.eu.org,Direct
 HOST-SUFFIX,ibnjl.shop,Direct
 HOST-SUFFIX,ibwm5lynb6.com,Direct
 HOST-SUFFIX,icvcs.com,Direct
@@ -591,6 +595,7 @@ HOST-SUFFIX,nwiztech.com,Direct
 HOST-SUFFIX,nxog.top,Direct
 HOST-SUFFIX,nyxcuy.com,Direct
 HOST-SUFFIX,oai.sb,Direct
+HOST-SUFFIX,oath.com,Direct
 HOST-SUFFIX,oceando.cloud,Direct
 HOST-SUFFIX,ok321.top,Direct
 HOST-SUFFIX,omq.cc,Direct
@@ -601,6 +606,7 @@ HOST-SUFFIX,openappfilter.com,Direct
 HOST-SUFFIX,openevai.com,Direct
 HOST-SUFFIX,openkylin.top,Direct
 HOST-SUFFIX,opentrust.net,Direct
+HOST-SUFFIX,opera.com,Direct
 HOST-SUFFIX,orence.net,Direct
 HOST-SUFFIX,osbdf.com,Direct
 HOST-SUFFIX,ossrs.net,Direct

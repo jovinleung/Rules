@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 919
+# 规则统计: 925
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -84,6 +84,7 @@ DOMAIN-SUFFIX,88996api.cloud
 DOMAIN-SUFFIX,8kc.top
 DOMAIN-SUFFIX,8x14khzwmi.com
 DOMAIN-SUFFIX,900cha.com
+DOMAIN-SUFFIX,91biu.work
 DOMAIN-SUFFIX,91shenfan.com
 DOMAIN-SUFFIX,975135.xyz
 DOMAIN-SUFFIX,97973399.com
@@ -121,6 +122,7 @@ DOMAIN-SUFFIX,alonginwind.to
 DOMAIN-SUFFIX,alonginwind.top
 DOMAIN-SUFFIX,aloys233.top
 DOMAIN-SUFFIX,amap-cdn.com
+DOMAIN-SUFFIX,ankltoken.com
 DOMAIN-SUFFIX,antping.com
 DOMAIN-SUFFIX,anvnjmc.com
 DOMAIN-SUFFIX,anycubic.com
@@ -287,6 +289,7 @@ DOMAIN-SUFFIX,ffhome.com
 DOMAIN-SUFFIX,fileball.app
 DOMAIN-SUFFIX,fjpit.com
 DOMAIN-SUFFIX,flingtrainer.com
+DOMAIN-SUFFIX,fnspeed.net
 DOMAIN-SUFFIX,fofuai.com
 DOMAIN-SUFFIX,founderyt.com
 DOMAIN-SUFFIX,fowep.com
@@ -423,6 +426,7 @@ DOMAIN-SUFFIX,hwzuku.com
 DOMAIN-SUFFIX,hybiome.com
 DOMAIN-SUFFIX,hzlawyer.net
 DOMAIN-SUFFIX,hzqsn.com
+DOMAIN-SUFFIX,hzyi.eu.org
 DOMAIN-SUFFIX,ibnjl.shop
 DOMAIN-SUFFIX,ibwm5lynb6.com
 DOMAIN-SUFFIX,icvcs.com
@@ -591,6 +595,7 @@ DOMAIN-SUFFIX,nwiztech.com
 DOMAIN-SUFFIX,nxog.top
 DOMAIN-SUFFIX,nyxcuy.com
 DOMAIN-SUFFIX,oai.sb
+DOMAIN-SUFFIX,oath.com
 DOMAIN-SUFFIX,oceando.cloud
 DOMAIN-SUFFIX,ok321.top
 DOMAIN-SUFFIX,omq.cc
@@ -601,6 +606,7 @@ DOMAIN-SUFFIX,openappfilter.com
 DOMAIN-SUFFIX,openevai.com
 DOMAIN-SUFFIX,openkylin.top
 DOMAIN-SUFFIX,opentrust.net
+DOMAIN-SUFFIX,opera.com
 DOMAIN-SUFFIX,orence.net
 DOMAIN-SUFFIX,osbdf.com
 DOMAIN-SUFFIX,ossrs.net

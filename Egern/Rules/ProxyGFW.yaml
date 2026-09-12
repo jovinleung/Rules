@@ -1,5 +1,5 @@
 # 规则名称: ProxyGFW
-# 规则统计: 7668
+# 规则统计: 7669
 
 no_resolve: true
 domain_set:
@@ -837,6 +837,7 @@ domain_suffix_set:
   - bowenpress.com
   - box.com
   - box.net
+  - boxcloud.com
   - boxpn.com
   - boxun.com
   - boxun.tv

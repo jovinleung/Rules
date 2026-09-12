@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1356
+# 规则统计: 1357
 
 no_resolve: true
 domain_set:
@@ -176,6 +176,7 @@ domain_suffix_set:
   - bloomberg.net
   - bnbstatic.com
   - box.com
+  - boxcloud.com
   - bq02.cc
   - brave.com
   - brew.sh

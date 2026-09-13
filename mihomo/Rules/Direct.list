@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 925
+# 规则统计: 926
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -113,6 +113,7 @@ DOMAIN-SUFFIX,aidien.fun
 DOMAIN-SUFFIX,aidream.website
 DOMAIN-SUFFIX,aigodlike.com
 DOMAIN-SUFFIX,aihubmix.com
+DOMAIN-SUFFIX,ainfinit.com
 DOMAIN-SUFFIX,aisnogames.com
 DOMAIN-SUFFIX,aistudio-app.com
 DOMAIN-SUFFIX,akamaihd.net

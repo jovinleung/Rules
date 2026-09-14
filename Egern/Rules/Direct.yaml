@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 928
+# 规则统计: 929
 
 no_resolve: true
 domain_set:
@@ -726,6 +726,7 @@ domain_suffix_set:
   - sxlljm.com
   - sy1.top
   - sztopten.com
+  - taichuansmart.com
   - tailgdd.com
   - tailscale.com
   - tajiduo.com

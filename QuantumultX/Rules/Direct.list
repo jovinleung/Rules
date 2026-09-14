@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 927
+# 规则统计: 928
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -723,6 +723,7 @@ HOST-SUFFIX,svyun.com,Direct
 HOST-SUFFIX,sxlljm.com,Direct
 HOST-SUFFIX,sy1.top,Direct
 HOST-SUFFIX,sztopten.com,Direct
+HOST-SUFFIX,taichuansmart.com,Direct
 HOST-SUFFIX,tailgdd.com,Direct
 HOST-SUFFIX,tailscale.com,Direct
 HOST-SUFFIX,tajiduo.com,Direct

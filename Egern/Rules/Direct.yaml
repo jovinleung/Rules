@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 926
+# 规则统计: 928
 
 no_resolve: true
 domain_set:
@@ -479,6 +479,7 @@ domain_suffix_set:
   - jiqw.com
   - jjzyy.org
   - jkgeek.com
+  - jnsjz.com
   - jsdelivr.com
   - jsdelivr.net
   - jsj.top
@@ -515,6 +516,7 @@ domain_suffix_set:
   - latexlive.com
   - lcdn-locator.apple.com
   - lcdn-registration.apple.com
+  - leadweigh.com
   - leelen.com
   - letaoedu.com
   - lg3000.top

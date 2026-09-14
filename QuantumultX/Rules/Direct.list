@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 925
+# 规则统计: 927
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -476,6 +476,7 @@ HOST-SUFFIX,jinzanzan.com,Direct
 HOST-SUFFIX,jiqw.com,Direct
 HOST-SUFFIX,jjzyy.org,Direct
 HOST-SUFFIX,jkgeek.com,Direct
+HOST-SUFFIX,jnsjz.com,Direct
 HOST-SUFFIX,jsdelivr.com,Direct
 HOST-SUFFIX,jsdelivr.net,Direct
 HOST-SUFFIX,jsj.top,Direct
@@ -512,6 +513,7 @@ HOST-SUFFIX,laogongju.com,Direct
 HOST-SUFFIX,latexlive.com,Direct
 HOST-SUFFIX,lcdn-locator.apple.com,Direct
 HOST-SUFFIX,lcdn-registration.apple.com,Direct
+HOST-SUFFIX,leadweigh.com,Direct
 HOST-SUFFIX,leelen.com,Direct
 HOST-SUFFIX,letaoedu.com,Direct
 HOST-SUFFIX,lg3000.top,Direct

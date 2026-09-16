@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 929
+# 规则统计: 930
 
 no_resolve: true
 domain_set:
@@ -36,6 +36,7 @@ domain_set:
 domain_suffix_set:
   - 00333118.com
   - 0044696.com
+  - 028zk01.net
   - 03241119.xyz
   - 0734cn.top
   - 0759mall.com

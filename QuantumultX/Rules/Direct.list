@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 928
+# 规则统计: 929
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -33,6 +33,7 @@ HOST,vd.l.qq.com,Direct
 HOST,vi.l.qq.com,Direct
 HOST-SUFFIX,00333118.com,Direct
 HOST-SUFFIX,0044696.com,Direct
+HOST-SUFFIX,028zk01.net,Direct
 HOST-SUFFIX,03241119.xyz,Direct
 HOST-SUFFIX,0734cn.top,Direct
 HOST-SUFFIX,0759mall.com,Direct

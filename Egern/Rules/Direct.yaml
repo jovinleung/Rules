@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 931
+# 规则统计: 932
 
 no_resolve: true
 domain_set:
@@ -697,6 +697,7 @@ domain_suffix_set:
   - shanghongbei.com
   - share123.top
   - shineacc.com
+  - shsw.top
   - shuangqingtech.com
   - shuangxiumall.com
   - shuinfo.com

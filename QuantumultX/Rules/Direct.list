@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 933
+# 规则统计: 934
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -283,6 +283,7 @@ HOST-SUFFIX,fastify.cc,Direct
 HOST-SUFFIX,fb71ef91e1014.beer,Direct
 HOST-SUFFIX,fdfinvoice.com,Direct
 HOST-SUFFIX,feihengip.com,Direct
+HOST-SUFFIX,feiyujiaju.com,Direct
 HOST-SUFFIX,feizhiyi.com,Direct
 HOST-SUFFIX,fengda.me,Direct
 HOST-SUFFIX,fengsutb.com,Direct

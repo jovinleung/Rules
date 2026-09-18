@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 934
+# 规则统计: 935
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -283,6 +283,7 @@ DOMAIN-SUFFIX,fastify.cc
 DOMAIN-SUFFIX,fb71ef91e1014.beer
 DOMAIN-SUFFIX,fdfinvoice.com
 DOMAIN-SUFFIX,feihengip.com
+DOMAIN-SUFFIX,feiyujiaju.com
 DOMAIN-SUFFIX,feizhiyi.com
 DOMAIN-SUFFIX,fengda.me
 DOMAIN-SUFFIX,fengsutb.com

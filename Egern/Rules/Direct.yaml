@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 932
+# 规则统计: 934
 
 no_resolve: true
 domain_set:
@@ -173,6 +173,7 @@ domain_suffix_set:
   - boowayun.com
   - bowenkj.com
   - boxim.online
+  - boxkj.com
   - boyuemobile.com
   - bsbsb.top
   - bunny.net
@@ -727,6 +728,7 @@ domain_suffix_set:
   - suyur.com
   - svyun.com
   - sxlljm.com
+  - sxstczx.com
   - sy1.top
   - sztopten.com
   - taichuansmart.com

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 935
+# 规则统计: 936
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -103,6 +103,7 @@ DOMAIN-SUFFIX,admpv.com
 DOMAIN-SUFFIX,admpv.net
 DOMAIN-SUFFIX,adobe.com
 DOMAIN-SUFFIX,adosmo.com
+DOMAIN-SUFFIX,adsmart.cc
 DOMAIN-SUFFIX,afeica.com
 DOMAIN-SUFFIX,afuns.me
 DOMAIN-SUFFIX,agentkey.app

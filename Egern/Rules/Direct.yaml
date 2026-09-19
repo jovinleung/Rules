@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 935
+# 规则统计: 936
 
 no_resolve: true
 domain_set:
@@ -106,6 +106,7 @@ domain_suffix_set:
   - admpv.net
   - adobe.com
   - adosmo.com
+  - adsmart.cc
   - afeica.com
   - afuns.me
   - agentkey.app

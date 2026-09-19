@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 939
+# 规则统计: 941
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -550,6 +550,7 @@ DOMAIN-SUFFIX,mchuiji.com
 DOMAIN-SUFFIX,mcrmb.com
 DOMAIN-SUFFIX,mcxyzt.cc
 DOMAIN-SUFFIX,medtechshare.com
+DOMAIN-SUFFIX,meetkb.com
 DOMAIN-SUFFIX,meijian.com
 DOMAIN-SUFFIX,meishiffx.online
 DOMAIN-SUFFIX,meiyitou.top
@@ -794,6 +795,7 @@ DOMAIN-SUFFIX,vclbrokers.com
 DOMAIN-SUFFIX,vcltrade.com
 DOMAIN-SUFFIX,vgogbuy.com
 DOMAIN-SUFFIX,vip-cdn.com
+DOMAIN-SUFFIX,visionariopro.com
 DOMAIN-SUFFIX,vlan5.com
 DOMAIN-SUFFIX,vpsjyz.com
 DOMAIN-SUFFIX,vtools.online

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 939
+# 规则统计: 941
 
 no_resolve: true
 domain_set:
@@ -553,6 +553,7 @@ domain_suffix_set:
   - mcrmb.com
   - mcxyzt.cc
   - medtechshare.com
+  - meetkb.com
   - meijian.com
   - meishiffx.online
   - meiyitou.top
@@ -797,6 +798,7 @@ domain_suffix_set:
   - vcltrade.com
   - vgogbuy.com
   - vip-cdn.com
+  - visionariopro.com
   - vlan5.com
   - vpsjyz.com
   - vtools.online

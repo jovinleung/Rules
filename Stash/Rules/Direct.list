@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 936
+# 规则统计: 939
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -214,6 +214,7 @@ DOMAIN-SUFFIX,cnb.space
 DOMAIN-SUFFIX,cnspeedtest.cn
 DOMAIN-SUFFIX,cocav.com
 DOMAIN-SUFFIX,code-relay.com
+DOMAIN-SUFFIX,code.fun
 DOMAIN-SUFFIX,codeloop.top
 DOMAIN-SUFFIX,coffee-iot.com
 DOMAIN-SUFFIX,cone-x.com
@@ -701,6 +702,7 @@ DOMAIN-SUFFIX,shsw.top
 DOMAIN-SUFFIX,shuangqingtech.com
 DOMAIN-SUFFIX,shuangxiumall.com
 DOMAIN-SUFFIX,shuinfo.com
+DOMAIN-SUFFIX,shulex.com
 DOMAIN-SUFFIX,shunjing.xin
 DOMAIN-SUFFIX,shuqiandiqiu.com
 DOMAIN-SUFFIX,shyxhy.com
@@ -794,6 +796,7 @@ DOMAIN-SUFFIX,vgogbuy.com
 DOMAIN-SUFFIX,vip-cdn.com
 DOMAIN-SUFFIX,vlan5.com
 DOMAIN-SUFFIX,vpsjyz.com
+DOMAIN-SUFFIX,vtools.online
 DOMAIN-SUFFIX,vv1865.com
 DOMAIN-SUFFIX,warmheart.top
 DOMAIN-SUFFIX,we-stats.com

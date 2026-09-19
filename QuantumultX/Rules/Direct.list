@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 935
+# 规则统计: 938
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -214,6 +214,7 @@ HOST-SUFFIX,cnb.space,Direct
 HOST-SUFFIX,cnspeedtest.cn,Direct
 HOST-SUFFIX,cocav.com,Direct
 HOST-SUFFIX,code-relay.com,Direct
+HOST-SUFFIX,code.fun,Direct
 HOST-SUFFIX,codeloop.top,Direct
 HOST-SUFFIX,coffee-iot.com,Direct
 HOST-SUFFIX,cone-x.com,Direct
@@ -701,6 +702,7 @@ HOST-SUFFIX,shsw.top,Direct
 HOST-SUFFIX,shuangqingtech.com,Direct
 HOST-SUFFIX,shuangxiumall.com,Direct
 HOST-SUFFIX,shuinfo.com,Direct
+HOST-SUFFIX,shulex.com,Direct
 HOST-SUFFIX,shunjing.xin,Direct
 HOST-SUFFIX,shuqiandiqiu.com,Direct
 HOST-SUFFIX,shyxhy.com,Direct
@@ -794,6 +796,7 @@ HOST-SUFFIX,vgogbuy.com,Direct
 HOST-SUFFIX,vip-cdn.com,Direct
 HOST-SUFFIX,vlan5.com,Direct
 HOST-SUFFIX,vpsjyz.com,Direct
+HOST-SUFFIX,vtools.online,Direct
 HOST-SUFFIX,vv1865.com,Direct
 HOST-SUFFIX,warmheart.top,Direct
 HOST-SUFFIX,we-stats.com,Direct

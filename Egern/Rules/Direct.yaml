@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 936
+# 规则统计: 939
 
 no_resolve: true
 domain_set:
@@ -217,6 +217,7 @@ domain_suffix_set:
   - cnspeedtest.cn
   - cocav.com
   - code-relay.com
+  - code.fun
   - codeloop.top
   - coffee-iot.com
   - cone-x.com
@@ -704,6 +705,7 @@ domain_suffix_set:
   - shuangqingtech.com
   - shuangxiumall.com
   - shuinfo.com
+  - shulex.com
   - shunjing.xin
   - shuqiandiqiu.com
   - shyxhy.com
@@ -797,6 +799,7 @@ domain_suffix_set:
   - vip-cdn.com
   - vlan5.com
   - vpsjyz.com
+  - vtools.online
   - vv1865.com
   - warmheart.top
   - we-stats.com

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 941
+# 规则统计: 943
 
 no_resolve: true
 domain_set:
@@ -94,6 +94,7 @@ domain_suffix_set:
   - 97973399.com
   - 985hezi.com
   - 998tool.com
+  - 9999jt.com
   - a0d.top
   - aaawz.cc
   - abctougu.com
@@ -296,6 +297,7 @@ domain_suffix_set:
   - fffff.games
   - ffhome.com
   - fileball.app
+  - fjdejing.com
   - fjpit.com
   - flingtrainer.com
   - fnspeed.net

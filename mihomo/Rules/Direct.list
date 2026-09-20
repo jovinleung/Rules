@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 941
+# 规则统计: 943
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -91,6 +91,7 @@ DOMAIN-SUFFIX,975135.xyz
 DOMAIN-SUFFIX,97973399.com
 DOMAIN-SUFFIX,985hezi.com
 DOMAIN-SUFFIX,998tool.com
+DOMAIN-SUFFIX,9999jt.com
 DOMAIN-SUFFIX,a0d.top
 DOMAIN-SUFFIX,aaawz.cc
 DOMAIN-SUFFIX,abctougu.com
@@ -293,6 +294,7 @@ DOMAIN-SUFFIX,fenno.ai
 DOMAIN-SUFFIX,fffff.games
 DOMAIN-SUFFIX,ffhome.com
 DOMAIN-SUFFIX,fileball.app
+DOMAIN-SUFFIX,fjdejing.com
 DOMAIN-SUFFIX,fjpit.com
 DOMAIN-SUFFIX,flingtrainer.com
 DOMAIN-SUFFIX,fnspeed.net

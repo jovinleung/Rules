@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 942
+# 规则统计: 943
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -631,6 +631,7 @@ HOST-SUFFIX,panjue.com,Direct
 HOST-SUFFIX,paperang.com,Direct
 HOST-SUFFIX,passnat.com,Direct
 HOST-SUFFIX,pcwatch.com,Direct
+HOST-SUFFIX,pdf001.com,Direct
 HOST-SUFFIX,pianyuan.org,Direct
 HOST-SUFFIX,piedaochuan.top,Direct
 HOST-SUFFIX,pinshuxsw.com,Direct

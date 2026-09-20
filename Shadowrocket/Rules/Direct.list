@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 943
+# 规则统计: 944
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -631,6 +631,7 @@ DOMAIN-SUFFIX,panjue.com
 DOMAIN-SUFFIX,paperang.com
 DOMAIN-SUFFIX,passnat.com
 DOMAIN-SUFFIX,pcwatch.com
+DOMAIN-SUFFIX,pdf001.com
 DOMAIN-SUFFIX,pianyuan.org
 DOMAIN-SUFFIX,piedaochuan.top
 DOMAIN-SUFFIX,pinshuxsw.com

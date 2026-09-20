@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 943
+# 规则统计: 944
 
 no_resolve: true
 domain_set:
@@ -634,6 +634,7 @@ domain_suffix_set:
   - paperang.com
   - passnat.com
   - pcwatch.com
+  - pdf001.com
   - pianyuan.org
   - piedaochuan.top
   - pinshuxsw.com

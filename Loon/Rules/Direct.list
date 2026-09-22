@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 944
+# 规则统计: 945
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -203,6 +203,7 @@ DOMAIN-SUFFIX,chessease.net
 DOMAIN-SUFFIX,chii.in
 DOMAIN-SUFFIX,china-amass.com
 DOMAIN-SUFFIX,chinatle.com
+DOMAIN-SUFFIX,chocolateswap.com
 DOMAIN-SUFFIX,chuguansmart.com
 DOMAIN-SUFFIX,chujingapp.com
 DOMAIN-SUFFIX,chushi.cool

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 944
+# 规则统计: 945
 
 no_resolve: true
 domain_set:
@@ -206,6 +206,7 @@ domain_suffix_set:
   - chii.in
   - china-amass.com
   - chinatle.com
+  - chocolateswap.com
   - chuguansmart.com
   - chujingapp.com
   - chushi.cool

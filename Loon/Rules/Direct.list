@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 945
+# 规则统计: 946
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -406,6 +406,7 @@ DOMAIN-SUFFIX,higgsweb.com
 DOMAIN-SUFFIX,hijin.vip
 DOMAIN-SUFFIX,hiocloud.com
 DOMAIN-SUFFIX,hiwms.com
+DOMAIN-SUFFIX,hjgdrop.cc
 DOMAIN-SUFFIX,hkchat.app
 DOMAIN-SUFFIX,hnchasing.com
 DOMAIN-SUFFIX,hnxzctec.com

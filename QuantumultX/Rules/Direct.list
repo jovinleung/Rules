@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 944
+# 规则统计: 945
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -406,6 +406,7 @@ HOST-SUFFIX,higgsweb.com,Direct
 HOST-SUFFIX,hijin.vip,Direct
 HOST-SUFFIX,hiocloud.com,Direct
 HOST-SUFFIX,hiwms.com,Direct
+HOST-SUFFIX,hjgdrop.cc,Direct
 HOST-SUFFIX,hkchat.app,Direct
 HOST-SUFFIX,hnchasing.com,Direct
 HOST-SUFFIX,hnxzctec.com,Direct

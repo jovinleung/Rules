@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 946
+# 规则统计: 953
 
 no_resolve: true
 domain_set:
@@ -190,6 +190,7 @@ domain_suffix_set:
   - ccw.site
   - cdn.doctor
   - cdn.ist
+  - cdn362.cc
   - cdut.top
   - centbrowser.net
   - cftunnel.com
@@ -212,6 +213,7 @@ domain_suffix_set:
   - chushi.cool
   - ciallo.party
   - clivia.fun
+  - cloudllll.com
   - cmbc.run
   - cmhk.com
   - cn-music.mefun.vip
@@ -520,6 +522,7 @@ domain_suffix_set:
   - kuaicha888.com
   - kudashi.com
   - kukongjian.com
+  - kuktxu.com
   - kwai.net
   - lanyun.net
   - laogongju.com
@@ -654,6 +657,7 @@ domain_suffix_set:
   - pookcdn.net
   - pool.ntp.org
   - powershellgallery.com
+  - ppqrrs.com
   - ppt28.com
   - privateapi.xyz
   - psf0404.shop
@@ -717,6 +721,7 @@ domain_suffix_set:
   - shyxhy.com
   - sisiim.com
   - sixloy428.top
+  - sjchess.com
   - skktec.com
   - sksight.com
   - skxvc.com
@@ -811,6 +816,7 @@ domain_suffix_set:
   - warmheart.top
   - we-stats.com
   - webs.vc
+  - weixinpcs.com
   - wenyi188.com
   - wera.eu.org
   - weshape3d.com
@@ -843,6 +849,7 @@ domain_suffix_set:
   - xhey.top
   - xianghuiin.com
   - xiankabao.com
+  - xiaoai.live
   - xiaobeiyangji.com
   - xiaocaiyuan.com
   - xiaochuanyun.com

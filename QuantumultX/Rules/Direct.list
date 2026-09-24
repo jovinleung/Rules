@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 945
+# 规则统计: 952
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -187,6 +187,7 @@ HOST-SUFFIX,cc39ute.shop,Direct
 HOST-SUFFIX,ccw.site,Direct
 HOST-SUFFIX,cdn.doctor,Direct
 HOST-SUFFIX,cdn.ist,Direct
+HOST-SUFFIX,cdn362.cc,Direct
 HOST-SUFFIX,cdut.top,Direct
 HOST-SUFFIX,centbrowser.net,Direct
 HOST-SUFFIX,cftunnel.com,Direct
@@ -209,6 +210,7 @@ HOST-SUFFIX,chujingapp.com,Direct
 HOST-SUFFIX,chushi.cool,Direct
 HOST-SUFFIX,ciallo.party,Direct
 HOST-SUFFIX,clivia.fun,Direct
+HOST-SUFFIX,cloudllll.com,Direct
 HOST-SUFFIX,cmbc.run,Direct
 HOST-SUFFIX,cmhk.com,Direct
 HOST-SUFFIX,cn-music.mefun.vip,Direct
@@ -517,6 +519,7 @@ HOST-SUFFIX,koebpmhcce.com,Direct
 HOST-SUFFIX,kuaicha888.com,Direct
 HOST-SUFFIX,kudashi.com,Direct
 HOST-SUFFIX,kukongjian.com,Direct
+HOST-SUFFIX,kuktxu.com,Direct
 HOST-SUFFIX,kwai.net,Direct
 HOST-SUFFIX,lanyun.net,Direct
 HOST-SUFFIX,laogongju.com,Direct
@@ -651,6 +654,7 @@ HOST-SUFFIX,ponyemu.com,Direct
 HOST-SUFFIX,pookcdn.net,Direct
 HOST-SUFFIX,pool.ntp.org,Direct
 HOST-SUFFIX,powershellgallery.com,Direct
+HOST-SUFFIX,ppqrrs.com,Direct
 HOST-SUFFIX,ppt28.com,Direct
 HOST-SUFFIX,privateapi.xyz,Direct
 HOST-SUFFIX,psf0404.shop,Direct
@@ -714,6 +718,7 @@ HOST-SUFFIX,shuqiandiqiu.com,Direct
 HOST-SUFFIX,shyxhy.com,Direct
 HOST-SUFFIX,sisiim.com,Direct
 HOST-SUFFIX,sixloy428.top,Direct
+HOST-SUFFIX,sjchess.com,Direct
 HOST-SUFFIX,skktec.com,Direct
 HOST-SUFFIX,sksight.com,Direct
 HOST-SUFFIX,skxvc.com,Direct
@@ -808,6 +813,7 @@ HOST-SUFFIX,vv1865.com,Direct
 HOST-SUFFIX,warmheart.top,Direct
 HOST-SUFFIX,we-stats.com,Direct
 HOST-SUFFIX,webs.vc,Direct
+HOST-SUFFIX,weixinpcs.com,Direct
 HOST-SUFFIX,wenyi188.com,Direct
 HOST-SUFFIX,wera.eu.org,Direct
 HOST-SUFFIX,weshape3d.com,Direct
@@ -840,6 +846,7 @@ HOST-SUFFIX,xgzb.top,Direct
 HOST-SUFFIX,xhey.top,Direct
 HOST-SUFFIX,xianghuiin.com,Direct
 HOST-SUFFIX,xiankabao.com,Direct
+HOST-SUFFIX,xiaoai.live,Direct
 HOST-SUFFIX,xiaobeiyangji.com,Direct
 HOST-SUFFIX,xiaocaiyuan.com,Direct
 HOST-SUFFIX,xiaochuanyun.com,Direct

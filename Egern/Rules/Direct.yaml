@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 953
+# 规则统计: 955
 
 no_resolve: true
 domain_set:
@@ -494,6 +494,7 @@ domain_suffix_set:
   - jsdelivr.com
   - jsdelivr.net
   - jsj.top
+  - jspvz.com
   - julebu.co
   - jxjktzjt.com
   - jxpp.com
@@ -663,6 +664,7 @@ domain_suffix_set:
   - psf0404.shop
   - ptlgs.org
   - pubsub.tech
+  - pvz1.com
   - pwithe.com
   - qianfan.app
   - qiankunshopping.com

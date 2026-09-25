@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 954
+# 规则统计: 955
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -790,6 +790,7 @@ HOST-SUFFIX,tulipsport.com,Direct
 HOST-SUFFIX,tumukaoyan.com,Direct
 HOST-SUFFIX,tuxing.art,Direct
 HOST-SUFFIX,twinkstar.com,Direct
+HOST-SUFFIX,type.fun,Direct
 HOST-SUFFIX,tztec.top,Direct
 HOST-SUFFIX,u-carloan.com,Direct
 HOST-SUFFIX,uascent-iot.com,Direct

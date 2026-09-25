@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 955
+# 规则统计: 956
 
 no_resolve: true
 domain_set:
@@ -793,6 +793,7 @@ domain_suffix_set:
   - tumukaoyan.com
   - tuxing.art
   - twinkstar.com
+  - type.fun
   - tztec.top
   - u-carloan.com
   - uascent-iot.com

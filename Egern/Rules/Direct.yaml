@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 956
+# 规则统计: 960
 
 no_resolve: true
 domain_set:
@@ -415,6 +415,7 @@ domain_suffix_set:
   - hkchat.app
   - hnchasing.com
   - hnxzctec.com
+  - hnzjyw.com
   - hoaihe.store
   - hongxingdl.com
   - hongxingdl.love
@@ -441,6 +442,7 @@ domain_suffix_set:
   - hybiome.com
   - hzlawyer.net
   - hzqsn.com
+  - hzssjp.com
   - hzyi.eu.org
   - ibnjl.shop
   - ibwm5lynb6.com
@@ -766,6 +768,7 @@ domain_suffix_set:
   - test-ipv6.com
   - tggfl.com
   - theluyuan.com
+  - theuwa.com
   - thinkerride.com
   - thispx.com
   - thmnet.com
@@ -811,6 +814,7 @@ domain_suffix_set:
   - vcltrade.com
   - vgogbuy.com
   - vip-cdn.com
+  - vipjiapu.com
   - visionariopro.com
   - vlan5.com
   - vpsjyz.com

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 955
+# 规则统计: 959
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -412,6 +412,7 @@ HOST-SUFFIX,hjgdrop.cc,Direct
 HOST-SUFFIX,hkchat.app,Direct
 HOST-SUFFIX,hnchasing.com,Direct
 HOST-SUFFIX,hnxzctec.com,Direct
+HOST-SUFFIX,hnzjyw.com,Direct
 HOST-SUFFIX,hoaihe.store,Direct
 HOST-SUFFIX,hongxingdl.com,Direct
 HOST-SUFFIX,hongxingdl.love,Direct
@@ -438,6 +439,7 @@ HOST-SUFFIX,hwzuku.com,Direct
 HOST-SUFFIX,hybiome.com,Direct
 HOST-SUFFIX,hzlawyer.net,Direct
 HOST-SUFFIX,hzqsn.com,Direct
+HOST-SUFFIX,hzssjp.com,Direct
 HOST-SUFFIX,hzyi.eu.org,Direct
 HOST-SUFFIX,ibnjl.shop,Direct
 HOST-SUFFIX,ibwm5lynb6.com,Direct
@@ -763,6 +765,7 @@ HOST-SUFFIX,terrabbs.ink,Direct
 HOST-SUFFIX,test-ipv6.com,Direct
 HOST-SUFFIX,tggfl.com,Direct
 HOST-SUFFIX,theluyuan.com,Direct
+HOST-SUFFIX,theuwa.com,Direct
 HOST-SUFFIX,thinkerride.com,Direct
 HOST-SUFFIX,thispx.com,Direct
 HOST-SUFFIX,thmnet.com,Direct
@@ -808,6 +811,7 @@ HOST-SUFFIX,vclbrokers.com,Direct
 HOST-SUFFIX,vcltrade.com,Direct
 HOST-SUFFIX,vgogbuy.com,Direct
 HOST-SUFFIX,vip-cdn.com,Direct
+HOST-SUFFIX,vipjiapu.com,Direct
 HOST-SUFFIX,visionariopro.com,Direct
 HOST-SUFFIX,vlan5.com,Direct
 HOST-SUFFIX,vpsjyz.com,Direct

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 961
+# 规则统计: 966
 
 no_resolve: true
 domain_set:
@@ -158,6 +158,7 @@ domain_suffix_set:
   - baiyishequ.com
   - bajie.la
   - banban.work
+  - banxueketang.com
   - baominggongju.com
   - batchat.com
   - bdcb.cc
@@ -229,6 +230,7 @@ domain_suffix_set:
   - congmiqq.com
   - constasj.me
   - coros.com
+  - cqjypg.com
   - cqnbmarathon.com
   - crrcgo.cc
   - crtyhr.com
@@ -536,6 +538,7 @@ domain_suffix_set:
   - leadweigh.com
   - leelen.com
   - letaoedu.com
+  - lezuan6.com
   - lg3000.top
   - lightmake.site
   - linka2a.net
@@ -768,6 +771,8 @@ domain_suffix_set:
   - terrabbs.ink
   - test-ipv6.com
   - tggfl.com
+  - tgpro.net
+  - tgpro.top
   - theluyuan.com
   - theuwa.com
   - thinkerride.com

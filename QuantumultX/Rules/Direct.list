@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 960
+# 规则统计: 965
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -155,6 +155,7 @@ HOST-SUFFIX,baidu94.com,Direct
 HOST-SUFFIX,baiyishequ.com,Direct
 HOST-SUFFIX,bajie.la,Direct
 HOST-SUFFIX,banban.work,Direct
+HOST-SUFFIX,banxueketang.com,Direct
 HOST-SUFFIX,baominggongju.com,Direct
 HOST-SUFFIX,batchat.com,Direct
 HOST-SUFFIX,bdcb.cc,Direct
@@ -226,6 +227,7 @@ HOST-SUFFIX,cone-x.com,Direct
 HOST-SUFFIX,congmiqq.com,Direct
 HOST-SUFFIX,constasj.me,Direct
 HOST-SUFFIX,coros.com,Direct
+HOST-SUFFIX,cqjypg.com,Direct
 HOST-SUFFIX,cqnbmarathon.com,Direct
 HOST-SUFFIX,crrcgo.cc,Direct
 HOST-SUFFIX,crtyhr.com,Direct
@@ -533,6 +535,7 @@ HOST-SUFFIX,lcdn-registration.apple.com,Direct
 HOST-SUFFIX,leadweigh.com,Direct
 HOST-SUFFIX,leelen.com,Direct
 HOST-SUFFIX,letaoedu.com,Direct
+HOST-SUFFIX,lezuan6.com,Direct
 HOST-SUFFIX,lg3000.top,Direct
 HOST-SUFFIX,lightmake.site,Direct
 HOST-SUFFIX,linka2a.net,Direct
@@ -765,6 +768,8 @@ HOST-SUFFIX,terra-master.com,Direct
 HOST-SUFFIX,terrabbs.ink,Direct
 HOST-SUFFIX,test-ipv6.com,Direct
 HOST-SUFFIX,tggfl.com,Direct
+HOST-SUFFIX,tgpro.net,Direct
+HOST-SUFFIX,tgpro.top,Direct
 HOST-SUFFIX,theluyuan.com,Direct
 HOST-SUFFIX,theuwa.com,Direct
 HOST-SUFFIX,thinkerride.com,Direct

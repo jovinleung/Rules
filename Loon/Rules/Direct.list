@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 968
+# 规则统计: 969
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -425,6 +425,7 @@ DOMAIN-SUFFIX,hpr7e.top
 DOMAIN-SUFFIX,hprtupgrade.com
 DOMAIN-SUFFIX,hrhgstock.com
 DOMAIN-SUFFIX,hsbc.com.hk
+DOMAIN-SUFFIX,hsdxdl.com
 DOMAIN-SUFFIX,hstbroker.com
 DOMAIN-SUFFIX,hszq6.com
 DOMAIN-SUFFIX,htkgsx.com

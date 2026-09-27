@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 968
+# 规则统计: 969
 
 no_resolve: true
 domain_set:
@@ -428,6 +428,7 @@ domain_suffix_set:
   - hprtupgrade.com
   - hrhgstock.com
   - hsbc.com.hk
+  - hsdxdl.com
   - hstbroker.com
   - hszq6.com
   - htkgsx.com

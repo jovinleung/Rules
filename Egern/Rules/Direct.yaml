@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 967
+# 规则统计: 968
 
 no_resolve: true
 domain_set:
@@ -547,6 +547,7 @@ domain_suffix_set:
   - listenai.com
   - liunn.com
   - liveperson.net
+  - ljj233.top
   - localhost.ptlogin2.qq.com
   - localhost.sec.qq.com
   - longmenshuju.com

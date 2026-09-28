@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 969
+# 规则统计: 972
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -119,6 +119,7 @@ DOMAIN-SUFFIX,aihubmix.com
 DOMAIN-SUFFIX,ainfinit.com
 DOMAIN-SUFFIX,aisnogames.com
 DOMAIN-SUFFIX,aistudio-app.com
+DOMAIN-SUFFIX,aiyohoo.com
 DOMAIN-SUFFIX,akamaihd.net
 DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,allptt.com
@@ -444,6 +445,7 @@ DOMAIN-SUFFIX,hybiome.com
 DOMAIN-SUFFIX,hzlawyer.net
 DOMAIN-SUFFIX,hzqsn.com
 DOMAIN-SUFFIX,hzssjp.com
+DOMAIN-SUFFIX,hzttwl.com
 DOMAIN-SUFFIX,hzyi.eu.org
 DOMAIN-SUFFIX,ibnjl.shop
 DOMAIN-SUFFIX,ibwm5lynb6.com
@@ -461,6 +463,7 @@ DOMAIN-SUFFIX,imacos.top
 DOMAIN-SUFFIX,immortalwrt.org
 DOMAIN-SUFFIX,indeedpower.com
 DOMAIN-SUFFIX,inetlab.top
+DOMAIN-SUFFIX,inextos.com
 DOMAIN-SUFFIX,infini-fantasy.com
 DOMAIN-SUFFIX,initaq.com
 DOMAIN-SUFFIX,inmobicdn.net

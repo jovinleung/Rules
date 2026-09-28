@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 969
+# 规则统计: 972
 
 no_resolve: true
 domain_set:
@@ -122,6 +122,7 @@ domain_suffix_set:
   - ainfinit.com
   - aisnogames.com
   - aistudio-app.com
+  - aiyohoo.com
   - akamaihd.net
   - akamaized.net
   - allptt.com
@@ -447,6 +448,7 @@ domain_suffix_set:
   - hzlawyer.net
   - hzqsn.com
   - hzssjp.com
+  - hzttwl.com
   - hzyi.eu.org
   - ibnjl.shop
   - ibwm5lynb6.com
@@ -464,6 +466,7 @@ domain_suffix_set:
   - immortalwrt.org
   - indeedpower.com
   - inetlab.top
+  - inextos.com
   - infini-fantasy.com
   - initaq.com
   - inmobicdn.net

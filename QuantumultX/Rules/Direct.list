@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 968
+# 规则统计: 971
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -119,6 +119,7 @@ HOST-SUFFIX,aihubmix.com,Direct
 HOST-SUFFIX,ainfinit.com,Direct
 HOST-SUFFIX,aisnogames.com,Direct
 HOST-SUFFIX,aistudio-app.com,Direct
+HOST-SUFFIX,aiyohoo.com,Direct
 HOST-SUFFIX,akamaihd.net,Direct
 HOST-SUFFIX,akamaized.net,Direct
 HOST-SUFFIX,allptt.com,Direct
@@ -444,6 +445,7 @@ HOST-SUFFIX,hybiome.com,Direct
 HOST-SUFFIX,hzlawyer.net,Direct
 HOST-SUFFIX,hzqsn.com,Direct
 HOST-SUFFIX,hzssjp.com,Direct
+HOST-SUFFIX,hzttwl.com,Direct
 HOST-SUFFIX,hzyi.eu.org,Direct
 HOST-SUFFIX,ibnjl.shop,Direct
 HOST-SUFFIX,ibwm5lynb6.com,Direct
@@ -461,6 +463,7 @@ HOST-SUFFIX,imacos.top,Direct
 HOST-SUFFIX,immortalwrt.org,Direct
 HOST-SUFFIX,indeedpower.com,Direct
 HOST-SUFFIX,inetlab.top,Direct
+HOST-SUFFIX,inextos.com,Direct
 HOST-SUFFIX,infini-fantasy.com,Direct
 HOST-SUFFIX,initaq.com,Direct
 HOST-SUFFIX,inmobicdn.net,Direct

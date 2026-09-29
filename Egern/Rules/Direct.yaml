@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 972
+# 规则统计: 975
 
 no_resolve: true
 domain_set:
@@ -274,6 +274,7 @@ domain_suffix_set:
   - dtproj.top
   - dushe1.app
   - dytt8.com
+  - e0x233.com
   - eagsen.com
   - easytier.top
   - easytomessage.com
@@ -296,6 +297,7 @@ domain_suffix_set:
   - fb71ef91e1014.beer
   - fdfinvoice.com
   - feihengip.com
+  - feiniugo.com
   - feiyujiaju.com
   - feizhiyi.com
   - fengda.me
@@ -375,6 +377,7 @@ domain_suffix_set:
   - gootho.com
   - gpetrip.com
   - gpgwx.com
+  - grz-hx.com
   - gseen.com
   - gsgltz.com
   - gsjkjt.com

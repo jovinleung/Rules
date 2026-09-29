@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 971
+# 规则统计: 974
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -271,6 +271,7 @@ HOST-SUFFIX,dskj-ops.com,Direct
 HOST-SUFFIX,dtproj.top,Direct
 HOST-SUFFIX,dushe1.app,Direct
 HOST-SUFFIX,dytt8.com,Direct
+HOST-SUFFIX,e0x233.com,Direct
 HOST-SUFFIX,eagsen.com,Direct
 HOST-SUFFIX,easytier.top,Direct
 HOST-SUFFIX,easytomessage.com,Direct
@@ -293,6 +294,7 @@ HOST-SUFFIX,fastify.cc,Direct
 HOST-SUFFIX,fb71ef91e1014.beer,Direct
 HOST-SUFFIX,fdfinvoice.com,Direct
 HOST-SUFFIX,feihengip.com,Direct
+HOST-SUFFIX,feiniugo.com,Direct
 HOST-SUFFIX,feiyujiaju.com,Direct
 HOST-SUFFIX,feizhiyi.com,Direct
 HOST-SUFFIX,fengda.me,Direct
@@ -372,6 +374,7 @@ HOST-SUFFIX,googoc.com,Direct
 HOST-SUFFIX,gootho.com,Direct
 HOST-SUFFIX,gpetrip.com,Direct
 HOST-SUFFIX,gpgwx.com,Direct
+HOST-SUFFIX,grz-hx.com,Direct
 HOST-SUFFIX,gseen.com,Direct
 HOST-SUFFIX,gsgltz.com,Direct
 HOST-SUFFIX,gsjkjt.com,Direct

@@ -1,5 +1,5 @@
 # 规则名称: ProxyGFW
-# 规则统计: 7669
+# 规则统计: 7670
 
 no_resolve: true
 domain_set:
@@ -6396,6 +6396,7 @@ domain_suffix_set:
   - toh.info
   - token.im
   - tokenlon.im
+  - tokens.ci
   - tokto-motion.net
   - tokyo-247.com
   - tokyo-hot.com

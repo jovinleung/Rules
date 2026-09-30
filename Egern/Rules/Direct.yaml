@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 975
+# 规则统计: 976
 
 no_resolve: true
 domain_set:
@@ -407,6 +407,7 @@ domain_suffix_set:
   - hbcof.com
   - hbctic.com
   - hbymfswz.com
+  - hclassplatform.com
   - hdbz.net
   - hdcm00.com
   - hexiny.com

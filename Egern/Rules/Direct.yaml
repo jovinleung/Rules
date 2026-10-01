@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 976
+# 规则统计: 979
 
 no_resolve: true
 domain_set:
@@ -58,6 +58,7 @@ domain_suffix_set:
   - 419g.com
   - 4399zmxy.com
   - 44nc.com
+  - 4942.cc
   - 4kgj.com
   - 4xiaoshuo.org
   - 51kandianshi.com
@@ -271,6 +272,7 @@ domain_suffix_set:
   - dropiy.com
   - drvceo.com
   - dskj-ops.com
+  - dtinsure.com
   - dtproj.top
   - dushe1.app
   - dytt8.com
@@ -389,6 +391,7 @@ domain_suffix_set:
   - guangyapan.com
   - gvgoo.com
   - gwmapp-w.com
+  - gxcould.com
   - gxnnjidingkeji.top
   - gxrke1715.com
   - gzjkoa.com

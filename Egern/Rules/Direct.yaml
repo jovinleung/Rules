@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 979
+# 规则统计: 980
 
 no_resolve: true
 domain_set:
@@ -573,6 +573,7 @@ domain_suffix_set:
   - m-team.io
   - machtalk.net
   - manfuz.co
+  - maxdo.tech
   - mblyun.com
   - mc-user.com
   - mcar.vip

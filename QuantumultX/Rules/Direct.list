@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 978
+# 规则统计: 979
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -570,6 +570,7 @@ HOST-SUFFIX,m-team.cc,Direct
 HOST-SUFFIX,m-team.io,Direct
 HOST-SUFFIX,machtalk.net,Direct
 HOST-SUFFIX,manfuz.co,Direct
+HOST-SUFFIX,maxdo.tech,Direct
 HOST-SUFFIX,mblyun.com,Direct
 HOST-SUFFIX,mc-user.com,Direct
 HOST-SUFFIX,mcar.vip,Direct

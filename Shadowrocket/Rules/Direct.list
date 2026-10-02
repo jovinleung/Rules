@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 979
+# 规则统计: 980
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -570,6 +570,7 @@ DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,m-team.io
 DOMAIN-SUFFIX,machtalk.net
 DOMAIN-SUFFIX,manfuz.co
+DOMAIN-SUFFIX,maxdo.tech
 DOMAIN-SUFFIX,mblyun.com
 DOMAIN-SUFFIX,mc-user.com
 DOMAIN-SUFFIX,mcar.vip

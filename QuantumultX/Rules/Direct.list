@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 979
+# 规则统计: 980
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -702,6 +702,7 @@ HOST-SUFFIX,quxuanshu.com,Direct
 HOST-SUFFIX,qweapi.com,Direct
 HOST-SUFFIX,qweatherapi.com,Direct
 HOST-SUFFIX,qzyun.net,Direct
+HOST-SUFFIX,r2s.site,Direct
 HOST-SUFFIX,ranwen.tw,Direct
 HOST-SUFFIX,rayws.top,Direct
 HOST-SUFFIX,redenmc.com,Direct

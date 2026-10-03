@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 980
+# 规则统计: 981
 
 no_resolve: true
 domain_set:
@@ -705,6 +705,7 @@ domain_suffix_set:
   - qweapi.com
   - qweatherapi.com
   - qzyun.net
+  - r2s.site
   - ranwen.tw
   - rayws.top
   - redenmc.com

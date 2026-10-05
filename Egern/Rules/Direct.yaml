@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 981
+# 规则统计: 982
 
 no_resolve: true
 domain_set:
@@ -516,6 +516,7 @@ domain_suffix_set:
   - jxjktzjt.com
   - jxpp.com
   - jzagile.com
+  - jzgj.com
   - kaihong.com
   - kaijiacloud.com
   - kaijiejinrong.com

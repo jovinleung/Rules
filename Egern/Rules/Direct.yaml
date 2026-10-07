@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 982
+# 规则统计: 983
 
 no_resolve: true
 domain_set:
@@ -969,6 +969,7 @@ domain_suffix_set:
   - zzclass.com
   - zzqrgs3148.vip
   - zzr.cc
+  - zzz-hp.top
   - zzz-log-upload-os.hoyoverse.com
   - zzzcaculator.top
   - zzzmap.com

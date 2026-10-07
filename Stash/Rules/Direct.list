@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 982
+# 规则统计: 983
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -966,6 +966,7 @@ DOMAIN-SUFFIX,zyyct.com
 DOMAIN-SUFFIX,zzclass.com
 DOMAIN-SUFFIX,zzqrgs3148.vip
 DOMAIN-SUFFIX,zzr.cc
+DOMAIN-SUFFIX,zzz-hp.top
 DOMAIN-SUFFIX,zzz-log-upload-os.hoyoverse.com
 DOMAIN-SUFFIX,zzzcaculator.top
 DOMAIN-SUFFIX,zzzmap.com

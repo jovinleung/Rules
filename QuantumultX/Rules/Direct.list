@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 982
+# 规则统计: 983
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -308,6 +308,7 @@ HOST-SUFFIX,fileball.app,Direct
 HOST-SUFFIX,fjdejing.com,Direct
 HOST-SUFFIX,fjpit.com,Direct
 HOST-SUFFIX,flingtrainer.com,Direct
+HOST-SUFFIX,fm-vip.com,Direct
 HOST-SUFFIX,fnspeed.net,Direct
 HOST-SUFFIX,fofuai.com,Direct
 HOST-SUFFIX,founderyt.com,Direct

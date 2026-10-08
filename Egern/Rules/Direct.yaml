@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 983
+# 规则统计: 984
 
 no_resolve: true
 domain_set:
@@ -311,6 +311,7 @@ domain_suffix_set:
   - fjdejing.com
   - fjpit.com
   - flingtrainer.com
+  - fm-vip.com
   - fnspeed.net
   - fofuai.com
   - founderyt.com

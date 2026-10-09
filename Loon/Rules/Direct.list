@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 984
+# 规则统计: 1000
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -37,6 +37,7 @@ DOMAIN-SUFFIX,028zk01.net
 DOMAIN-SUFFIX,03241119.xyz
 DOMAIN-SUFFIX,0734cn.top
 DOMAIN-SUFFIX,0759mall.com
+DOMAIN-SUFFIX,112114.eu.org
 DOMAIN-SUFFIX,112114.xyz
 DOMAIN-SUFFIX,115cdn.de
 DOMAIN-SUFFIX,123795.com
@@ -137,6 +138,7 @@ DOMAIN-SUFFIX,anythinktech.com
 DOMAIN-SUFFIX,anytocopy.com
 DOMAIN-SUFFIX,aoc.com
 DOMAIN-SUFFIX,aocdisplays.com
+DOMAIN-SUFFIX,aoxox.com
 DOMAIN-SUFFIX,ap-leasing.com
 DOMAIN-SUFFIX,api.myip.com
 DOMAIN-SUFFIX,apm-log-upload-os.hoyoverse.com
@@ -168,6 +170,7 @@ DOMAIN-SUFFIX,betahub.tech
 DOMAIN-SUFFIX,biandangroup.com
 DOMAIN-SUFFIX,biaoda.me
 DOMAIN-SUFFIX,bingshandashu.com
+DOMAIN-SUFFIX,bitauto.hk
 DOMAIN-SUFFIX,bjssjsyy.com
 DOMAIN-SUFFIX,bjtzeduyun.com
 DOMAIN-SUFFIX,blog.google
@@ -178,6 +181,7 @@ DOMAIN-SUFFIX,bowenkj.com
 DOMAIN-SUFFIX,boxim.online
 DOMAIN-SUFFIX,boxkj.com
 DOMAIN-SUFFIX,boyuemobile.com
+DOMAIN-SUFFIX,bs-iot.com
 DOMAIN-SUFFIX,bsbsb.top
 DOMAIN-SUFFIX,bunny.net
 DOMAIN-SUFFIX,bvmlt.top
@@ -617,6 +621,7 @@ DOMAIN-SUFFIX,mypikpak.net
 DOMAIN-SUFFIX,myrny.xin
 DOMAIN-SUFFIX,myshopex.com
 DOMAIN-SUFFIX,mystery0.vip
+DOMAIN-SUFFIX,naitanghuyu.com
 DOMAIN-SUFFIX,naixi.com
 DOMAIN-SUFFIX,nanhuabx.com
 DOMAIN-SUFFIX,nanshe-tech.com
@@ -655,6 +660,7 @@ DOMAIN-SUFFIX,ottiptv.cc
 DOMAIN-SUFFIX,ourschool.cc
 DOMAIN-SUFFIX,p01.epsonconnect.com
 DOMAIN-SUFFIX,packertec.com
+DOMAIN-SUFFIX,pailedi.com
 DOMAIN-SUFFIX,panjue.com
 DOMAIN-SUFFIX,paperang.com
 DOMAIN-SUFFIX,passnat.com
@@ -728,10 +734,12 @@ DOMAIN-SUFFIX,seedpace.com
 DOMAIN-SUFFIX,senachina.com
 DOMAIN-SUFFIX,senmuse.com
 DOMAIN-SUFFIX,server2.cn2gias.uk
+DOMAIN-SUFFIX,sgllife.com
 DOMAIN-SUFFIX,sgtv.ii00.cc
 DOMAIN-SUFFIX,shanghai-parking.com
 DOMAIN-SUFFIX,shanghongbei.com
 DOMAIN-SUFFIX,share123.top
+DOMAIN-SUFFIX,shenzhendongwei.com
 DOMAIN-SUFFIX,shineacc.com
 DOMAIN-SUFFIX,shsw.top
 DOMAIN-SUFFIX,shuangqingtech.com
@@ -744,6 +752,7 @@ DOMAIN-SUFFIX,shyxhy.com
 DOMAIN-SUFFIX,sisiim.com
 DOMAIN-SUFFIX,sixloy428.top
 DOMAIN-SUFFIX,sjchess.com
+DOMAIN-SUFFIX,sjyywy.com
 DOMAIN-SUFFIX,skktec.com
 DOMAIN-SUFFIX,sksight.com
 DOMAIN-SUFFIX,skxvc.com
@@ -751,6 +760,7 @@ DOMAIN-SUFFIX,snfox.com
 DOMAIN-SUFFIX,snltty.com
 DOMAIN-SUFFIX,soulteary.com
 DOMAIN-SUFFIX,spisec.com
+DOMAIN-SUFFIX,spst1.com
 DOMAIN-SUFFIX,sptv.ii00.cc
 DOMAIN-SUFFIX,ssjj2.com
 DOMAIN-SUFFIX,starlink.uno
@@ -767,12 +777,14 @@ DOMAIN-SUFFIX,svyun.com
 DOMAIN-SUFFIX,sxlljm.com
 DOMAIN-SUFFIX,sxstczx.com
 DOMAIN-SUFFIX,sy1.top
+DOMAIN-SUFFIX,szfx.top
 DOMAIN-SUFFIX,sztopten.com
 DOMAIN-SUFFIX,taichuansmart.com
 DOMAIN-SUFFIX,tailgdd.com
 DOMAIN-SUFFIX,tailscale.com
 DOMAIN-SUFFIX,tajiduo.com
 DOMAIN-SUFFIX,talk-cloud.net
+DOMAIN-SUFFIX,tange365.com
 DOMAIN-SUFFIX,tangguobaohe.com
 DOMAIN-SUFFIX,tastientech.com
 DOMAIN-SUFFIX,tclai.top
@@ -787,6 +799,7 @@ DOMAIN-SUFFIX,test-ipv6.com
 DOMAIN-SUFFIX,tggfl.com
 DOMAIN-SUFFIX,tgpro.net
 DOMAIN-SUFFIX,tgpro.top
+DOMAIN-SUFFIX,thejoyridegames.com
 DOMAIN-SUFFIX,theluyuan.com
 DOMAIN-SUFFIX,theuwa.com
 DOMAIN-SUFFIX,thinkerride.com
@@ -850,6 +863,7 @@ DOMAIN-SUFFIX,weshape3d.com
 DOMAIN-SUFFIX,wetolink.com
 DOMAIN-SUFFIX,wewillpro.com
 DOMAIN-SUFFIX,wildfirechat.net
+DOMAIN-SUFFIX,wisecleaner.net
 DOMAIN-SUFFIX,wjx.top
 DOMAIN-SUFFIX,wlcdn88.com
 DOMAIN-SUFFIX,wlkac.com
@@ -918,6 +932,7 @@ DOMAIN-SUFFIX,ycjintou.com
 DOMAIN-SUFFIX,ycyct.com
 DOMAIN-SUFFIX,ydayc.com
 DOMAIN-SUFFIX,yhxjkj.top
+DOMAIN-SUFFIX,yi-ll.com
 DOMAIN-SUFFIX,yibanbianji.com
 DOMAIN-SUFFIX,yicaiykt.com
 DOMAIN-SUFFIX,yingshi.dog
@@ -929,6 +944,7 @@ DOMAIN-SUFFIX,yongyu.xyz
 DOMAIN-SUFFIX,yooc.me
 DOMAIN-SUFFIX,youqian.pro
 DOMAIN-SUFFIX,youzhiyouxing.com
+DOMAIN-SUFFIX,yshoufa.com
 DOMAIN-SUFFIX,yueti.vip
 DOMAIN-SUFFIX,yunqin.online
 DOMAIN-SUFFIX,yunzuoye.net

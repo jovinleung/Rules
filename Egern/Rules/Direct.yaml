@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1030
+# 规则统计: 1038
 
 no_resolve: true
 domain_set:
@@ -398,7 +398,10 @@ domain_suffix_set:
   - gsnhcg.com
   - gsstic.com
   - gta5max.com
+  - gta5studio.com
+  - gta5xforce.com
   - gtakm.com
+  - gtazhiyu.com
   - guaitao.cc
   - guang233.com
   - guangshiting.top
@@ -741,8 +744,12 @@ domain_suffix_set:
   - redenmc.com
   - registry.dockermirror.com
   - rewards.bing.com
+  - rkgamingstore.com
   - royqh.net
   - rsfcxq.com
+  - rsmods.cc
+  - rsmods.me
+  - rsmods.net
   - ruijie.com
   - rxcrs.com
   - saduck.top
@@ -845,6 +852,7 @@ domain_suffix_set:
   - tnas.link
   - tnas.online
   - tongkask.com
+  - tongxids.com
   - tool56.com
   - topwd.top
   - touchgal.ink

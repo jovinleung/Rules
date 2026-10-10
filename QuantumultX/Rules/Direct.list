@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1029
+# 规则统计: 1037
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -395,7 +395,10 @@ HOST-SUFFIX,gsjkjt.com,Direct
 HOST-SUFFIX,gsnhcg.com,Direct
 HOST-SUFFIX,gsstic.com,Direct
 HOST-SUFFIX,gta5max.com,Direct
+HOST-SUFFIX,gta5studio.com,Direct
+HOST-SUFFIX,gta5xforce.com,Direct
 HOST-SUFFIX,gtakm.com,Direct
+HOST-SUFFIX,gtazhiyu.com,Direct
 HOST-SUFFIX,guaitao.cc,Direct
 HOST-SUFFIX,guang233.com,Direct
 HOST-SUFFIX,guangshiting.top,Direct
@@ -738,8 +741,12 @@ HOST-SUFFIX,rayws.top,Direct
 HOST-SUFFIX,redenmc.com,Direct
 HOST-SUFFIX,registry.dockermirror.com,Direct
 HOST-SUFFIX,rewards.bing.com,Direct
+HOST-SUFFIX,rkgamingstore.com,Direct
 HOST-SUFFIX,royqh.net,Direct
 HOST-SUFFIX,rsfcxq.com,Direct
+HOST-SUFFIX,rsmods.cc,Direct
+HOST-SUFFIX,rsmods.me,Direct
+HOST-SUFFIX,rsmods.net,Direct
 HOST-SUFFIX,ruijie.com,Direct
 HOST-SUFFIX,rxcrs.com,Direct
 HOST-SUFFIX,saduck.top,Direct
@@ -842,6 +849,7 @@ HOST-SUFFIX,tmwanba.com,Direct
 HOST-SUFFIX,tnas.link,Direct
 HOST-SUFFIX,tnas.online,Direct
 HOST-SUFFIX,tongkask.com,Direct
+HOST-SUFFIX,tongxids.com,Direct
 HOST-SUFFIX,tool56.com,Direct
 HOST-SUFFIX,topwd.top,Direct
 HOST-SUFFIX,touchgal.ink,Direct

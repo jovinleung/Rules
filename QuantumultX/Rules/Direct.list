@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1037
+# 规则统计: 1039
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -397,6 +397,7 @@ HOST-SUFFIX,gsstic.com,Direct
 HOST-SUFFIX,gta5max.com,Direct
 HOST-SUFFIX,gta5studio.com,Direct
 HOST-SUFFIX,gta5xforce.com,Direct
+HOST-SUFFIX,gta6keji.com,Direct
 HOST-SUFFIX,gtakm.com,Direct
 HOST-SUFFIX,gtazhiyu.com,Direct
 HOST-SUFFIX,guaitao.cc,Direct
@@ -974,6 +975,7 @@ HOST-SUFFIX,yicaiykt.com,Direct
 HOST-SUFFIX,yingshi.dog,Direct
 HOST-SUFFIX,yiso.fun,Direct
 HOST-SUFFIX,yixc.com,Direct
+HOST-SUFFIX,ymwfy.com,Direct
 HOST-SUFFIX,ymzec.com,Direct
 HOST-SUFFIX,ynsj001.com,Direct
 HOST-SUFFIX,yongyu.xyz,Direct

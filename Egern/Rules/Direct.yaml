@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1038
+# 规则统计: 1040
 
 no_resolve: true
 domain_set:
@@ -400,6 +400,7 @@ domain_suffix_set:
   - gta5max.com
   - gta5studio.com
   - gta5xforce.com
+  - gta6keji.com
   - gtakm.com
   - gtazhiyu.com
   - guaitao.cc
@@ -977,6 +978,7 @@ domain_suffix_set:
   - yingshi.dog
   - yiso.fun
   - yixc.com
+  - ymwfy.com
   - ymzec.com
   - ynsj001.com
   - yongyu.xyz

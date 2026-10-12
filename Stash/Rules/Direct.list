@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1040
+# 规则统计: 1042
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -221,6 +221,7 @@ DOMAIN-SUFFIX,chuguansmart.com
 DOMAIN-SUFFIX,chujingapp.com
 DOMAIN-SUFFIX,chushi.cool
 DOMAIN-SUFFIX,ciallo.party
+DOMAIN-SUFFIX,ciyuancenter.cc
 DOMAIN-SUFFIX,clivia.fun
 DOMAIN-SUFFIX,cloudllll.com
 DOMAIN-SUFFIX,cmbc.run
@@ -622,6 +623,7 @@ DOMAIN-SUFFIX,midoci.top
 DOMAIN-SUFFIX,mifeng.plus
 DOMAIN-SUFFIX,mifon.com
 DOMAIN-SUFFIX,mifosy.com
+DOMAIN-SUFFIX,minekuai.com
 DOMAIN-SUFFIX,minor-api-os.hoyoverse.com
 DOMAIN-SUFFIX,miraiemby.com
 DOMAIN-SUFFIX,mixly.org

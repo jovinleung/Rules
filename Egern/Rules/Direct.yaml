@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1043
+# 规则统计: 1044
 
 no_resolve: true
 domain_set:
@@ -931,6 +931,7 @@ domain_suffix_set:
   - xfltd.org
   - xgzb.top
   - xhey.top
+  - xiamp.net
   - xianghuiin.com
   - xiankabao.com
   - xiaoai.live

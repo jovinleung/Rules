@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1042
+# 规则统计: 1043
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -628,6 +628,7 @@ DOMAIN-SUFFIX,minor-api-os.hoyoverse.com
 DOMAIN-SUFFIX,miraiemby.com
 DOMAIN-SUFFIX,mixly.org
 DOMAIN-SUFFIX,mobai.sbs
+DOMAIN-SUFFIX,moctory.com
 DOMAIN-SUFFIX,modaiyun.com
 DOMAIN-SUFFIX,modelscope.net
 DOMAIN-SUFFIX,monkeyray.net

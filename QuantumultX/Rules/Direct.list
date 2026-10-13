@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1041
+# 规则统计: 1042
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -628,6 +628,7 @@ HOST-SUFFIX,minor-api-os.hoyoverse.com,Direct
 HOST-SUFFIX,miraiemby.com,Direct
 HOST-SUFFIX,mixly.org,Direct
 HOST-SUFFIX,mobai.sbs,Direct
+HOST-SUFFIX,moctory.com,Direct
 HOST-SUFFIX,modaiyun.com,Direct
 HOST-SUFFIX,modelscope.net,Direct
 HOST-SUFFIX,monkeyray.net,Direct

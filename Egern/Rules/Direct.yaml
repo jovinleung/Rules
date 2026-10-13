@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1042
+# 规则统计: 1043
 
 no_resolve: true
 domain_set:
@@ -631,6 +631,7 @@ domain_suffix_set:
   - miraiemby.com
   - mixly.org
   - mobai.sbs
+  - moctory.com
   - modaiyun.com
   - modelscope.net
   - monkeyray.net

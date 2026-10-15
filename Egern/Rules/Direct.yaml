@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1045
+# 规则统计: 1046
 
 no_resolve: true
 domain_set:
@@ -718,6 +718,7 @@ domain_suffix_set:
   - privateapi.xyz
   - psf0404.shop
   - ptlgs.org
+  - ptxzn.com
   - pubsub.tech
   - pvz1.com
   - pwithe.com

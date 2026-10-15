@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1045
+# 规则统计: 1046
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -715,6 +715,7 @@ DOMAIN-SUFFIX,ppt28.com
 DOMAIN-SUFFIX,privateapi.xyz
 DOMAIN-SUFFIX,psf0404.shop
 DOMAIN-SUFFIX,ptlgs.org
+DOMAIN-SUFFIX,ptxzn.com
 DOMAIN-SUFFIX,pubsub.tech
 DOMAIN-SUFFIX,pvz1.com
 DOMAIN-SUFFIX,pwithe.com

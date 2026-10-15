@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1044
+# 规则统计: 1045
 
 no_resolve: true
 domain_set:
@@ -982,6 +982,7 @@ domain_suffix_set:
   - yingshi.dog
   - yiso.fun
   - yixc.com
+  - yldw.net
   - ymwfy.com
   - ymzec.com
   - ynsj001.com

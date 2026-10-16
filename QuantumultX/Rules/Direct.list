@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1045
+# 规则统计: 1046
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -418,6 +418,7 @@ HOST-SUFFIX,h6009.top,Direct
 HOST-SUFFIX,haimaiedu.net,Direct
 HOST-SUFFIX,halvie.com,Direct
 HOST-SUFFIX,ham.xin,Direct
+HOST-SUFFIX,handfree.work,Direct
 HOST-SUFFIX,hangnakeji.com,Direct
 HOST-SUFFIX,hanqiuming888.com,Direct
 HOST-SUFFIX,haofanhuoban.com,Direct

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1046
+# 规则统计: 1047
 
 no_resolve: true
 domain_set:
@@ -421,6 +421,7 @@ domain_suffix_set:
   - haimaiedu.net
   - halvie.com
   - ham.xin
+  - handfree.work
   - hangnakeji.com
   - hanqiuming888.com
   - haofanhuoban.com

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1047
+# 规则统计: 1049
 
 no_resolve: true
 domain_set:
@@ -152,6 +152,7 @@ domain_suffix_set:
   - argotunnel.com
   - armvm.com
   - asgardion.space
+  - astrobox.online
   - atticus.vip
   - awstme.top
   - ax1x.com
@@ -673,6 +674,7 @@ domain_suffix_set:
   - ok321.top
   - omq.cc
   - onebuygz.com
+  - onesetapp.com
   - onetoken.sh
   - onetools.top
   - openappfilter.com

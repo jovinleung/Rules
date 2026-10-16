@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1047
+# 规则统计: 1049
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -149,6 +149,7 @@ DOMAIN-SUFFIX,aqtwwx.net
 DOMAIN-SUFFIX,argotunnel.com
 DOMAIN-SUFFIX,armvm.com
 DOMAIN-SUFFIX,asgardion.space
+DOMAIN-SUFFIX,astrobox.online
 DOMAIN-SUFFIX,atticus.vip
 DOMAIN-SUFFIX,awstme.top
 DOMAIN-SUFFIX,ax1x.com
@@ -670,6 +671,7 @@ DOMAIN-SUFFIX,oceando.cloud
 DOMAIN-SUFFIX,ok321.top
 DOMAIN-SUFFIX,omq.cc
 DOMAIN-SUFFIX,onebuygz.com
+DOMAIN-SUFFIX,onesetapp.com
 DOMAIN-SUFFIX,onetoken.sh
 DOMAIN-SUFFIX,onetools.top
 DOMAIN-SUFFIX,openappfilter.com

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1046
+# 规则统计: 1048
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -149,6 +149,7 @@ HOST-SUFFIX,aqtwwx.net,Direct
 HOST-SUFFIX,argotunnel.com,Direct
 HOST-SUFFIX,armvm.com,Direct
 HOST-SUFFIX,asgardion.space,Direct
+HOST-SUFFIX,astrobox.online,Direct
 HOST-SUFFIX,atticus.vip,Direct
 HOST-SUFFIX,awstme.top,Direct
 HOST-SUFFIX,ax1x.com,Direct
@@ -670,6 +671,7 @@ HOST-SUFFIX,oceando.cloud,Direct
 HOST-SUFFIX,ok321.top,Direct
 HOST-SUFFIX,omq.cc,Direct
 HOST-SUFFIX,onebuygz.com,Direct
+HOST-SUFFIX,onesetapp.com,Direct
 HOST-SUFFIX,onetoken.sh,Direct
 HOST-SUFFIX,onetools.top,Direct
 HOST-SUFFIX,openappfilter.com,Direct

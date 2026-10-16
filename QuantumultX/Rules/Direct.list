@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1048
+# 规则统计: 1052
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -161,6 +161,7 @@ HOST-SUFFIX,baicaf.com,Direct
 HOST-SUFFIX,baidu94.com,Direct
 HOST-SUFFIX,baiyishequ.com,Direct
 HOST-SUFFIX,bajie.la,Direct
+HOST-SUFFIX,bambulab.com,Direct
 HOST-SUFFIX,banban.work,Direct
 HOST-SUFFIX,banxueketang.com,Direct
 HOST-SUFFIX,baominggongju.com,Direct
@@ -595,6 +596,7 @@ HOST-SUFFIX,lucky.gd,Direct
 HOST-SUFFIX,lw5.co,Direct
 HOST-SUFFIX,lyihub.com,Direct
 HOST-SUFFIX,lyilife.com,Direct
+HOST-SUFFIX,lzgame.top,Direct
 HOST-SUFFIX,m-team.cc,Direct
 HOST-SUFFIX,m-team.io,Direct
 HOST-SUFFIX,machtalk.net,Direct
@@ -897,6 +899,7 @@ HOST-SUFFIX,vpsjyz.com,Direct
 HOST-SUFFIX,vtools.online,Direct
 HOST-SUFFIX,vv1865.com,Direct
 HOST-SUFFIX,warmheart.top,Direct
+HOST-SUFFIX,wawo.cc,Direct
 HOST-SUFFIX,we-stats.com,Direct
 HOST-SUFFIX,webs.vc,Direct
 HOST-SUFFIX,weixinpcs.com,Direct
@@ -957,6 +960,7 @@ HOST-SUFFIX,xixih.cc,Direct
 HOST-SUFFIX,xkkapk.com,Direct
 HOST-SUFFIX,xn--4kq62z5rby2qupq9ub.top,Direct
 HOST-SUFFIX,xn--cesw6hd3s99f.com,Direct
+HOST-SUFFIX,xn--estr6ge7tok1a.com,Direct
 HOST-SUFFIX,xn--id-ov2cb7n32b01yl6auun2bpzk4p2dgip.com,Direct
 HOST-SUFFIX,xn--mmz.cc,Direct
 HOST-SUFFIX,xn--vhqr42drhf5k7b.com,Direct

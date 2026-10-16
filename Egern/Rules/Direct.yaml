@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1049
+# 规则统计: 1053
 
 no_resolve: true
 domain_set:
@@ -164,6 +164,7 @@ domain_suffix_set:
   - baidu94.com
   - baiyishequ.com
   - bajie.la
+  - bambulab.com
   - banban.work
   - banxueketang.com
   - baominggongju.com
@@ -598,6 +599,7 @@ domain_suffix_set:
   - lw5.co
   - lyihub.com
   - lyilife.com
+  - lzgame.top
   - m-team.cc
   - m-team.io
   - machtalk.net
@@ -900,6 +902,7 @@ domain_suffix_set:
   - vtools.online
   - vv1865.com
   - warmheart.top
+  - wawo.cc
   - we-stats.com
   - webs.vc
   - weixinpcs.com
@@ -960,6 +963,7 @@ domain_suffix_set:
   - xkkapk.com
   - xn--4kq62z5rby2qupq9ub.top
   - xn--cesw6hd3s99f.com
+  - xn--estr6ge7tok1a.com
   - xn--id-ov2cb7n32b01yl6auun2bpzk4p2dgip.com
   - xn--mmz.cc
   - xn--vhqr42drhf5k7b.com

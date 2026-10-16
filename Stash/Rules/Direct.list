@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1049
+# 规则统计: 1053
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -161,6 +161,7 @@ DOMAIN-SUFFIX,baicaf.com
 DOMAIN-SUFFIX,baidu94.com
 DOMAIN-SUFFIX,baiyishequ.com
 DOMAIN-SUFFIX,bajie.la
+DOMAIN-SUFFIX,bambulab.com
 DOMAIN-SUFFIX,banban.work
 DOMAIN-SUFFIX,banxueketang.com
 DOMAIN-SUFFIX,baominggongju.com
@@ -595,6 +596,7 @@ DOMAIN-SUFFIX,lucky.gd
 DOMAIN-SUFFIX,lw5.co
 DOMAIN-SUFFIX,lyihub.com
 DOMAIN-SUFFIX,lyilife.com
+DOMAIN-SUFFIX,lzgame.top
 DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,m-team.io
 DOMAIN-SUFFIX,machtalk.net
@@ -897,6 +899,7 @@ DOMAIN-SUFFIX,vpsjyz.com
 DOMAIN-SUFFIX,vtools.online
 DOMAIN-SUFFIX,vv1865.com
 DOMAIN-SUFFIX,warmheart.top
+DOMAIN-SUFFIX,wawo.cc
 DOMAIN-SUFFIX,we-stats.com
 DOMAIN-SUFFIX,webs.vc
 DOMAIN-SUFFIX,weixinpcs.com
@@ -957,6 +960,7 @@ DOMAIN-SUFFIX,xixih.cc
 DOMAIN-SUFFIX,xkkapk.com
 DOMAIN-SUFFIX,xn--4kq62z5rby2qupq9ub.top
 DOMAIN-SUFFIX,xn--cesw6hd3s99f.com
+DOMAIN-SUFFIX,xn--estr6ge7tok1a.com
 DOMAIN-SUFFIX,xn--id-ov2cb7n32b01yl6auun2bpzk4p2dgip.com
 DOMAIN-SUFFIX,xn--mmz.cc
 DOMAIN-SUFFIX,xn--vhqr42drhf5k7b.com

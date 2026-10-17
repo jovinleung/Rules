@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1052
+# 规则统计: 1058
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -207,6 +207,7 @@ HOST-SUFFIX,centbrowser.net,Direct
 HOST-SUFFIX,cftunnel.com,Direct
 HOST-SUFFIX,cg3da.com,Direct
 HOST-SUFFIX,cgicop.com,Direct
+HOST-SUFFIX,changjirb.com,Direct
 HOST-SUFFIX,chaxunjiao.com,Direct
 HOST-SUFFIX,chaz.fun,Direct
 HOST-SUFFIX,checkip.dyndns.org,Direct
@@ -292,6 +293,7 @@ HOST-SUFFIX,eagsen.com,Direct
 HOST-SUFFIX,easytier.top,Direct
 HOST-SUFFIX,easytomessage.com,Direct
 HOST-SUFFIX,eceshi.com,Direct
+HOST-SUFFIX,ectaiping.com,Direct
 HOST-SUFFIX,einfo-tech.com,Direct
 HOST-SUFFIX,emby.yun,Direct
 HOST-SUFFIX,englibrary.com,Direct
@@ -434,6 +436,7 @@ HOST-SUFFIX,hclassplatform.com,Direct
 HOST-SUFFIX,hdbz.net,Direct
 HOST-SUFFIX,hdcm00.com,Direct
 HOST-SUFFIX,hexiny.com,Direct
+HOST-SUFFIX,heysida.com,Direct
 HOST-SUFFIX,hezuvip.com,Direct
 HOST-SUFFIX,hf-mirror.com,Direct
 HOST-SUFFIX,hfhs8x.info,Direct
@@ -510,6 +513,7 @@ HOST-SUFFIX,ipapi.co,Direct
 HOST-SUFFIX,ipjrh.com,Direct
 HOST-SUFFIX,iposl.com,Direct
 HOST-SUFFIX,ipshu.com,Direct
+HOST-SUFFIX,iq.com,Direct
 HOST-SUFFIX,iquantumad.com,Direct
 HOST-SUFFIX,istoreos.com,Direct
 HOST-SUFFIX,itptg.com,Direct
@@ -719,6 +723,7 @@ HOST-SUFFIX,ppqrrs.com,Direct
 HOST-SUFFIX,ppt28.com,Direct
 HOST-SUFFIX,privateapi.xyz,Direct
 HOST-SUFFIX,psf0404.shop,Direct
+HOST-SUFFIX,pthqzpc100.com,Direct
 HOST-SUFFIX,ptlgs.org,Direct
 HOST-SUFFIX,ptxzn.com,Direct
 HOST-SUFFIX,pubsub.tech,Direct
@@ -873,6 +878,7 @@ HOST-SUFFIX,tulipsport.com,Direct
 HOST-SUFFIX,tumukaoyan.com,Direct
 HOST-SUFFIX,tuxing.art,Direct
 HOST-SUFFIX,twinkstar.com,Direct
+HOST-SUFFIX,twtapp.com,Direct
 HOST-SUFFIX,type.fun,Direct
 HOST-SUFFIX,tztec.top,Direct
 HOST-SUFFIX,u-carloan.com,Direct

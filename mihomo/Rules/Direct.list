@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1059
+# 规则统计: 1060
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -803,6 +803,7 @@ DOMAIN-SUFFIX,sksight.com
 DOMAIN-SUFFIX,skxvc.com
 DOMAIN-SUFFIX,snfox.com
 DOMAIN-SUFFIX,snltty.com
+DOMAIN-SUFFIX,sollin.top
 DOMAIN-SUFFIX,soulteary.com
 DOMAIN-SUFFIX,spisec.com
 DOMAIN-SUFFIX,spst1.com

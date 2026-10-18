@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1059
+# 规则统计: 1060
 
 no_resolve: true
 domain_set:
@@ -806,6 +806,7 @@ domain_suffix_set:
   - skxvc.com
   - snfox.com
   - snltty.com
+  - sollin.top
   - soulteary.com
   - spisec.com
   - spst1.com

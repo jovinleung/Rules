@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1058
+# 规则统计: 1059
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -803,6 +803,7 @@ HOST-SUFFIX,sksight.com,Direct
 HOST-SUFFIX,skxvc.com,Direct
 HOST-SUFFIX,snfox.com,Direct
 HOST-SUFFIX,snltty.com,Direct
+HOST-SUFFIX,sollin.top,Direct
 HOST-SUFFIX,soulteary.com,Direct
 HOST-SUFFIX,spisec.com,Direct
 HOST-SUFFIX,spst1.com,Direct

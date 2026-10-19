@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1060
+# 规则统计: 1062
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -197,6 +197,7 @@ DOMAIN-SUFFIX,ca-sinfusi.com
 DOMAIN-SUFFIX,calmate.cc
 DOMAIN-SUFFIX,canghaiip.com
 DOMAIN-SUFFIX,cangjie-lang.net
+DOMAIN-SUFFIX,cbn.id
 DOMAIN-SUFFIX,cc.ink
 DOMAIN-SUFFIX,cc39ute.shop
 DOMAIN-SUFFIX,ccw.site
@@ -905,6 +906,7 @@ DOMAIN-SUFFIX,volcanomob.com
 DOMAIN-SUFFIX,vpsjyz.com
 DOMAIN-SUFFIX,vtools.online
 DOMAIN-SUFFIX,vv1865.com
+DOMAIN-SUFFIX,vvhan.com
 DOMAIN-SUFFIX,warmheart.top
 DOMAIN-SUFFIX,wawo.cc
 DOMAIN-SUFFIX,we-stats.com

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1060
+# 规则统计: 1062
 
 no_resolve: true
 domain_set:
@@ -200,6 +200,7 @@ domain_suffix_set:
   - calmate.cc
   - canghaiip.com
   - cangjie-lang.net
+  - cbn.id
   - cc.ink
   - cc39ute.shop
   - ccw.site
@@ -908,6 +909,7 @@ domain_suffix_set:
   - vpsjyz.com
   - vtools.online
   - vv1865.com
+  - vvhan.com
   - warmheart.top
   - wawo.cc
   - we-stats.com

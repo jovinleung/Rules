@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1059
+# 规则统计: 1061
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -197,6 +197,7 @@ HOST-SUFFIX,ca-sinfusi.com,Direct
 HOST-SUFFIX,calmate.cc,Direct
 HOST-SUFFIX,canghaiip.com,Direct
 HOST-SUFFIX,cangjie-lang.net,Direct
+HOST-SUFFIX,cbn.id,Direct
 HOST-SUFFIX,cc.ink,Direct
 HOST-SUFFIX,cc39ute.shop,Direct
 HOST-SUFFIX,ccw.site,Direct
@@ -905,6 +906,7 @@ HOST-SUFFIX,volcanomob.com,Direct
 HOST-SUFFIX,vpsjyz.com,Direct
 HOST-SUFFIX,vtools.online,Direct
 HOST-SUFFIX,vv1865.com,Direct
+HOST-SUFFIX,vvhan.com,Direct
 HOST-SUFFIX,warmheart.top,Direct
 HOST-SUFFIX,wawo.cc,Direct
 HOST-SUFFIX,we-stats.com,Direct

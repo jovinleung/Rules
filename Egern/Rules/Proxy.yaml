@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1361
+# 规则统计: 1362
 
 no_resolve: true
 domain_set:
@@ -832,6 +832,7 @@ domain_suffix_set:
   - nordvpn.com
   - note.com
   - notepad-plus-plus.org
+  - notion.com
   - notion.site
   - notion.so
   - now.com

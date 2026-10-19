@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1061
+# 规则统计: 1064
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -200,6 +200,7 @@ HOST-SUFFIX,cangjie-lang.net,Direct
 HOST-SUFFIX,cbn.id,Direct
 HOST-SUFFIX,cc.ink,Direct
 HOST-SUFFIX,cc39ute.shop,Direct
+HOST-SUFFIX,cc44dd.com,Direct
 HOST-SUFFIX,ccw.site,Direct
 HOST-SUFFIX,cdn.doctor,Direct
 HOST-SUFFIX,cdn.ist,Direct
@@ -576,6 +577,7 @@ HOST-SUFFIX,kwai.net,Direct
 HOST-SUFFIX,lanyun.net,Direct
 HOST-SUFFIX,laogongju.com,Direct
 HOST-SUFFIX,latexlive.com,Direct
+HOST-SUFFIX,laupqc.com,Direct
 HOST-SUFFIX,lcdn-locator.apple.com,Direct
 HOST-SUFFIX,lcdn-registration.apple.com,Direct
 HOST-SUFFIX,leadweigh.com,Direct
@@ -907,6 +909,7 @@ HOST-SUFFIX,vpsjyz.com,Direct
 HOST-SUFFIX,vtools.online,Direct
 HOST-SUFFIX,vv1865.com,Direct
 HOST-SUFFIX,vvhan.com,Direct
+HOST-SUFFIX,wallecube.com,Direct
 HOST-SUFFIX,warmheart.top,Direct
 HOST-SUFFIX,wawo.cc,Direct
 HOST-SUFFIX,we-stats.com,Direct

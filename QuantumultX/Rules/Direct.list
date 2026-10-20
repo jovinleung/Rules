@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1065
+# 规则统计: 1067
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -165,6 +165,7 @@ HOST-SUFFIX,bajie.la,Direct
 HOST-SUFFIX,bambulab.com,Direct
 HOST-SUFFIX,banban.work,Direct
 HOST-SUFFIX,banxueketang.com,Direct
+HOST-SUFFIX,baoku.one,Direct
 HOST-SUFFIX,baominggongju.com,Direct
 HOST-SUFFIX,batchat.com,Direct
 HOST-SUFFIX,bdcb.cc,Direct
@@ -838,6 +839,7 @@ HOST-SUFFIX,tajiduo.com,Direct
 HOST-SUFFIX,talk-cloud.net,Direct
 HOST-SUFFIX,tange365.com,Direct
 HOST-SUFFIX,tangguobaohe.com,Direct
+HOST-SUFFIX,taotoken.net,Direct
 HOST-SUFFIX,tastientech.com,Direct
 HOST-SUFFIX,tclai.top,Direct
 HOST-SUFFIX,tcp.mk,Direct

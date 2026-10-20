@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1066
+# 规则统计: 1068
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -165,6 +165,7 @@ DOMAIN-SUFFIX,bajie.la
 DOMAIN-SUFFIX,bambulab.com
 DOMAIN-SUFFIX,banban.work
 DOMAIN-SUFFIX,banxueketang.com
+DOMAIN-SUFFIX,baoku.one
 DOMAIN-SUFFIX,baominggongju.com
 DOMAIN-SUFFIX,batchat.com
 DOMAIN-SUFFIX,bdcb.cc
@@ -838,6 +839,7 @@ DOMAIN-SUFFIX,tajiduo.com
 DOMAIN-SUFFIX,talk-cloud.net
 DOMAIN-SUFFIX,tange365.com
 DOMAIN-SUFFIX,tangguobaohe.com
+DOMAIN-SUFFIX,taotoken.net
 DOMAIN-SUFFIX,tastientech.com
 DOMAIN-SUFFIX,tclai.top
 DOMAIN-SUFFIX,tcp.mk

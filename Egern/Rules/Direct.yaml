@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1066
+# 规则统计: 1068
 
 no_resolve: true
 domain_set:
@@ -168,6 +168,7 @@ domain_suffix_set:
   - bambulab.com
   - banban.work
   - banxueketang.com
+  - baoku.one
   - baominggongju.com
   - batchat.com
   - bdcb.cc
@@ -841,6 +842,7 @@ domain_suffix_set:
   - talk-cloud.net
   - tange365.com
   - tangguobaohe.com
+  - taotoken.net
   - tastientech.com
   - tclai.top
   - tcp.mk

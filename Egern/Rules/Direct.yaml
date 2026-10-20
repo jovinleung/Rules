@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1065
+# 规则统计: 1066
 
 no_resolve: true
 domain_set:
@@ -189,6 +189,7 @@ domain_suffix_set:
   - boxim.online
   - boxkj.com
   - boyuemobile.com
+  - browserscan.net
   - bs-iot.com
   - bsbsb.top
   - bunny.net

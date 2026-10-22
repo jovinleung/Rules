@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1068
+# 规则统计: 1069
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -505,6 +505,7 @@ DOMAIN-SUFFIX,indeedpower.com
 DOMAIN-SUFFIX,inetlab.top
 DOMAIN-SUFFIX,inextos.com
 DOMAIN-SUFFIX,infini-fantasy.com
+DOMAIN-SUFFIX,infistar.cc
 DOMAIN-SUFFIX,initaq.com
 DOMAIN-SUFFIX,inmobicdn.net
 DOMAIN-SUFFIX,inte.net

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1067
+# 规则统计: 1068
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -505,6 +505,7 @@ HOST-SUFFIX,indeedpower.com,Direct
 HOST-SUFFIX,inetlab.top,Direct
 HOST-SUFFIX,inextos.com,Direct
 HOST-SUFFIX,infini-fantasy.com,Direct
+HOST-SUFFIX,infistar.cc,Direct
 HOST-SUFFIX,initaq.com,Direct
 HOST-SUFFIX,inmobicdn.net,Direct
 HOST-SUFFIX,inte.net,Direct

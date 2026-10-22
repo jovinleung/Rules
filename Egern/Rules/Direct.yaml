@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1068
+# 规则统计: 1069
 
 no_resolve: true
 domain_set:
@@ -508,6 +508,7 @@ domain_suffix_set:
   - inetlab.top
   - inextos.com
   - infini-fantasy.com
+  - infistar.cc
   - initaq.com
   - inmobicdn.net
   - inte.net

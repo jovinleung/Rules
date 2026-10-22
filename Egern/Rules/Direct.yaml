@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1069
+# 规则统计: 1070
 
 no_resolve: true
 domain_set:
@@ -247,6 +247,7 @@ domain_suffix_set:
   - coffee-iot.com
   - cone-x.com
   - congmiqq.com
+  - constantinefun.com
   - constasj.me
   - coros.com
   - cqjypg.com

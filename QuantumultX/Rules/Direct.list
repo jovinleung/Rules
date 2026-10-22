@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1068
+# 规则统计: 1069
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -244,6 +244,7 @@ HOST-SUFFIX,codeloop.top,Direct
 HOST-SUFFIX,coffee-iot.com,Direct
 HOST-SUFFIX,cone-x.com,Direct
 HOST-SUFFIX,congmiqq.com,Direct
+HOST-SUFFIX,constantinefun.com,Direct
 HOST-SUFFIX,constasj.me,Direct
 HOST-SUFFIX,coros.com,Direct
 HOST-SUFFIX,cqjypg.com,Direct

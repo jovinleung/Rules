@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1070
+# 规则统计: 1071
 
 no_resolve: true
 domain_set:
@@ -835,6 +835,7 @@ domain_suffix_set:
   - sxstczx.com
   - sy1.top
   - szfx.top
+  - szmtzd.com
   - sztopten.com
   - taichuansmart.com
   - tailgdd.com

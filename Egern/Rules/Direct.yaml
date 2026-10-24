@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1071
+# 规则统计: 1072
 
 no_resolve: true
 domain_set:
@@ -972,6 +972,7 @@ domain_suffix_set:
   - xingaochengtai.com
   - xinghaiwaimai.com
   - xingmojs.com
+  - xingpaste.com
   - xingyaozhilian.com
   - xinstall.top
   - xiqueer.com

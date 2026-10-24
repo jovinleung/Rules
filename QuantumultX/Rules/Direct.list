@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1071
+# 规则统计: 1072
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -80,6 +80,7 @@ HOST-SUFFIX,66990000.xyz,Direct
 HOST-SUFFIX,6v520.net,Direct
 HOST-SUFFIX,71.am,Direct
 HOST-SUFFIX,737698.xyz,Direct
+HOST-SUFFIX,77shuku.info,Direct
 HOST-SUFFIX,77shuku.org,Direct
 HOST-SUFFIX,7sef.com,Direct
 HOST-SUFFIX,800686.xyz,Direct

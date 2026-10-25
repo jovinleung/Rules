@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1074
+# 规则统计: 1075
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -900,6 +900,7 @@ HOST-SUFFIX,ugediao.com,Direct
 HOST-SUFFIX,ugnas.cloud,Direct
 HOST-SUFFIX,ulife.group,Direct
 HOST-SUFFIX,us.ci,Direct
+HOST-SUFFIX,v-koolsh.com,Direct
 HOST-SUFFIX,vanjee.net,Direct
 HOST-SUFFIX,vbkhk.com,Direct
 HOST-SUFFIX,vbkr.com,Direct

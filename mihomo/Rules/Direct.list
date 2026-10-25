@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1075
+# 规则统计: 1076
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -900,6 +900,7 @@ DOMAIN-SUFFIX,ugediao.com
 DOMAIN-SUFFIX,ugnas.cloud
 DOMAIN-SUFFIX,ulife.group
 DOMAIN-SUFFIX,us.ci
+DOMAIN-SUFFIX,v-koolsh.com
 DOMAIN-SUFFIX,vanjee.net
 DOMAIN-SUFFIX,vbkhk.com
 DOMAIN-SUFFIX,vbkr.com

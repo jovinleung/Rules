@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1073
+# 规则统计: 1075
 
 no_resolve: true
 domain_set:
@@ -128,6 +128,7 @@ domain_suffix_set:
   - ainfinit.com
   - aisnogames.com
   - aistudio-app.com
+  - aitongqian.com
   - aiyohoo.com
   - akamaihd.net
   - akamaized.net
@@ -920,6 +921,7 @@ domain_suffix_set:
   - vv1865.com
   - vvhan.com
   - wallecube.com
+  - wanzd.com
   - warmheart.top
   - wawo.cc
   - we-stats.com

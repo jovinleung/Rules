@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1072
+# 规则统计: 1074
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -125,6 +125,7 @@ HOST-SUFFIX,aihubmix.com,Direct
 HOST-SUFFIX,ainfinit.com,Direct
 HOST-SUFFIX,aisnogames.com,Direct
 HOST-SUFFIX,aistudio-app.com,Direct
+HOST-SUFFIX,aitongqian.com,Direct
 HOST-SUFFIX,aiyohoo.com,Direct
 HOST-SUFFIX,akamaihd.net,Direct
 HOST-SUFFIX,akamaized.net,Direct
@@ -917,6 +918,7 @@ HOST-SUFFIX,vtools.online,Direct
 HOST-SUFFIX,vv1865.com,Direct
 HOST-SUFFIX,vvhan.com,Direct
 HOST-SUFFIX,wallecube.com,Direct
+HOST-SUFFIX,wanzd.com,Direct
 HOST-SUFFIX,warmheart.top,Direct
 HOST-SUFFIX,wawo.cc,Direct
 HOST-SUFFIX,we-stats.com,Direct

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1076
+# 规则统计: 1079
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -231,6 +231,7 @@ DOMAIN-SUFFIX,chuguansmart.com
 DOMAIN-SUFFIX,chujingapp.com
 DOMAIN-SUFFIX,chushi.cool
 DOMAIN-SUFFIX,ciallo.party
+DOMAIN-SUFFIX,cindy.app
 DOMAIN-SUFFIX,ciyuancenter.cc
 DOMAIN-SUFFIX,clivia.fun
 DOMAIN-SUFFIX,cloudllll.com
@@ -939,6 +940,7 @@ DOMAIN-SUFFIX,wlups.com
 DOMAIN-SUFFIX,wologic.net
 DOMAIN-SUFFIX,wpurl.cc
 DOMAIN-SUFFIX,wty-yy.top
+DOMAIN-SUFFIX,wuhanjijin.com
 DOMAIN-SUFFIX,wushuangai.com
 DOMAIN-SUFFIX,www.ojrq.net
 DOMAIN-SUFFIX,wwwh.eu.org
@@ -946,6 +948,7 @@ DOMAIN-SUFFIX,wwwwqq.com
 DOMAIN-SUFFIX,wxdw.top
 DOMAIN-SUFFIX,x-gpu.com
 DOMAIN-SUFFIX,x86pi.com
+DOMAIN-SUFFIX,xaippc.com
 DOMAIN-SUFFIX,xbcloudprint.com
 DOMAIN-SUFFIX,xbgjw.com
 DOMAIN-SUFFIX,xboxfan.com

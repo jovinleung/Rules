@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1076
+# 规则统计: 1079
 
 no_resolve: true
 domain_set:
@@ -234,6 +234,7 @@ domain_suffix_set:
   - chujingapp.com
   - chushi.cool
   - ciallo.party
+  - cindy.app
   - ciyuancenter.cc
   - clivia.fun
   - cloudllll.com
@@ -942,6 +943,7 @@ domain_suffix_set:
   - wologic.net
   - wpurl.cc
   - wty-yy.top
+  - wuhanjijin.com
   - wushuangai.com
   - www.ojrq.net
   - wwwh.eu.org
@@ -949,6 +951,7 @@ domain_suffix_set:
   - wxdw.top
   - x-gpu.com
   - x86pi.com
+  - xaippc.com
   - xbcloudprint.com
   - xbgjw.com
   - xboxfan.com

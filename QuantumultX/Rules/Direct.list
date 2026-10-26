@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1075
+# 规则统计: 1078
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -231,6 +231,7 @@ HOST-SUFFIX,chuguansmart.com,Direct
 HOST-SUFFIX,chujingapp.com,Direct
 HOST-SUFFIX,chushi.cool,Direct
 HOST-SUFFIX,ciallo.party,Direct
+HOST-SUFFIX,cindy.app,Direct
 HOST-SUFFIX,ciyuancenter.cc,Direct
 HOST-SUFFIX,clivia.fun,Direct
 HOST-SUFFIX,cloudllll.com,Direct
@@ -939,6 +940,7 @@ HOST-SUFFIX,wlups.com,Direct
 HOST-SUFFIX,wologic.net,Direct
 HOST-SUFFIX,wpurl.cc,Direct
 HOST-SUFFIX,wty-yy.top,Direct
+HOST-SUFFIX,wuhanjijin.com,Direct
 HOST-SUFFIX,wushuangai.com,Direct
 HOST-SUFFIX,www.ojrq.net,Direct
 HOST-SUFFIX,wwwh.eu.org,Direct
@@ -946,6 +948,7 @@ HOST-SUFFIX,wwwwqq.com,Direct
 HOST-SUFFIX,wxdw.top,Direct
 HOST-SUFFIX,x-gpu.com,Direct
 HOST-SUFFIX,x86pi.com,Direct
+HOST-SUFFIX,xaippc.com,Direct
 HOST-SUFFIX,xbcloudprint.com,Direct
 HOST-SUFFIX,xbgjw.com,Direct
 HOST-SUFFIX,xboxfan.com,Direct

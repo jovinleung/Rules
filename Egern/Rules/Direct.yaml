@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1079
+# 规则统计: 1085
 
 no_resolve: true
 domain_set:
@@ -218,6 +218,7 @@ domain_suffix_set:
   - cg3da.com
   - cgicop.com
   - changjirb.com
+  - changzhi.top
   - chaxunjiao.com
   - chaz.fun
   - checkip.dyndns.org
@@ -484,6 +485,7 @@ domain_suffix_set:
   - hub.xdark.top
   - hueihuei.top
   - huikao8.com
+  - human-horizons.com
   - hutaoyun.top
   - hwbim.com
   - hwjianmo.com
@@ -590,6 +592,7 @@ domain_suffix_set:
   - laupqc.com
   - lcdn-locator.apple.com
   - lcdn-registration.apple.com
+  - ldboost.com
   - leadweigh.com
   - leelen.com
   - letaoedu.com
@@ -602,6 +605,7 @@ domain_suffix_set:
   - listenai.com
   - liunn.com
   - liveperson.net
+  - liyunol.com
   - ljj233.top
   - localhost.ptlogin2.qq.com
   - localhost.sec.qq.com
@@ -763,6 +767,7 @@ domain_suffix_set:
   - quxuanshu.com
   - qweapi.com
   - qweatherapi.com
+  - qzy.xyz
   - qzyun.net
   - ranwen.tw
   - rayws.top
@@ -973,6 +978,7 @@ domain_suffix_set:
   - xiaolikj.online
   - xiaomaicn.com
   - xiaoxia.vip
+  - xiaoyao.co
   - xiaoyuan888.com
   - xiberia.net
   - ximogo.com

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1078
+# 规则统计: 1084
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -215,6 +215,7 @@ HOST-SUFFIX,cftunnel.com,Direct
 HOST-SUFFIX,cg3da.com,Direct
 HOST-SUFFIX,cgicop.com,Direct
 HOST-SUFFIX,changjirb.com,Direct
+HOST-SUFFIX,changzhi.top,Direct
 HOST-SUFFIX,chaxunjiao.com,Direct
 HOST-SUFFIX,chaz.fun,Direct
 HOST-SUFFIX,checkip.dyndns.org,Direct
@@ -481,6 +482,7 @@ HOST-SUFFIX,hub.rat.dev,Direct
 HOST-SUFFIX,hub.xdark.top,Direct
 HOST-SUFFIX,hueihuei.top,Direct
 HOST-SUFFIX,huikao8.com,Direct
+HOST-SUFFIX,human-horizons.com,Direct
 HOST-SUFFIX,hutaoyun.top,Direct
 HOST-SUFFIX,hwbim.com,Direct
 HOST-SUFFIX,hwjianmo.com,Direct
@@ -587,6 +589,7 @@ HOST-SUFFIX,latexlive.com,Direct
 HOST-SUFFIX,laupqc.com,Direct
 HOST-SUFFIX,lcdn-locator.apple.com,Direct
 HOST-SUFFIX,lcdn-registration.apple.com,Direct
+HOST-SUFFIX,ldboost.com,Direct
 HOST-SUFFIX,leadweigh.com,Direct
 HOST-SUFFIX,leelen.com,Direct
 HOST-SUFFIX,letaoedu.com,Direct
@@ -599,6 +602,7 @@ HOST-SUFFIX,linux.sb,Direct
 HOST-SUFFIX,listenai.com,Direct
 HOST-SUFFIX,liunn.com,Direct
 HOST-SUFFIX,liveperson.net,Direct
+HOST-SUFFIX,liyunol.com,Direct
 HOST-SUFFIX,ljj233.top,Direct
 HOST-SUFFIX,localhost.ptlogin2.qq.com,Direct
 HOST-SUFFIX,localhost.sec.qq.com,Direct
@@ -760,6 +764,7 @@ HOST-SUFFIX,quanzhua.com,Direct
 HOST-SUFFIX,quxuanshu.com,Direct
 HOST-SUFFIX,qweapi.com,Direct
 HOST-SUFFIX,qweatherapi.com,Direct
+HOST-SUFFIX,qzy.xyz,Direct
 HOST-SUFFIX,qzyun.net,Direct
 HOST-SUFFIX,ranwen.tw,Direct
 HOST-SUFFIX,rayws.top,Direct
@@ -970,6 +975,7 @@ HOST-SUFFIX,xiaochuanyun.com,Direct
 HOST-SUFFIX,xiaolikj.online,Direct
 HOST-SUFFIX,xiaomaicn.com,Direct
 HOST-SUFFIX,xiaoxia.vip,Direct
+HOST-SUFFIX,xiaoyao.co,Direct
 HOST-SUFFIX,xiaoyuan888.com,Direct
 HOST-SUFFIX,xiberia.net,Direct
 HOST-SUFFIX,ximogo.com,Direct

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1092
+# 规则统计: 1095
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -359,6 +359,7 @@ DOMAIN-SUFFIX,fzedu.pub
 DOMAIN-SUFFIX,fzshouji.com
 DOMAIN-SUFFIX,fzvcolco.com
 DOMAIN-SUFFIX,fzwqq.com
+DOMAIN-SUFFIX,gacicv.com
 DOMAIN-SUFFIX,gaishitongshu.com
 DOMAIN-SUFFIX,game.maj-soul.com
 DOMAIN-SUFFIX,gamepp.com
@@ -689,6 +690,7 @@ DOMAIN-SUFFIX,nn.ci
 DOMAIN-SUFFIX,no-mad-sub.one
 DOMAIN-SUFFIX,nodcloud.com
 DOMAIN-SUFFIX,noyer.eu.org
+DOMAIN-SUFFIX,nuanxinhm.com
 DOMAIN-SUFFIX,nwiztech.com
 DOMAIN-SUFFIX,nxog.top
 DOMAIN-SUFFIX,nyxcuy.com
@@ -883,6 +885,7 @@ DOMAIN-SUFFIX,tianlala.com
 DOMAIN-SUFFIX,tianruo.xyz
 DOMAIN-SUFFIX,timbrd.com
 DOMAIN-SUFFIX,tixue.net
+DOMAIN-SUFFIX,tlkg.com
 DOMAIN-SUFFIX,tluyou.com
 DOMAIN-SUFFIX,tmallyc.com
 DOMAIN-SUFFIX,tmwanba.com

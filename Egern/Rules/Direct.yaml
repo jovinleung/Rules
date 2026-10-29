@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1092
+# 规则统计: 1095
 
 no_resolve: true
 domain_set:
@@ -362,6 +362,7 @@ domain_suffix_set:
   - fzshouji.com
   - fzvcolco.com
   - fzwqq.com
+  - gacicv.com
   - gaishitongshu.com
   - game.maj-soul.com
   - gamepp.com
@@ -692,6 +693,7 @@ domain_suffix_set:
   - no-mad-sub.one
   - nodcloud.com
   - noyer.eu.org
+  - nuanxinhm.com
   - nwiztech.com
   - nxog.top
   - nyxcuy.com
@@ -886,6 +888,7 @@ domain_suffix_set:
   - tianruo.xyz
   - timbrd.com
   - tixue.net
+  - tlkg.com
   - tluyou.com
   - tmallyc.com
   - tmwanba.com

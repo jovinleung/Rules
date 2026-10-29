@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1091
+# 规则统计: 1094
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -359,6 +359,7 @@ HOST-SUFFIX,fzedu.pub,Direct
 HOST-SUFFIX,fzshouji.com,Direct
 HOST-SUFFIX,fzvcolco.com,Direct
 HOST-SUFFIX,fzwqq.com,Direct
+HOST-SUFFIX,gacicv.com,Direct
 HOST-SUFFIX,gaishitongshu.com,Direct
 HOST-SUFFIX,game.maj-soul.com,Direct
 HOST-SUFFIX,gamepp.com,Direct
@@ -689,6 +690,7 @@ HOST-SUFFIX,nn.ci,Direct
 HOST-SUFFIX,no-mad-sub.one,Direct
 HOST-SUFFIX,nodcloud.com,Direct
 HOST-SUFFIX,noyer.eu.org,Direct
+HOST-SUFFIX,nuanxinhm.com,Direct
 HOST-SUFFIX,nwiztech.com,Direct
 HOST-SUFFIX,nxog.top,Direct
 HOST-SUFFIX,nyxcuy.com,Direct
@@ -883,6 +885,7 @@ HOST-SUFFIX,tianlala.com,Direct
 HOST-SUFFIX,tianruo.xyz,Direct
 HOST-SUFFIX,timbrd.com,Direct
 HOST-SUFFIX,tixue.net,Direct
+HOST-SUFFIX,tlkg.com,Direct
 HOST-SUFFIX,tluyou.com,Direct
 HOST-SUFFIX,tmallyc.com,Direct
 HOST-SUFFIX,tmwanba.com,Direct

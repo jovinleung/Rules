@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1085
+# 规则统计: 1092
 
 no_resolve: true
 domain_set:
@@ -48,6 +48,7 @@ domain_suffix_set:
   - 123795.com
   - 123clouddisk.com
   - 12zayb.com
+  - 153532.com
   - 17van.com
   - 1996999.xyz
   - 204cloud.com
@@ -83,6 +84,7 @@ domain_suffix_set:
   - 6v520.net
   - 71.am
   - 737698.xyz
+  - 757abc.com
   - 77shuku.info
   - 77shuku.org
   - 7sef.com
@@ -320,6 +322,7 @@ domain_suffix_set:
   - excelbbx.net
   - exiliumgf.com
   - eye4cloud.com
+  - eyosc.com
   - faka163.com
   - fastify.cc
   - fb71ef91e1014.beer
@@ -437,6 +440,7 @@ domain_suffix_set:
   - ham.xin
   - handfree.work
   - hangnakeji.com
+  - hanoking.com
   - hanqiuming888.com
   - hanzhe.site
   - haofanhuoban.com
@@ -570,6 +574,7 @@ domain_suffix_set:
   - kaspersky-labs.com
   - kaspersky.com
   - kasperskydaily.com
+  - kbser.com
   - kcbd.top
   - kcttpa.com
   - kejiweixun.com
@@ -609,6 +614,7 @@ domain_suffix_set:
   - ljj233.top
   - localhost.ptlogin2.qq.com
   - localhost.sec.qq.com
+  - lodop.net
   - longmenshuju.com
   - loveutips.com
   - lsbj365.com
@@ -832,6 +838,7 @@ domain_suffix_set:
   - staticmeow.com
   - stkfanli.com
   - sufe.me
+  - sun-panel.top
   - sunrisecontent.akamaized.net
   - suntl.com
   - susudesu.com

@@ -1,5 +1,5 @@
 # 规则名称: ProxyGFW
-# 规则统计: 7674
+# 规则统计: 7675
 
 no_resolve: true
 domain_set:
@@ -4616,6 +4616,7 @@ domain_suffix_set:
   - npm.io
   - npmjs.com
   - npmjs.org
+  - npmx.dev
   - npnt.me
   - npr.org
   - nps.gov

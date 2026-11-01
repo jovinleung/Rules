@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1132
+# 规则统计: 1135
 
 no_resolve: true
 domain_set:
@@ -52,6 +52,7 @@ domain_suffix_set:
   - 17van.com
   - 1996999.xyz
   - 204cloud.com
+  - 225284.xyz
   - 25mao.com
   - 2mcnxs.cc
   - 365ting.com
@@ -466,6 +467,7 @@ domain_suffix_set:
   - hclassplatform.com
   - hdbz.net
   - hdcm00.com
+  - hexieark.com
   - hexiny.com
   - heysida.com
   - hezuvip.com
@@ -596,6 +598,7 @@ domain_suffix_set:
   - kit327.com
   - kiwiot.com
   - kke.com.hk
+  - kkmmy.com
   - kldai.vip
   - kmeila.com
   - knit.bid

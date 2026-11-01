@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1131
+# 规则统计: 1134
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -49,6 +49,7 @@ HOST-SUFFIX,153532.com,Direct
 HOST-SUFFIX,17van.com,Direct
 HOST-SUFFIX,1996999.xyz,Direct
 HOST-SUFFIX,204cloud.com,Direct
+HOST-SUFFIX,225284.xyz,Direct
 HOST-SUFFIX,25mao.com,Direct
 HOST-SUFFIX,2mcnxs.cc,Direct
 HOST-SUFFIX,365ting.com,Direct
@@ -463,6 +464,7 @@ HOST-SUFFIX,hbymfswz.com,Direct
 HOST-SUFFIX,hclassplatform.com,Direct
 HOST-SUFFIX,hdbz.net,Direct
 HOST-SUFFIX,hdcm00.com,Direct
+HOST-SUFFIX,hexieark.com,Direct
 HOST-SUFFIX,hexiny.com,Direct
 HOST-SUFFIX,heysida.com,Direct
 HOST-SUFFIX,hezuvip.com,Direct
@@ -593,6 +595,7 @@ HOST-SUFFIX,kgithub.com,Direct
 HOST-SUFFIX,kit327.com,Direct
 HOST-SUFFIX,kiwiot.com,Direct
 HOST-SUFFIX,kke.com.hk,Direct
+HOST-SUFFIX,kkmmy.com,Direct
 HOST-SUFFIX,kldai.vip,Direct
 HOST-SUFFIX,kmeila.com,Direct
 HOST-SUFFIX,knit.bid,Direct

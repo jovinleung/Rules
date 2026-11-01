@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1129
+# 规则统计: 1128
 
 no_resolve: true
 domain_set:
@@ -568,8 +568,6 @@ domain_suffix_set:
   - jjzyy.org
   - jkgeek.com
   - jnsjz.com
-  - jsdelivr.com
-  - jsdelivr.net
   - jsj.top
   - jspvz.com
   - juantui.com
@@ -788,6 +786,7 @@ domain_suffix_set:
   - qjmotorlink.com
   - qmeng.top
   - qmpx.net
+  - qpe27.top
   - quanxinfu.com
   - quanzhua.com
   - quxuanshu.com

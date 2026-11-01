@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1128
+# 规则统计: 1132
 
 no_resolve: true
 domain_set:
@@ -479,6 +479,7 @@ domain_suffix_set:
   - hjgdrop.cc
   - hkchat.app
   - hnchasing.com
+  - hndk1.com
   - hnxzctec.com
   - hnzjyw.com
   - hoaihe.store
@@ -614,6 +615,7 @@ domain_suffix_set:
   - leadweigh.com
   - leelen.com
   - letaoedu.com
+  - leux.net
   - lezuan6.com
   - lg3000.top
   - lightmake.site
@@ -634,6 +636,7 @@ domain_suffix_set:
   - lsposed.zip
   - lty02.com
   - lucky.gd
+  - luxiangwu.com
   - lw5.co
   - lyihub.com
   - lyilife.com
@@ -935,6 +938,7 @@ domain_suffix_set:
   - tuxing.art
   - twinkstar.com
   - twtapp.com
+  - tylk.cc
   - type.fun
   - tztec.top
   - u-carloan.com

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1128
+# 规则统计: 1132
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -476,6 +476,7 @@ DOMAIN-SUFFIX,hiwms.com
 DOMAIN-SUFFIX,hjgdrop.cc
 DOMAIN-SUFFIX,hkchat.app
 DOMAIN-SUFFIX,hnchasing.com
+DOMAIN-SUFFIX,hndk1.com
 DOMAIN-SUFFIX,hnxzctec.com
 DOMAIN-SUFFIX,hnzjyw.com
 DOMAIN-SUFFIX,hoaihe.store
@@ -611,6 +612,7 @@ DOMAIN-SUFFIX,ldboost.com
 DOMAIN-SUFFIX,leadweigh.com
 DOMAIN-SUFFIX,leelen.com
 DOMAIN-SUFFIX,letaoedu.com
+DOMAIN-SUFFIX,leux.net
 DOMAIN-SUFFIX,lezuan6.com
 DOMAIN-SUFFIX,lg3000.top
 DOMAIN-SUFFIX,lightmake.site
@@ -631,6 +633,7 @@ DOMAIN-SUFFIX,lsbj365.com
 DOMAIN-SUFFIX,lsposed.zip
 DOMAIN-SUFFIX,lty02.com
 DOMAIN-SUFFIX,lucky.gd
+DOMAIN-SUFFIX,luxiangwu.com
 DOMAIN-SUFFIX,lw5.co
 DOMAIN-SUFFIX,lyihub.com
 DOMAIN-SUFFIX,lyilife.com
@@ -932,6 +935,7 @@ DOMAIN-SUFFIX,tumukaoyan.com
 DOMAIN-SUFFIX,tuxing.art
 DOMAIN-SUFFIX,twinkstar.com
 DOMAIN-SUFFIX,twtapp.com
+DOMAIN-SUFFIX,tylk.cc
 DOMAIN-SUFFIX,type.fun
 DOMAIN-SUFFIX,tztec.top
 DOMAIN-SUFFIX,u-carloan.com

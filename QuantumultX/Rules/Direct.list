@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1127
+# 规则统计: 1131
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -476,6 +476,7 @@ HOST-SUFFIX,hiwms.com,Direct
 HOST-SUFFIX,hjgdrop.cc,Direct
 HOST-SUFFIX,hkchat.app,Direct
 HOST-SUFFIX,hnchasing.com,Direct
+HOST-SUFFIX,hndk1.com,Direct
 HOST-SUFFIX,hnxzctec.com,Direct
 HOST-SUFFIX,hnzjyw.com,Direct
 HOST-SUFFIX,hoaihe.store,Direct
@@ -611,6 +612,7 @@ HOST-SUFFIX,ldboost.com,Direct
 HOST-SUFFIX,leadweigh.com,Direct
 HOST-SUFFIX,leelen.com,Direct
 HOST-SUFFIX,letaoedu.com,Direct
+HOST-SUFFIX,leux.net,Direct
 HOST-SUFFIX,lezuan6.com,Direct
 HOST-SUFFIX,lg3000.top,Direct
 HOST-SUFFIX,lightmake.site,Direct
@@ -631,6 +633,7 @@ HOST-SUFFIX,lsbj365.com,Direct
 HOST-SUFFIX,lsposed.zip,Direct
 HOST-SUFFIX,lty02.com,Direct
 HOST-SUFFIX,lucky.gd,Direct
+HOST-SUFFIX,luxiangwu.com,Direct
 HOST-SUFFIX,lw5.co,Direct
 HOST-SUFFIX,lyihub.com,Direct
 HOST-SUFFIX,lyilife.com,Direct
@@ -932,6 +935,7 @@ HOST-SUFFIX,tumukaoyan.com,Direct
 HOST-SUFFIX,tuxing.art,Direct
 HOST-SUFFIX,twinkstar.com,Direct
 HOST-SUFFIX,twtapp.com,Direct
+HOST-SUFFIX,tylk.cc,Direct
 HOST-SUFFIX,type.fun,Direct
 HOST-SUFFIX,tztec.top,Direct
 HOST-SUFFIX,u-carloan.com,Direct

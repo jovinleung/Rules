@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1135
+# 规则统计: 1137
 
 no_resolve: true
 domain_set:
@@ -279,6 +279,7 @@ domain_suffix_set:
   - dayilive.com
   - dcgstd.com
   - dcshfu.com
+  - dd3862.com
   - ddsrem.com
   - ddxq.mobi
   - ddzn.tech
@@ -855,6 +856,7 @@ domain_suffix_set:
   - skktec.com
   - sksight.com
   - skxvc.com
+  - skyts.net
   - snfox.com
   - snltty.com
   - sollin.top

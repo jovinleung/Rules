@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1137
+# 规则统计: 1139
 
 no_resolve: true
 domain_set:
@@ -78,6 +78,7 @@ domain_suffix_set:
   - 52met.com
   - 52muban.com
   - 52youzai.com
+  - 52ywp.com
   - 55555.ink
   - 56tvc.com
   - 580ai.net
@@ -268,6 +269,7 @@ domain_suffix_set:
   - crrcgo.cc
   - crtyhr.com
   - csqaq.com
+  - cyberpig.tech
   - cydiabc.top
   - cym520.top
   - cyouzai.com

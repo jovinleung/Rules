@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1137
+# 规则统计: 1139
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -75,6 +75,7 @@ DOMAIN-SUFFIX,52jiawei.com
 DOMAIN-SUFFIX,52met.com
 DOMAIN-SUFFIX,52muban.com
 DOMAIN-SUFFIX,52youzai.com
+DOMAIN-SUFFIX,52ywp.com
 DOMAIN-SUFFIX,55555.ink
 DOMAIN-SUFFIX,56tvc.com
 DOMAIN-SUFFIX,580ai.net
@@ -265,6 +266,7 @@ DOMAIN-SUFFIX,cqnbmarathon.com
 DOMAIN-SUFFIX,crrcgo.cc
 DOMAIN-SUFFIX,crtyhr.com
 DOMAIN-SUFFIX,csqaq.com
+DOMAIN-SUFFIX,cyberpig.tech
 DOMAIN-SUFFIX,cydiabc.top
 DOMAIN-SUFFIX,cym520.top
 DOMAIN-SUFFIX,cyouzai.com

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1136
+# 规则统计: 1138
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -75,6 +75,7 @@ HOST-SUFFIX,52jiawei.com,Direct
 HOST-SUFFIX,52met.com,Direct
 HOST-SUFFIX,52muban.com,Direct
 HOST-SUFFIX,52youzai.com,Direct
+HOST-SUFFIX,52ywp.com,Direct
 HOST-SUFFIX,55555.ink,Direct
 HOST-SUFFIX,56tvc.com,Direct
 HOST-SUFFIX,580ai.net,Direct
@@ -265,6 +266,7 @@ HOST-SUFFIX,cqnbmarathon.com,Direct
 HOST-SUFFIX,crrcgo.cc,Direct
 HOST-SUFFIX,crtyhr.com,Direct
 HOST-SUFFIX,csqaq.com,Direct
+HOST-SUFFIX,cyberpig.tech,Direct
 HOST-SUFFIX,cydiabc.top,Direct
 HOST-SUFFIX,cym520.top,Direct
 HOST-SUFFIX,cyouzai.com,Direct

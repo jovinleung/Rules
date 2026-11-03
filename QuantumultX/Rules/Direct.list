@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1138
+# 规则统计: 1141
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -621,9 +621,11 @@ HOST-SUFFIX,letaoedu.com,Direct
 HOST-SUFFIX,leux.net,Direct
 HOST-SUFFIX,lezuan6.com,Direct
 HOST-SUFFIX,lg3000.top,Direct
+HOST-SUFFIX,lianguo-tech.com,Direct
 HOST-SUFFIX,lightmake.site,Direct
 HOST-SUFFIX,linka2a.net,Direct
 HOST-SUFFIX,linkcircle.net,Direct
+HOST-SUFFIX,linkease.net,Direct
 HOST-SUFFIX,linux.sb,Direct
 HOST-SUFFIX,listenai.com,Direct
 HOST-SUFFIX,liunn.com,Direct
@@ -933,6 +935,7 @@ HOST-SUFFIX,topwd.top,Direct
 HOST-SUFFIX,touchgal.ink,Direct
 HOST-SUFFIX,touchgaloss.com,Direct
 HOST-SUFFIX,tozi-cn.top,Direct
+HOST-SUFFIX,tracker.ink,Direct
 HOST-SUFFIX,trjho.com,Direct
 HOST-SUFFIX,ts3.ink,Direct
 HOST-SUFFIX,ttshitu.com,Direct

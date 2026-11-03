@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1158
+# 规则统计: 1161
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -229,6 +229,7 @@ HOST-SUFFIX,cg3da.com,Direct
 HOST-SUFFIX,cgicop.com,Direct
 HOST-SUFFIX,changjirb.com,Direct
 HOST-SUFFIX,changzhi.top,Direct
+HOST-SUFFIX,chatlabs.net,Direct
 HOST-SUFFIX,chaxunjiao.com,Direct
 HOST-SUFFIX,chaz.fun,Direct
 HOST-SUFFIX,checkip.dyndns.org,Direct
@@ -370,6 +371,7 @@ HOST-SUFFIX,fssbcc.top,Direct
 HOST-SUFFIX,fsytss.com,Direct
 HOST-SUFFIX,ft07.com,Direct
 HOST-SUFFIX,ftqq.com,Direct
+HOST-SUFFIX,ftsup.com,Direct
 HOST-SUFFIX,functorz.com,Direct
 HOST-SUFFIX,funlinkads.com,Direct
 HOST-SUFFIX,funmob.top,Direct
@@ -881,6 +883,7 @@ HOST-SUFFIX,spisec.com,Direct
 HOST-SUFFIX,spst1.com,Direct
 HOST-SUFFIX,sptv.ii00.cc,Direct
 HOST-SUFFIX,ssjj2.com,Direct
+HOST-SUFFIX,stargame.group,Direct
 HOST-SUFFIX,starlink.uno,Direct
 HOST-SUFFIX,startssl.com,Direct
 HOST-SUFFIX,staticmeow.com,Direct

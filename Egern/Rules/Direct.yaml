@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1159
+# 规则统计: 1162
 
 no_resolve: true
 domain_set:
@@ -232,6 +232,7 @@ domain_suffix_set:
   - cgicop.com
   - changjirb.com
   - changzhi.top
+  - chatlabs.net
   - chaxunjiao.com
   - chaz.fun
   - checkip.dyndns.org
@@ -373,6 +374,7 @@ domain_suffix_set:
   - fsytss.com
   - ft07.com
   - ftqq.com
+  - ftsup.com
   - functorz.com
   - funlinkads.com
   - funmob.top
@@ -884,6 +886,7 @@ domain_suffix_set:
   - spst1.com
   - sptv.ii00.cc
   - ssjj2.com
+  - stargame.group
   - starlink.uno
   - startssl.com
   - staticmeow.com

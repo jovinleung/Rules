@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1159
+# 规则统计: 1162
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -229,6 +229,7 @@ DOMAIN-SUFFIX,cg3da.com
 DOMAIN-SUFFIX,cgicop.com
 DOMAIN-SUFFIX,changjirb.com
 DOMAIN-SUFFIX,changzhi.top
+DOMAIN-SUFFIX,chatlabs.net
 DOMAIN-SUFFIX,chaxunjiao.com
 DOMAIN-SUFFIX,chaz.fun
 DOMAIN-SUFFIX,checkip.dyndns.org
@@ -370,6 +371,7 @@ DOMAIN-SUFFIX,fssbcc.top
 DOMAIN-SUFFIX,fsytss.com
 DOMAIN-SUFFIX,ft07.com
 DOMAIN-SUFFIX,ftqq.com
+DOMAIN-SUFFIX,ftsup.com
 DOMAIN-SUFFIX,functorz.com
 DOMAIN-SUFFIX,funlinkads.com
 DOMAIN-SUFFIX,funmob.top
@@ -881,6 +883,7 @@ DOMAIN-SUFFIX,spisec.com
 DOMAIN-SUFFIX,spst1.com
 DOMAIN-SUFFIX,sptv.ii00.cc
 DOMAIN-SUFFIX,ssjj2.com
+DOMAIN-SUFFIX,stargame.group
 DOMAIN-SUFFIX,starlink.uno
 DOMAIN-SUFFIX,startssl.com
 DOMAIN-SUFFIX,staticmeow.com

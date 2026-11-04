@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1162
+# 规则统计: 1167
 
 no_resolve: true
 domain_set:
@@ -54,6 +54,7 @@ domain_suffix_set:
   - 204cloud.com
   - 225284.xyz
   - 25mao.com
+  - 264788.xyz
   - 2mcnxs.cc
   - 365ting.com
   - 365wp.top
@@ -268,6 +269,7 @@ domain_suffix_set:
   - constantinefun.com
   - constasj.me
   - coros.com
+  - cqhy.fun
   - cqjypg.com
   - cqnbmarathon.com
   - crrcgo.cc
@@ -281,6 +283,7 @@ domain_suffix_set:
   - dadateach.com
   - dahai96.com
   - daocloud.vip
+  - darwinchow.com
   - day.app
   - dayilive.com
   - dcgstd.com
@@ -434,6 +437,7 @@ domain_suffix_set:
   - gootho.com
   - gpetrip.com
   - gpgwx.com
+  - greennet-inc.com
   - grz-hx.com
   - gseen.com
   - gsgltz.com
@@ -1017,6 +1021,7 @@ domain_suffix_set:
   - wlups.com
   - wologic.net
   - wpurl.cc
+  - wt2zxk.com
   - wty-yy.top
   - wuhanjijin.com
   - wushuangai.com

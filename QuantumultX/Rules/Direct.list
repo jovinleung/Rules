@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1161
+# 规则统计: 1166
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -51,6 +51,7 @@ HOST-SUFFIX,1996999.xyz,Direct
 HOST-SUFFIX,204cloud.com,Direct
 HOST-SUFFIX,225284.xyz,Direct
 HOST-SUFFIX,25mao.com,Direct
+HOST-SUFFIX,264788.xyz,Direct
 HOST-SUFFIX,2mcnxs.cc,Direct
 HOST-SUFFIX,365ting.com,Direct
 HOST-SUFFIX,365wp.top,Direct
@@ -265,6 +266,7 @@ HOST-SUFFIX,congmiqq.com,Direct
 HOST-SUFFIX,constantinefun.com,Direct
 HOST-SUFFIX,constasj.me,Direct
 HOST-SUFFIX,coros.com,Direct
+HOST-SUFFIX,cqhy.fun,Direct
 HOST-SUFFIX,cqjypg.com,Direct
 HOST-SUFFIX,cqnbmarathon.com,Direct
 HOST-SUFFIX,crrcgo.cc,Direct
@@ -278,6 +280,7 @@ HOST-SUFFIX,d4ctech.com,Direct
 HOST-SUFFIX,dadateach.com,Direct
 HOST-SUFFIX,dahai96.com,Direct
 HOST-SUFFIX,daocloud.vip,Direct
+HOST-SUFFIX,darwinchow.com,Direct
 HOST-SUFFIX,day.app,Direct
 HOST-SUFFIX,dayilive.com,Direct
 HOST-SUFFIX,dcgstd.com,Direct
@@ -431,6 +434,7 @@ HOST-SUFFIX,googoc.com,Direct
 HOST-SUFFIX,gootho.com,Direct
 HOST-SUFFIX,gpetrip.com,Direct
 HOST-SUFFIX,gpgwx.com,Direct
+HOST-SUFFIX,greennet-inc.com,Direct
 HOST-SUFFIX,grz-hx.com,Direct
 HOST-SUFFIX,gseen.com,Direct
 HOST-SUFFIX,gsgltz.com,Direct
@@ -1014,6 +1018,7 @@ HOST-SUFFIX,wlkac.com,Direct
 HOST-SUFFIX,wlups.com,Direct
 HOST-SUFFIX,wologic.net,Direct
 HOST-SUFFIX,wpurl.cc,Direct
+HOST-SUFFIX,wt2zxk.com,Direct
 HOST-SUFFIX,wty-yy.top,Direct
 HOST-SUFFIX,wuhanjijin.com,Direct
 HOST-SUFFIX,wushuangai.com,Direct

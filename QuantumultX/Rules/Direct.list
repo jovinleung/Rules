@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1166
+# 规则统计: 1170
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -247,6 +247,7 @@ HOST-SUFFIX,chuguansmart.com,Direct
 HOST-SUFFIX,chujingapp.com,Direct
 HOST-SUFFIX,chushi.cool,Direct
 HOST-SUFFIX,ciallo.party,Direct
+HOST-SUFFIX,cilizhai.net,Direct
 HOST-SUFFIX,cindy.app,Direct
 HOST-SUFFIX,ciyuancenter.cc,Direct
 HOST-SUFFIX,clivia.fun,Direct
@@ -829,6 +830,7 @@ HOST-SUFFIX,redenmc.com,Direct
 HOST-SUFFIX,registry.dockermirror.com,Direct
 HOST-SUFFIX,rewards.bing.com,Direct
 HOST-SUFFIX,rkgamingstore.com,Direct
+HOST-SUFFIX,ro1029mango.com,Direct
 HOST-SUFFIX,royqh.net,Direct
 HOST-SUFFIX,rsfcxq.com,Direct
 HOST-SUFFIX,rsmods.cc,Direct
@@ -1055,6 +1057,7 @@ HOST-SUFFIX,xiaoyao.co,Direct
 HOST-SUFFIX,xiaoyuan888.com,Direct
 HOST-SUFFIX,xiberia.net,Direct
 HOST-SUFFIX,ximogo.com,Direct
+HOST-SUFFIX,xincili01ng.top,Direct
 HOST-SUFFIX,xingaochengtai.com,Direct
 HOST-SUFFIX,xinghaiwaimai.com,Direct
 HOST-SUFFIX,xingmojs.com,Direct
@@ -1131,6 +1134,7 @@ HOST-SUFFIX,zhongancloud.com,Direct
 HOST-SUFFIX,zhouyiy.com,Direct
 HOST-SUFFIX,zhu.today,Direct
 HOST-SUFFIX,zhytstudio.com,Direct
+HOST-SUFFIX,zi1029panda.top,Direct
 HOST-SUFFIX,zjjslawyer.com,Direct
 HOST-SUFFIX,zjshulong.com,Direct
 HOST-SUFFIX,zjxhedu.com,Direct

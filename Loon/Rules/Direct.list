@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1173
+# 规则统计: 1187
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -235,6 +235,7 @@ DOMAIN-SUFFIX,chaxunjiao.com
 DOMAIN-SUFFIX,chaz.fun
 DOMAIN-SUFFIX,checkip.dyndns.org
 DOMAIN-SUFFIX,checkipv6.dyndns.org
+DOMAIN-SUFFIX,chengguodj.com
 DOMAIN-SUFFIX,chenyuxia.com
 DOMAIN-SUFFIX,cheriexsky.love
 DOMAIN-SUFFIX,cheshire.top
@@ -252,6 +253,7 @@ DOMAIN-SUFFIX,cindy.app
 DOMAIN-SUFFIX,ciyuancenter.cc
 DOMAIN-SUFFIX,clivia.fun
 DOMAIN-SUFFIX,cloudllll.com
+DOMAIN-SUFFIX,cloudseekr.com
 DOMAIN-SUFFIX,cmbc.run
 DOMAIN-SUFFIX,cmhk.com
 DOMAIN-SUFFIX,cn-music.mefun.vip
@@ -273,6 +275,7 @@ DOMAIN-SUFFIX,cqnbmarathon.com
 DOMAIN-SUFFIX,crrcgo.cc
 DOMAIN-SUFFIX,crtyhr.com
 DOMAIN-SUFFIX,csqaq.com
+DOMAIN-SUFFIX,csrqoa.com
 DOMAIN-SUFFIX,cyberpig.tech
 DOMAIN-SUFFIX,cydiabc.top
 DOMAIN-SUFFIX,cym520.top
@@ -327,6 +330,7 @@ DOMAIN-SUFFIX,easytomessage.com
 DOMAIN-SUFFIX,ec766.com
 DOMAIN-SUFFIX,eceshi.com
 DOMAIN-SUFFIX,ectaiping.com
+DOMAIN-SUFFIX,eezygoapi.com
 DOMAIN-SUFFIX,ehdjskx.com
 DOMAIN-SUFFIX,einfo-tech.com
 DOMAIN-SUFFIX,emby.yun
@@ -452,6 +456,7 @@ DOMAIN-SUFFIX,guaitao.cc
 DOMAIN-SUFFIX,guang233.com
 DOMAIN-SUFFIX,guangshiting.top
 DOMAIN-SUFFIX,guangyapan.com
+DOMAIN-SUFFIX,guiguiya.com
 DOMAIN-SUFFIX,guyuns.asia
 DOMAIN-SUFFIX,gvgoo.com
 DOMAIN-SUFFIX,gwmapp-w.com
@@ -515,6 +520,7 @@ DOMAIN-SUFFIX,hszq6.com
 DOMAIN-SUFFIX,htkgsx.com
 DOMAIN-SUFFIX,huabangshou.com
 DOMAIN-SUFFIX,huacheng2025.com
+DOMAIN-SUFFIX,huangguoai.ai
 DOMAIN-SUFFIX,hub.crdz.gq
 DOMAIN-SUFFIX,hub.gitmirror.com
 DOMAIN-SUFFIX,hub.rat.dev
@@ -650,6 +656,7 @@ DOMAIN-SUFFIX,liunn.com
 DOMAIN-SUFFIX,liveperson.net
 DOMAIN-SUFFIX,liyunol.com
 DOMAIN-SUFFIX,ljj233.top
+DOMAIN-SUFFIX,lmm85.com
 DOMAIN-SUFFIX,localhost.ptlogin2.qq.com
 DOMAIN-SUFFIX,localhost.sec.qq.com
 DOMAIN-SUFFIX,lodop.net
@@ -700,6 +707,7 @@ DOMAIN-SUFFIX,minor-api-os.hoyoverse.com
 DOMAIN-SUFFIX,miraiemby.com
 DOMAIN-SUFFIX,mixly.org
 DOMAIN-SUFFIX,mobai.sbs
+DOMAIN-SUFFIX,mochadj.com
 DOMAIN-SUFFIX,moctory.com
 DOMAIN-SUFFIX,modaiyun.com
 DOMAIN-SUFFIX,modelscope.net
@@ -718,6 +726,7 @@ DOMAIN-SUFFIX,myrny.xin
 DOMAIN-SUFFIX,myshopex.com
 DOMAIN-SUFFIX,mystery0.vip
 DOMAIN-SUFFIX,myviewcloud.com
+DOMAIN-SUFFIX,mzbcars.com
 DOMAIN-SUFFIX,naitanghuyu.com
 DOMAIN-SUFFIX,naixi.com
 DOMAIN-SUFFIX,nanhuabx.com
@@ -799,6 +808,7 @@ DOMAIN-SUFFIX,pthqzpc100.com
 DOMAIN-SUFFIX,ptlgs.org
 DOMAIN-SUFFIX,ptxzn.com
 DOMAIN-SUFFIX,pubsub.tech
+DOMAIN-SUFFIX,pupumall.cc
 DOMAIN-SUFFIX,pvz1.com
 DOMAIN-SUFFIX,pwithe.com
 DOMAIN-SUFFIX,pziqna.net
@@ -904,10 +914,12 @@ DOMAIN-SUFFIX,suto.top
 DOMAIN-SUFFIX,suu-fun.com
 DOMAIN-SUFFIX,suyur.com
 DOMAIN-SUFFIX,svyun.com
+DOMAIN-SUFFIX,sxdidc.com
 DOMAIN-SUFFIX,sxjiabeide.com
 DOMAIN-SUFFIX,sxlljm.com
 DOMAIN-SUFFIX,sxstczx.com
 DOMAIN-SUFFIX,sy1.top
+DOMAIN-SUFFIX,sysbbs.com
 DOMAIN-SUFFIX,szfx.top
 DOMAIN-SUFFIX,szmtzd.com
 DOMAIN-SUFFIX,sztopten.com
@@ -919,6 +931,7 @@ DOMAIN-SUFFIX,tajiduo.com
 DOMAIN-SUFFIX,talk-cloud.net
 DOMAIN-SUFFIX,tange365.com
 DOMAIN-SUFFIX,tangguobaohe.com
+DOMAIN-SUFFIX,taosirenli.top
 DOMAIN-SUFFIX,taotoken.net
 DOMAIN-SUFFIX,tastientech.com
 DOMAIN-SUFFIX,tclai.top
@@ -1091,6 +1104,7 @@ DOMAIN-SUFFIX,xzsckj.com
 DOMAIN-SUFFIX,xzzhtc.com
 DOMAIN-SUFFIX,yayi360.com
 DOMAIN-SUFFIX,ycjintou.com
+DOMAIN-SUFFIX,ycoo.net
 DOMAIN-SUFFIX,ycyct.com
 DOMAIN-SUFFIX,ydayc.com
 DOMAIN-SUFFIX,yeguodj.com

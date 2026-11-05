@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1173
+# 规则统计: 1187
 
 no_resolve: true
 domain_set:
@@ -238,6 +238,7 @@ domain_suffix_set:
   - chaz.fun
   - checkip.dyndns.org
   - checkipv6.dyndns.org
+  - chengguodj.com
   - chenyuxia.com
   - cheriexsky.love
   - cheshire.top
@@ -255,6 +256,7 @@ domain_suffix_set:
   - ciyuancenter.cc
   - clivia.fun
   - cloudllll.com
+  - cloudseekr.com
   - cmbc.run
   - cmhk.com
   - cn-music.mefun.vip
@@ -276,6 +278,7 @@ domain_suffix_set:
   - crrcgo.cc
   - crtyhr.com
   - csqaq.com
+  - csrqoa.com
   - cyberpig.tech
   - cydiabc.top
   - cym520.top
@@ -330,6 +333,7 @@ domain_suffix_set:
   - ec766.com
   - eceshi.com
   - ectaiping.com
+  - eezygoapi.com
   - ehdjskx.com
   - einfo-tech.com
   - emby.yun
@@ -455,6 +459,7 @@ domain_suffix_set:
   - guang233.com
   - guangshiting.top
   - guangyapan.com
+  - guiguiya.com
   - guyuns.asia
   - gvgoo.com
   - gwmapp-w.com
@@ -518,6 +523,7 @@ domain_suffix_set:
   - htkgsx.com
   - huabangshou.com
   - huacheng2025.com
+  - huangguoai.ai
   - hub.crdz.gq
   - hub.gitmirror.com
   - hub.rat.dev
@@ -653,6 +659,7 @@ domain_suffix_set:
   - liveperson.net
   - liyunol.com
   - ljj233.top
+  - lmm85.com
   - localhost.ptlogin2.qq.com
   - localhost.sec.qq.com
   - lodop.net
@@ -703,6 +710,7 @@ domain_suffix_set:
   - miraiemby.com
   - mixly.org
   - mobai.sbs
+  - mochadj.com
   - moctory.com
   - modaiyun.com
   - modelscope.net
@@ -721,6 +729,7 @@ domain_suffix_set:
   - myshopex.com
   - mystery0.vip
   - myviewcloud.com
+  - mzbcars.com
   - naitanghuyu.com
   - naixi.com
   - nanhuabx.com
@@ -802,6 +811,7 @@ domain_suffix_set:
   - ptlgs.org
   - ptxzn.com
   - pubsub.tech
+  - pupumall.cc
   - pvz1.com
   - pwithe.com
   - pziqna.net
@@ -907,10 +917,12 @@ domain_suffix_set:
   - suu-fun.com
   - suyur.com
   - svyun.com
+  - sxdidc.com
   - sxjiabeide.com
   - sxlljm.com
   - sxstczx.com
   - sy1.top
+  - sysbbs.com
   - szfx.top
   - szmtzd.com
   - sztopten.com
@@ -922,6 +934,7 @@ domain_suffix_set:
   - talk-cloud.net
   - tange365.com
   - tangguobaohe.com
+  - taosirenli.top
   - taotoken.net
   - tastientech.com
   - tclai.top
@@ -1094,6 +1107,7 @@ domain_suffix_set:
   - xzzhtc.com
   - yayi360.com
   - ycjintou.com
+  - ycoo.net
   - ycyct.com
   - ydayc.com
   - yeguodj.com

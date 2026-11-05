@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1172
+# 规则统计: 1186
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -235,6 +235,7 @@ HOST-SUFFIX,chaxunjiao.com,Direct
 HOST-SUFFIX,chaz.fun,Direct
 HOST-SUFFIX,checkip.dyndns.org,Direct
 HOST-SUFFIX,checkipv6.dyndns.org,Direct
+HOST-SUFFIX,chengguodj.com,Direct
 HOST-SUFFIX,chenyuxia.com,Direct
 HOST-SUFFIX,cheriexsky.love,Direct
 HOST-SUFFIX,cheshire.top,Direct
@@ -252,6 +253,7 @@ HOST-SUFFIX,cindy.app,Direct
 HOST-SUFFIX,ciyuancenter.cc,Direct
 HOST-SUFFIX,clivia.fun,Direct
 HOST-SUFFIX,cloudllll.com,Direct
+HOST-SUFFIX,cloudseekr.com,Direct
 HOST-SUFFIX,cmbc.run,Direct
 HOST-SUFFIX,cmhk.com,Direct
 HOST-SUFFIX,cn-music.mefun.vip,Direct
@@ -273,6 +275,7 @@ HOST-SUFFIX,cqnbmarathon.com,Direct
 HOST-SUFFIX,crrcgo.cc,Direct
 HOST-SUFFIX,crtyhr.com,Direct
 HOST-SUFFIX,csqaq.com,Direct
+HOST-SUFFIX,csrqoa.com,Direct
 HOST-SUFFIX,cyberpig.tech,Direct
 HOST-SUFFIX,cydiabc.top,Direct
 HOST-SUFFIX,cym520.top,Direct
@@ -327,6 +330,7 @@ HOST-SUFFIX,easytomessage.com,Direct
 HOST-SUFFIX,ec766.com,Direct
 HOST-SUFFIX,eceshi.com,Direct
 HOST-SUFFIX,ectaiping.com,Direct
+HOST-SUFFIX,eezygoapi.com,Direct
 HOST-SUFFIX,ehdjskx.com,Direct
 HOST-SUFFIX,einfo-tech.com,Direct
 HOST-SUFFIX,emby.yun,Direct
@@ -452,6 +456,7 @@ HOST-SUFFIX,guaitao.cc,Direct
 HOST-SUFFIX,guang233.com,Direct
 HOST-SUFFIX,guangshiting.top,Direct
 HOST-SUFFIX,guangyapan.com,Direct
+HOST-SUFFIX,guiguiya.com,Direct
 HOST-SUFFIX,guyuns.asia,Direct
 HOST-SUFFIX,gvgoo.com,Direct
 HOST-SUFFIX,gwmapp-w.com,Direct
@@ -515,6 +520,7 @@ HOST-SUFFIX,hszq6.com,Direct
 HOST-SUFFIX,htkgsx.com,Direct
 HOST-SUFFIX,huabangshou.com,Direct
 HOST-SUFFIX,huacheng2025.com,Direct
+HOST-SUFFIX,huangguoai.ai,Direct
 HOST-SUFFIX,hub.crdz.gq,Direct
 HOST-SUFFIX,hub.gitmirror.com,Direct
 HOST-SUFFIX,hub.rat.dev,Direct
@@ -650,6 +656,7 @@ HOST-SUFFIX,liunn.com,Direct
 HOST-SUFFIX,liveperson.net,Direct
 HOST-SUFFIX,liyunol.com,Direct
 HOST-SUFFIX,ljj233.top,Direct
+HOST-SUFFIX,lmm85.com,Direct
 HOST-SUFFIX,localhost.ptlogin2.qq.com,Direct
 HOST-SUFFIX,localhost.sec.qq.com,Direct
 HOST-SUFFIX,lodop.net,Direct
@@ -700,6 +707,7 @@ HOST-SUFFIX,minor-api-os.hoyoverse.com,Direct
 HOST-SUFFIX,miraiemby.com,Direct
 HOST-SUFFIX,mixly.org,Direct
 HOST-SUFFIX,mobai.sbs,Direct
+HOST-SUFFIX,mochadj.com,Direct
 HOST-SUFFIX,moctory.com,Direct
 HOST-SUFFIX,modaiyun.com,Direct
 HOST-SUFFIX,modelscope.net,Direct
@@ -718,6 +726,7 @@ HOST-SUFFIX,myrny.xin,Direct
 HOST-SUFFIX,myshopex.com,Direct
 HOST-SUFFIX,mystery0.vip,Direct
 HOST-SUFFIX,myviewcloud.com,Direct
+HOST-SUFFIX,mzbcars.com,Direct
 HOST-SUFFIX,naitanghuyu.com,Direct
 HOST-SUFFIX,naixi.com,Direct
 HOST-SUFFIX,nanhuabx.com,Direct
@@ -799,6 +808,7 @@ HOST-SUFFIX,pthqzpc100.com,Direct
 HOST-SUFFIX,ptlgs.org,Direct
 HOST-SUFFIX,ptxzn.com,Direct
 HOST-SUFFIX,pubsub.tech,Direct
+HOST-SUFFIX,pupumall.cc,Direct
 HOST-SUFFIX,pvz1.com,Direct
 HOST-SUFFIX,pwithe.com,Direct
 HOST-SUFFIX,pziqna.net,Direct
@@ -904,10 +914,12 @@ HOST-SUFFIX,suto.top,Direct
 HOST-SUFFIX,suu-fun.com,Direct
 HOST-SUFFIX,suyur.com,Direct
 HOST-SUFFIX,svyun.com,Direct
+HOST-SUFFIX,sxdidc.com,Direct
 HOST-SUFFIX,sxjiabeide.com,Direct
 HOST-SUFFIX,sxlljm.com,Direct
 HOST-SUFFIX,sxstczx.com,Direct
 HOST-SUFFIX,sy1.top,Direct
+HOST-SUFFIX,sysbbs.com,Direct
 HOST-SUFFIX,szfx.top,Direct
 HOST-SUFFIX,szmtzd.com,Direct
 HOST-SUFFIX,sztopten.com,Direct
@@ -919,6 +931,7 @@ HOST-SUFFIX,tajiduo.com,Direct
 HOST-SUFFIX,talk-cloud.net,Direct
 HOST-SUFFIX,tange365.com,Direct
 HOST-SUFFIX,tangguobaohe.com,Direct
+HOST-SUFFIX,taosirenli.top,Direct
 HOST-SUFFIX,taotoken.net,Direct
 HOST-SUFFIX,tastientech.com,Direct
 HOST-SUFFIX,tclai.top,Direct
@@ -1091,6 +1104,7 @@ HOST-SUFFIX,xzsckj.com,Direct
 HOST-SUFFIX,xzzhtc.com,Direct
 HOST-SUFFIX,yayi360.com,Direct
 HOST-SUFFIX,ycjintou.com,Direct
+HOST-SUFFIX,ycoo.net,Direct
 HOST-SUFFIX,ycyct.com,Direct
 HOST-SUFFIX,ydayc.com,Direct
 HOST-SUFFIX,yeguodj.com,Direct

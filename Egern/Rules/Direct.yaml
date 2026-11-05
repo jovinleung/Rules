@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1171
+# 规则统计: 1173
 
 no_resolve: true
 domain_set:
@@ -506,6 +506,7 @@ domain_suffix_set:
   - hongxingdl.love
   - hongyanyanbaihuo.online
   - hooos.com
+  - hoyoget.com
   - hpr7e.top
   - hprtupgrade.com
   - hrhgstock.com
@@ -1110,6 +1111,7 @@ domain_suffix_set:
   - ynsj001.com
   - yongyu.xyz
   - yooc.me
+  - youkuimg.icu
   - youqian.pro
   - youzhiyouxing.com
   - yrqvlchq5.com

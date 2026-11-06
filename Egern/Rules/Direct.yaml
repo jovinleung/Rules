@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1214
+# 规则统计: 1219
 
 no_resolve: true
 domain_set:
@@ -99,6 +99,7 @@ domain_suffix_set:
   - 847ds.com
   - 85sc.com
   - 86656.net
+  - 870833.com
   - 888lm02.com
   - 88996api.cloud
   - 8kc.top
@@ -210,6 +211,7 @@ domain_suffix_set:
   - boxim.online
   - boxkj.com
   - boyuemobile.com
+  - bro.pw
   - browserscan.net
   - bs-iot.com
   - bsbsb.top
@@ -415,6 +417,7 @@ domain_suffix_set:
   - geektool.top
   - gegeselect.hk
   - gelaiyun.net
+  - gexuanyi.top
   - ggbond.org
   - gh-proxy.com
   - gh.con.sh
@@ -867,6 +870,7 @@ domain_suffix_set:
   - rewards.bing.com
   - rkgamingstore.com
   - ro1029mango.com
+  - rocrp.net
   - royqh.net
   - rsfcxq.com
   - rsmods.cc
@@ -1036,6 +1040,7 @@ domain_suffix_set:
   - vlan5.com
   - volcanomob.com
   - vpsjyz.com
+  - vryfh.top
   - vtools.online
   - vv1865.com
   - vvhan.com

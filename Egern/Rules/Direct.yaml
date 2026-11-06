@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1187
+# 规则统计: 1212
 
 no_resolve: true
 domain_set:
@@ -64,6 +64,7 @@ domain_suffix_set:
   - 3dwhere.com
   - 3gxk.net
   - 419g.com
+  - 43645202.com
   - 4399zmxy.com
   - 44nc.com
   - 4942.cc
@@ -94,6 +95,7 @@ domain_suffix_set:
   - 77shuku.org
   - 7sef.com
   - 800686.xyz
+  - 80168930.com
   - 847ds.com
   - 85sc.com
   - 86656.net
@@ -110,6 +112,7 @@ domain_suffix_set:
   - 985hezi.com
   - 998tool.com
   - 9999jt.com
+  - a047.com
   - a0d.top
   - aaawz.cc
   - abctougu.com
@@ -152,6 +155,7 @@ domain_suffix_set:
   - ankltoken.com
   - antping.com
   - anvnjmc.com
+  - anwaben.com
   - anycubic.com
   - anythinktech.com
   - anytocopy.com
@@ -211,6 +215,7 @@ domain_suffix_set:
   - btsel5g.cc
   - bunny.net
   - bvmlt.top
+  - bxjddjt.com
   - bxlsj.com
   - byyang.top
   - byyoung.top
@@ -286,6 +291,7 @@ domain_suffix_set:
   - d4ctech.com
   - dadateach.com
   - dahai96.com
+  - danji.xin
   - daocloud.vip
   - darwinchow.com
   - day.app
@@ -393,6 +399,7 @@ domain_suffix_set:
   - fzshouji.com
   - fzvcolco.com
   - fzwqq.com
+  - g7c3wqc.cc
   - gacicv.com
   - gaishitongshu.com
   - game.maj-soul.com
@@ -428,6 +435,7 @@ domain_suffix_set:
   - github.site
   - github.store
   - giveup.top
+  - gjjwgp3n.com
   - gjtool.com
   - gmoj.net
   - gmya.net
@@ -520,6 +528,7 @@ domain_suffix_set:
   - hshh.org
   - hstbroker.com
   - hszq6.com
+  - htfzsdk.com
   - htkgsx.com
   - huabangshou.com
   - huacheng2025.com
@@ -532,6 +541,7 @@ domain_suffix_set:
   - huikao8.com
   - human-horizons.com
   - hutaoyun.top
+  - huya999.com
   - hwbim.com
   - hwjianmo.com
   - hwwlyz.com
@@ -542,6 +552,7 @@ domain_suffix_set:
   - hzssjp.com
   - hzttwl.com
   - hzyi.eu.org
+  - i6z7t5.com
   - i955jr0pk.com
   - ibnjl.shop
   - ibwm5lynb6.com
@@ -603,6 +614,7 @@ domain_suffix_set:
   - julebu.co
   - jxjktzjt.com
   - jxpp.com
+  - jyg4352.cc
   - jzagile.com
   - jzgj.com
   - kaihong.com
@@ -633,6 +645,7 @@ domain_suffix_set:
   - kudashi.com
   - kukongjian.com
   - kuktxu.com
+  - kuleu.com
   - kwai.net
   - lanyun.net
   - laogongju.com
@@ -641,11 +654,13 @@ domain_suffix_set:
   - lcdn-locator.apple.com
   - lcdn-registration.apple.com
   - ldboost.com
+  - ldd678.com
   - leadweigh.com
   - leelen.com
   - letaoedu.com
   - leux.net
   - lezuan6.com
+  - lfdapengu.com
   - lg3000.top
   - lhndksn.com
   - lianguo-tech.com
@@ -681,6 +696,7 @@ domain_suffix_set:
   - maticooads.com
   - maxdo.tech
   - mblyun.com
+  - mbm06.com
   - mc-user.com
   - mcar.vip
   - mchuiji.com
@@ -697,6 +713,7 @@ domain_suffix_set:
   - members.3322.org
   - meoof-pet.com
   - mfdqsc.com
+  - miaona.app
   - miaotixing.com
   - micu.hk
   - micun.com
@@ -715,6 +732,7 @@ domain_suffix_set:
   - modaiyun.com
   - modelscope.net
   - monkeyray.net
+  - montain.top
   - morefuntengyun.com
   - mrtdephoto.net
   - msftconnecttest.com
@@ -722,6 +740,7 @@ domain_suffix_set:
   - mslmc.net
   - mtaokj.com
   - muhemob.com
+  - mulingyuer.com
   - myfenghua.com
   - mykuaidi.com
   - mypikpak.net
@@ -749,6 +768,7 @@ domain_suffix_set:
   - noyer.eu.org
   - nuanxinhm.com
   - nwiztech.com
+  - nxog.fun
   - nxog.top
   - nyxcuy.com
   - oai.sb
@@ -895,6 +915,7 @@ domain_suffix_set:
   - sksight.com
   - skxvc.com
   - skyts.net
+  - smw9t0a.cc
   - snfox.com
   - snltty.com
   - sollin.top
@@ -1035,8 +1056,10 @@ domain_suffix_set:
   - wlcdn88.com
   - wlkac.com
   - wlups.com
+  - wmvbo.com
   - wologic.net
   - wpurl.cc
+  - wshifen.com
   - wt2zxk.com
   - wty-yy.top
   - wuhanjijin.com
@@ -1133,6 +1156,7 @@ domain_suffix_set:
   - yueti.vip
   - yunqin.online
   - yunzuoye.net
+  - yydsys.de
   - yyshub.top
   - yyxdmn.com
   - yzcsoft.com
@@ -1165,6 +1189,7 @@ domain_suffix_set:
   - zqin758.xyz
   - zsytit.com
   - ztytech.com
+  - zudanje.com
   - zuidazym3u8.com
   - zuobiao.press
   - zxp7.cc

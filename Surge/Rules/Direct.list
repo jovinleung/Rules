@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1187
+# 规则统计: 1212
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -61,6 +61,7 @@ DOMAIN-SUFFIX,3d-apollo.com
 DOMAIN-SUFFIX,3dwhere.com
 DOMAIN-SUFFIX,3gxk.net
 DOMAIN-SUFFIX,419g.com
+DOMAIN-SUFFIX,43645202.com
 DOMAIN-SUFFIX,4399zmxy.com
 DOMAIN-SUFFIX,44nc.com
 DOMAIN-SUFFIX,4942.cc
@@ -91,6 +92,7 @@ DOMAIN-SUFFIX,77shuku.info
 DOMAIN-SUFFIX,77shuku.org
 DOMAIN-SUFFIX,7sef.com
 DOMAIN-SUFFIX,800686.xyz
+DOMAIN-SUFFIX,80168930.com
 DOMAIN-SUFFIX,847ds.com
 DOMAIN-SUFFIX,85sc.com
 DOMAIN-SUFFIX,86656.net
@@ -107,6 +109,7 @@ DOMAIN-SUFFIX,97973399.com
 DOMAIN-SUFFIX,985hezi.com
 DOMAIN-SUFFIX,998tool.com
 DOMAIN-SUFFIX,9999jt.com
+DOMAIN-SUFFIX,a047.com
 DOMAIN-SUFFIX,a0d.top
 DOMAIN-SUFFIX,aaawz.cc
 DOMAIN-SUFFIX,abctougu.com
@@ -149,6 +152,7 @@ DOMAIN-SUFFIX,amap-cdn.com
 DOMAIN-SUFFIX,ankltoken.com
 DOMAIN-SUFFIX,antping.com
 DOMAIN-SUFFIX,anvnjmc.com
+DOMAIN-SUFFIX,anwaben.com
 DOMAIN-SUFFIX,anycubic.com
 DOMAIN-SUFFIX,anythinktech.com
 DOMAIN-SUFFIX,anytocopy.com
@@ -208,6 +212,7 @@ DOMAIN-SUFFIX,bsbsb.top
 DOMAIN-SUFFIX,btsel5g.cc
 DOMAIN-SUFFIX,bunny.net
 DOMAIN-SUFFIX,bvmlt.top
+DOMAIN-SUFFIX,bxjddjt.com
 DOMAIN-SUFFIX,bxlsj.com
 DOMAIN-SUFFIX,byyang.top
 DOMAIN-SUFFIX,byyoung.top
@@ -283,6 +288,7 @@ DOMAIN-SUFFIX,cyouzai.com
 DOMAIN-SUFFIX,d4ctech.com
 DOMAIN-SUFFIX,dadateach.com
 DOMAIN-SUFFIX,dahai96.com
+DOMAIN-SUFFIX,danji.xin
 DOMAIN-SUFFIX,daocloud.vip
 DOMAIN-SUFFIX,darwinchow.com
 DOMAIN-SUFFIX,day.app
@@ -390,6 +396,7 @@ DOMAIN-SUFFIX,fzedu.pub
 DOMAIN-SUFFIX,fzshouji.com
 DOMAIN-SUFFIX,fzvcolco.com
 DOMAIN-SUFFIX,fzwqq.com
+DOMAIN-SUFFIX,g7c3wqc.cc
 DOMAIN-SUFFIX,gacicv.com
 DOMAIN-SUFFIX,gaishitongshu.com
 DOMAIN-SUFFIX,game.maj-soul.com
@@ -425,6 +432,7 @@ DOMAIN-SUFFIX,github.moeyy.xyz
 DOMAIN-SUFFIX,github.site
 DOMAIN-SUFFIX,github.store
 DOMAIN-SUFFIX,giveup.top
+DOMAIN-SUFFIX,gjjwgp3n.com
 DOMAIN-SUFFIX,gjtool.com
 DOMAIN-SUFFIX,gmoj.net
 DOMAIN-SUFFIX,gmya.net
@@ -517,6 +525,7 @@ DOMAIN-SUFFIX,hsdxdl.com
 DOMAIN-SUFFIX,hshh.org
 DOMAIN-SUFFIX,hstbroker.com
 DOMAIN-SUFFIX,hszq6.com
+DOMAIN-SUFFIX,htfzsdk.com
 DOMAIN-SUFFIX,htkgsx.com
 DOMAIN-SUFFIX,huabangshou.com
 DOMAIN-SUFFIX,huacheng2025.com
@@ -529,6 +538,7 @@ DOMAIN-SUFFIX,hueihuei.top
 DOMAIN-SUFFIX,huikao8.com
 DOMAIN-SUFFIX,human-horizons.com
 DOMAIN-SUFFIX,hutaoyun.top
+DOMAIN-SUFFIX,huya999.com
 DOMAIN-SUFFIX,hwbim.com
 DOMAIN-SUFFIX,hwjianmo.com
 DOMAIN-SUFFIX,hwwlyz.com
@@ -539,6 +549,7 @@ DOMAIN-SUFFIX,hzqsn.com
 DOMAIN-SUFFIX,hzssjp.com
 DOMAIN-SUFFIX,hzttwl.com
 DOMAIN-SUFFIX,hzyi.eu.org
+DOMAIN-SUFFIX,i6z7t5.com
 DOMAIN-SUFFIX,i955jr0pk.com
 DOMAIN-SUFFIX,ibnjl.shop
 DOMAIN-SUFFIX,ibwm5lynb6.com
@@ -600,6 +611,7 @@ DOMAIN-SUFFIX,juantui.com
 DOMAIN-SUFFIX,julebu.co
 DOMAIN-SUFFIX,jxjktzjt.com
 DOMAIN-SUFFIX,jxpp.com
+DOMAIN-SUFFIX,jyg4352.cc
 DOMAIN-SUFFIX,jzagile.com
 DOMAIN-SUFFIX,jzgj.com
 DOMAIN-SUFFIX,kaihong.com
@@ -630,6 +642,7 @@ DOMAIN-SUFFIX,kuaicha888.com
 DOMAIN-SUFFIX,kudashi.com
 DOMAIN-SUFFIX,kukongjian.com
 DOMAIN-SUFFIX,kuktxu.com
+DOMAIN-SUFFIX,kuleu.com
 DOMAIN-SUFFIX,kwai.net
 DOMAIN-SUFFIX,lanyun.net
 DOMAIN-SUFFIX,laogongju.com
@@ -638,11 +651,13 @@ DOMAIN-SUFFIX,laupqc.com
 DOMAIN-SUFFIX,lcdn-locator.apple.com
 DOMAIN-SUFFIX,lcdn-registration.apple.com
 DOMAIN-SUFFIX,ldboost.com
+DOMAIN-SUFFIX,ldd678.com
 DOMAIN-SUFFIX,leadweigh.com
 DOMAIN-SUFFIX,leelen.com
 DOMAIN-SUFFIX,letaoedu.com
 DOMAIN-SUFFIX,leux.net
 DOMAIN-SUFFIX,lezuan6.com
+DOMAIN-SUFFIX,lfdapengu.com
 DOMAIN-SUFFIX,lg3000.top
 DOMAIN-SUFFIX,lhndksn.com
 DOMAIN-SUFFIX,lianguo-tech.com
@@ -678,6 +693,7 @@ DOMAIN-SUFFIX,manfuz.co
 DOMAIN-SUFFIX,maticooads.com
 DOMAIN-SUFFIX,maxdo.tech
 DOMAIN-SUFFIX,mblyun.com
+DOMAIN-SUFFIX,mbm06.com
 DOMAIN-SUFFIX,mc-user.com
 DOMAIN-SUFFIX,mcar.vip
 DOMAIN-SUFFIX,mchuiji.com
@@ -694,6 +710,7 @@ DOMAIN-SUFFIX,meloong.com
 DOMAIN-SUFFIX,members.3322.org
 DOMAIN-SUFFIX,meoof-pet.com
 DOMAIN-SUFFIX,mfdqsc.com
+DOMAIN-SUFFIX,miaona.app
 DOMAIN-SUFFIX,miaotixing.com
 DOMAIN-SUFFIX,micu.hk
 DOMAIN-SUFFIX,micun.com
@@ -712,6 +729,7 @@ DOMAIN-SUFFIX,moctory.com
 DOMAIN-SUFFIX,modaiyun.com
 DOMAIN-SUFFIX,modelscope.net
 DOMAIN-SUFFIX,monkeyray.net
+DOMAIN-SUFFIX,montain.top
 DOMAIN-SUFFIX,morefuntengyun.com
 DOMAIN-SUFFIX,mrtdephoto.net
 DOMAIN-SUFFIX,msftconnecttest.com
@@ -719,6 +737,7 @@ DOMAIN-SUFFIX,msftncsi.com
 DOMAIN-SUFFIX,mslmc.net
 DOMAIN-SUFFIX,mtaokj.com
 DOMAIN-SUFFIX,muhemob.com
+DOMAIN-SUFFIX,mulingyuer.com
 DOMAIN-SUFFIX,myfenghua.com
 DOMAIN-SUFFIX,mykuaidi.com
 DOMAIN-SUFFIX,mypikpak.net
@@ -746,6 +765,7 @@ DOMAIN-SUFFIX,nodcloud.com
 DOMAIN-SUFFIX,noyer.eu.org
 DOMAIN-SUFFIX,nuanxinhm.com
 DOMAIN-SUFFIX,nwiztech.com
+DOMAIN-SUFFIX,nxog.fun
 DOMAIN-SUFFIX,nxog.top
 DOMAIN-SUFFIX,nyxcuy.com
 DOMAIN-SUFFIX,oai.sb
@@ -892,6 +912,7 @@ DOMAIN-SUFFIX,skktec.com
 DOMAIN-SUFFIX,sksight.com
 DOMAIN-SUFFIX,skxvc.com
 DOMAIN-SUFFIX,skyts.net
+DOMAIN-SUFFIX,smw9t0a.cc
 DOMAIN-SUFFIX,snfox.com
 DOMAIN-SUFFIX,snltty.com
 DOMAIN-SUFFIX,sollin.top
@@ -1032,8 +1053,10 @@ DOMAIN-SUFFIX,wjx.top
 DOMAIN-SUFFIX,wlcdn88.com
 DOMAIN-SUFFIX,wlkac.com
 DOMAIN-SUFFIX,wlups.com
+DOMAIN-SUFFIX,wmvbo.com
 DOMAIN-SUFFIX,wologic.net
 DOMAIN-SUFFIX,wpurl.cc
+DOMAIN-SUFFIX,wshifen.com
 DOMAIN-SUFFIX,wt2zxk.com
 DOMAIN-SUFFIX,wty-yy.top
 DOMAIN-SUFFIX,wuhanjijin.com
@@ -1130,6 +1153,7 @@ DOMAIN-SUFFIX,yshoufa.com
 DOMAIN-SUFFIX,yueti.vip
 DOMAIN-SUFFIX,yunqin.online
 DOMAIN-SUFFIX,yunzuoye.net
+DOMAIN-SUFFIX,yydsys.de
 DOMAIN-SUFFIX,yyshub.top
 DOMAIN-SUFFIX,yyxdmn.com
 DOMAIN-SUFFIX,yzcsoft.com
@@ -1162,6 +1186,7 @@ DOMAIN-SUFFIX,znztv.com
 DOMAIN-SUFFIX,zqin758.xyz
 DOMAIN-SUFFIX,zsytit.com
 DOMAIN-SUFFIX,ztytech.com
+DOMAIN-SUFFIX,zudanje.com
 DOMAIN-SUFFIX,zuidazym3u8.com
 DOMAIN-SUFFIX,zuobiao.press
 DOMAIN-SUFFIX,zxp7.cc

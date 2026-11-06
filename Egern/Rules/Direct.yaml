@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1212
+# 规则统计: 1214
 
 no_resolve: true
 domain_set:
@@ -131,6 +131,7 @@ domain_suffix_set:
   - afuns.me
   - agentkey.app
   - agentscope.io
+  - agi2rjr.cc
   - ahlt10010.com
   - aibeike.com
   - aichangbaishan.com
@@ -389,6 +390,7 @@ domain_suffix_set:
   - ft07.com
   - ftqq.com
   - ftsup.com
+  - fullo.top
   - functorz.com
   - funlinkads.com
   - funmob.top

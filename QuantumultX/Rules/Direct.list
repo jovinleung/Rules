@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1211
+# 规则统计: 1213
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -128,6 +128,7 @@ HOST-SUFFIX,afeica.com,Direct
 HOST-SUFFIX,afuns.me,Direct
 HOST-SUFFIX,agentkey.app,Direct
 HOST-SUFFIX,agentscope.io,Direct
+HOST-SUFFIX,agi2rjr.cc,Direct
 HOST-SUFFIX,ahlt10010.com,Direct
 HOST-SUFFIX,aibeike.com,Direct
 HOST-SUFFIX,aichangbaishan.com,Direct
@@ -386,6 +387,7 @@ HOST-SUFFIX,fsytss.com,Direct
 HOST-SUFFIX,ft07.com,Direct
 HOST-SUFFIX,ftqq.com,Direct
 HOST-SUFFIX,ftsup.com,Direct
+HOST-SUFFIX,fullo.top,Direct
 HOST-SUFFIX,functorz.com,Direct
 HOST-SUFFIX,funlinkads.com,Direct
 HOST-SUFFIX,funmob.top,Direct

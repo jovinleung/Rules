@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1225
+# 规则统计: 1226
 
 no_resolve: true
 domain_set:
@@ -983,6 +983,7 @@ domain_suffix_set:
   - tgpro.top
   - thejoyridegames.com
   - theluyuan.com
+  - theshikilab.com
   - theuwa.com
   - thinkerride.com
   - thispx.com

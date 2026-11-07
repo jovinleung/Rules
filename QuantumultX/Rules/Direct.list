@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1224
+# 规则统计: 1225
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -980,6 +980,7 @@ HOST-SUFFIX,tgpro.net,Direct
 HOST-SUFFIX,tgpro.top,Direct
 HOST-SUFFIX,thejoyridegames.com,Direct
 HOST-SUFFIX,theluyuan.com,Direct
+HOST-SUFFIX,theshikilab.com,Direct
 HOST-SUFFIX,theuwa.com,Direct
 HOST-SUFFIX,thinkerride.com,Direct
 HOST-SUFFIX,thispx.com,Direct

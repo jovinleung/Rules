@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1219
+# 规则统计: 1225
 
 no_resolve: true
 domain_set:
@@ -287,6 +287,7 @@ domain_suffix_set:
   - crtyhr.com
   - csqaq.com
   - csrqoa.com
+  - ctzpj.com
   - cyberpig.tech
   - cydiabc.top
   - cym520.top
@@ -309,6 +310,7 @@ domain_suffix_set:
   - dell.com
   - dfhog.com
   - dg3yy.com
+  - dggdjt.com
   - dhjsnx.com
   - dhub.kubesre.xyz
   - diandaojia.net
@@ -487,6 +489,7 @@ domain_suffix_set:
   - haimaiedu.net
   - halvie.com
   - ham.xin
+  - hanbodianzi.com
   - handfree.work
   - hangnakeji.com
   - hanoking.com
@@ -596,6 +599,7 @@ domain_suffix_set:
   - istoreos.com
   - itptg.com
   - itui.cc
+  - iya365.com
   - jbsy20riz9.com
   - jduoduo.com
   - jfjt.cc
@@ -700,6 +704,7 @@ domain_suffix_set:
   - manfuz.co
   - maticooads.com
   - maxdo.tech
+  - mb518.com
   - mblyun.com
   - mbm06.com
   - mc-user.com
@@ -1200,6 +1205,7 @@ domain_suffix_set:
   - zuidazym3u8.com
   - zuobiao.press
   - zxp7.cc
+  - zxstech.com
   - zysou.com
   - zyyct.com
   - zzclass.com

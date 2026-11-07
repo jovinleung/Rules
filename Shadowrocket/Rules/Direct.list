@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1219
+# 规则统计: 1225
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -284,6 +284,7 @@ DOMAIN-SUFFIX,crrcgo.cc
 DOMAIN-SUFFIX,crtyhr.com
 DOMAIN-SUFFIX,csqaq.com
 DOMAIN-SUFFIX,csrqoa.com
+DOMAIN-SUFFIX,ctzpj.com
 DOMAIN-SUFFIX,cyberpig.tech
 DOMAIN-SUFFIX,cydiabc.top
 DOMAIN-SUFFIX,cym520.top
@@ -306,6 +307,7 @@ DOMAIN-SUFFIX,deepzero.com
 DOMAIN-SUFFIX,dell.com
 DOMAIN-SUFFIX,dfhog.com
 DOMAIN-SUFFIX,dg3yy.com
+DOMAIN-SUFFIX,dggdjt.com
 DOMAIN-SUFFIX,dhjsnx.com
 DOMAIN-SUFFIX,dhub.kubesre.xyz
 DOMAIN-SUFFIX,diandaojia.net
@@ -484,6 +486,7 @@ DOMAIN-SUFFIX,h6009.top
 DOMAIN-SUFFIX,haimaiedu.net
 DOMAIN-SUFFIX,halvie.com
 DOMAIN-SUFFIX,ham.xin
+DOMAIN-SUFFIX,hanbodianzi.com
 DOMAIN-SUFFIX,handfree.work
 DOMAIN-SUFFIX,hangnakeji.com
 DOMAIN-SUFFIX,hanoking.com
@@ -593,6 +596,7 @@ DOMAIN-SUFFIX,iquantumad.com
 DOMAIN-SUFFIX,istoreos.com
 DOMAIN-SUFFIX,itptg.com
 DOMAIN-SUFFIX,itui.cc
+DOMAIN-SUFFIX,iya365.com
 DOMAIN-SUFFIX,jbsy20riz9.com
 DOMAIN-SUFFIX,jduoduo.com
 DOMAIN-SUFFIX,jfjt.cc
@@ -697,6 +701,7 @@ DOMAIN-SUFFIX,machtalk.net
 DOMAIN-SUFFIX,manfuz.co
 DOMAIN-SUFFIX,maticooads.com
 DOMAIN-SUFFIX,maxdo.tech
+DOMAIN-SUFFIX,mb518.com
 DOMAIN-SUFFIX,mblyun.com
 DOMAIN-SUFFIX,mbm06.com
 DOMAIN-SUFFIX,mc-user.com
@@ -1197,6 +1202,7 @@ DOMAIN-SUFFIX,zudanje.com
 DOMAIN-SUFFIX,zuidazym3u8.com
 DOMAIN-SUFFIX,zuobiao.press
 DOMAIN-SUFFIX,zxp7.cc
+DOMAIN-SUFFIX,zxstech.com
 DOMAIN-SUFFIX,zysou.com
 DOMAIN-SUFFIX,zyyct.com
 DOMAIN-SUFFIX,zzclass.com

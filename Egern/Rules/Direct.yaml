@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1239
+# 规则统计: 1247
 
 no_resolve: true
 domain_set:
@@ -219,6 +219,7 @@ domain_suffix_set:
   - browserscan.net
   - bs-iot.com
   - bsbsb.top
+  - btgpy.com
   - btsel5g.cc
   - bunny.net
   - bvmlt.top
@@ -548,6 +549,7 @@ domain_suffix_set:
   - huabangshou.com
   - huacheng2025.com
   - huangguoai.ai
+  - huangyusz.space
   - hub.crdz.gq
   - hub.gitmirror.com
   - hub.rat.dev
@@ -571,6 +573,7 @@ domain_suffix_set:
   - i955jr0pk.com
   - ibnjl.shop
   - ibwm5lynb6.com
+  - ichongjiayuan.com
   - icvcs.com
   - idazhe.net
   - idphotoplus.com
@@ -619,6 +622,7 @@ domain_suffix_set:
   - jieyunwangluokeji.com
   - jiliuwang.net
   - jingheiot.com
+  - jingxi-wl.com
   - jinsan168.com
   - jinzanzan.com
   - jiqw.com
@@ -773,6 +777,7 @@ domain_suffix_set:
   - naitanghuyu.com
   - naixi.com
   - nanhuabx.com
+  - nanjyiyun.com
   - nanshe-tech.com
   - natchecker.com
   - neihang.net
@@ -873,6 +878,7 @@ domain_suffix_set:
   - qmeng.top
   - qmpx.net
   - qpe27.top
+  - qswpt.com
   - quanxinfu.com
   - quanzhua.com
   - quxuanshu.com
@@ -1042,6 +1048,7 @@ domain_suffix_set:
   - ugediao.com
   - ugnas.cloud
   - ulife.group
+  - uploadlog.com
   - us.ci
   - v-koolsh.com
   - vanjee.net
@@ -1164,6 +1171,7 @@ domain_suffix_set:
   - yi-ll.com
   - yibanbianji.com
   - yicaiykt.com
+  - yikeapi.com
   - yingshi.dog
   - yiso.fun
   - yixc.com

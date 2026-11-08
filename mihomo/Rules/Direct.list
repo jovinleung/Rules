@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1239
+# 规则统计: 1247
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -216,6 +216,7 @@ DOMAIN-SUFFIX,bro.pw
 DOMAIN-SUFFIX,browserscan.net
 DOMAIN-SUFFIX,bs-iot.com
 DOMAIN-SUFFIX,bsbsb.top
+DOMAIN-SUFFIX,btgpy.com
 DOMAIN-SUFFIX,btsel5g.cc
 DOMAIN-SUFFIX,bunny.net
 DOMAIN-SUFFIX,bvmlt.top
@@ -545,6 +546,7 @@ DOMAIN-SUFFIX,htkgsx.com
 DOMAIN-SUFFIX,huabangshou.com
 DOMAIN-SUFFIX,huacheng2025.com
 DOMAIN-SUFFIX,huangguoai.ai
+DOMAIN-SUFFIX,huangyusz.space
 DOMAIN-SUFFIX,hub.crdz.gq
 DOMAIN-SUFFIX,hub.gitmirror.com
 DOMAIN-SUFFIX,hub.rat.dev
@@ -568,6 +570,7 @@ DOMAIN-SUFFIX,i6z7t5.com
 DOMAIN-SUFFIX,i955jr0pk.com
 DOMAIN-SUFFIX,ibnjl.shop
 DOMAIN-SUFFIX,ibwm5lynb6.com
+DOMAIN-SUFFIX,ichongjiayuan.com
 DOMAIN-SUFFIX,icvcs.com
 DOMAIN-SUFFIX,idazhe.net
 DOMAIN-SUFFIX,idphotoplus.com
@@ -616,6 +619,7 @@ DOMAIN-SUFFIX,jieyoutsg.com
 DOMAIN-SUFFIX,jieyunwangluokeji.com
 DOMAIN-SUFFIX,jiliuwang.net
 DOMAIN-SUFFIX,jingheiot.com
+DOMAIN-SUFFIX,jingxi-wl.com
 DOMAIN-SUFFIX,jinsan168.com
 DOMAIN-SUFFIX,jinzanzan.com
 DOMAIN-SUFFIX,jiqw.com
@@ -770,6 +774,7 @@ DOMAIN-SUFFIX,mzbcars.com
 DOMAIN-SUFFIX,naitanghuyu.com
 DOMAIN-SUFFIX,naixi.com
 DOMAIN-SUFFIX,nanhuabx.com
+DOMAIN-SUFFIX,nanjyiyun.com
 DOMAIN-SUFFIX,nanshe-tech.com
 DOMAIN-SUFFIX,natchecker.com
 DOMAIN-SUFFIX,neihang.net
@@ -870,6 +875,7 @@ DOMAIN-SUFFIX,qjmotorlink.com
 DOMAIN-SUFFIX,qmeng.top
 DOMAIN-SUFFIX,qmpx.net
 DOMAIN-SUFFIX,qpe27.top
+DOMAIN-SUFFIX,qswpt.com
 DOMAIN-SUFFIX,quanxinfu.com
 DOMAIN-SUFFIX,quanzhua.com
 DOMAIN-SUFFIX,quxuanshu.com
@@ -1039,6 +1045,7 @@ DOMAIN-SUFFIX,ugdocker.link
 DOMAIN-SUFFIX,ugediao.com
 DOMAIN-SUFFIX,ugnas.cloud
 DOMAIN-SUFFIX,ulife.group
+DOMAIN-SUFFIX,uploadlog.com
 DOMAIN-SUFFIX,us.ci
 DOMAIN-SUFFIX,v-koolsh.com
 DOMAIN-SUFFIX,vanjee.net
@@ -1161,6 +1168,7 @@ DOMAIN-SUFFIX,yhxjkj.top
 DOMAIN-SUFFIX,yi-ll.com
 DOMAIN-SUFFIX,yibanbianji.com
 DOMAIN-SUFFIX,yicaiykt.com
+DOMAIN-SUFFIX,yikeapi.com
 DOMAIN-SUFFIX,yingshi.dog
 DOMAIN-SUFFIX,yiso.fun
 DOMAIN-SUFFIX,yixc.com

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1238
+# 规则统计: 1246
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -216,6 +216,7 @@ HOST-SUFFIX,bro.pw,Direct
 HOST-SUFFIX,browserscan.net,Direct
 HOST-SUFFIX,bs-iot.com,Direct
 HOST-SUFFIX,bsbsb.top,Direct
+HOST-SUFFIX,btgpy.com,Direct
 HOST-SUFFIX,btsel5g.cc,Direct
 HOST-SUFFIX,bunny.net,Direct
 HOST-SUFFIX,bvmlt.top,Direct
@@ -545,6 +546,7 @@ HOST-SUFFIX,htkgsx.com,Direct
 HOST-SUFFIX,huabangshou.com,Direct
 HOST-SUFFIX,huacheng2025.com,Direct
 HOST-SUFFIX,huangguoai.ai,Direct
+HOST-SUFFIX,huangyusz.space,Direct
 HOST-SUFFIX,hub.crdz.gq,Direct
 HOST-SUFFIX,hub.gitmirror.com,Direct
 HOST-SUFFIX,hub.rat.dev,Direct
@@ -568,6 +570,7 @@ HOST-SUFFIX,i6z7t5.com,Direct
 HOST-SUFFIX,i955jr0pk.com,Direct
 HOST-SUFFIX,ibnjl.shop,Direct
 HOST-SUFFIX,ibwm5lynb6.com,Direct
+HOST-SUFFIX,ichongjiayuan.com,Direct
 HOST-SUFFIX,icvcs.com,Direct
 HOST-SUFFIX,idazhe.net,Direct
 HOST-SUFFIX,idphotoplus.com,Direct
@@ -616,6 +619,7 @@ HOST-SUFFIX,jieyoutsg.com,Direct
 HOST-SUFFIX,jieyunwangluokeji.com,Direct
 HOST-SUFFIX,jiliuwang.net,Direct
 HOST-SUFFIX,jingheiot.com,Direct
+HOST-SUFFIX,jingxi-wl.com,Direct
 HOST-SUFFIX,jinsan168.com,Direct
 HOST-SUFFIX,jinzanzan.com,Direct
 HOST-SUFFIX,jiqw.com,Direct
@@ -770,6 +774,7 @@ HOST-SUFFIX,mzbcars.com,Direct
 HOST-SUFFIX,naitanghuyu.com,Direct
 HOST-SUFFIX,naixi.com,Direct
 HOST-SUFFIX,nanhuabx.com,Direct
+HOST-SUFFIX,nanjyiyun.com,Direct
 HOST-SUFFIX,nanshe-tech.com,Direct
 HOST-SUFFIX,natchecker.com,Direct
 HOST-SUFFIX,neihang.net,Direct
@@ -870,6 +875,7 @@ HOST-SUFFIX,qjmotorlink.com,Direct
 HOST-SUFFIX,qmeng.top,Direct
 HOST-SUFFIX,qmpx.net,Direct
 HOST-SUFFIX,qpe27.top,Direct
+HOST-SUFFIX,qswpt.com,Direct
 HOST-SUFFIX,quanxinfu.com,Direct
 HOST-SUFFIX,quanzhua.com,Direct
 HOST-SUFFIX,quxuanshu.com,Direct
@@ -1039,6 +1045,7 @@ HOST-SUFFIX,ugdocker.link,Direct
 HOST-SUFFIX,ugediao.com,Direct
 HOST-SUFFIX,ugnas.cloud,Direct
 HOST-SUFFIX,ulife.group,Direct
+HOST-SUFFIX,uploadlog.com,Direct
 HOST-SUFFIX,us.ci,Direct
 HOST-SUFFIX,v-koolsh.com,Direct
 HOST-SUFFIX,vanjee.net,Direct
@@ -1161,6 +1168,7 @@ HOST-SUFFIX,yhxjkj.top,Direct
 HOST-SUFFIX,yi-ll.com,Direct
 HOST-SUFFIX,yibanbianji.com,Direct
 HOST-SUFFIX,yicaiykt.com,Direct
+HOST-SUFFIX,yikeapi.com,Direct
 HOST-SUFFIX,yingshi.dog,Direct
 HOST-SUFFIX,yiso.fun,Direct
 HOST-SUFFIX,yixc.com,Direct

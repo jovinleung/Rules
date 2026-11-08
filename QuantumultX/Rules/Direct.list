@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1225
+# 规则统计: 1238
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -37,6 +37,7 @@ HOST-SUFFIX,028zk01.net,Direct
 HOST-SUFFIX,03241119.xyz,Direct
 HOST-SUFFIX,0734cn.top,Direct
 HOST-SUFFIX,0759mall.com,Direct
+HOST-SUFFIX,08137tabw.com,Direct
 HOST-SUFFIX,10fuzhu.com,Direct
 HOST-SUFFIX,10laodian.com,Direct
 HOST-SUFFIX,112114.eu.org,Direct
@@ -48,6 +49,7 @@ HOST-SUFFIX,12zayb.com,Direct
 HOST-SUFFIX,153532.com,Direct
 HOST-SUFFIX,17van.com,Direct
 HOST-SUFFIX,1996999.xyz,Direct
+HOST-SUFFIX,1o057bolbb.com,Direct
 HOST-SUFFIX,204cloud.com,Direct
 HOST-SUFFIX,225284.xyz,Direct
 HOST-SUFFIX,25mao.com,Direct
@@ -56,6 +58,8 @@ HOST-SUFFIX,2mcnxs.cc,Direct
 HOST-SUFFIX,365ting.com,Direct
 HOST-SUFFIX,365wp.top,Direct
 HOST-SUFFIX,3688baihuo.com,Direct
+HOST-SUFFIX,373979.cc,Direct
+HOST-SUFFIX,37rk0rihje.com,Direct
 HOST-SUFFIX,3ced.top,Direct
 HOST-SUFFIX,3d-apollo.com,Direct
 HOST-SUFFIX,3dwhere.com,Direct
@@ -316,6 +320,7 @@ HOST-SUFFIX,dingstock.net,Direct
 HOST-SUFFIX,dircleaner.com,Direct
 HOST-SUFFIX,divoiotcloud.com,Direct
 HOST-SUFFIX,diyiedu.com,Direct
+HOST-SUFFIX,dldcsj.com,Direct
 HOST-SUFFIX,dnshe.com,Direct
 HOST-SUFFIX,docker.1panel.live,Direct
 HOST-SUFFIX,docker.kejilion.pro,Direct
@@ -341,6 +346,7 @@ HOST-SUFFIX,easytomessage.com,Direct
 HOST-SUFFIX,ec766.com,Direct
 HOST-SUFFIX,eceshi.com,Direct
 HOST-SUFFIX,ectaiping.com,Direct
+HOST-SUFFIX,edyr2ip7zg.com,Direct
 HOST-SUFFIX,eezygoapi.com,Direct
 HOST-SUFFIX,ehdjskx.com,Direct
 HOST-SUFFIX,einfo-tech.com,Direct
@@ -357,6 +363,7 @@ HOST-SUFFIX,excelbbx.net,Direct
 HOST-SUFFIX,exiliumgf.com,Direct
 HOST-SUFFIX,eye4cloud.com,Direct
 HOST-SUFFIX,eyosc.com,Direct
+HOST-SUFFIX,f691ax6.cc,Direct
 HOST-SUFFIX,faka163.com,Direct
 HOST-SUFFIX,fastify.cc,Direct
 HOST-SUFFIX,fb71ef91e1014.beer,Direct
@@ -565,6 +572,7 @@ HOST-SUFFIX,icvcs.com,Direct
 HOST-SUFFIX,idazhe.net,Direct
 HOST-SUFFIX,idphotoplus.com,Direct
 HOST-SUFFIX,idsduf.com,Direct
+HOST-SUFFIX,ifawj9hvvl.com,Direct
 HOST-SUFFIX,ifconfig.co,Direct
 HOST-SUFFIX,ifengmap.com,Direct
 HOST-SUFFIX,ifish7.com,Direct
@@ -623,6 +631,7 @@ HOST-SUFFIX,jxpp.com,Direct
 HOST-SUFFIX,jyg4352.cc,Direct
 HOST-SUFFIX,jzagile.com,Direct
 HOST-SUFFIX,jzgj.com,Direct
+HOST-SUFFIX,jztysg.com,Direct
 HOST-SUFFIX,kaihong.com,Direct
 HOST-SUFFIX,kaijiacloud.com,Direct
 HOST-SUFFIX,kaijiejinrong.com,Direct
@@ -670,6 +679,7 @@ HOST-SUFFIX,lfdapengu.com,Direct
 HOST-SUFFIX,lg3000.top,Direct
 HOST-SUFFIX,lhndksn.com,Direct
 HOST-SUFFIX,lianguo-tech.com,Direct
+HOST-SUFFIX,libtv.com,Direct
 HOST-SUFFIX,lightmake.site,Direct
 HOST-SUFFIX,linka2a.net,Direct
 HOST-SUFFIX,linkcircle.net,Direct
@@ -745,6 +755,7 @@ HOST-SUFFIX,mrtdephoto.net,Direct
 HOST-SUFFIX,msftconnecttest.com,Direct
 HOST-SUFFIX,msftncsi.com,Direct
 HOST-SUFFIX,mslmc.net,Direct
+HOST-SUFFIX,mssdag.com,Direct
 HOST-SUFFIX,mtaokj.com,Direct
 HOST-SUFFIX,muhemob.com,Direct
 HOST-SUFFIX,mulingyuer.com,Direct
@@ -773,6 +784,7 @@ HOST-SUFFIX,nn.ci,Direct
 HOST-SUFFIX,no-mad-sub.one,Direct
 HOST-SUFFIX,nodcloud.com,Direct
 HOST-SUFFIX,noyer.eu.org,Direct
+HOST-SUFFIX,nq6jitu4y.com,Direct
 HOST-SUFFIX,nuanxinhm.com,Direct
 HOST-SUFFIX,nwiztech.com,Direct
 HOST-SUFFIX,nxog.fun,Direct
@@ -941,6 +953,7 @@ HOST-SUFFIX,sufe.me,Direct
 HOST-SUFFIX,sun-panel.top,Direct
 HOST-SUFFIX,sunrisecontent.akamaized.net,Direct
 HOST-SUFFIX,suntl.com,Direct
+HOST-SUFFIX,superpande.com,Direct
 HOST-SUFFIX,susudesu.com,Direct
 HOST-SUFFIX,suto.top,Direct
 HOST-SUFFIX,suu-fun.com,Direct

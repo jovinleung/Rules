@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1247
+# 规则统计: 1251
 
 no_resolve: true
 domain_set:
@@ -246,6 +246,7 @@ domain_suffix_set:
   - cgicop.com
   - changjirb.com
   - changzhi.top
+  - chaoway.net
   - chatlabs.net
   - chaxunjiao.com
   - chaz.fun
@@ -259,6 +260,7 @@ domain_suffix_set:
   - chii.in
   - china-amass.com
   - chinatle.com
+  - chixiatech.com
   - chocolateswap.com
   - chuguansmart.com
   - chujingapp.com
@@ -977,6 +979,7 @@ domain_suffix_set:
   - szfx.top
   - szmtzd.com
   - sztopten.com
+  - szyrtech.com
   - taichuansmart.com
   - tailgdd.com
   - tailscale.com
@@ -1089,6 +1092,7 @@ domain_suffix_set:
   - wlcdn88.com
   - wlkac.com
   - wlups.com
+  - wlygrowth.com
   - wmvbo.com
   - wologic.net
   - wpurl.cc

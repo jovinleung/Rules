@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1246
+# 规则统计: 1250
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -243,6 +243,7 @@ HOST-SUFFIX,cg3da.com,Direct
 HOST-SUFFIX,cgicop.com,Direct
 HOST-SUFFIX,changjirb.com,Direct
 HOST-SUFFIX,changzhi.top,Direct
+HOST-SUFFIX,chaoway.net,Direct
 HOST-SUFFIX,chatlabs.net,Direct
 HOST-SUFFIX,chaxunjiao.com,Direct
 HOST-SUFFIX,chaz.fun,Direct
@@ -256,6 +257,7 @@ HOST-SUFFIX,chessease.net,Direct
 HOST-SUFFIX,chii.in,Direct
 HOST-SUFFIX,china-amass.com,Direct
 HOST-SUFFIX,chinatle.com,Direct
+HOST-SUFFIX,chixiatech.com,Direct
 HOST-SUFFIX,chocolateswap.com,Direct
 HOST-SUFFIX,chuguansmart.com,Direct
 HOST-SUFFIX,chujingapp.com,Direct
@@ -974,6 +976,7 @@ HOST-SUFFIX,sysbbs.com,Direct
 HOST-SUFFIX,szfx.top,Direct
 HOST-SUFFIX,szmtzd.com,Direct
 HOST-SUFFIX,sztopten.com,Direct
+HOST-SUFFIX,szyrtech.com,Direct
 HOST-SUFFIX,taichuansmart.com,Direct
 HOST-SUFFIX,tailgdd.com,Direct
 HOST-SUFFIX,tailscale.com,Direct
@@ -1086,6 +1089,7 @@ HOST-SUFFIX,wjx.top,Direct
 HOST-SUFFIX,wlcdn88.com,Direct
 HOST-SUFFIX,wlkac.com,Direct
 HOST-SUFFIX,wlups.com,Direct
+HOST-SUFFIX,wlygrowth.com,Direct
 HOST-SUFFIX,wmvbo.com,Direct
 HOST-SUFFIX,wologic.net,Direct
 HOST-SUFFIX,wpurl.cc,Direct

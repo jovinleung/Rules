@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1253
+# 规则统计: 1254
 
 no_resolve: true
 domain_set:
@@ -1063,6 +1063,7 @@ domain_suffix_set:
   - vclbroker.com
   - vclbrokers.com
   - vcltrade.com
+  - verdigz.com
   - vgogbuy.com
   - vip-cdn.com
   - vip666ai.com

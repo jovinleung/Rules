@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1253
+# 规则统计: 1254
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -1060,6 +1060,7 @@ DOMAIN-SUFFIX,vbkrhk.com
 DOMAIN-SUFFIX,vclbroker.com
 DOMAIN-SUFFIX,vclbrokers.com
 DOMAIN-SUFFIX,vcltrade.com
+DOMAIN-SUFFIX,verdigz.com
 DOMAIN-SUFFIX,vgogbuy.com
 DOMAIN-SUFFIX,vip-cdn.com
 DOMAIN-SUFFIX,vip666ai.com

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1252
+# 规则统计: 1253
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -1060,6 +1060,7 @@ HOST-SUFFIX,vbkrhk.com,Direct
 HOST-SUFFIX,vclbroker.com,Direct
 HOST-SUFFIX,vclbrokers.com,Direct
 HOST-SUFFIX,vcltrade.com,Direct
+HOST-SUFFIX,verdigz.com,Direct
 HOST-SUFFIX,vgogbuy.com,Direct
 HOST-SUFFIX,vip-cdn.com,Direct
 HOST-SUFFIX,vip666ai.com,Direct

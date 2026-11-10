@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1251
+# 规则统计: 1253
 
 no_resolve: true
 domain_set:
@@ -265,6 +265,7 @@ domain_suffix_set:
   - chuguansmart.com
   - chujingapp.com
   - chushi.cool
+  - chyqaq.online
   - ciallo.party
   - cilizhai.net
   - cindy.app
@@ -688,6 +689,7 @@ domain_suffix_set:
   - lg3000.top
   - lhndksn.com
   - lianguo-tech.com
+  - liangyuji.com
   - libtv.com
   - lightmake.site
   - linka2a.net

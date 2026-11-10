@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1250
+# 规则统计: 1252
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -262,6 +262,7 @@ HOST-SUFFIX,chocolateswap.com,Direct
 HOST-SUFFIX,chuguansmart.com,Direct
 HOST-SUFFIX,chujingapp.com,Direct
 HOST-SUFFIX,chushi.cool,Direct
+HOST-SUFFIX,chyqaq.online,Direct
 HOST-SUFFIX,ciallo.party,Direct
 HOST-SUFFIX,cilizhai.net,Direct
 HOST-SUFFIX,cindy.app,Direct
@@ -685,6 +686,7 @@ HOST-SUFFIX,lfdapengu.com,Direct
 HOST-SUFFIX,lg3000.top,Direct
 HOST-SUFFIX,lhndksn.com,Direct
 HOST-SUFFIX,lianguo-tech.com,Direct
+HOST-SUFFIX,liangyuji.com,Direct
 HOST-SUFFIX,libtv.com,Direct
 HOST-SUFFIX,lightmake.site,Direct
 HOST-SUFFIX,linka2a.net,Direct

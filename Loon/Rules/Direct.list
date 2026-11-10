@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1251
+# 规则统计: 1253
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -262,6 +262,7 @@ DOMAIN-SUFFIX,chocolateswap.com
 DOMAIN-SUFFIX,chuguansmart.com
 DOMAIN-SUFFIX,chujingapp.com
 DOMAIN-SUFFIX,chushi.cool
+DOMAIN-SUFFIX,chyqaq.online
 DOMAIN-SUFFIX,ciallo.party
 DOMAIN-SUFFIX,cilizhai.net
 DOMAIN-SUFFIX,cindy.app
@@ -685,6 +686,7 @@ DOMAIN-SUFFIX,lfdapengu.com
 DOMAIN-SUFFIX,lg3000.top
 DOMAIN-SUFFIX,lhndksn.com
 DOMAIN-SUFFIX,lianguo-tech.com
+DOMAIN-SUFFIX,liangyuji.com
 DOMAIN-SUFFIX,libtv.com
 DOMAIN-SUFFIX,lightmake.site
 DOMAIN-SUFFIX,linka2a.net

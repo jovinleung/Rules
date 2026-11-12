@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1255
+# 规则统计: 1256
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -1046,6 +1046,7 @@ DOMAIN-SUFFIX,type.fun
 DOMAIN-SUFFIX,tztec.top
 DOMAIN-SUFFIX,u-carloan.com
 DOMAIN-SUFFIX,u5nm5uvh1w.com
+DOMAIN-SUFFIX,u7ygkovbl.cc
 DOMAIN-SUFFIX,uascent-iot.com
 DOMAIN-SUFFIX,ugdocker.link
 DOMAIN-SUFFIX,ugediao.com

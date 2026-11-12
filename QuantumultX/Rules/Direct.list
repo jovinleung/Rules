@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1254
+# 规则统计: 1255
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -1046,6 +1046,7 @@ HOST-SUFFIX,type.fun,Direct
 HOST-SUFFIX,tztec.top,Direct
 HOST-SUFFIX,u-carloan.com,Direct
 HOST-SUFFIX,u5nm5uvh1w.com,Direct
+HOST-SUFFIX,u7ygkovbl.cc,Direct
 HOST-SUFFIX,uascent-iot.com,Direct
 HOST-SUFFIX,ugdocker.link,Direct
 HOST-SUFFIX,ugediao.com,Direct

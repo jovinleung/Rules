@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1256
+# 规则统计: 1261
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -720,6 +720,7 @@ DOMAIN-SUFFIX,machtalk.net
 DOMAIN-SUFFIX,manfuz.co
 DOMAIN-SUFFIX,maticooads.com
 DOMAIN-SUFFIX,maxdo.tech
+DOMAIN-SUFFIX,mayihttp.com
 DOMAIN-SUFFIX,mb518.com
 DOMAIN-SUFFIX,mblyun.com
 DOMAIN-SUFFIX,mbm06.com
@@ -895,6 +896,7 @@ DOMAIN-SUFFIX,registry.dockermirror.com
 DOMAIN-SUFFIX,rewards.bing.com
 DOMAIN-SUFFIX,rkgamingstore.com
 DOMAIN-SUFFIX,ro1029mango.com
+DOMAIN-SUFFIX,rockchips.net
 DOMAIN-SUFFIX,rocrp.net
 DOMAIN-SUFFIX,royqh.net
 DOMAIN-SUFFIX,rsfcxq.com
@@ -928,6 +930,7 @@ DOMAIN-SUFFIX,share123.top
 DOMAIN-SUFFIX,shccywlkj.xyz
 DOMAIN-SUFFIX,shenzhendongwei.com
 DOMAIN-SUFFIX,shineacc.com
+DOMAIN-SUFFIX,shirui3.com
 DOMAIN-SUFFIX,shrxnet.com
 DOMAIN-SUFFIX,shsw.top
 DOMAIN-SUFFIX,shuangqingtech.com
@@ -946,6 +949,7 @@ DOMAIN-SUFFIX,skktec.com
 DOMAIN-SUFFIX,sksight.com
 DOMAIN-SUFFIX,skxvc.com
 DOMAIN-SUFFIX,skyts.net
+DOMAIN-SUFFIX,smartryan.com
 DOMAIN-SUFFIX,smw9t0a.cc
 DOMAIN-SUFFIX,snfox.com
 DOMAIN-SUFFIX,snltty.com
@@ -1129,6 +1133,7 @@ DOMAIN-SUFFIX,xiaobeiyangji.com
 DOMAIN-SUFFIX,xiaocaiyuan.com
 DOMAIN-SUFFIX,xiaochuanyun.com
 DOMAIN-SUFFIX,xiaodingfang.com
+DOMAIN-SUFFIX,xiaokuai.com
 DOMAIN-SUFFIX,xiaolikj.online
 DOMAIN-SUFFIX,xiaomaicn.com
 DOMAIN-SUFFIX,xiaoxia.vip

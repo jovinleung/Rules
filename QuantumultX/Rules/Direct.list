@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1255
+# 规则统计: 1260
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -720,6 +720,7 @@ HOST-SUFFIX,machtalk.net,Direct
 HOST-SUFFIX,manfuz.co,Direct
 HOST-SUFFIX,maticooads.com,Direct
 HOST-SUFFIX,maxdo.tech,Direct
+HOST-SUFFIX,mayihttp.com,Direct
 HOST-SUFFIX,mb518.com,Direct
 HOST-SUFFIX,mblyun.com,Direct
 HOST-SUFFIX,mbm06.com,Direct
@@ -895,6 +896,7 @@ HOST-SUFFIX,registry.dockermirror.com,Direct
 HOST-SUFFIX,rewards.bing.com,Direct
 HOST-SUFFIX,rkgamingstore.com,Direct
 HOST-SUFFIX,ro1029mango.com,Direct
+HOST-SUFFIX,rockchips.net,Direct
 HOST-SUFFIX,rocrp.net,Direct
 HOST-SUFFIX,royqh.net,Direct
 HOST-SUFFIX,rsfcxq.com,Direct
@@ -928,6 +930,7 @@ HOST-SUFFIX,share123.top,Direct
 HOST-SUFFIX,shccywlkj.xyz,Direct
 HOST-SUFFIX,shenzhendongwei.com,Direct
 HOST-SUFFIX,shineacc.com,Direct
+HOST-SUFFIX,shirui3.com,Direct
 HOST-SUFFIX,shrxnet.com,Direct
 HOST-SUFFIX,shsw.top,Direct
 HOST-SUFFIX,shuangqingtech.com,Direct
@@ -946,6 +949,7 @@ HOST-SUFFIX,skktec.com,Direct
 HOST-SUFFIX,sksight.com,Direct
 HOST-SUFFIX,skxvc.com,Direct
 HOST-SUFFIX,skyts.net,Direct
+HOST-SUFFIX,smartryan.com,Direct
 HOST-SUFFIX,smw9t0a.cc,Direct
 HOST-SUFFIX,snfox.com,Direct
 HOST-SUFFIX,snltty.com,Direct
@@ -1129,6 +1133,7 @@ HOST-SUFFIX,xiaobeiyangji.com,Direct
 HOST-SUFFIX,xiaocaiyuan.com,Direct
 HOST-SUFFIX,xiaochuanyun.com,Direct
 HOST-SUFFIX,xiaodingfang.com,Direct
+HOST-SUFFIX,xiaokuai.com,Direct
 HOST-SUFFIX,xiaolikj.online,Direct
 HOST-SUFFIX,xiaomaicn.com,Direct
 HOST-SUFFIX,xiaoxia.vip,Direct

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1263
+# 规则统计: 1266
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -618,6 +618,7 @@ DOMAIN-SUFFIX,jfjt.cc
 DOMAIN-SUFFIX,jfyxw.com
 DOMAIN-SUFFIX,jh96095.com
 DOMAIN-SUFFIX,jiangningwater.com
+DOMAIN-SUFFIX,jianzhixiaoke.net
 DOMAIN-SUFFIX,jiaoyanyun.com
 DOMAIN-SUFFIX,jieyoutsg.com
 DOMAIN-SUFFIX,jieyunwangluokeji.com
@@ -954,6 +955,7 @@ DOMAIN-SUFFIX,smartryan.com
 DOMAIN-SUFFIX,smw9t0a.cc
 DOMAIN-SUFFIX,snfox.com
 DOMAIN-SUFFIX,snltty.com
+DOMAIN-SUFFIX,socbro.com
 DOMAIN-SUFFIX,sollin.top
 DOMAIN-SUFFIX,soulteary.com
 DOMAIN-SUFFIX,spisec.com
@@ -1154,6 +1156,7 @@ DOMAIN-SUFFIX,xiuxitong.com
 DOMAIN-SUFFIX,xiwang.com
 DOMAIN-SUFFIX,xixih.cc
 DOMAIN-SUFFIX,xkkapk.com
+DOMAIN-SUFFIX,xmearth.online
 DOMAIN-SUFFIX,xn--4kq62z5rby2qupq9ub.top
 DOMAIN-SUFFIX,xn--cesw6hd3s99f.com
 DOMAIN-SUFFIX,xn--estr6ge7tok1a.com

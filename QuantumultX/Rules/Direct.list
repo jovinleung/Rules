@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1262
+# 规则统计: 1265
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -618,6 +618,7 @@ HOST-SUFFIX,jfjt.cc,Direct
 HOST-SUFFIX,jfyxw.com,Direct
 HOST-SUFFIX,jh96095.com,Direct
 HOST-SUFFIX,jiangningwater.com,Direct
+HOST-SUFFIX,jianzhixiaoke.net,Direct
 HOST-SUFFIX,jiaoyanyun.com,Direct
 HOST-SUFFIX,jieyoutsg.com,Direct
 HOST-SUFFIX,jieyunwangluokeji.com,Direct
@@ -954,6 +955,7 @@ HOST-SUFFIX,smartryan.com,Direct
 HOST-SUFFIX,smw9t0a.cc,Direct
 HOST-SUFFIX,snfox.com,Direct
 HOST-SUFFIX,snltty.com,Direct
+HOST-SUFFIX,socbro.com,Direct
 HOST-SUFFIX,sollin.top,Direct
 HOST-SUFFIX,soulteary.com,Direct
 HOST-SUFFIX,spisec.com,Direct
@@ -1154,6 +1156,7 @@ HOST-SUFFIX,xiuxitong.com,Direct
 HOST-SUFFIX,xiwang.com,Direct
 HOST-SUFFIX,xixih.cc,Direct
 HOST-SUFFIX,xkkapk.com,Direct
+HOST-SUFFIX,xmearth.online,Direct
 HOST-SUFFIX,xn--4kq62z5rby2qupq9ub.top,Direct
 HOST-SUFFIX,xn--cesw6hd3s99f.com,Direct
 HOST-SUFFIX,xn--estr6ge7tok1a.com,Direct

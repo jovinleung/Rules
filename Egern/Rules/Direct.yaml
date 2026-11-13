@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1263
+# 规则统计: 1266
 
 no_resolve: true
 domain_set:
@@ -621,6 +621,7 @@ domain_suffix_set:
   - jfyxw.com
   - jh96095.com
   - jiangningwater.com
+  - jianzhixiaoke.net
   - jiaoyanyun.com
   - jieyoutsg.com
   - jieyunwangluokeji.com
@@ -957,6 +958,7 @@ domain_suffix_set:
   - smw9t0a.cc
   - snfox.com
   - snltty.com
+  - socbro.com
   - sollin.top
   - soulteary.com
   - spisec.com
@@ -1157,6 +1159,7 @@ domain_suffix_set:
   - xiwang.com
   - xixih.cc
   - xkkapk.com
+  - xmearth.online
   - xn--4kq62z5rby2qupq9ub.top
   - xn--cesw6hd3s99f.com
   - xn--estr6ge7tok1a.com

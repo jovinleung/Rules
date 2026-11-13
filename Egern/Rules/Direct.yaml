@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1266
+# 规则统计: 1270
 
 no_resolve: true
 domain_set:
@@ -54,6 +54,7 @@ domain_suffix_set:
   - 17van.com
   - 1996999.xyz
   - 1o057bolbb.com
+  - 1panel.dev
   - 204cloud.com
   - 225284.xyz
   - 25mao.com
@@ -166,6 +167,7 @@ domain_suffix_set:
   - anycubic.com
   - anythinktech.com
   - anytocopy.com
+  - anzz.site
   - aoc.com
   - aocdisplays.com
   - aoxox.com
@@ -176,6 +178,7 @@ domain_suffix_set:
   - aqtwwx.net
   - arena-cn.com
   - argotunnel.com
+  - argslink.com
   - armvm.com
   - asgardion.space
   - astrobox.online
@@ -971,6 +974,7 @@ domain_suffix_set:
   - staticmeow.com
   - stkfanli.com
   - sufe.me
+  - suiwan.com
   - sun-panel.top
   - sunrisecontent.akamaized.net
   - suntl.com

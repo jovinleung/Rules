@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1266
+# 规则统计: 1270
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -51,6 +51,7 @@ DOMAIN-SUFFIX,153532.com
 DOMAIN-SUFFIX,17van.com
 DOMAIN-SUFFIX,1996999.xyz
 DOMAIN-SUFFIX,1o057bolbb.com
+DOMAIN-SUFFIX,1panel.dev
 DOMAIN-SUFFIX,204cloud.com
 DOMAIN-SUFFIX,225284.xyz
 DOMAIN-SUFFIX,25mao.com
@@ -163,6 +164,7 @@ DOMAIN-SUFFIX,anwaben.com
 DOMAIN-SUFFIX,anycubic.com
 DOMAIN-SUFFIX,anythinktech.com
 DOMAIN-SUFFIX,anytocopy.com
+DOMAIN-SUFFIX,anzz.site
 DOMAIN-SUFFIX,aoc.com
 DOMAIN-SUFFIX,aocdisplays.com
 DOMAIN-SUFFIX,aoxox.com
@@ -173,6 +175,7 @@ DOMAIN-SUFFIX,appracle.com
 DOMAIN-SUFFIX,aqtwwx.net
 DOMAIN-SUFFIX,arena-cn.com
 DOMAIN-SUFFIX,argotunnel.com
+DOMAIN-SUFFIX,argslink.com
 DOMAIN-SUFFIX,armvm.com
 DOMAIN-SUFFIX,asgardion.space
 DOMAIN-SUFFIX,astrobox.online
@@ -968,6 +971,7 @@ DOMAIN-SUFFIX,startssl.com
 DOMAIN-SUFFIX,staticmeow.com
 DOMAIN-SUFFIX,stkfanli.com
 DOMAIN-SUFFIX,sufe.me
+DOMAIN-SUFFIX,suiwan.com
 DOMAIN-SUFFIX,sun-panel.top
 DOMAIN-SUFFIX,sunrisecontent.akamaized.net
 DOMAIN-SUFFIX,suntl.com

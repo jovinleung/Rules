@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1261
+# 规则统计: 1263
 
 no_resolve: true
 domain_set:
@@ -926,6 +926,7 @@ domain_suffix_set:
   - server2.cn2gias.uk
   - sgllife.com
   - sgtv.ii00.cc
+  - sh-playmax.com
   - shandian.blog
   - shanghai-parking.com
   - shanghongbei.com
@@ -1213,6 +1214,7 @@ domain_suffix_set:
   - zcloud.world
   - zctnet.top
   - zeekrline.com
+  - zendao8.top
   - zhaiad.com
   - zhangleglobal.com
   - zhewx.com

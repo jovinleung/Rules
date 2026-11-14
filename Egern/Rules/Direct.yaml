@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1278
+# 规则统计: 1284
 
 no_resolve: true
 domain_set:
@@ -93,6 +93,7 @@ domain_suffix_set:
   - 618208.xyz
   - 657192.com
   - 66990000.xyz
+  - 6apzfdx.com
   - 6v520.net
   - 71.am
   - 737698.xyz
@@ -180,6 +181,7 @@ domain_suffix_set:
   - argotunnel.com
   - argslink.com
   - armvm.com
+  - aroychmdcl.cc
   - asgardion.space
   - astrobox.online
   - atticus.vip
@@ -490,6 +492,7 @@ domain_suffix_set:
   - guang233.com
   - guangshiting.top
   - guangyapan.com
+  - guazi.fun
   - guiguiya.com
   - guyuns.asia
   - gvgoo.com
@@ -797,6 +800,7 @@ domain_suffix_set:
   - neihang.net
   - netzz.net
   - nhjdixj.com
+  - nht5dbh.cc
   - nicezhuanye.com
   - njlisi.top
   - njonemall.com
@@ -900,6 +904,7 @@ domain_suffix_set:
   - qweatherapi.com
   - qzy.xyz
   - qzyun.net
+  - r11cc.com
   - ranwen.tw
   - rayws.top
   - redenmc.com
@@ -1201,6 +1206,7 @@ domain_suffix_set:
   - yicaiykt.com
   - yikeapi.com
   - yingshi.dog
+  - yishares.com
   - yiso.fun
   - yixc.com
   - yixlab.com

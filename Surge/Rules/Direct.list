@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1278
+# 规则统计: 1284
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -90,6 +90,7 @@ DOMAIN-SUFFIX,580ai.net
 DOMAIN-SUFFIX,618208.xyz
 DOMAIN-SUFFIX,657192.com
 DOMAIN-SUFFIX,66990000.xyz
+DOMAIN-SUFFIX,6apzfdx.com
 DOMAIN-SUFFIX,6v520.net
 DOMAIN-SUFFIX,71.am
 DOMAIN-SUFFIX,737698.xyz
@@ -177,6 +178,7 @@ DOMAIN-SUFFIX,arena-cn.com
 DOMAIN-SUFFIX,argotunnel.com
 DOMAIN-SUFFIX,argslink.com
 DOMAIN-SUFFIX,armvm.com
+DOMAIN-SUFFIX,aroychmdcl.cc
 DOMAIN-SUFFIX,asgardion.space
 DOMAIN-SUFFIX,astrobox.online
 DOMAIN-SUFFIX,atticus.vip
@@ -487,6 +489,7 @@ DOMAIN-SUFFIX,guaitao.cc
 DOMAIN-SUFFIX,guang233.com
 DOMAIN-SUFFIX,guangshiting.top
 DOMAIN-SUFFIX,guangyapan.com
+DOMAIN-SUFFIX,guazi.fun
 DOMAIN-SUFFIX,guiguiya.com
 DOMAIN-SUFFIX,guyuns.asia
 DOMAIN-SUFFIX,gvgoo.com
@@ -794,6 +797,7 @@ DOMAIN-SUFFIX,natchecker.com
 DOMAIN-SUFFIX,neihang.net
 DOMAIN-SUFFIX,netzz.net
 DOMAIN-SUFFIX,nhjdixj.com
+DOMAIN-SUFFIX,nht5dbh.cc
 DOMAIN-SUFFIX,nicezhuanye.com
 DOMAIN-SUFFIX,njlisi.top
 DOMAIN-SUFFIX,njonemall.com
@@ -897,6 +901,7 @@ DOMAIN-SUFFIX,qweapi.com
 DOMAIN-SUFFIX,qweatherapi.com
 DOMAIN-SUFFIX,qzy.xyz
 DOMAIN-SUFFIX,qzyun.net
+DOMAIN-SUFFIX,r11cc.com
 DOMAIN-SUFFIX,ranwen.tw
 DOMAIN-SUFFIX,rayws.top
 DOMAIN-SUFFIX,redenmc.com
@@ -1198,6 +1203,7 @@ DOMAIN-SUFFIX,yibanbianji.com
 DOMAIN-SUFFIX,yicaiykt.com
 DOMAIN-SUFFIX,yikeapi.com
 DOMAIN-SUFFIX,yingshi.dog
+DOMAIN-SUFFIX,yishares.com
 DOMAIN-SUFFIX,yiso.fun
 DOMAIN-SUFFIX,yixc.com
 DOMAIN-SUFFIX,yixlab.com

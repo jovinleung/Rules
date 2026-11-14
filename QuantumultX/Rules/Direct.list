@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1277
+# 规则统计: 1283
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -90,6 +90,7 @@ HOST-SUFFIX,580ai.net,Direct
 HOST-SUFFIX,618208.xyz,Direct
 HOST-SUFFIX,657192.com,Direct
 HOST-SUFFIX,66990000.xyz,Direct
+HOST-SUFFIX,6apzfdx.com,Direct
 HOST-SUFFIX,6v520.net,Direct
 HOST-SUFFIX,71.am,Direct
 HOST-SUFFIX,737698.xyz,Direct
@@ -177,6 +178,7 @@ HOST-SUFFIX,arena-cn.com,Direct
 HOST-SUFFIX,argotunnel.com,Direct
 HOST-SUFFIX,argslink.com,Direct
 HOST-SUFFIX,armvm.com,Direct
+HOST-SUFFIX,aroychmdcl.cc,Direct
 HOST-SUFFIX,asgardion.space,Direct
 HOST-SUFFIX,astrobox.online,Direct
 HOST-SUFFIX,atticus.vip,Direct
@@ -487,6 +489,7 @@ HOST-SUFFIX,guaitao.cc,Direct
 HOST-SUFFIX,guang233.com,Direct
 HOST-SUFFIX,guangshiting.top,Direct
 HOST-SUFFIX,guangyapan.com,Direct
+HOST-SUFFIX,guazi.fun,Direct
 HOST-SUFFIX,guiguiya.com,Direct
 HOST-SUFFIX,guyuns.asia,Direct
 HOST-SUFFIX,gvgoo.com,Direct
@@ -794,6 +797,7 @@ HOST-SUFFIX,natchecker.com,Direct
 HOST-SUFFIX,neihang.net,Direct
 HOST-SUFFIX,netzz.net,Direct
 HOST-SUFFIX,nhjdixj.com,Direct
+HOST-SUFFIX,nht5dbh.cc,Direct
 HOST-SUFFIX,nicezhuanye.com,Direct
 HOST-SUFFIX,njlisi.top,Direct
 HOST-SUFFIX,njonemall.com,Direct
@@ -897,6 +901,7 @@ HOST-SUFFIX,qweapi.com,Direct
 HOST-SUFFIX,qweatherapi.com,Direct
 HOST-SUFFIX,qzy.xyz,Direct
 HOST-SUFFIX,qzyun.net,Direct
+HOST-SUFFIX,r11cc.com,Direct
 HOST-SUFFIX,ranwen.tw,Direct
 HOST-SUFFIX,rayws.top,Direct
 HOST-SUFFIX,redenmc.com,Direct
@@ -1198,6 +1203,7 @@ HOST-SUFFIX,yibanbianji.com,Direct
 HOST-SUFFIX,yicaiykt.com,Direct
 HOST-SUFFIX,yikeapi.com,Direct
 HOST-SUFFIX,yingshi.dog,Direct
+HOST-SUFFIX,yishares.com,Direct
 HOST-SUFFIX,yiso.fun,Direct
 HOST-SUFFIX,yixc.com,Direct
 HOST-SUFFIX,yixlab.com,Direct

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1277
+# 规则统计: 1278
 
 no_resolve: true
 domain_set:
@@ -1035,6 +1035,7 @@ domain_suffix_set:
   - tianruo.xyz
   - timbrd.com
   - tixue.net
+  - tjnhscgs.com
   - tlkg.com
   - tluyou.com
   - tmallyc.com

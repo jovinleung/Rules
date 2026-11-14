@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1276
+# 规则统计: 1277
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -1032,6 +1032,7 @@ HOST-SUFFIX,tianlala.com,Direct
 HOST-SUFFIX,tianruo.xyz,Direct
 HOST-SUFFIX,timbrd.com,Direct
 HOST-SUFFIX,tixue.net,Direct
+HOST-SUFFIX,tjnhscgs.com,Direct
 HOST-SUFFIX,tlkg.com,Direct
 HOST-SUFFIX,tluyou.com,Direct
 HOST-SUFFIX,tmallyc.com,Direct

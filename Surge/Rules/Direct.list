@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1277
+# 规则统计: 1278
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -1032,6 +1032,7 @@ DOMAIN-SUFFIX,tianlala.com
 DOMAIN-SUFFIX,tianruo.xyz
 DOMAIN-SUFFIX,timbrd.com
 DOMAIN-SUFFIX,tixue.net
+DOMAIN-SUFFIX,tjnhscgs.com
 DOMAIN-SUFFIX,tlkg.com
 DOMAIN-SUFFIX,tluyou.com
 DOMAIN-SUFFIX,tmallyc.com

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1269
+# 规则统计: 1276
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -201,6 +201,7 @@ HOST-SUFFIX,beautifulcarrot.com,Direct
 HOST-SUFFIX,belimked.com,Direct
 HOST-SUFFIX,belongme.top,Direct
 HOST-SUFFIX,betahub.tech,Direct
+HOST-SUFFIX,betaints.com,Direct
 HOST-SUFFIX,bhduhs.com,Direct
 HOST-SUFFIX,biandangroup.com,Direct
 HOST-SUFFIX,biaoda.me,Direct
@@ -524,6 +525,7 @@ HOST-SUFFIX,hezuvip.com,Direct
 HOST-SUFFIX,hf-mirror.com,Direct
 HOST-SUFFIX,hfhs8x.info,Direct
 HOST-SUFFIX,hhtvc.com,Direct
+HOST-SUFFIX,hi3d.ai,Direct
 HOST-SUFFIX,higgsweb.com,Direct
 HOST-SUFFIX,hijin.vip,Direct
 HOST-SUFFIX,hiocloud.com,Direct
@@ -586,6 +588,7 @@ HOST-SUFFIX,ifawj9hvvl.com,Direct
 HOST-SUFFIX,ifconfig.co,Direct
 HOST-SUFFIX,ifengmap.com,Direct
 HOST-SUFFIX,ifish7.com,Direct
+HOST-SUFFIX,iflytck.com,Direct
 HOST-SUFFIX,igpsport.com,Direct
 HOST-SUFFIX,ijdhend.com,Direct
 HOST-SUFFIX,ijingyi.com,Direct
@@ -699,6 +702,7 @@ HOST-SUFFIX,linkcircle.net,Direct
 HOST-SUFFIX,linkease.net,Direct
 HOST-SUFFIX,linux.sb,Direct
 HOST-SUFFIX,listenai.com,Direct
+HOST-SUFFIX,litemob.vip,Direct
 HOST-SUFFIX,liunn.com,Direct
 HOST-SUFFIX,liveperson.net,Direct
 HOST-SUFFIX,liyunol.com,Direct
@@ -897,6 +901,7 @@ HOST-SUFFIX,ranwen.tw,Direct
 HOST-SUFFIX,rayws.top,Direct
 HOST-SUFFIX,redenmc.com,Direct
 HOST-SUFFIX,registry.dockermirror.com,Direct
+HOST-SUFFIX,remo.video,Direct
 HOST-SUFFIX,rewards.bing.com,Direct
 HOST-SUFFIX,rkgamingstore.com,Direct
 HOST-SUFFIX,ro1029mango.com,Direct
@@ -1215,6 +1220,7 @@ HOST-SUFFIX,yyxdmn.com,Direct
 HOST-SUFFIX,yzcsoft.com,Direct
 HOST-SUFFIX,z-tek.com,Direct
 HOST-SUFFIX,z6e.com,Direct
+HOST-SUFFIX,zaohaowu.net,Direct
 HOST-SUFFIX,zcloud.world,Direct
 HOST-SUFFIX,zctnet.top,Direct
 HOST-SUFFIX,zeekrline.com,Direct
@@ -1249,6 +1255,7 @@ HOST-SUFFIX,zuobiao.press,Direct
 HOST-SUFFIX,zxp7.cc,Direct
 HOST-SUFFIX,zxstech.com,Direct
 HOST-SUFFIX,zysou.com,Direct
+HOST-SUFFIX,zyxwvutsrqpo.com,Direct
 HOST-SUFFIX,zyyct.com,Direct
 HOST-SUFFIX,zzclass.com,Direct
 HOST-SUFFIX,zzqrgs3148.vip,Direct

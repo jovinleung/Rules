@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1270
+# 规则统计: 1277
 
 no_resolve: true
 domain_set:
@@ -204,6 +204,7 @@ domain_suffix_set:
   - belimked.com
   - belongme.top
   - betahub.tech
+  - betaints.com
   - bhduhs.com
   - biandangroup.com
   - biaoda.me
@@ -527,6 +528,7 @@ domain_suffix_set:
   - hf-mirror.com
   - hfhs8x.info
   - hhtvc.com
+  - hi3d.ai
   - higgsweb.com
   - hijin.vip
   - hiocloud.com
@@ -589,6 +591,7 @@ domain_suffix_set:
   - ifconfig.co
   - ifengmap.com
   - ifish7.com
+  - iflytck.com
   - igpsport.com
   - ijdhend.com
   - ijingyi.com
@@ -702,6 +705,7 @@ domain_suffix_set:
   - linkease.net
   - linux.sb
   - listenai.com
+  - litemob.vip
   - liunn.com
   - liveperson.net
   - liyunol.com
@@ -900,6 +904,7 @@ domain_suffix_set:
   - rayws.top
   - redenmc.com
   - registry.dockermirror.com
+  - remo.video
   - rewards.bing.com
   - rkgamingstore.com
   - ro1029mango.com
@@ -1218,6 +1223,7 @@ domain_suffix_set:
   - yzcsoft.com
   - z-tek.com
   - z6e.com
+  - zaohaowu.net
   - zcloud.world
   - zctnet.top
   - zeekrline.com
@@ -1252,6 +1258,7 @@ domain_suffix_set:
   - zxp7.cc
   - zxstech.com
   - zysou.com
+  - zyxwvutsrqpo.com
   - zyyct.com
   - zzclass.com
   - zzqrgs3148.vip

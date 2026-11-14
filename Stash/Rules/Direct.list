@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1270
+# 规则统计: 1277
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -201,6 +201,7 @@ DOMAIN-SUFFIX,beautifulcarrot.com
 DOMAIN-SUFFIX,belimked.com
 DOMAIN-SUFFIX,belongme.top
 DOMAIN-SUFFIX,betahub.tech
+DOMAIN-SUFFIX,betaints.com
 DOMAIN-SUFFIX,bhduhs.com
 DOMAIN-SUFFIX,biandangroup.com
 DOMAIN-SUFFIX,biaoda.me
@@ -524,6 +525,7 @@ DOMAIN-SUFFIX,hezuvip.com
 DOMAIN-SUFFIX,hf-mirror.com
 DOMAIN-SUFFIX,hfhs8x.info
 DOMAIN-SUFFIX,hhtvc.com
+DOMAIN-SUFFIX,hi3d.ai
 DOMAIN-SUFFIX,higgsweb.com
 DOMAIN-SUFFIX,hijin.vip
 DOMAIN-SUFFIX,hiocloud.com
@@ -586,6 +588,7 @@ DOMAIN-SUFFIX,ifawj9hvvl.com
 DOMAIN-SUFFIX,ifconfig.co
 DOMAIN-SUFFIX,ifengmap.com
 DOMAIN-SUFFIX,ifish7.com
+DOMAIN-SUFFIX,iflytck.com
 DOMAIN-SUFFIX,igpsport.com
 DOMAIN-SUFFIX,ijdhend.com
 DOMAIN-SUFFIX,ijingyi.com
@@ -699,6 +702,7 @@ DOMAIN-SUFFIX,linkcircle.net
 DOMAIN-SUFFIX,linkease.net
 DOMAIN-SUFFIX,linux.sb
 DOMAIN-SUFFIX,listenai.com
+DOMAIN-SUFFIX,litemob.vip
 DOMAIN-SUFFIX,liunn.com
 DOMAIN-SUFFIX,liveperson.net
 DOMAIN-SUFFIX,liyunol.com
@@ -897,6 +901,7 @@ DOMAIN-SUFFIX,ranwen.tw
 DOMAIN-SUFFIX,rayws.top
 DOMAIN-SUFFIX,redenmc.com
 DOMAIN-SUFFIX,registry.dockermirror.com
+DOMAIN-SUFFIX,remo.video
 DOMAIN-SUFFIX,rewards.bing.com
 DOMAIN-SUFFIX,rkgamingstore.com
 DOMAIN-SUFFIX,ro1029mango.com
@@ -1215,6 +1220,7 @@ DOMAIN-SUFFIX,yyxdmn.com
 DOMAIN-SUFFIX,yzcsoft.com
 DOMAIN-SUFFIX,z-tek.com
 DOMAIN-SUFFIX,z6e.com
+DOMAIN-SUFFIX,zaohaowu.net
 DOMAIN-SUFFIX,zcloud.world
 DOMAIN-SUFFIX,zctnet.top
 DOMAIN-SUFFIX,zeekrline.com
@@ -1249,6 +1255,7 @@ DOMAIN-SUFFIX,zuobiao.press
 DOMAIN-SUFFIX,zxp7.cc
 DOMAIN-SUFFIX,zxstech.com
 DOMAIN-SUFFIX,zysou.com
+DOMAIN-SUFFIX,zyxwvutsrqpo.com
 DOMAIN-SUFFIX,zyyct.com
 DOMAIN-SUFFIX,zzclass.com
 DOMAIN-SUFFIX,zzqrgs3148.vip

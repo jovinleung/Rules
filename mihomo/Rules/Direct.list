@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1284
+# 规则统计: 1286
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -585,6 +585,7 @@ DOMAIN-SUFFIX,ibwm5lynb6.com
 DOMAIN-SUFFIX,ichongjiayuan.com
 DOMAIN-SUFFIX,icvcs.com
 DOMAIN-SUFFIX,idazhe.net
+DOMAIN-SUFFIX,idc.cash
 DOMAIN-SUFFIX,idphotoplus.com
 DOMAIN-SUFFIX,idsduf.com
 DOMAIN-SUFFIX,ifawj9hvvl.com
@@ -786,6 +787,7 @@ DOMAIN-SUFFIX,mypikpak.net
 DOMAIN-SUFFIX,myrny.xin
 DOMAIN-SUFFIX,myshopex.com
 DOMAIN-SUFFIX,mystery0.vip
+DOMAIN-SUFFIX,mytentv.com
 DOMAIN-SUFFIX,myviewcloud.com
 DOMAIN-SUFFIX,mzbcars.com
 DOMAIN-SUFFIX,naitanghuyu.com

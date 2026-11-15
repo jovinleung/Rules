@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1284
+# 规则统计: 1286
 
 no_resolve: true
 domain_set:
@@ -588,6 +588,7 @@ domain_suffix_set:
   - ichongjiayuan.com
   - icvcs.com
   - idazhe.net
+  - idc.cash
   - idphotoplus.com
   - idsduf.com
   - ifawj9hvvl.com
@@ -789,6 +790,7 @@ domain_suffix_set:
   - myrny.xin
   - myshopex.com
   - mystery0.vip
+  - mytentv.com
   - myviewcloud.com
   - mzbcars.com
   - naitanghuyu.com

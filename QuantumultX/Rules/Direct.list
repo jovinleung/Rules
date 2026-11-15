@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1283
+# 规则统计: 1285
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -585,6 +585,7 @@ HOST-SUFFIX,ibwm5lynb6.com,Direct
 HOST-SUFFIX,ichongjiayuan.com,Direct
 HOST-SUFFIX,icvcs.com,Direct
 HOST-SUFFIX,idazhe.net,Direct
+HOST-SUFFIX,idc.cash,Direct
 HOST-SUFFIX,idphotoplus.com,Direct
 HOST-SUFFIX,idsduf.com,Direct
 HOST-SUFFIX,ifawj9hvvl.com,Direct
@@ -786,6 +787,7 @@ HOST-SUFFIX,mypikpak.net,Direct
 HOST-SUFFIX,myrny.xin,Direct
 HOST-SUFFIX,myshopex.com,Direct
 HOST-SUFFIX,mystery0.vip,Direct
+HOST-SUFFIX,mytentv.com,Direct
 HOST-SUFFIX,myviewcloud.com,Direct
 HOST-SUFFIX,mzbcars.com,Direct
 HOST-SUFFIX,naitanghuyu.com,Direct

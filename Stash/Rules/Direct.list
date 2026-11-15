@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1286
+# 规则统计: 1288
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -125,6 +125,7 @@ DOMAIN-SUFFIX,acepanel.net
 DOMAIN-SUFFIX,acgdraw.com
 DOMAIN-SUFFIX,acggit.com
 DOMAIN-SUFFIX,adbnjg.com
+DOMAIN-SUFFIX,adgo.top
 DOMAIN-SUFFIX,adhuanxiao.com
 DOMAIN-SUFFIX,admobile.top
 DOMAIN-SUFFIX,admpv.com
@@ -995,6 +996,7 @@ DOMAIN-SUFFIX,suyur.com
 DOMAIN-SUFFIX,svyun.com
 DOMAIN-SUFFIX,sxdidc.com
 DOMAIN-SUFFIX,sxjiabeide.com
+DOMAIN-SUFFIX,sxjkj22.top
 DOMAIN-SUFFIX,sxlljm.com
 DOMAIN-SUFFIX,sxstczx.com
 DOMAIN-SUFFIX,sy1.top

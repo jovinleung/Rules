@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1285
+# 规则统计: 1287
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -125,6 +125,7 @@ HOST-SUFFIX,acepanel.net,Direct
 HOST-SUFFIX,acgdraw.com,Direct
 HOST-SUFFIX,acggit.com,Direct
 HOST-SUFFIX,adbnjg.com,Direct
+HOST-SUFFIX,adgo.top,Direct
 HOST-SUFFIX,adhuanxiao.com,Direct
 HOST-SUFFIX,admobile.top,Direct
 HOST-SUFFIX,admpv.com,Direct
@@ -995,6 +996,7 @@ HOST-SUFFIX,suyur.com,Direct
 HOST-SUFFIX,svyun.com,Direct
 HOST-SUFFIX,sxdidc.com,Direct
 HOST-SUFFIX,sxjiabeide.com,Direct
+HOST-SUFFIX,sxjkj22.top,Direct
 HOST-SUFFIX,sxlljm.com,Direct
 HOST-SUFFIX,sxstczx.com,Direct
 HOST-SUFFIX,sy1.top,Direct

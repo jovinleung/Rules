@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1288
+# 规则统计: 1290
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -724,6 +724,7 @@ DOMAIN-SUFFIX,lty02.com
 DOMAIN-SUFFIX,lucky.gd
 DOMAIN-SUFFIX,luxiangwu.com
 DOMAIN-SUFFIX,lw5.co
+DOMAIN-SUFFIX,lx51ib3szv.cc
 DOMAIN-SUFFIX,lyihub.com
 DOMAIN-SUFFIX,lyilife.com
 DOMAIN-SUFFIX,lzgame.top
@@ -752,6 +753,7 @@ DOMAIN-SUFFIX,melecode.com
 DOMAIN-SUFFIX,meloong.com
 DOMAIN-SUFFIX,members.3322.org
 DOMAIN-SUFFIX,meoof-pet.com
+DOMAIN-SUFFIX,metrix.bar
 DOMAIN-SUFFIX,mfdqsc.com
 DOMAIN-SUFFIX,miaona.app
 DOMAIN-SUFFIX,miaotixing.com

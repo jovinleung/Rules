@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1287
+# 规则统计: 1289
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -724,6 +724,7 @@ HOST-SUFFIX,lty02.com,Direct
 HOST-SUFFIX,lucky.gd,Direct
 HOST-SUFFIX,luxiangwu.com,Direct
 HOST-SUFFIX,lw5.co,Direct
+HOST-SUFFIX,lx51ib3szv.cc,Direct
 HOST-SUFFIX,lyihub.com,Direct
 HOST-SUFFIX,lyilife.com,Direct
 HOST-SUFFIX,lzgame.top,Direct
@@ -752,6 +753,7 @@ HOST-SUFFIX,melecode.com,Direct
 HOST-SUFFIX,meloong.com,Direct
 HOST-SUFFIX,members.3322.org,Direct
 HOST-SUFFIX,meoof-pet.com,Direct
+HOST-SUFFIX,metrix.bar,Direct
 HOST-SUFFIX,mfdqsc.com,Direct
 HOST-SUFFIX,miaona.app,Direct
 HOST-SUFFIX,miaotixing.com,Direct

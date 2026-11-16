@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1289
+# 规则统计: 1291
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -20,9 +20,9 @@ HOST,clientservices.googleapis.com,Direct
 HOST,dl.google.com,Direct
 HOST,dl.l.google.com,Direct
 HOST,fairplay.l.qq.com,Direct
-HOST,ifconfig.me,Direct
 HOST,livew.l.qq.com,Direct
 HOST,log.mmstat.com,Direct
+HOST,loopback.nssurge.com,Direct
 HOST,msg.umeng.com,Direct
 HOST,msg.umengcloud.com,Direct
 HOST,mtalk.google.com,Direct
@@ -666,6 +666,7 @@ HOST-SUFFIX,kbser.com,Direct
 HOST-SUFFIX,kcbd.top,Direct
 HOST-SUFFIX,kcttpa.com,Direct
 HOST-SUFFIX,kejiweixun.com,Direct
+HOST-SUFFIX,kelexuexi.com,Direct
 HOST-SUFFIX,keyoo.com,Direct
 HOST-SUFFIX,kgithub.com,Direct
 HOST-SUFFIX,kit327.com,Direct
@@ -731,6 +732,7 @@ HOST-SUFFIX,lzgame.top,Direct
 HOST-SUFFIX,m-team.cc,Direct
 HOST-SUFFIX,m-team.io,Direct
 HOST-SUFFIX,machtalk.net,Direct
+HOST-SUFFIX,manbangcredit.com,Direct
 HOST-SUFFIX,manfuz.co,Direct
 HOST-SUFFIX,maticooads.com,Direct
 HOST-SUFFIX,maxdo.tech,Direct
@@ -948,6 +950,7 @@ HOST-SUFFIX,shanghai-parking.com,Direct
 HOST-SUFFIX,shanghongbei.com,Direct
 HOST-SUFFIX,share123.top,Direct
 HOST-SUFFIX,shccywlkj.xyz,Direct
+HOST-SUFFIX,shemen365.com,Direct
 HOST-SUFFIX,shenzhendongwei.com,Direct
 HOST-SUFFIX,shineacc.com,Direct
 HOST-SUFFIX,shirui3.com,Direct
@@ -1026,7 +1029,6 @@ HOST-SUFFIX,tcy365.net,Direct
 HOST-SUFFIX,tdrgame.top,Direct
 HOST-SUFFIX,terra-master.com,Direct
 HOST-SUFFIX,terrabbs.ink,Direct
-HOST-SUFFIX,test-ipv6.com,Direct
 HOST-SUFFIX,tggfl.com,Direct
 HOST-SUFFIX,tgpro.net,Direct
 HOST-SUFFIX,tgpro.top,Direct

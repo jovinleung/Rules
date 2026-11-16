@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1290
+# 规则统计: 1291
 
 no_resolve: true
 domain_set:
@@ -22,9 +22,9 @@ domain_set:
   - dl.google.com
   - dl.l.google.com
   - fairplay.l.qq.com
-  - ifconfig.me
   - livew.l.qq.com
   - log.mmstat.com
+  - loopback.nssurge.com
   - msg.umeng.com
   - msg.umengcloud.com
   - mtalk.google.com
@@ -669,6 +669,7 @@ domain_suffix_set:
   - kcbd.top
   - kcttpa.com
   - kejiweixun.com
+  - kelexuexi.com
   - keyoo.com
   - kgithub.com
   - kit327.com
@@ -734,6 +735,7 @@ domain_suffix_set:
   - m-team.cc
   - m-team.io
   - machtalk.net
+  - manbangcredit.com
   - manfuz.co
   - maticooads.com
   - maxdo.tech
@@ -951,6 +953,7 @@ domain_suffix_set:
   - shanghongbei.com
   - share123.top
   - shccywlkj.xyz
+  - shemen365.com
   - shenzhendongwei.com
   - shineacc.com
   - shirui3.com
@@ -1029,7 +1032,6 @@ domain_suffix_set:
   - tdrgame.top
   - terra-master.com
   - terrabbs.ink
-  - test-ipv6.com
   - tggfl.com
   - tgpro.net
   - tgpro.top
@@ -1295,5 +1297,3 @@ ip_cidr_set:
   - 47.246.99.0/24
   - 5.5.5.5/32
   - 98.126.27.164/32
-dest_port_set:
-  - 22

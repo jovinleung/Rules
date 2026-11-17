@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1304
+# 规则统计: 1313
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -58,6 +58,7 @@ HOST-SUFFIX,25mao.com,Direct
 HOST-SUFFIX,264788.xyz,Direct
 HOST-SUFFIX,2mcnxs.cc,Direct
 HOST-SUFFIX,33442805.com,Direct
+HOST-SUFFIX,360luxiang.com,Direct
 HOST-SUFFIX,365ting.com,Direct
 HOST-SUFFIX,365wp.top,Direct
 HOST-SUFFIX,3688baihuo.com,Direct
@@ -186,6 +187,7 @@ HOST-SUFFIX,armvm.com,Direct
 HOST-SUFFIX,aroychmdcl.cc,Direct
 HOST-SUFFIX,asgardion.space,Direct
 HOST-SUFFIX,astrobox.online,Direct
+HOST-SUFFIX,ataw.top,Direct
 HOST-SUFFIX,atticus.vip,Direct
 HOST-SUFFIX,awstme.top,Direct
 HOST-SUFFIX,ax1x.com,Direct
@@ -209,6 +211,7 @@ HOST-SUFFIX,belimked.com,Direct
 HOST-SUFFIX,belongme.top,Direct
 HOST-SUFFIX,betahub.tech,Direct
 HOST-SUFFIX,betaints.com,Direct
+HOST-SUFFIX,bfr2.top,Direct
 HOST-SUFFIX,bhduhs.com,Direct
 HOST-SUFFIX,biandangroup.com,Direct
 HOST-SUFFIX,biaoda.me,Direct
@@ -332,6 +335,7 @@ HOST-SUFFIX,dhjsnx.com,Direct
 HOST-SUFFIX,dhub.kubesre.xyz,Direct
 HOST-SUFFIX,diandaojia.net,Direct
 HOST-SUFFIX,dingdingzn.com,Direct
+HOST-SUFFIX,dingdongbao.com,Direct
 HOST-SUFFIX,dingstock.net,Direct
 HOST-SUFFIX,dircleaner.com,Direct
 HOST-SUFFIX,divoiotcloud.com,Direct
@@ -502,6 +506,7 @@ HOST-SUFFIX,gwmapp-w.com,Direct
 HOST-SUFFIX,gxcould.com,Direct
 HOST-SUFFIX,gxnnjidingkeji.top,Direct
 HOST-SUFFIX,gxnnxsqy.top,Direct
+HOST-SUFFIX,gxqmeiwujun.com,Direct
 HOST-SUFFIX,gxrke1715.com,Direct
 HOST-SUFFIX,gzjkoa.com,Direct
 HOST-SUFFIX,gzybao.com,Direct
@@ -779,6 +784,7 @@ HOST-SUFFIX,minor-api-os.hoyoverse.com,Direct
 HOST-SUFFIX,miraiemby.com,Direct
 HOST-SUFFIX,mixly.org,Direct
 HOST-SUFFIX,mobai.sbs,Direct
+HOST-SUFFIX,mobbananagame.com,Direct
 HOST-SUFFIX,mochadj.com,Direct
 HOST-SUFFIX,moctory.com,Direct
 HOST-SUFFIX,modaiyun.com,Direct
@@ -831,6 +837,7 @@ HOST-SUFFIX,nyxcuy.com,Direct
 HOST-SUFFIX,oai.sb,Direct
 HOST-SUFFIX,oath.com,Direct
 HOST-SUFFIX,oceando.cloud,Direct
+HOST-SUFFIX,oemdss.com,Direct
 HOST-SUFFIX,ohdnhxj.com,Direct
 HOST-SUFFIX,ok321.top,Direct
 HOST-SUFFIX,omq.cc,Direct
@@ -1009,6 +1016,7 @@ HOST-SUFFIX,suu-fun.com,Direct
 HOST-SUFFIX,suyur.com,Direct
 HOST-SUFFIX,svyun.com,Direct
 HOST-SUFFIX,sxdidc.com,Direct
+HOST-SUFFIX,sxjd.ink,Direct
 HOST-SUFFIX,sxjiabeide.com,Direct
 HOST-SUFFIX,sxjkj22.top,Direct
 HOST-SUFFIX,sxlljm.com,Direct
@@ -1137,6 +1145,7 @@ HOST-SUFFIX,wlkac.com,Direct
 HOST-SUFFIX,wlups.com,Direct
 HOST-SUFFIX,wlygrowth.com,Direct
 HOST-SUFFIX,wmvbo.com,Direct
+HOST-SUFFIX,woca.fun,Direct
 HOST-SUFFIX,wologic.net,Direct
 HOST-SUFFIX,wpurl.cc,Direct
 HOST-SUFFIX,wshifen.com,Direct

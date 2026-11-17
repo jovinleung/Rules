@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1304
+# 规则统计: 1313
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -58,6 +58,7 @@ DOMAIN-SUFFIX,25mao.com
 DOMAIN-SUFFIX,264788.xyz
 DOMAIN-SUFFIX,2mcnxs.cc
 DOMAIN-SUFFIX,33442805.com
+DOMAIN-SUFFIX,360luxiang.com
 DOMAIN-SUFFIX,365ting.com
 DOMAIN-SUFFIX,365wp.top
 DOMAIN-SUFFIX,3688baihuo.com
@@ -186,6 +187,7 @@ DOMAIN-SUFFIX,armvm.com
 DOMAIN-SUFFIX,aroychmdcl.cc
 DOMAIN-SUFFIX,asgardion.space
 DOMAIN-SUFFIX,astrobox.online
+DOMAIN-SUFFIX,ataw.top
 DOMAIN-SUFFIX,atticus.vip
 DOMAIN-SUFFIX,awstme.top
 DOMAIN-SUFFIX,ax1x.com
@@ -209,6 +211,7 @@ DOMAIN-SUFFIX,belimked.com
 DOMAIN-SUFFIX,belongme.top
 DOMAIN-SUFFIX,betahub.tech
 DOMAIN-SUFFIX,betaints.com
+DOMAIN-SUFFIX,bfr2.top
 DOMAIN-SUFFIX,bhduhs.com
 DOMAIN-SUFFIX,biandangroup.com
 DOMAIN-SUFFIX,biaoda.me
@@ -332,6 +335,7 @@ DOMAIN-SUFFIX,dhjsnx.com
 DOMAIN-SUFFIX,dhub.kubesre.xyz
 DOMAIN-SUFFIX,diandaojia.net
 DOMAIN-SUFFIX,dingdingzn.com
+DOMAIN-SUFFIX,dingdongbao.com
 DOMAIN-SUFFIX,dingstock.net
 DOMAIN-SUFFIX,dircleaner.com
 DOMAIN-SUFFIX,divoiotcloud.com
@@ -502,6 +506,7 @@ DOMAIN-SUFFIX,gwmapp-w.com
 DOMAIN-SUFFIX,gxcould.com
 DOMAIN-SUFFIX,gxnnjidingkeji.top
 DOMAIN-SUFFIX,gxnnxsqy.top
+DOMAIN-SUFFIX,gxqmeiwujun.com
 DOMAIN-SUFFIX,gxrke1715.com
 DOMAIN-SUFFIX,gzjkoa.com
 DOMAIN-SUFFIX,gzybao.com
@@ -779,6 +784,7 @@ DOMAIN-SUFFIX,minor-api-os.hoyoverse.com
 DOMAIN-SUFFIX,miraiemby.com
 DOMAIN-SUFFIX,mixly.org
 DOMAIN-SUFFIX,mobai.sbs
+DOMAIN-SUFFIX,mobbananagame.com
 DOMAIN-SUFFIX,mochadj.com
 DOMAIN-SUFFIX,moctory.com
 DOMAIN-SUFFIX,modaiyun.com
@@ -831,6 +837,7 @@ DOMAIN-SUFFIX,nyxcuy.com
 DOMAIN-SUFFIX,oai.sb
 DOMAIN-SUFFIX,oath.com
 DOMAIN-SUFFIX,oceando.cloud
+DOMAIN-SUFFIX,oemdss.com
 DOMAIN-SUFFIX,ohdnhxj.com
 DOMAIN-SUFFIX,ok321.top
 DOMAIN-SUFFIX,omq.cc
@@ -1009,6 +1016,7 @@ DOMAIN-SUFFIX,suu-fun.com
 DOMAIN-SUFFIX,suyur.com
 DOMAIN-SUFFIX,svyun.com
 DOMAIN-SUFFIX,sxdidc.com
+DOMAIN-SUFFIX,sxjd.ink
 DOMAIN-SUFFIX,sxjiabeide.com
 DOMAIN-SUFFIX,sxjkj22.top
 DOMAIN-SUFFIX,sxlljm.com
@@ -1137,6 +1145,7 @@ DOMAIN-SUFFIX,wlkac.com
 DOMAIN-SUFFIX,wlups.com
 DOMAIN-SUFFIX,wlygrowth.com
 DOMAIN-SUFFIX,wmvbo.com
+DOMAIN-SUFFIX,woca.fun
 DOMAIN-SUFFIX,wologic.net
 DOMAIN-SUFFIX,wpurl.cc
 DOMAIN-SUFFIX,wshifen.com

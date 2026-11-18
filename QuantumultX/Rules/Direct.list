@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1315
+# 规则统计: 1324
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -282,6 +282,7 @@ HOST-SUFFIX,ciallo.party,Direct
 HOST-SUFFIX,cilizhai.net,Direct
 HOST-SUFFIX,cindy.app,Direct
 HOST-SUFFIX,ciyuancenter.cc,Direct
+HOST-SUFFIX,claisly.com,Direct
 HOST-SUFFIX,clivia.fun,Direct
 HOST-SUFFIX,cloudllll.com,Direct
 HOST-SUFFIX,cloudseekr.com,Direct
@@ -781,6 +782,7 @@ HOST-SUFFIX,midoci.top,Direct
 HOST-SUFFIX,mifeng.plus,Direct
 HOST-SUFFIX,mifon.com,Direct
 HOST-SUFFIX,mifosy.com,Direct
+HOST-SUFFIX,mikus.ink,Direct
 HOST-SUFFIX,minekuai.com,Direct
 HOST-SUFFIX,minor-api-os.hoyoverse.com,Direct
 HOST-SUFFIX,miraiemby.com,Direct
@@ -1118,6 +1120,7 @@ HOST-SUFFIX,vgogbuy.com,Direct
 HOST-SUFFIX,vip-cdn.com,Direct
 HOST-SUFFIX,vip666ai.com,Direct
 HOST-SUFFIX,vipjiapu.com,Direct
+HOST-SUFFIX,visaselectrewardhk.com,Direct
 HOST-SUFFIX,visionariopro.com,Direct
 HOST-SUFFIX,vlan5.com,Direct
 HOST-SUFFIX,volcanomob.com,Direct
@@ -1139,7 +1142,9 @@ HOST-SUFFIX,wera.eu.org,Direct
 HOST-SUFFIX,weshape3d.com,Direct
 HOST-SUFFIX,wetolink.com,Direct
 HOST-SUFFIX,wewillpro.com,Direct
+HOST-SUFFIX,wget.la,Direct
 HOST-SUFFIX,wildfirechat.net,Direct
+HOST-SUFFIX,wirefee.site,Direct
 HOST-SUFFIX,wisecleaner.net,Direct
 HOST-SUFFIX,wjx.top,Direct
 HOST-SUFFIX,wlcdn88.com,Direct
@@ -1159,6 +1164,7 @@ HOST-SUFFIX,www.ojrq.net,Direct
 HOST-SUFFIX,wwwh.eu.org,Direct
 HOST-SUFFIX,wwwwqq.com,Direct
 HOST-SUFFIX,wxdw.top,Direct
+HOST-SUFFIX,wyswgb.com,Direct
 HOST-SUFFIX,x-gpu.com,Direct
 HOST-SUFFIX,x86pi.com,Direct
 HOST-SUFFIX,xaippc.com,Direct
@@ -1227,6 +1233,7 @@ HOST-SUFFIX,ycoo.net,Direct
 HOST-SUFFIX,ycyct.com,Direct
 HOST-SUFFIX,ydayc.com,Direct
 HOST-SUFFIX,yeguodj.com,Direct
+HOST-SUFFIX,ygdj17.com,Direct
 HOST-SUFFIX,yhxjkj.top,Direct
 HOST-SUFFIX,yi-ll.com,Direct
 HOST-SUFFIX,yibanbianji.com,Direct
@@ -1238,6 +1245,7 @@ HOST-SUFFIX,yiso.fun,Direct
 HOST-SUFFIX,yixc.com,Direct
 HOST-SUFFIX,yixlab.com,Direct
 HOST-SUFFIX,yldw.net,Direct
+HOST-SUFFIX,ymm56-cdn.com,Direct
 HOST-SUFFIX,ymwfy.com,Direct
 HOST-SUFFIX,ymzec.com,Direct
 HOST-SUFFIX,ynsj001.com,Direct
@@ -1286,6 +1294,7 @@ HOST-SUFFIX,zmis.me,Direct
 HOST-SUFFIX,znnu.com,Direct
 HOST-SUFFIX,znztv.com,Direct
 HOST-SUFFIX,zqin758.xyz,Direct
+HOST-SUFFIX,zsdc.eu.org,Direct
 HOST-SUFFIX,zsytit.com,Direct
 HOST-SUFFIX,ztytech.com,Direct
 HOST-SUFFIX,zudanje.com,Direct

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1324
+# 规则统计: 1325
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -671,6 +671,7 @@ DOMAIN-SUFFIX,kaijiejinrong.com
 DOMAIN-SUFFIX,kaipanhong.com
 DOMAIN-SUFFIX,kamhing.net
 DOMAIN-SUFFIX,kancaibao.com
+DOMAIN-SUFFIX,kanv7k.live
 DOMAIN-SUFFIX,kanxiquan.com
 DOMAIN-SUFFIX,kaspersky-labs.com
 DOMAIN-SUFFIX,kaspersky.com

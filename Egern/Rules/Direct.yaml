@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1324
+# 规则统计: 1325
 
 no_resolve: true
 domain_set:
@@ -674,6 +674,7 @@ domain_suffix_set:
   - kaipanhong.com
   - kamhing.net
   - kancaibao.com
+  - kanv7k.live
   - kanxiquan.com
   - kaspersky-labs.com
   - kaspersky.com

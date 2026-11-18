@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1313
+# 规则统计: 1315
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -628,6 +628,7 @@ DOMAIN-SUFFIX,iposl.com
 DOMAIN-SUFFIX,ipshu.com
 DOMAIN-SUFFIX,iq.com
 DOMAIN-SUFFIX,iquantumad.com
+DOMAIN-SUFFIX,isbestgame.com
 DOMAIN-SUFFIX,istoreos.com
 DOMAIN-SUFFIX,itptg.com
 DOMAIN-SUFFIX,itui.cc
@@ -770,6 +771,7 @@ DOMAIN-SUFFIX,meoof-pet.com
 DOMAIN-SUFFIX,metrix.bar
 DOMAIN-SUFFIX,mfdqsc.com
 DOMAIN-SUFFIX,mfosunhani.com
+DOMAIN-SUFFIX,mfpt8g.com
 DOMAIN-SUFFIX,miaona.app
 DOMAIN-SUFFIX,miaotixing.com
 DOMAIN-SUFFIX,micu.hk

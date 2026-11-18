@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1313
+# 规则统计: 1315
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -628,6 +628,7 @@ HOST-SUFFIX,iposl.com,Direct
 HOST-SUFFIX,ipshu.com,Direct
 HOST-SUFFIX,iq.com,Direct
 HOST-SUFFIX,iquantumad.com,Direct
+HOST-SUFFIX,isbestgame.com,Direct
 HOST-SUFFIX,istoreos.com,Direct
 HOST-SUFFIX,itptg.com,Direct
 HOST-SUFFIX,itui.cc,Direct
@@ -770,6 +771,7 @@ HOST-SUFFIX,meoof-pet.com,Direct
 HOST-SUFFIX,metrix.bar,Direct
 HOST-SUFFIX,mfdqsc.com,Direct
 HOST-SUFFIX,mfosunhani.com,Direct
+HOST-SUFFIX,mfpt8g.com,Direct
 HOST-SUFFIX,miaona.app,Direct
 HOST-SUFFIX,miaotixing.com,Direct
 HOST-SUFFIX,micu.hk,Direct

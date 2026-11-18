@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1313
+# 规则统计: 1315
 
 no_resolve: true
 domain_set:
@@ -631,6 +631,7 @@ domain_suffix_set:
   - ipshu.com
   - iq.com
   - iquantumad.com
+  - isbestgame.com
   - istoreos.com
   - itptg.com
   - itui.cc
@@ -773,6 +774,7 @@ domain_suffix_set:
   - metrix.bar
   - mfdqsc.com
   - mfosunhani.com
+  - mfpt8g.com
   - miaona.app
   - miaotixing.com
   - micu.hk

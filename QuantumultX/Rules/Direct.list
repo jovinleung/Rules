@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1325
+# 规则统计: 1318
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -176,7 +176,6 @@ HOST-SUFFIX,aoc.com,Direct
 HOST-SUFFIX,aocdisplays.com,Direct
 HOST-SUFFIX,aoxox.com,Direct
 HOST-SUFFIX,ap-leasing.com,Direct
-HOST-SUFFIX,api.myip.com,Direct
 HOST-SUFFIX,apm-log-upload-os.hoyoverse.com,Direct
 HOST-SUFFIX,appracle.com,Direct
 HOST-SUFFIX,aqtwwx.net,Direct
@@ -262,8 +261,6 @@ HOST-SUFFIX,chaoway.net,Direct
 HOST-SUFFIX,chatlabs.net,Direct
 HOST-SUFFIX,chaxunjiao.com,Direct
 HOST-SUFFIX,chaz.fun,Direct
-HOST-SUFFIX,checkip.dyndns.org,Direct
-HOST-SUFFIX,checkipv6.dyndns.org,Direct
 HOST-SUFFIX,chengguodj.com,Direct
 HOST-SUFFIX,chenyuxia.com,Direct
 HOST-SUFFIX,cheriexsky.love,Direct
@@ -466,7 +463,6 @@ HOST-SUFFIX,github.boki.moe,Direct
 HOST-SUFFIX,github.moeyy.xyz,Direct
 HOST-SUFFIX,github.site,Direct
 HOST-SUFFIX,github.store,Direct
-HOST-SUFFIX,giveup.top,Direct
 HOST-SUFFIX,gjjwgp3n.com,Direct
 HOST-SUFFIX,gjtool.com,Direct
 HOST-SUFFIX,gmoj.net,Direct
@@ -600,7 +596,6 @@ HOST-SUFFIX,idc.cash,Direct
 HOST-SUFFIX,idphotoplus.com,Direct
 HOST-SUFFIX,idsduf.com,Direct
 HOST-SUFFIX,ifawj9hvvl.com,Direct
-HOST-SUFFIX,ifconfig.co,Direct
 HOST-SUFFIX,ifengmap.com,Direct
 HOST-SUFFIX,ifish7.com,Direct
 HOST-SUFFIX,iflytck.com,Direct
@@ -622,8 +617,6 @@ HOST-SUFFIX,iot889.com,Direct
 HOST-SUFFIX,iotrix.net,Direct
 HOST-SUFFIX,ip.plus,Direct
 HOST-SUFFIX,ip159.com,Direct
-HOST-SUFFIX,ip6.seeip.org,Direct
-HOST-SUFFIX,ipapi.co,Direct
 HOST-SUFFIX,ipjrh.com,Direct
 HOST-SUFFIX,iposl.com,Direct
 HOST-SUFFIX,ipshu.com,Direct
@@ -683,7 +676,6 @@ HOST-SUFFIX,kejiweixun.com,Direct
 HOST-SUFFIX,kelexuexi.com,Direct
 HOST-SUFFIX,keyoo.com,Direct
 HOST-SUFFIX,kgithub.com,Direct
-HOST-SUFFIX,kit327.com,Direct
 HOST-SUFFIX,kiwiot.com,Direct
 HOST-SUFFIX,kke.com.hk,Direct
 HOST-SUFFIX,kkmmy.com,Direct
@@ -1292,6 +1284,7 @@ HOST-SUFFIX,zjxhedu.com,Direct
 HOST-SUFFIX,zllinks.com,Direct
 HOST-SUFFIX,zmaticoo.com,Direct
 HOST-SUFFIX,zmis.me,Direct
+HOST-SUFFIX,znigddzwz.cc,Direct
 HOST-SUFFIX,znnu.com,Direct
 HOST-SUFFIX,znztv.com,Direct
 HOST-SUFFIX,zqin758.xyz,Direct

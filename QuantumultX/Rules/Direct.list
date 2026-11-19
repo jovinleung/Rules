@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1318
+# 规则统计: 1321
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -590,6 +590,7 @@ HOST-SUFFIX,i955jr0pk.com,Direct
 HOST-SUFFIX,ibnjl.shop,Direct
 HOST-SUFFIX,ibwm5lynb6.com,Direct
 HOST-SUFFIX,ichongjiayuan.com,Direct
+HOST-SUFFIX,icitycdn.com,Direct
 HOST-SUFFIX,icvcs.com,Direct
 HOST-SUFFIX,idazhe.net,Direct
 HOST-SUFFIX,idc.cash,Direct
@@ -1127,6 +1128,7 @@ HOST-SUFFIX,wanzd.com,Direct
 HOST-SUFFIX,warmheart.top,Direct
 HOST-SUFFIX,wawo.cc,Direct
 HOST-SUFFIX,we-stats.com,Direct
+HOST-SUFFIX,webportal.top,Direct
 HOST-SUFFIX,webs.vc,Direct
 HOST-SUFFIX,weiguangshanyao.com,Direct
 HOST-SUFFIX,weixinpcs.com,Direct
@@ -1252,6 +1254,7 @@ HOST-SUFFIX,youzhiyouxing.com,Direct
 HOST-SUFFIX,yrqvlchq5.com,Direct
 HOST-SUFFIX,yshoufa.com,Direct
 HOST-SUFFIX,yueti.vip,Direct
+HOST-SUFFIX,yueyouqu.com,Direct
 HOST-SUFFIX,yunqin.online,Direct
 HOST-SUFFIX,yunzuoye.net,Direct
 HOST-SUFFIX,yydsys.de,Direct

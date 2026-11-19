@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1318
+# 规则统计: 1321
 
 no_resolve: true
 domain_set:
@@ -593,6 +593,7 @@ domain_suffix_set:
   - ibnjl.shop
   - ibwm5lynb6.com
   - ichongjiayuan.com
+  - icitycdn.com
   - icvcs.com
   - idazhe.net
   - idc.cash
@@ -1130,6 +1131,7 @@ domain_suffix_set:
   - warmheart.top
   - wawo.cc
   - we-stats.com
+  - webportal.top
   - webs.vc
   - weiguangshanyao.com
   - weixinpcs.com
@@ -1255,6 +1257,7 @@ domain_suffix_set:
   - yrqvlchq5.com
   - yshoufa.com
   - yueti.vip
+  - yueyouqu.com
   - yunqin.online
   - yunzuoye.net
   - yydsys.de

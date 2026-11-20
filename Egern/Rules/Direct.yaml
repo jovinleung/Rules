@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1326
+# 规则统计: 1337
 
 no_resolve: true
 domain_set:
@@ -49,7 +49,9 @@ domain_suffix_set:
   - 115cdn.de
   - 123795.com
   - 123clouddisk.com
+  - 1254225.com
   - 12zayb.com
+  - 1335273.com
   - 153532.com
   - 17van.com
   - 1996999.xyz
@@ -61,10 +63,12 @@ domain_suffix_set:
   - 264788.xyz
   - 2mcnxs.cc
   - 33442805.com
+  - 34619481.com
   - 360luxiang.com
   - 365ting.com
   - 365wp.top
   - 3688baihuo.com
+  - 36dm.club
   - 373979.cc
   - 37rk0rihje.com
   - 3ced.top
@@ -182,6 +186,7 @@ domain_suffix_set:
   - apm-log-upload-os.hoyoverse.com
   - appracle.com
   - aqtwwx.net
+  - arctime.pro
   - arena-cn.com
   - argotunnel.com
   - argslink.com
@@ -253,9 +258,11 @@ domain_suffix_set:
   - cdn.doctor
   - cdn.ist
   - cdn362.cc
+  - cdqyjh.top
   - cdut.top
   - centbrowser.net
   - cftunnel.com
+  - cfysoft.cc
   - cg3da.com
   - cgicop.com
   - changjirb.com
@@ -531,6 +538,7 @@ domain_suffix_set:
   - hclassplatform.com
   - hdbz.net
   - hdcm00.com
+  - heifeichixu.com
   - hexieark.com
   - hexiny.com
   - heysida.com
@@ -549,6 +557,7 @@ domain_suffix_set:
   - hndk1.com
   - hnxzctec.com
   - hnzjyw.com
+  - ho9.cc
   - hoaihe.store
   - hongxingdl.com
   - hongxingdl.love
@@ -943,6 +952,7 @@ domain_suffix_set:
   - rsmods.cc
   - rsmods.me
   - rsmods.net
+  - ruan789.com
   - ruijie.com
   - rxcrs.com
   - saduck.top
@@ -1210,6 +1220,7 @@ domain_suffix_set:
   - xixih.cc
   - xkkapk.com
   - xmearth.online
+  - xmsnh.com
   - xn--4kq62z5rby2qupq9ub.top
   - xn--cesw6hd3s99f.com
   - xn--estr6ge7tok1a.com

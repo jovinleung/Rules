@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1326
+# 规则统计: 1337
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -46,7 +46,9 @@ HOST-SUFFIX,112114.xyz,Direct
 HOST-SUFFIX,115cdn.de,Direct
 HOST-SUFFIX,123795.com,Direct
 HOST-SUFFIX,123clouddisk.com,Direct
+HOST-SUFFIX,1254225.com,Direct
 HOST-SUFFIX,12zayb.com,Direct
+HOST-SUFFIX,1335273.com,Direct
 HOST-SUFFIX,153532.com,Direct
 HOST-SUFFIX,17van.com,Direct
 HOST-SUFFIX,1996999.xyz,Direct
@@ -58,10 +60,12 @@ HOST-SUFFIX,25mao.com,Direct
 HOST-SUFFIX,264788.xyz,Direct
 HOST-SUFFIX,2mcnxs.cc,Direct
 HOST-SUFFIX,33442805.com,Direct
+HOST-SUFFIX,34619481.com,Direct
 HOST-SUFFIX,360luxiang.com,Direct
 HOST-SUFFIX,365ting.com,Direct
 HOST-SUFFIX,365wp.top,Direct
 HOST-SUFFIX,3688baihuo.com,Direct
+HOST-SUFFIX,36dm.club,Direct
 HOST-SUFFIX,373979.cc,Direct
 HOST-SUFFIX,37rk0rihje.com,Direct
 HOST-SUFFIX,3ced.top,Direct
@@ -179,6 +183,7 @@ HOST-SUFFIX,ap-leasing.com,Direct
 HOST-SUFFIX,apm-log-upload-os.hoyoverse.com,Direct
 HOST-SUFFIX,appracle.com,Direct
 HOST-SUFFIX,aqtwwx.net,Direct
+HOST-SUFFIX,arctime.pro,Direct
 HOST-SUFFIX,arena-cn.com,Direct
 HOST-SUFFIX,argotunnel.com,Direct
 HOST-SUFFIX,argslink.com,Direct
@@ -250,9 +255,11 @@ HOST-SUFFIX,ccw.site,Direct
 HOST-SUFFIX,cdn.doctor,Direct
 HOST-SUFFIX,cdn.ist,Direct
 HOST-SUFFIX,cdn362.cc,Direct
+HOST-SUFFIX,cdqyjh.top,Direct
 HOST-SUFFIX,cdut.top,Direct
 HOST-SUFFIX,centbrowser.net,Direct
 HOST-SUFFIX,cftunnel.com,Direct
+HOST-SUFFIX,cfysoft.cc,Direct
 HOST-SUFFIX,cg3da.com,Direct
 HOST-SUFFIX,cgicop.com,Direct
 HOST-SUFFIX,changjirb.com,Direct
@@ -528,6 +535,7 @@ HOST-SUFFIX,hbymfswz.com,Direct
 HOST-SUFFIX,hclassplatform.com,Direct
 HOST-SUFFIX,hdbz.net,Direct
 HOST-SUFFIX,hdcm00.com,Direct
+HOST-SUFFIX,heifeichixu.com,Direct
 HOST-SUFFIX,hexieark.com,Direct
 HOST-SUFFIX,hexiny.com,Direct
 HOST-SUFFIX,heysida.com,Direct
@@ -546,6 +554,7 @@ HOST-SUFFIX,hnchasing.com,Direct
 HOST-SUFFIX,hndk1.com,Direct
 HOST-SUFFIX,hnxzctec.com,Direct
 HOST-SUFFIX,hnzjyw.com,Direct
+HOST-SUFFIX,ho9.cc,Direct
 HOST-SUFFIX,hoaihe.store,Direct
 HOST-SUFFIX,hongxingdl.com,Direct
 HOST-SUFFIX,hongxingdl.love,Direct
@@ -940,6 +949,7 @@ HOST-SUFFIX,rsfcxq.com,Direct
 HOST-SUFFIX,rsmods.cc,Direct
 HOST-SUFFIX,rsmods.me,Direct
 HOST-SUFFIX,rsmods.net,Direct
+HOST-SUFFIX,ruan789.com,Direct
 HOST-SUFFIX,ruijie.com,Direct
 HOST-SUFFIX,rxcrs.com,Direct
 HOST-SUFFIX,saduck.top,Direct
@@ -1207,6 +1217,7 @@ HOST-SUFFIX,xiwang.com,Direct
 HOST-SUFFIX,xixih.cc,Direct
 HOST-SUFFIX,xkkapk.com,Direct
 HOST-SUFFIX,xmearth.online,Direct
+HOST-SUFFIX,xmsnh.com,Direct
 HOST-SUFFIX,xn--4kq62z5rby2qupq9ub.top,Direct
 HOST-SUFFIX,xn--cesw6hd3s99f.com,Direct
 HOST-SUFFIX,xn--estr6ge7tok1a.com,Direct

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1321
+# 规则统计: 1322
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -1253,6 +1253,7 @@ DOMAIN-SUFFIX,youqian.pro
 DOMAIN-SUFFIX,youzhiyouxing.com
 DOMAIN-SUFFIX,yrqvlchq5.com
 DOMAIN-SUFFIX,yshoufa.com
+DOMAIN-SUFFIX,yuanqidesk3.com
 DOMAIN-SUFFIX,yueti.vip
 DOMAIN-SUFFIX,yueyouqu.com
 DOMAIN-SUFFIX,yunqin.online

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1322
+# 规则统计: 1326
 
 no_resolve: true
 domain_set:
@@ -616,6 +616,7 @@ domain_suffix_set:
   - initaq.com
   - inmobicdn.net
   - inte.net
+  - ioapk.com
   - iosgujian.com
   - iot889.com
   - iotrix.net
@@ -662,6 +663,7 @@ domain_suffix_set:
   - jzagile.com
   - jzgj.com
   - jztysg.com
+  - jzywy.com
   - kaihong.com
   - kaijiacloud.com
   - kaijiejinrong.com
@@ -1088,6 +1090,7 @@ domain_suffix_set:
   - tulipsport.com
   - tumukaoyan.com
   - tuxing.art
+  - tvustream.com
   - twinkstar.com
   - twtapp.com
   - tylk.cc
@@ -1200,6 +1203,7 @@ domain_suffix_set:
   - xingpaste.com
   - xingyaozhilian.com
   - xinstall.top
+  - xinyonghome.com
   - xiqueer.com
   - xiuxitong.com
   - xiwang.com

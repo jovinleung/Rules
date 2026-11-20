@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1322
+# 规则统计: 1326
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -613,6 +613,7 @@ DOMAIN-SUFFIX,infistar.cc
 DOMAIN-SUFFIX,initaq.com
 DOMAIN-SUFFIX,inmobicdn.net
 DOMAIN-SUFFIX,inte.net
+DOMAIN-SUFFIX,ioapk.com
 DOMAIN-SUFFIX,iosgujian.com
 DOMAIN-SUFFIX,iot889.com
 DOMAIN-SUFFIX,iotrix.net
@@ -659,6 +660,7 @@ DOMAIN-SUFFIX,jyg4352.cc
 DOMAIN-SUFFIX,jzagile.com
 DOMAIN-SUFFIX,jzgj.com
 DOMAIN-SUFFIX,jztysg.com
+DOMAIN-SUFFIX,jzywy.com
 DOMAIN-SUFFIX,kaihong.com
 DOMAIN-SUFFIX,kaijiacloud.com
 DOMAIN-SUFFIX,kaijiejinrong.com
@@ -1085,6 +1087,7 @@ DOMAIN-SUFFIX,tualatin.club
 DOMAIN-SUFFIX,tulipsport.com
 DOMAIN-SUFFIX,tumukaoyan.com
 DOMAIN-SUFFIX,tuxing.art
+DOMAIN-SUFFIX,tvustream.com
 DOMAIN-SUFFIX,twinkstar.com
 DOMAIN-SUFFIX,twtapp.com
 DOMAIN-SUFFIX,tylk.cc
@@ -1197,6 +1200,7 @@ DOMAIN-SUFFIX,xingmojs.com
 DOMAIN-SUFFIX,xingpaste.com
 DOMAIN-SUFFIX,xingyaozhilian.com
 DOMAIN-SUFFIX,xinstall.top
+DOMAIN-SUFFIX,xinyonghome.com
 DOMAIN-SUFFIX,xiqueer.com
 DOMAIN-SUFFIX,xiuxitong.com
 DOMAIN-SUFFIX,xiwang.com

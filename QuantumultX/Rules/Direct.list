@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1322
+# 规则统计: 1326
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -613,6 +613,7 @@ HOST-SUFFIX,infistar.cc,Direct
 HOST-SUFFIX,initaq.com,Direct
 HOST-SUFFIX,inmobicdn.net,Direct
 HOST-SUFFIX,inte.net,Direct
+HOST-SUFFIX,ioapk.com,Direct
 HOST-SUFFIX,iosgujian.com,Direct
 HOST-SUFFIX,iot889.com,Direct
 HOST-SUFFIX,iotrix.net,Direct
@@ -659,6 +660,7 @@ HOST-SUFFIX,jyg4352.cc,Direct
 HOST-SUFFIX,jzagile.com,Direct
 HOST-SUFFIX,jzgj.com,Direct
 HOST-SUFFIX,jztysg.com,Direct
+HOST-SUFFIX,jzywy.com,Direct
 HOST-SUFFIX,kaihong.com,Direct
 HOST-SUFFIX,kaijiacloud.com,Direct
 HOST-SUFFIX,kaijiejinrong.com,Direct
@@ -1085,6 +1087,7 @@ HOST-SUFFIX,tualatin.club,Direct
 HOST-SUFFIX,tulipsport.com,Direct
 HOST-SUFFIX,tumukaoyan.com,Direct
 HOST-SUFFIX,tuxing.art,Direct
+HOST-SUFFIX,tvustream.com,Direct
 HOST-SUFFIX,twinkstar.com,Direct
 HOST-SUFFIX,twtapp.com,Direct
 HOST-SUFFIX,tylk.cc,Direct
@@ -1197,6 +1200,7 @@ HOST-SUFFIX,xingmojs.com,Direct
 HOST-SUFFIX,xingpaste.com,Direct
 HOST-SUFFIX,xingyaozhilian.com,Direct
 HOST-SUFFIX,xinstall.top,Direct
+HOST-SUFFIX,xinyonghome.com,Direct
 HOST-SUFFIX,xiqueer.com,Direct
 HOST-SUFFIX,xiuxitong.com,Direct
 HOST-SUFFIX,xiwang.com,Direct

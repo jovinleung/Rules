@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1337
+# 规则统计: 1338
 
 no_resolve: true
 domain_set:
@@ -199,6 +199,7 @@ domain_suffix_set:
   - awstme.top
   - ax1x.com
   - axuex.top
+  - azpromotion.com
   - b7f3192.com
   - ba-hospital.com
   - babawar.com

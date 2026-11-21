@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1338
+# 规则统计: 1351
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -80,6 +80,7 @@ HOST-SUFFIX,4942.cc,Direct
 HOST-SUFFIX,4kgj.com,Direct
 HOST-SUFFIX,4kzn.cc,Direct
 HOST-SUFFIX,4xiaoshuo.org,Direct
+HOST-SUFFIX,4xvr.net,Direct
 HOST-SUFFIX,51kandianshi.com,Direct
 HOST-SUFFIX,51mowan.com,Direct
 HOST-SUFFIX,51tbox.com,Direct
@@ -99,7 +100,9 @@ HOST-SUFFIX,66298845.com,Direct
 HOST-SUFFIX,66990000.xyz,Direct
 HOST-SUFFIX,6apzfdx.com,Direct
 HOST-SUFFIX,6v520.net,Direct
+HOST-SUFFIX,6z2h1lycfw.cc,Direct
 HOST-SUFFIX,71.am,Direct
+HOST-SUFFIX,7189099.com,Direct
 HOST-SUFFIX,737698.xyz,Direct
 HOST-SUFFIX,757abc.com,Direct
 HOST-SUFFIX,77505113.com,Direct
@@ -249,6 +252,7 @@ HOST-SUFFIX,calmate.cc,Direct
 HOST-SUFFIX,canghaiip.com,Direct
 HOST-SUFFIX,cangjie-lang.net,Direct
 HOST-SUFFIX,cbn.id,Direct
+HOST-SUFFIX,cc-gateway.com,Direct
 HOST-SUFFIX,cc.ink,Direct
 HOST-SUFFIX,cc39ute.shop,Direct
 HOST-SUFFIX,cc44dd.com,Direct
@@ -318,6 +322,7 @@ HOST-SUFFIX,cyberpig.tech,Direct
 HOST-SUFFIX,cydiabc.top,Direct
 HOST-SUFFIX,cym520.top,Direct
 HOST-SUFFIX,cyouzai.com,Direct
+HOST-SUFFIX,czssdgz.com,Direct
 HOST-SUFFIX,d4ctech.com,Direct
 HOST-SUFFIX,dadateach.com,Direct
 HOST-SUFFIX,dahai96.com,Direct
@@ -645,6 +650,7 @@ HOST-SUFFIX,jfjt.cc,Direct
 HOST-SUFFIX,jfyxw.com,Direct
 HOST-SUFFIX,jh96095.com,Direct
 HOST-SUFFIX,jiangningwater.com,Direct
+HOST-SUFFIX,jiangyuxj.com,Direct
 HOST-SUFFIX,jianzhixiaoke.net,Direct
 HOST-SUFFIX,jiaoyanyun.com,Direct
 HOST-SUFFIX,jieyoutsg.com,Direct
@@ -743,6 +749,7 @@ HOST-SUFFIX,lsbj365.com,Direct
 HOST-SUFFIX,lsposed.zip,Direct
 HOST-SUFFIX,lty02.com,Direct
 HOST-SUFFIX,lucky.gd,Direct
+HOST-SUFFIX,lujiangct.top,Direct
 HOST-SUFFIX,luxiangwu.com,Direct
 HOST-SUFFIX,lw5.co,Direct
 HOST-SUFFIX,lx51ib3szv.cc,Direct
@@ -792,6 +799,7 @@ HOST-SUFFIX,mikus.ink,Direct
 HOST-SUFFIX,minekuai.com,Direct
 HOST-SUFFIX,minor-api-os.hoyoverse.com,Direct
 HOST-SUFFIX,miraiemby.com,Direct
+HOST-SUFFIX,misoso.cc,Direct
 HOST-SUFFIX,mixly.org,Direct
 HOST-SUFFIX,mobai.sbs,Direct
 HOST-SUFFIX,mobbananagame.com,Direct
@@ -873,6 +881,7 @@ HOST-SUFFIX,packertec.com,Direct
 HOST-SUFFIX,paijitang.com,Direct
 HOST-SUFFIX,pailedi.com,Direct
 HOST-SUFFIX,panjue.com,Direct
+HOST-SUFFIX,panso.vip,Direct
 HOST-SUFFIX,paojiaoyun.com,Direct
 HOST-SUFFIX,paperang.com,Direct
 HOST-SUFFIX,passnat.com,Direct
@@ -999,11 +1008,13 @@ HOST-SUFFIX,skktec.com,Direct
 HOST-SUFFIX,sksight.com,Direct
 HOST-SUFFIX,skxvc.com,Direct
 HOST-SUFFIX,skyts.net,Direct
+HOST-SUFFIX,smartbed.ink,Direct
 HOST-SUFFIX,smartryan.com,Direct
 HOST-SUFFIX,smw9t0a.cc,Direct
 HOST-SUFFIX,snfox.com,Direct
 HOST-SUFFIX,snltty.com,Direct
 HOST-SUFFIX,socbro.com,Direct
+HOST-SUFFIX,sofan.in,Direct
 HOST-SUFFIX,sollin.top,Direct
 HOST-SUFFIX,soulteary.com,Direct
 HOST-SUFFIX,spisec.com,Direct
@@ -1164,6 +1175,7 @@ HOST-SUFFIX,wmvbo.com,Direct
 HOST-SUFFIX,woca.fun,Direct
 HOST-SUFFIX,wologic.net,Direct
 HOST-SUFFIX,wpurl.cc,Direct
+HOST-SUFFIX,wpys.cc,Direct
 HOST-SUFFIX,wshifen.com,Direct
 HOST-SUFFIX,wt2zxk.com,Direct
 HOST-SUFFIX,wty-yy.top,Direct
@@ -1243,6 +1255,7 @@ HOST-SUFFIX,ycjintou.com,Direct
 HOST-SUFFIX,ycoo.net,Direct
 HOST-SUFFIX,ycyct.com,Direct
 HOST-SUFFIX,ydayc.com,Direct
+HOST-SUFFIX,ydxian.xyz,Direct
 HOST-SUFFIX,yeguodj.com,Direct
 HOST-SUFFIX,ygdj17.com,Direct
 HOST-SUFFIX,yhxjkj.top,Direct

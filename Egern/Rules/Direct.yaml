@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1338
+# 规则统计: 1351
 
 no_resolve: true
 domain_set:
@@ -83,6 +83,7 @@ domain_suffix_set:
   - 4kgj.com
   - 4kzn.cc
   - 4xiaoshuo.org
+  - 4xvr.net
   - 51kandianshi.com
   - 51mowan.com
   - 51tbox.com
@@ -102,7 +103,9 @@ domain_suffix_set:
   - 66990000.xyz
   - 6apzfdx.com
   - 6v520.net
+  - 6z2h1lycfw.cc
   - 71.am
+  - 7189099.com
   - 737698.xyz
   - 757abc.com
   - 77505113.com
@@ -252,6 +255,7 @@ domain_suffix_set:
   - canghaiip.com
   - cangjie-lang.net
   - cbn.id
+  - cc-gateway.com
   - cc.ink
   - cc39ute.shop
   - cc44dd.com
@@ -321,6 +325,7 @@ domain_suffix_set:
   - cydiabc.top
   - cym520.top
   - cyouzai.com
+  - czssdgz.com
   - d4ctech.com
   - dadateach.com
   - dahai96.com
@@ -648,6 +653,7 @@ domain_suffix_set:
   - jfyxw.com
   - jh96095.com
   - jiangningwater.com
+  - jiangyuxj.com
   - jianzhixiaoke.net
   - jiaoyanyun.com
   - jieyoutsg.com
@@ -746,6 +752,7 @@ domain_suffix_set:
   - lsposed.zip
   - lty02.com
   - lucky.gd
+  - lujiangct.top
   - luxiangwu.com
   - lw5.co
   - lx51ib3szv.cc
@@ -795,6 +802,7 @@ domain_suffix_set:
   - minekuai.com
   - minor-api-os.hoyoverse.com
   - miraiemby.com
+  - misoso.cc
   - mixly.org
   - mobai.sbs
   - mobbananagame.com
@@ -876,6 +884,7 @@ domain_suffix_set:
   - paijitang.com
   - pailedi.com
   - panjue.com
+  - panso.vip
   - paojiaoyun.com
   - paperang.com
   - passnat.com
@@ -1002,11 +1011,13 @@ domain_suffix_set:
   - sksight.com
   - skxvc.com
   - skyts.net
+  - smartbed.ink
   - smartryan.com
   - smw9t0a.cc
   - snfox.com
   - snltty.com
   - socbro.com
+  - sofan.in
   - sollin.top
   - soulteary.com
   - spisec.com
@@ -1167,6 +1178,7 @@ domain_suffix_set:
   - woca.fun
   - wologic.net
   - wpurl.cc
+  - wpys.cc
   - wshifen.com
   - wt2zxk.com
   - wty-yy.top
@@ -1246,6 +1258,7 @@ domain_suffix_set:
   - ycoo.net
   - ycyct.com
   - ydayc.com
+  - ydxian.xyz
   - yeguodj.com
   - ygdj17.com
   - yhxjkj.top

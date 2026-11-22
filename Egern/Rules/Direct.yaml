@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1351
+# 规则统计: 1352
 
 no_resolve: true
 domain_set:
@@ -499,6 +499,7 @@ domain_suffix_set:
   - gseen.com
   - gsgltz.com
   - gsjkjt.com
+  - gslock.com
   - gsnhcg.com
   - gsstic.com
   - gta5max.com

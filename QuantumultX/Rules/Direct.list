@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1351
+# 规则统计: 1352
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -496,6 +496,7 @@ HOST-SUFFIX,grz-hx.com,Direct
 HOST-SUFFIX,gseen.com,Direct
 HOST-SUFFIX,gsgltz.com,Direct
 HOST-SUFFIX,gsjkjt.com,Direct
+HOST-SUFFIX,gslock.com,Direct
 HOST-SUFFIX,gsnhcg.com,Direct
 HOST-SUFFIX,gsstic.com,Direct
 HOST-SUFFIX,gta5max.com,Direct

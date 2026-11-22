@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1351
+# 规则统计: 1352
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -496,6 +496,7 @@ DOMAIN-SUFFIX,grz-hx.com
 DOMAIN-SUFFIX,gseen.com
 DOMAIN-SUFFIX,gsgltz.com
 DOMAIN-SUFFIX,gsjkjt.com
+DOMAIN-SUFFIX,gslock.com
 DOMAIN-SUFFIX,gsnhcg.com
 DOMAIN-SUFFIX,gsstic.com
 DOMAIN-SUFFIX,gta5max.com

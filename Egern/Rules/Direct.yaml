@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1356
+# 规则统计: 1359
 
 no_resolve: true
 domain_set:
@@ -714,6 +714,7 @@ domain_suffix_set:
   - kukongjian.com
   - kuktxu.com
   - kuleu.com
+  - kuntapp.com
   - kwai.net
   - lanyun.net
   - laogongju.com
@@ -946,6 +947,7 @@ domain_suffix_set:
   - qswpt.com
   - quanxinfu.com
   - quanzhua.com
+  - quwan.co
   - quxuanshu.com
   - qweapi.com
   - qweatherapi.com
@@ -1172,6 +1174,7 @@ domain_suffix_set:
   - wewillpro.com
   - wget.la
   - wildfirechat.net
+  - windinput.com
   - wirefee.site
   - wisecleaner.net
   - wjx.top

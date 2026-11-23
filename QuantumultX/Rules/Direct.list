@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1356
+# 规则统计: 1359
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -711,6 +711,7 @@ HOST-SUFFIX,kudashi.com,Direct
 HOST-SUFFIX,kukongjian.com,Direct
 HOST-SUFFIX,kuktxu.com,Direct
 HOST-SUFFIX,kuleu.com,Direct
+HOST-SUFFIX,kuntapp.com,Direct
 HOST-SUFFIX,kwai.net,Direct
 HOST-SUFFIX,lanyun.net,Direct
 HOST-SUFFIX,laogongju.com,Direct
@@ -943,6 +944,7 @@ HOST-SUFFIX,qpe27.top,Direct
 HOST-SUFFIX,qswpt.com,Direct
 HOST-SUFFIX,quanxinfu.com,Direct
 HOST-SUFFIX,quanzhua.com,Direct
+HOST-SUFFIX,quwan.co,Direct
 HOST-SUFFIX,quxuanshu.com,Direct
 HOST-SUFFIX,qweapi.com,Direct
 HOST-SUFFIX,qweatherapi.com,Direct
@@ -1169,6 +1171,7 @@ HOST-SUFFIX,wetolink.com,Direct
 HOST-SUFFIX,wewillpro.com,Direct
 HOST-SUFFIX,wget.la,Direct
 HOST-SUFFIX,wildfirechat.net,Direct
+HOST-SUFFIX,windinput.com,Direct
 HOST-SUFFIX,wirefee.site,Direct
 HOST-SUFFIX,wisecleaner.net,Direct
 HOST-SUFFIX,wjx.top,Direct

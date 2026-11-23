@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1356
+# 规则统计: 1359
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -711,6 +711,7 @@ DOMAIN-SUFFIX,kudashi.com
 DOMAIN-SUFFIX,kukongjian.com
 DOMAIN-SUFFIX,kuktxu.com
 DOMAIN-SUFFIX,kuleu.com
+DOMAIN-SUFFIX,kuntapp.com
 DOMAIN-SUFFIX,kwai.net
 DOMAIN-SUFFIX,lanyun.net
 DOMAIN-SUFFIX,laogongju.com
@@ -943,6 +944,7 @@ DOMAIN-SUFFIX,qpe27.top
 DOMAIN-SUFFIX,qswpt.com
 DOMAIN-SUFFIX,quanxinfu.com
 DOMAIN-SUFFIX,quanzhua.com
+DOMAIN-SUFFIX,quwan.co
 DOMAIN-SUFFIX,quxuanshu.com
 DOMAIN-SUFFIX,qweapi.com
 DOMAIN-SUFFIX,qweatherapi.com
@@ -1169,6 +1171,7 @@ DOMAIN-SUFFIX,wetolink.com
 DOMAIN-SUFFIX,wewillpro.com
 DOMAIN-SUFFIX,wget.la
 DOMAIN-SUFFIX,wildfirechat.net
+DOMAIN-SUFFIX,windinput.com
 DOMAIN-SUFFIX,wirefee.site
 DOMAIN-SUFFIX,wisecleaner.net
 DOMAIN-SUFFIX,wjx.top

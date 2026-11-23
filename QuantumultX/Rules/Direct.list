@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1352
+# 规则统计: 1356
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -152,6 +152,7 @@ HOST-SUFFIX,agentscope.io,Direct
 HOST-SUFFIX,agi2rjr.cc,Direct
 HOST-SUFFIX,ahlt10010.com,Direct
 HOST-SUFFIX,aibeike.com,Direct
+HOST-SUFFIX,aibox.eu.org,Direct
 HOST-SUFFIX,aichangbaishan.com,Direct
 HOST-SUFFIX,aidien.fun,Direct
 HOST-SUFFIX,aidream.website,Direct
@@ -406,6 +407,7 @@ HOST-SUFFIX,feizhiyi.com,Direct
 HOST-SUFFIX,fengda.me,Direct
 HOST-SUFFIX,fengsutb.com,Direct
 HOST-SUFFIX,fenno.ai,Direct
+HOST-SUFFIX,fexsqz.com,Direct
 HOST-SUFFIX,fffff.games,Direct
 HOST-SUFFIX,ffhome.com,Direct
 HOST-SUFFIX,fgaiservice.com,Direct
@@ -653,6 +655,7 @@ HOST-SUFFIX,jh96095.com,Direct
 HOST-SUFFIX,jiangningwater.com,Direct
 HOST-SUFFIX,jiangyuxj.com,Direct
 HOST-SUFFIX,jianzhixiaoke.net,Direct
+HOST-SUFFIX,jiaohukejian.com,Direct
 HOST-SUFFIX,jiaoyanyun.com,Direct
 HOST-SUFFIX,jieyoutsg.com,Direct
 HOST-SUFFIX,jieyunwangluokeji.com,Direct
@@ -843,6 +846,7 @@ HOST-SUFFIX,njlisi.top,Direct
 HOST-SUFFIX,njonemall.com,Direct
 HOST-SUFFIX,nkxingxh.top,Direct
 HOST-SUFFIX,nlyd.club,Direct
+HOST-SUFFIX,nmjsjs.com,Direct
 HOST-SUFFIX,nn.ci,Direct
 HOST-SUFFIX,no-mad-sub.one,Direct
 HOST-SUFFIX,nodcloud.com,Direct

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1352
+# 规则统计: 1356
 
 no_resolve: true
 domain_set:
@@ -155,6 +155,7 @@ domain_suffix_set:
   - agi2rjr.cc
   - ahlt10010.com
   - aibeike.com
+  - aibox.eu.org
   - aichangbaishan.com
   - aidien.fun
   - aidream.website
@@ -409,6 +410,7 @@ domain_suffix_set:
   - fengda.me
   - fengsutb.com
   - fenno.ai
+  - fexsqz.com
   - fffff.games
   - ffhome.com
   - fgaiservice.com
@@ -656,6 +658,7 @@ domain_suffix_set:
   - jiangningwater.com
   - jiangyuxj.com
   - jianzhixiaoke.net
+  - jiaohukejian.com
   - jiaoyanyun.com
   - jieyoutsg.com
   - jieyunwangluokeji.com
@@ -846,6 +849,7 @@ domain_suffix_set:
   - njonemall.com
   - nkxingxh.top
   - nlyd.club
+  - nmjsjs.com
   - nn.ci
   - no-mad-sub.one
   - nodcloud.com

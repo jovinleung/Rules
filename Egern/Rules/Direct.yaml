@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1359
+# 规则统计: 1360
 
 no_resolve: true
 domain_set:
@@ -1262,6 +1262,7 @@ domain_suffix_set:
   - xzsckj.com
   - xzzhtc.com
   - yayi360.com
+  - ychpt.com
   - ycjintou.com
   - ycoo.net
   - ycyct.com

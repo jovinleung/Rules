@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1360
+# 规则统计: 1362
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -201,6 +201,7 @@ DOMAIN-SUFFIX,awstme.top
 DOMAIN-SUFFIX,ax1x.com
 DOMAIN-SUFFIX,axuex.top
 DOMAIN-SUFFIX,azpromotion.com
+DOMAIN-SUFFIX,azurpromilia.com
 DOMAIN-SUFFIX,b7f3192.com
 DOMAIN-SUFFIX,ba-hospital.com
 DOMAIN-SUFFIX,babawar.com
@@ -1290,6 +1291,7 @@ DOMAIN-SUFFIX,youkuimg.icu
 DOMAIN-SUFFIX,youqian.pro
 DOMAIN-SUFFIX,youzhiyouxing.com
 DOMAIN-SUFFIX,yrqvlchq5.com
+DOMAIN-SUFFIX,ysdps.com
 DOMAIN-SUFFIX,yshoufa.com
 DOMAIN-SUFFIX,yuanqidesk3.com
 DOMAIN-SUFFIX,yueti.vip

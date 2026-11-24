@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1360
+# 规则统计: 1362
 
 no_resolve: true
 domain_set:
@@ -204,6 +204,7 @@ domain_suffix_set:
   - ax1x.com
   - axuex.top
   - azpromotion.com
+  - azurpromilia.com
   - b7f3192.com
   - ba-hospital.com
   - babawar.com
@@ -1293,6 +1294,7 @@ domain_suffix_set:
   - youqian.pro
   - youzhiyouxing.com
   - yrqvlchq5.com
+  - ysdps.com
   - yshoufa.com
   - yuanqidesk3.com
   - yueti.vip

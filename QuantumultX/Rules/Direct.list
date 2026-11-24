@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1360
+# 规则统计: 1362
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -201,6 +201,7 @@ HOST-SUFFIX,awstme.top,Direct
 HOST-SUFFIX,ax1x.com,Direct
 HOST-SUFFIX,axuex.top,Direct
 HOST-SUFFIX,azpromotion.com,Direct
+HOST-SUFFIX,azurpromilia.com,Direct
 HOST-SUFFIX,b7f3192.com,Direct
 HOST-SUFFIX,ba-hospital.com,Direct
 HOST-SUFFIX,babawar.com,Direct
@@ -1290,6 +1291,7 @@ HOST-SUFFIX,youkuimg.icu,Direct
 HOST-SUFFIX,youqian.pro,Direct
 HOST-SUFFIX,youzhiyouxing.com,Direct
 HOST-SUFFIX,yrqvlchq5.com,Direct
+HOST-SUFFIX,ysdps.com,Direct
 HOST-SUFFIX,yshoufa.com,Direct
 HOST-SUFFIX,yuanqidesk3.com,Direct
 HOST-SUFFIX,yueti.vip,Direct

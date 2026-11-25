@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1362
+# 规则统计: 1365
 
 no_resolve: true
 domain_set:
@@ -920,6 +920,7 @@ domain_suffix_set:
   - ppqrrs.com
   - ppt28.com
   - privateapi.xyz
+  - proqianwen.com
   - psf0404.shop
   - pthqzpc100.com
   - ptlgs.org
@@ -1271,6 +1272,7 @@ domain_suffix_set:
   - ydxian.xyz
   - yeguodj.com
   - ygdj17.com
+  - yh29798.com
   - yhxjkj.top
   - yi-ll.com
   - yibanbianji.com
@@ -1341,6 +1343,7 @@ domain_suffix_set:
   - zudanje.com
   - zuidazym3u8.com
   - zuobiao.press
+  - zxgjw.com
   - zxp7.cc
   - zxstech.com
   - zysou.com

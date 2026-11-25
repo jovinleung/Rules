@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1362
+# 规则统计: 1365
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -917,6 +917,7 @@ HOST-SUFFIX,powershellgallery.com,Direct
 HOST-SUFFIX,ppqrrs.com,Direct
 HOST-SUFFIX,ppt28.com,Direct
 HOST-SUFFIX,privateapi.xyz,Direct
+HOST-SUFFIX,proqianwen.com,Direct
 HOST-SUFFIX,psf0404.shop,Direct
 HOST-SUFFIX,pthqzpc100.com,Direct
 HOST-SUFFIX,ptlgs.org,Direct
@@ -1268,6 +1269,7 @@ HOST-SUFFIX,ydayc.com,Direct
 HOST-SUFFIX,ydxian.xyz,Direct
 HOST-SUFFIX,yeguodj.com,Direct
 HOST-SUFFIX,ygdj17.com,Direct
+HOST-SUFFIX,yh29798.com,Direct
 HOST-SUFFIX,yhxjkj.top,Direct
 HOST-SUFFIX,yi-ll.com,Direct
 HOST-SUFFIX,yibanbianji.com,Direct
@@ -1338,6 +1340,7 @@ HOST-SUFFIX,ztytech.com,Direct
 HOST-SUFFIX,zudanje.com,Direct
 HOST-SUFFIX,zuidazym3u8.com,Direct
 HOST-SUFFIX,zuobiao.press,Direct
+HOST-SUFFIX,zxgjw.com,Direct
 HOST-SUFFIX,zxp7.cc,Direct
 HOST-SUFFIX,zxstech.com,Direct
 HOST-SUFFIX,zysou.com,Direct

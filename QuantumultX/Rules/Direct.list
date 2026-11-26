@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1366
+# 规则统计: 1376
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -49,6 +49,7 @@ HOST-SUFFIX,123clouddisk.com,Direct
 HOST-SUFFIX,1254225.com,Direct
 HOST-SUFFIX,12zayb.com,Direct
 HOST-SUFFIX,1335273.com,Direct
+HOST-SUFFIX,14590562.com,Direct
 HOST-SUFFIX,153532.com,Direct
 HOST-SUFFIX,17van.com,Direct
 HOST-SUFFIX,1996999.xyz,Direct
@@ -58,6 +59,7 @@ HOST-SUFFIX,204cloud.com,Direct
 HOST-SUFFIX,225284.xyz,Direct
 HOST-SUFFIX,25mao.com,Direct
 HOST-SUFFIX,264788.xyz,Direct
+HOST-SUFFIX,26531313.com,Direct
 HOST-SUFFIX,2mcnxs.cc,Direct
 HOST-SUFFIX,33442805.com,Direct
 HOST-SUFFIX,34619481.com,Direct
@@ -72,6 +74,7 @@ HOST-SUFFIX,3ced.top,Direct
 HOST-SUFFIX,3d-apollo.com,Direct
 HOST-SUFFIX,3dwhere.com,Direct
 HOST-SUFFIX,3gxk.net,Direct
+HOST-SUFFIX,41563901.com,Direct
 HOST-SUFFIX,419g.com,Direct
 HOST-SUFFIX,43645202.com,Direct
 HOST-SUFFIX,4399zmxy.com,Direct
@@ -94,6 +97,7 @@ HOST-SUFFIX,52ywp.com,Direct
 HOST-SUFFIX,55555.ink,Direct
 HOST-SUFFIX,56tvc.com,Direct
 HOST-SUFFIX,580ai.net,Direct
+HOST-SUFFIX,60601826.com,Direct
 HOST-SUFFIX,618208.xyz,Direct
 HOST-SUFFIX,657192.com,Direct
 HOST-SUFFIX,66298845.com,Direct
@@ -275,6 +279,7 @@ HOST-SUFFIX,chaoway.net,Direct
 HOST-SUFFIX,chatlabs.net,Direct
 HOST-SUFFIX,chaxunjiao.com,Direct
 HOST-SUFFIX,chaz.fun,Direct
+HOST-SUFFIX,chengguo4.com,Direct
 HOST-SUFFIX,chengguodj.com,Direct
 HOST-SUFFIX,chenyuxia.com,Direct
 HOST-SUFFIX,cheriexsky.love,Direct
@@ -333,6 +338,7 @@ HOST-SUFFIX,daocloud.vip,Direct
 HOST-SUFFIX,darwinchow.com,Direct
 HOST-SUFFIX,day.app,Direct
 HOST-SUFFIX,dayilive.com,Direct
+HOST-SUFFIX,dccztux.com,Direct
 HOST-SUFFIX,dcgstd.com,Direct
 HOST-SUFFIX,dcshfu.com,Direct
 HOST-SUFFIX,dd3862.com,Direct
@@ -514,6 +520,7 @@ HOST-SUFFIX,guangshiting.top,Direct
 HOST-SUFFIX,guangyapan.com,Direct
 HOST-SUFFIX,guazi.fun,Direct
 HOST-SUFFIX,guiguiya.com,Direct
+HOST-SUFFIX,gulufenfa.com,Direct
 HOST-SUFFIX,guyuns.asia,Direct
 HOST-SUFFIX,gvgoo.com,Direct
 HOST-SUFFIX,gwmapp-w.com,Direct
@@ -606,6 +613,7 @@ HOST-SUFFIX,hzttwl.com,Direct
 HOST-SUFFIX,hzyi.eu.org,Direct
 HOST-SUFFIX,i6z7t5.com,Direct
 HOST-SUFFIX,i955jr0pk.com,Direct
+HOST-SUFFIX,iadlioo.com,Direct
 HOST-SUFFIX,ibnjl.shop,Direct
 HOST-SUFFIX,ibwm5lynb6.com,Direct
 HOST-SUFFIX,ichongjiayuan.com,Direct
@@ -821,6 +829,7 @@ HOST-SUFFIX,msftconnecttest.com,Direct
 HOST-SUFFIX,msftncsi.com,Direct
 HOST-SUFFIX,mslmc.net,Direct
 HOST-SUFFIX,mssdag.com,Direct
+HOST-SUFFIX,mssxapp.com,Direct
 HOST-SUFFIX,mtaokj.com,Direct
 HOST-SUFFIX,muhemob.com,Direct
 HOST-SUFFIX,mulingyuer.com,Direct
@@ -1281,6 +1290,7 @@ HOST-SUFFIX,yishares.com,Direct
 HOST-SUFFIX,yiso.fun,Direct
 HOST-SUFFIX,yixc.com,Direct
 HOST-SUFFIX,yixlab.com,Direct
+HOST-SUFFIX,yjshai.com,Direct
 HOST-SUFFIX,yldw.net,Direct
 HOST-SUFFIX,ymm56-cdn.com,Direct
 HOST-SUFFIX,ymwfy.com,Direct

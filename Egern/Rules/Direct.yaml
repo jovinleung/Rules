@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1366
+# 规则统计: 1376
 
 no_resolve: true
 domain_set:
@@ -52,6 +52,7 @@ domain_suffix_set:
   - 1254225.com
   - 12zayb.com
   - 1335273.com
+  - 14590562.com
   - 153532.com
   - 17van.com
   - 1996999.xyz
@@ -61,6 +62,7 @@ domain_suffix_set:
   - 225284.xyz
   - 25mao.com
   - 264788.xyz
+  - 26531313.com
   - 2mcnxs.cc
   - 33442805.com
   - 34619481.com
@@ -75,6 +77,7 @@ domain_suffix_set:
   - 3d-apollo.com
   - 3dwhere.com
   - 3gxk.net
+  - 41563901.com
   - 419g.com
   - 43645202.com
   - 4399zmxy.com
@@ -97,6 +100,7 @@ domain_suffix_set:
   - 55555.ink
   - 56tvc.com
   - 580ai.net
+  - 60601826.com
   - 618208.xyz
   - 657192.com
   - 66298845.com
@@ -278,6 +282,7 @@ domain_suffix_set:
   - chatlabs.net
   - chaxunjiao.com
   - chaz.fun
+  - chengguo4.com
   - chengguodj.com
   - chenyuxia.com
   - cheriexsky.love
@@ -336,6 +341,7 @@ domain_suffix_set:
   - darwinchow.com
   - day.app
   - dayilive.com
+  - dccztux.com
   - dcgstd.com
   - dcshfu.com
   - dd3862.com
@@ -517,6 +523,7 @@ domain_suffix_set:
   - guangyapan.com
   - guazi.fun
   - guiguiya.com
+  - gulufenfa.com
   - guyuns.asia
   - gvgoo.com
   - gwmapp-w.com
@@ -609,6 +616,7 @@ domain_suffix_set:
   - hzyi.eu.org
   - i6z7t5.com
   - i955jr0pk.com
+  - iadlioo.com
   - ibnjl.shop
   - ibwm5lynb6.com
   - ichongjiayuan.com
@@ -824,6 +832,7 @@ domain_suffix_set:
   - msftncsi.com
   - mslmc.net
   - mssdag.com
+  - mssxapp.com
   - mtaokj.com
   - muhemob.com
   - mulingyuer.com
@@ -1284,6 +1293,7 @@ domain_suffix_set:
   - yiso.fun
   - yixc.com
   - yixlab.com
+  - yjshai.com
   - yldw.net
   - ymm56-cdn.com
   - ymwfy.com

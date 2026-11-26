@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1365
+# 规则统计: 1366
 
 no_resolve: true
 domain_set:
@@ -1137,6 +1137,7 @@ domain_suffix_set:
   - ugnas.cloud
   - ulife.group
   - uploadlog.com
+  - upoem1.com
   - us.ci
   - v-koolsh.com
   - vanjee.net

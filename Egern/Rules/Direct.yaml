@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1376
+# 规则统计: 1375
 
 no_resolve: true
 domain_set:
@@ -838,7 +838,6 @@ domain_suffix_set:
   - mulingyuer.com
   - myfenghua.com
   - mykuaidi.com
-  - mypikpak.net
   - myrny.xin
   - myshopex.com
   - mystery0.vip

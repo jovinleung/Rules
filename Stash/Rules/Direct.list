@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1376
+# 规则统计: 1375
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -835,7 +835,6 @@ DOMAIN-SUFFIX,muhemob.com
 DOMAIN-SUFFIX,mulingyuer.com
 DOMAIN-SUFFIX,myfenghua.com
 DOMAIN-SUFFIX,mykuaidi.com
-DOMAIN-SUFFIX,mypikpak.net
 DOMAIN-SUFFIX,myrny.xin
 DOMAIN-SUFFIX,myshopex.com
 DOMAIN-SUFFIX,mystery0.vip

@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1375
+# 规则统计: 1382
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -122,6 +122,7 @@ DOMAIN-SUFFIX,870833.com
 DOMAIN-SUFFIX,888lm02.com
 DOMAIN-SUFFIX,88923531.com
 DOMAIN-SUFFIX,88996api.cloud
+DOMAIN-SUFFIX,8dks.com
 DOMAIN-SUFFIX,8kc.top
 DOMAIN-SUFFIX,8x14khzwmi.com
 DOMAIN-SUFFIX,8z8dlsjkn2.com
@@ -422,6 +423,7 @@ DOMAIN-SUFFIX,fhendj.com
 DOMAIN-SUFFIX,fileball.app
 DOMAIN-SUFFIX,fileh.xyz
 DOMAIN-SUFFIX,filej.xyz
+DOMAIN-SUFFIX,fitkingshop.com
 DOMAIN-SUFFIX,fjdejing.com
 DOMAIN-SUFFIX,fjpit.com
 DOMAIN-SUFFIX,flingtrainer.com
@@ -514,6 +516,7 @@ DOMAIN-SUFFIX,gta5xforce.com
 DOMAIN-SUFFIX,gta6keji.com
 DOMAIN-SUFFIX,gtakm.com
 DOMAIN-SUFFIX,gtazhiyu.com
+DOMAIN-SUFFIX,gtl-test.com
 DOMAIN-SUFFIX,guaitao.cc
 DOMAIN-SUFFIX,guang233.com
 DOMAIN-SUFFIX,guangshiting.top
@@ -524,6 +527,7 @@ DOMAIN-SUFFIX,gulufenfa.com
 DOMAIN-SUFFIX,guyuns.asia
 DOMAIN-SUFFIX,gvgoo.com
 DOMAIN-SUFFIX,gwmapp-w.com
+DOMAIN-SUFFIX,gxau.net
 DOMAIN-SUFFIX,gxcould.com
 DOMAIN-SUFFIX,gxnnjidingkeji.top
 DOMAIN-SUFFIX,gxnnxsqy.top
@@ -1083,6 +1087,7 @@ DOMAIN-SUFFIX,tcp.pub
 DOMAIN-SUFFIX,tcp5.com
 DOMAIN-SUFFIX,tcy365.net
 DOMAIN-SUFFIX,tdrgame.top
+DOMAIN-SUFFIX,teoyouth.com
 DOMAIN-SUFFIX,terra-master.com
 DOMAIN-SUFFIX,terrabbs.ink
 DOMAIN-SUFFIX,tggfl.com
@@ -1102,6 +1107,7 @@ DOMAIN-SUFFIX,tianlala.com
 DOMAIN-SUFFIX,tianruo.xyz
 DOMAIN-SUFFIX,timbrd.com
 DOMAIN-SUFFIX,tixue.net
+DOMAIN-SUFFIX,tjfuxinjia.com
 DOMAIN-SUFFIX,tjnhscgs.com
 DOMAIN-SUFFIX,tlkg.com
 DOMAIN-SUFFIX,tluyou.com
@@ -1327,6 +1333,7 @@ DOMAIN-SUFFIX,zhewx.com
 DOMAIN-SUFFIX,zhi10.com
 DOMAIN-SUFFIX,zhidianmijin.top
 DOMAIN-SUFFIX,zhiexa.com
+DOMAIN-SUFFIX,zhijiwenhua.xyz
 DOMAIN-SUFFIX,zhituwujie.com
 DOMAIN-SUFFIX,zhixingyunke.com
 DOMAIN-SUFFIX,zhongancloud.com

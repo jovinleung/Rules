@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1375
+# 规则统计: 1382
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -122,6 +122,7 @@ HOST-SUFFIX,870833.com,Direct
 HOST-SUFFIX,888lm02.com,Direct
 HOST-SUFFIX,88923531.com,Direct
 HOST-SUFFIX,88996api.cloud,Direct
+HOST-SUFFIX,8dks.com,Direct
 HOST-SUFFIX,8kc.top,Direct
 HOST-SUFFIX,8x14khzwmi.com,Direct
 HOST-SUFFIX,8z8dlsjkn2.com,Direct
@@ -422,6 +423,7 @@ HOST-SUFFIX,fhendj.com,Direct
 HOST-SUFFIX,fileball.app,Direct
 HOST-SUFFIX,fileh.xyz,Direct
 HOST-SUFFIX,filej.xyz,Direct
+HOST-SUFFIX,fitkingshop.com,Direct
 HOST-SUFFIX,fjdejing.com,Direct
 HOST-SUFFIX,fjpit.com,Direct
 HOST-SUFFIX,flingtrainer.com,Direct
@@ -514,6 +516,7 @@ HOST-SUFFIX,gta5xforce.com,Direct
 HOST-SUFFIX,gta6keji.com,Direct
 HOST-SUFFIX,gtakm.com,Direct
 HOST-SUFFIX,gtazhiyu.com,Direct
+HOST-SUFFIX,gtl-test.com,Direct
 HOST-SUFFIX,guaitao.cc,Direct
 HOST-SUFFIX,guang233.com,Direct
 HOST-SUFFIX,guangshiting.top,Direct
@@ -524,6 +527,7 @@ HOST-SUFFIX,gulufenfa.com,Direct
 HOST-SUFFIX,guyuns.asia,Direct
 HOST-SUFFIX,gvgoo.com,Direct
 HOST-SUFFIX,gwmapp-w.com,Direct
+HOST-SUFFIX,gxau.net,Direct
 HOST-SUFFIX,gxcould.com,Direct
 HOST-SUFFIX,gxnnjidingkeji.top,Direct
 HOST-SUFFIX,gxnnxsqy.top,Direct
@@ -1083,6 +1087,7 @@ HOST-SUFFIX,tcp.pub,Direct
 HOST-SUFFIX,tcp5.com,Direct
 HOST-SUFFIX,tcy365.net,Direct
 HOST-SUFFIX,tdrgame.top,Direct
+HOST-SUFFIX,teoyouth.com,Direct
 HOST-SUFFIX,terra-master.com,Direct
 HOST-SUFFIX,terrabbs.ink,Direct
 HOST-SUFFIX,tggfl.com,Direct
@@ -1102,6 +1107,7 @@ HOST-SUFFIX,tianlala.com,Direct
 HOST-SUFFIX,tianruo.xyz,Direct
 HOST-SUFFIX,timbrd.com,Direct
 HOST-SUFFIX,tixue.net,Direct
+HOST-SUFFIX,tjfuxinjia.com,Direct
 HOST-SUFFIX,tjnhscgs.com,Direct
 HOST-SUFFIX,tlkg.com,Direct
 HOST-SUFFIX,tluyou.com,Direct
@@ -1327,6 +1333,7 @@ HOST-SUFFIX,zhewx.com,Direct
 HOST-SUFFIX,zhi10.com,Direct
 HOST-SUFFIX,zhidianmijin.top,Direct
 HOST-SUFFIX,zhiexa.com,Direct
+HOST-SUFFIX,zhijiwenhua.xyz,Direct
 HOST-SUFFIX,zhituwujie.com,Direct
 HOST-SUFFIX,zhixingyunke.com,Direct
 HOST-SUFFIX,zhongancloud.com,Direct

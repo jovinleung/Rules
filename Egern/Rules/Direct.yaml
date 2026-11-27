@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1375
+# 规则统计: 1382
 
 no_resolve: true
 domain_set:
@@ -125,6 +125,7 @@ domain_suffix_set:
   - 888lm02.com
   - 88923531.com
   - 88996api.cloud
+  - 8dks.com
   - 8kc.top
   - 8x14khzwmi.com
   - 8z8dlsjkn2.com
@@ -425,6 +426,7 @@ domain_suffix_set:
   - fileball.app
   - fileh.xyz
   - filej.xyz
+  - fitkingshop.com
   - fjdejing.com
   - fjpit.com
   - flingtrainer.com
@@ -517,6 +519,7 @@ domain_suffix_set:
   - gta6keji.com
   - gtakm.com
   - gtazhiyu.com
+  - gtl-test.com
   - guaitao.cc
   - guang233.com
   - guangshiting.top
@@ -527,6 +530,7 @@ domain_suffix_set:
   - guyuns.asia
   - gvgoo.com
   - gwmapp-w.com
+  - gxau.net
   - gxcould.com
   - gxnnjidingkeji.top
   - gxnnxsqy.top
@@ -1086,6 +1090,7 @@ domain_suffix_set:
   - tcp5.com
   - tcy365.net
   - tdrgame.top
+  - teoyouth.com
   - terra-master.com
   - terrabbs.ink
   - tggfl.com
@@ -1105,6 +1110,7 @@ domain_suffix_set:
   - tianruo.xyz
   - timbrd.com
   - tixue.net
+  - tjfuxinjia.com
   - tjnhscgs.com
   - tlkg.com
   - tluyou.com
@@ -1330,6 +1336,7 @@ domain_suffix_set:
   - zhi10.com
   - zhidianmijin.top
   - zhiexa.com
+  - zhijiwenhua.xyz
   - zhituwujie.com
   - zhixingyunke.com
   - zhongancloud.com

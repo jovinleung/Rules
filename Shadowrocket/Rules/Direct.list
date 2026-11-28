@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1382
+# 规则统计: 1394
 
 DOMAIN,DST-PORT,7844
 DOMAIN,SRC-PORT,41641
@@ -39,6 +39,7 @@ DOMAIN-SUFFIX,04805545.com
 DOMAIN-SUFFIX,0734cn.top
 DOMAIN-SUFFIX,0759mall.com
 DOMAIN-SUFFIX,08137tabw.com
+DOMAIN-SUFFIX,09517260.com
 DOMAIN-SUFFIX,10fuzhu.com
 DOMAIN-SUFFIX,10laodian.com
 DOMAIN-SUFFIX,112114.eu.org
@@ -207,6 +208,7 @@ DOMAIN-SUFFIX,ax1x.com
 DOMAIN-SUFFIX,axuex.top
 DOMAIN-SUFFIX,azpromotion.com
 DOMAIN-SUFFIX,azurpromilia.com
+DOMAIN-SUFFIX,b675211.com
 DOMAIN-SUFFIX,b7f3192.com
 DOMAIN-SUFFIX,ba-hospital.com
 DOMAIN-SUFFIX,babawar.com
@@ -296,6 +298,7 @@ DOMAIN-SUFFIX,chujingapp.com
 DOMAIN-SUFFIX,chushi.cool
 DOMAIN-SUFFIX,chyqaq.online
 DOMAIN-SUFFIX,ciallo.party
+DOMAIN-SUFFIX,cilikongjian.com
 DOMAIN-SUFFIX,cilizhai.net
 DOMAIN-SUFFIX,cindy.app
 DOMAIN-SUFFIX,ciyuancenter.cc
@@ -409,6 +412,7 @@ DOMAIN-SUFFIX,fastify.cc
 DOMAIN-SUFFIX,fb71ef91e1014.beer
 DOMAIN-SUFFIX,fdfinvoice.com
 DOMAIN-SUFFIX,feihengip.com
+DOMAIN-SUFFIX,feiniaobt.com
 DOMAIN-SUFFIX,feiniugo.com
 DOMAIN-SUFFIX,feiyujiaju.com
 DOMAIN-SUFFIX,feizhiyi.com
@@ -448,6 +452,7 @@ DOMAIN-SUFFIX,fussengroup.com
 DOMAIN-SUFFIX,fuyinkeji.top
 DOMAIN-SUFFIX,fuziche.com
 DOMAIN-SUFFIX,fzedu.pub
+DOMAIN-SUFFIX,fzhygame.com
 DOMAIN-SUFFIX,fzshouji.com
 DOMAIN-SUFFIX,fzvcolco.com
 DOMAIN-SUFFIX,fzwqq.com
@@ -491,6 +496,7 @@ DOMAIN-SUFFIX,gjjwgp3n.com
 DOMAIN-SUFFIX,gjtool.com
 DOMAIN-SUFFIX,gmoj.net
 DOMAIN-SUFFIX,gmya.net
+DOMAIN-SUFFIX,gny.net
 DOMAIN-SUFFIX,goalmapapp.com
 DOMAIN-SUFFIX,goka.top
 DOMAIN-SUFFIX,gongxiangjizhang.com
@@ -594,6 +600,7 @@ DOMAIN-SUFFIX,htfzsdk.com
 DOMAIN-SUFFIX,htkgsx.com
 DOMAIN-SUFFIX,huabangshou.com
 DOMAIN-SUFFIX,huacheng2025.com
+DOMAIN-SUFFIX,huajian.ink
 DOMAIN-SUFFIX,huangguoai.ai
 DOMAIN-SUFFIX,huangyusz.space
 DOMAIN-SUFFIX,hub.crdz.gq
@@ -698,6 +705,7 @@ DOMAIN-SUFFIX,kaihong.com
 DOMAIN-SUFFIX,kaijiacloud.com
 DOMAIN-SUFFIX,kaijiejinrong.com
 DOMAIN-SUFFIX,kaipanhong.com
+DOMAIN-SUFFIX,kaiqi.xin
 DOMAIN-SUFFIX,kamhing.net
 DOMAIN-SUFFIX,kancaibao.com
 DOMAIN-SUFFIX,kanv7k.live
@@ -984,6 +992,7 @@ DOMAIN-SUFFIX,ruan789.com
 DOMAIN-SUFFIX,ruijie.com
 DOMAIN-SUFFIX,rxcrs.com
 DOMAIN-SUFFIX,saduck.top
+DOMAIN-SUFFIX,safecaptcha.com
 DOMAIN-SUFFIX,sanligu.top
 DOMAIN-SUFFIX,sapphiretech.com
 DOMAIN-SUFFIX,sbtia.com
@@ -1169,6 +1178,7 @@ DOMAIN-SUFFIX,vlan5.com
 DOMAIN-SUFFIX,volcanomob.com
 DOMAIN-SUFFIX,vpsjyz.com
 DOMAIN-SUFFIX,vryfh.top
+DOMAIN-SUFFIX,vsoul.top
 DOMAIN-SUFFIX,vtools.online
 DOMAIN-SUFFIX,vv1865.com
 DOMAIN-SUFFIX,vvhan.com
@@ -1248,6 +1258,7 @@ DOMAIN-SUFFIX,xingmojs.com
 DOMAIN-SUFFIX,xingpaste.com
 DOMAIN-SUFFIX,xingyaozhilian.com
 DOMAIN-SUFFIX,xinstall.top
+DOMAIN-SUFFIX,xinxinlan.ink
 DOMAIN-SUFFIX,xinyonghome.com
 DOMAIN-SUFFIX,xiqueer.com
 DOMAIN-SUFFIX,xiuxitong.com
@@ -1282,6 +1293,7 @@ DOMAIN-SUFFIX,ycoo.net
 DOMAIN-SUFFIX,ycyct.com
 DOMAIN-SUFFIX,ydayc.com
 DOMAIN-SUFFIX,ydxian.xyz
+DOMAIN-SUFFIX,yeguo-duanju.online
 DOMAIN-SUFFIX,yeguodj.com
 DOMAIN-SUFFIX,ygdj17.com
 DOMAIN-SUFFIX,yh29798.com

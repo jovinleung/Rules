@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1382
+# 规则统计: 1394
 
 HOST,DST-PORT,7844,Direct
 HOST,SRC-PORT,41641,Direct
@@ -39,6 +39,7 @@ HOST-SUFFIX,04805545.com,Direct
 HOST-SUFFIX,0734cn.top,Direct
 HOST-SUFFIX,0759mall.com,Direct
 HOST-SUFFIX,08137tabw.com,Direct
+HOST-SUFFIX,09517260.com,Direct
 HOST-SUFFIX,10fuzhu.com,Direct
 HOST-SUFFIX,10laodian.com,Direct
 HOST-SUFFIX,112114.eu.org,Direct
@@ -207,6 +208,7 @@ HOST-SUFFIX,ax1x.com,Direct
 HOST-SUFFIX,axuex.top,Direct
 HOST-SUFFIX,azpromotion.com,Direct
 HOST-SUFFIX,azurpromilia.com,Direct
+HOST-SUFFIX,b675211.com,Direct
 HOST-SUFFIX,b7f3192.com,Direct
 HOST-SUFFIX,ba-hospital.com,Direct
 HOST-SUFFIX,babawar.com,Direct
@@ -296,6 +298,7 @@ HOST-SUFFIX,chujingapp.com,Direct
 HOST-SUFFIX,chushi.cool,Direct
 HOST-SUFFIX,chyqaq.online,Direct
 HOST-SUFFIX,ciallo.party,Direct
+HOST-SUFFIX,cilikongjian.com,Direct
 HOST-SUFFIX,cilizhai.net,Direct
 HOST-SUFFIX,cindy.app,Direct
 HOST-SUFFIX,ciyuancenter.cc,Direct
@@ -409,6 +412,7 @@ HOST-SUFFIX,fastify.cc,Direct
 HOST-SUFFIX,fb71ef91e1014.beer,Direct
 HOST-SUFFIX,fdfinvoice.com,Direct
 HOST-SUFFIX,feihengip.com,Direct
+HOST-SUFFIX,feiniaobt.com,Direct
 HOST-SUFFIX,feiniugo.com,Direct
 HOST-SUFFIX,feiyujiaju.com,Direct
 HOST-SUFFIX,feizhiyi.com,Direct
@@ -448,6 +452,7 @@ HOST-SUFFIX,fussengroup.com,Direct
 HOST-SUFFIX,fuyinkeji.top,Direct
 HOST-SUFFIX,fuziche.com,Direct
 HOST-SUFFIX,fzedu.pub,Direct
+HOST-SUFFIX,fzhygame.com,Direct
 HOST-SUFFIX,fzshouji.com,Direct
 HOST-SUFFIX,fzvcolco.com,Direct
 HOST-SUFFIX,fzwqq.com,Direct
@@ -491,6 +496,7 @@ HOST-SUFFIX,gjjwgp3n.com,Direct
 HOST-SUFFIX,gjtool.com,Direct
 HOST-SUFFIX,gmoj.net,Direct
 HOST-SUFFIX,gmya.net,Direct
+HOST-SUFFIX,gny.net,Direct
 HOST-SUFFIX,goalmapapp.com,Direct
 HOST-SUFFIX,goka.top,Direct
 HOST-SUFFIX,gongxiangjizhang.com,Direct
@@ -594,6 +600,7 @@ HOST-SUFFIX,htfzsdk.com,Direct
 HOST-SUFFIX,htkgsx.com,Direct
 HOST-SUFFIX,huabangshou.com,Direct
 HOST-SUFFIX,huacheng2025.com,Direct
+HOST-SUFFIX,huajian.ink,Direct
 HOST-SUFFIX,huangguoai.ai,Direct
 HOST-SUFFIX,huangyusz.space,Direct
 HOST-SUFFIX,hub.crdz.gq,Direct
@@ -698,6 +705,7 @@ HOST-SUFFIX,kaihong.com,Direct
 HOST-SUFFIX,kaijiacloud.com,Direct
 HOST-SUFFIX,kaijiejinrong.com,Direct
 HOST-SUFFIX,kaipanhong.com,Direct
+HOST-SUFFIX,kaiqi.xin,Direct
 HOST-SUFFIX,kamhing.net,Direct
 HOST-SUFFIX,kancaibao.com,Direct
 HOST-SUFFIX,kanv7k.live,Direct
@@ -984,6 +992,7 @@ HOST-SUFFIX,ruan789.com,Direct
 HOST-SUFFIX,ruijie.com,Direct
 HOST-SUFFIX,rxcrs.com,Direct
 HOST-SUFFIX,saduck.top,Direct
+HOST-SUFFIX,safecaptcha.com,Direct
 HOST-SUFFIX,sanligu.top,Direct
 HOST-SUFFIX,sapphiretech.com,Direct
 HOST-SUFFIX,sbtia.com,Direct
@@ -1169,6 +1178,7 @@ HOST-SUFFIX,vlan5.com,Direct
 HOST-SUFFIX,volcanomob.com,Direct
 HOST-SUFFIX,vpsjyz.com,Direct
 HOST-SUFFIX,vryfh.top,Direct
+HOST-SUFFIX,vsoul.top,Direct
 HOST-SUFFIX,vtools.online,Direct
 HOST-SUFFIX,vv1865.com,Direct
 HOST-SUFFIX,vvhan.com,Direct
@@ -1248,6 +1258,7 @@ HOST-SUFFIX,xingmojs.com,Direct
 HOST-SUFFIX,xingpaste.com,Direct
 HOST-SUFFIX,xingyaozhilian.com,Direct
 HOST-SUFFIX,xinstall.top,Direct
+HOST-SUFFIX,xinxinlan.ink,Direct
 HOST-SUFFIX,xinyonghome.com,Direct
 HOST-SUFFIX,xiqueer.com,Direct
 HOST-SUFFIX,xiuxitong.com,Direct
@@ -1282,6 +1293,7 @@ HOST-SUFFIX,ycoo.net,Direct
 HOST-SUFFIX,ycyct.com,Direct
 HOST-SUFFIX,ydayc.com,Direct
 HOST-SUFFIX,ydxian.xyz,Direct
+HOST-SUFFIX,yeguo-duanju.online,Direct
 HOST-SUFFIX,yeguodj.com,Direct
 HOST-SUFFIX,ygdj17.com,Direct
 HOST-SUFFIX,yh29798.com,Direct

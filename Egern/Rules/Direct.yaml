@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1382
+# 规则统计: 1394
 
 no_resolve: true
 domain_set:
@@ -42,6 +42,7 @@ domain_suffix_set:
   - 0734cn.top
   - 0759mall.com
   - 08137tabw.com
+  - 09517260.com
   - 10fuzhu.com
   - 10laodian.com
   - 112114.eu.org
@@ -210,6 +211,7 @@ domain_suffix_set:
   - axuex.top
   - azpromotion.com
   - azurpromilia.com
+  - b675211.com
   - b7f3192.com
   - ba-hospital.com
   - babawar.com
@@ -299,6 +301,7 @@ domain_suffix_set:
   - chushi.cool
   - chyqaq.online
   - ciallo.party
+  - cilikongjian.com
   - cilizhai.net
   - cindy.app
   - ciyuancenter.cc
@@ -412,6 +415,7 @@ domain_suffix_set:
   - fb71ef91e1014.beer
   - fdfinvoice.com
   - feihengip.com
+  - feiniaobt.com
   - feiniugo.com
   - feiyujiaju.com
   - feizhiyi.com
@@ -451,6 +455,7 @@ domain_suffix_set:
   - fuyinkeji.top
   - fuziche.com
   - fzedu.pub
+  - fzhygame.com
   - fzshouji.com
   - fzvcolco.com
   - fzwqq.com
@@ -494,6 +499,7 @@ domain_suffix_set:
   - gjtool.com
   - gmoj.net
   - gmya.net
+  - gny.net
   - goalmapapp.com
   - goka.top
   - gongxiangjizhang.com
@@ -597,6 +603,7 @@ domain_suffix_set:
   - htkgsx.com
   - huabangshou.com
   - huacheng2025.com
+  - huajian.ink
   - huangguoai.ai
   - huangyusz.space
   - hub.crdz.gq
@@ -701,6 +708,7 @@ domain_suffix_set:
   - kaijiacloud.com
   - kaijiejinrong.com
   - kaipanhong.com
+  - kaiqi.xin
   - kamhing.net
   - kancaibao.com
   - kanv7k.live
@@ -987,6 +995,7 @@ domain_suffix_set:
   - ruijie.com
   - rxcrs.com
   - saduck.top
+  - safecaptcha.com
   - sanligu.top
   - sapphiretech.com
   - sbtia.com
@@ -1172,6 +1181,7 @@ domain_suffix_set:
   - volcanomob.com
   - vpsjyz.com
   - vryfh.top
+  - vsoul.top
   - vtools.online
   - vv1865.com
   - vvhan.com
@@ -1251,6 +1261,7 @@ domain_suffix_set:
   - xingpaste.com
   - xingyaozhilian.com
   - xinstall.top
+  - xinxinlan.ink
   - xinyonghome.com
   - xiqueer.com
   - xiuxitong.com
@@ -1285,6 +1296,7 @@ domain_suffix_set:
   - ycyct.com
   - ydayc.com
   - ydxian.xyz
+  - yeguo-duanju.online
   - yeguodj.com
   - ygdj17.com
   - yh29798.com

@@ -1,5 +1,5 @@
 # 规则名称: ProxyGFW
-# 规则统计: 8014
+# 规则统计: 8017
 
 no_resolve: true
 domain_set:
@@ -288,6 +288,7 @@ domain_suffix_set:
   - ai.dev
   - ai.studio
   - aicoin.com
+  - aicu.cc
   - aidc.com.tw
   - aihub.top
   - aimoon.com
@@ -1573,6 +1574,7 @@ domain_suffix_set:
   - dalianmeng.org
   - daliulian.org
   - danke4china.net
+  - danmakus.com
   - danwei.org
   - daolan.net
   - daozhongxing.org
@@ -6103,6 +6105,7 @@ domain_suffix_set:
   - southnews.com.tw
   - sowers.org.hk
   - soylent.com
+  - spacedesk.net
   - spaceforce.mil
   - spacex.com
   - spankbang.com
